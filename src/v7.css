@@ -141,3 +141,5 @@ body{background-color:#070707!important;background-image:
 @media(max-width:900px){.nw-wall{height:52vh}.nw-hint{position:static}}
 .nw-hint{position:relative!important;right:auto!important;bottom:auto!important;top:auto!important;width:100%;max-width:1300px;margin:-34px auto 0;justify-content:flex-end;z-index:6}
 @media(max-width:900px){.nw-hint{margin:14px auto 0;justify-content:flex-start;padding:0 var(--pad)}}
+/* hover-tilt safe centering (GSAP owns transform) */
+.nw-bot{left:0!important;right:0!important;margin:0 auto!important;transform:none}
