@@ -6,8 +6,8 @@ export function Dust({n=70,className=''}){const r=useRef();
  useEffect(()=>{const c=r.current,x=c.getContext('2d');let w,h,raf,vis=true;const P=[];
   const rs=()=>{w=c.width=c.clientWidth;h=c.height=c.clientHeight};rs();const ro=new ResizeObserver(rs);ro.observe(c);
   const io=new IntersectionObserver(e=>vis=e[0].isIntersecting);io.observe(c);
-  for(let i=0;i<n;i++)P.push({x:Math.random(),y:Math.random(),s:Math.random()*1.6+.4,v:Math.random()*.00006+.00001,t:Math.random()*6});
-  const d=t=>{raf=requestAnimationFrame(d);if(!vis)return;x.clearRect(0,0,w,h);
+  const cs=matchMedia('(pointer: coarse)').matches;const nn=cs?Math.round(n*.4):Math.round(n*.75);let skip=0;for(let i=0;i<nn;i++)P.push({x:Math.random(),y:Math.random(),s:Math.random()*1.6+.4,v:Math.random()*.00006+.00001,t:Math.random()*6});
+  const d=t=>{raf=requestAnimationFrame(d);if(!vis||document.hidden)return;if(cs&&(skip^=1))return;x.clearRect(0,0,w,h);
    for(const p of P){if(!rm()){p.y-=p.v;p.x+=Math.sin(t/3000+p.t)*.00008;if(p.y<0)p.y=1}
     const a=.25+.5*Math.abs(Math.sin(t/1400+p.t));x.fillStyle=`rgba(255,235,200,${a*.7})`;x.beginPath();x.arc(p.x*w,p.y*h,p.s,0,7);x.fill()}};
   raf=requestAnimationFrame(d);return()=>{cancelAnimationFrame(raf);ro.disconnect();io.disconnect()}},[n]);

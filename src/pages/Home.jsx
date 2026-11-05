@@ -1,13 +1,13 @@
 import React,{Suspense,lazy,useEffect,useLayoutEffect,useMemo,useRef,useState} from 'react';
 import {Link} from 'react-router-dom';
 import gsap from 'gsap';import {ScrollTrigger} from 'gsap/ScrollTrigger';
-import Bottle from '../components/Bottle.jsx';import NightWall from '../components/NightWall.jsx';import Smoke from '../components/Smoke.jsx';
+import Bottle from '../components/Bottle.jsx';import NightWall from '../components/NightWall.jsx';import LazyMount from '../components/LazyMount.jsx';import Smoke from '../components/Smoke.jsx';
 import {Dust,GoldDrop,PourArt,Petals} from '../components/art.jsx';
 import {Price} from '../components/ui.jsx';
 import {products_,byHandle,shortTitle,firstSentence,onSale} from '../store.jsx';
 import pages from '../data/pages.json';
 const NotesScene3D=lazy(()=>import('../components/NotesScene3D.jsx'));
-const Bottle3D=lazy(()=>import('../components/Bottle3D.jsx'));
+const b3=import('../components/Bottle3D.jsx');const Bottle3D=lazy(()=>b3); // start fetching the 3D code immediately, not when it is first rendered
 gsap.registerPlugin(ScrollTrigger);
 const reduce=()=>matchMedia('(prefers-reduced-motion: reduce)').matches;
 const SHOW_PREF=['ar-crush','ar-addiction','ar-crysto','ar-elites','ar-glam-girl','ar-divine','ar-mr-blue','ar-ocean-shades','ar-the-legend','royal-musk','ar-our-signature-chocolate'];
@@ -15,7 +15,8 @@ const pick=(pre,pool)=>pre.map(x=>pool.find(p=>p.handle.startsWith(x))).filter(B
 // notes hand-verified against the product descriptions on arfragrances.pk
 const NOTES={
  'ar-elites-inspired-by-one-million-elites-perfume':{top:['Blood Mandarin','Grapefruit','Mint'],heart:['Cinnamon','Spicy Notes','Rose'],base:['Amber','Leather','Woody Notes','Indian Patchouli']},
- 'ar-addiction-inspired-by-aqva':{top:['Orange'],heart:['Neroli','Seaweed'],base:['Amber','Virginia Cedar']}};
+ 'ar-sixer-inspired-by-avantus':{top:['Apple','Bergamot','Black Currant','Lemon','Pineapple'],heart:['Birch','Jasmine','Rose'],base:['Ambergris','Musk','Patchouli','Vanilla']},
+ 'oud-al-sultan-inspired-by-white-oud-unisex-copy':{top:['Sicilian Mandarin','Lavender','Nutmeg'],heart:['Violet Leaf','Leather'],base:['Cedar','Vetiver','Musk']}};
 const TABS=[['top','Top Notes'],['heart','Heart Notes'],['base','Base Notes']];
 const para=h=>h.replace(/<h1[\s\S]*?<\/h1>/,'').replace(/<br\s*\/?>\s*<br\s*\/?>/g,'\n\n').replace(/<[^>]+>/g,'').replace(/&amp;/g,'&').replace(/&nbsp;/g,' ').split(/\n\s*\n/).map(t=>t.replace(/\s+/g,' ').trim()).filter(t=>t.length>70&&!t.startsWith('-')&&!/first to know|subscribe|newsletter/i.test(t));
 const lead=p=>firstSentence(p).replace(/^.*?\)\s*is\s+/,'').replace(/^./,c=>c.toUpperCase());
@@ -36,7 +37,8 @@ export default function Home(){
     .fromTo(q('.hero .hfade'),{opacity:0,y:rm?0:22},{opacity:1,y:0,duration:rm?.01:.9,stagger:.1},.55);
   const t=0;
   return()=>{tl.kill();clearTimeout(t)}},[]);
- useLayoutEffect(()=>{if(reduce())return;const ctx=gsap.context(()=>{
+ useLayoutEffect(()=>{if(reduce())return;const mobile=innerWidth<860||matchMedia('(pointer: coarse)').matches;const ctx=gsap.context(()=>{
+  if(mobile){gsap.utils.toArray('.nb').forEach(el=>gsap.from(el,{opacity:0,y:30,duration:.8,ease:'power3.out',scrollTrigger:{trigger:el,start:'top 88%',once:true}}));return}
   gsap.to('.hero .hstage',{yPercent:-8,ease:'none',scrollTrigger:{trigger:'.hero',start:'top top',end:'bottom top',scrub:true}});
   gsap.to('.hero .rays',{xPercent:-4,ease:'none',scrollTrigger:{trigger:'.hero',start:'top top',end:'bottom top',scrub:true}});
   gsap.to('.hero3d',{y:-60,scale:1.06,ease:'none',scrollTrigger:{trigger:'.hero',start:'top top',end:'bottom top',scrub:true}});
@@ -74,7 +76,7 @@ export default function Home(){
   <h2 className="stitle rv">Product Collection</h2>
   <div className="car rv"><button className="arr l" onClick={()=>cgo(-1)} aria-label="Previous">‹</button><button className="arr r" onClick={()=>cgo(1)} aria-label="Next">›</button>
    <div className="track" style={{'--i':ci}}>{showcase.map((p,i)=><div key={p.handle} className={'cslot'+(i===ci?' on':'')+(Math.abs(i-ci)>1?' far':'')} onClick={()=>i!==ci&&setCi(i)}>
-     <Link to={'/products/'+p.handle} className="pcard tilt" tabIndex={i===ci?0:-1}>{onSale(p)&&<em className="ptag">Sale</em>}<div className="pimg"><img src={p.cut} alt={p.title} loading="lazy"/></div><h3>{shortTitle(p.title).replace(/ - .*/,'')}</h3><Price p={p}/></Link></div>)}</div></div>
+     <Link to={'/products/'+p.handle} className="pcard tilt" tabIndex={i===ci?0:-1}>{onSale(p)&&<em className="ptag">Sale</em>}<div className="pimg"><img src={p.cutS||p.cut} alt={p.title} loading="lazy" decoding="async"/></div><h3>{shortTitle(p.title).replace(/ - .*/,'')}</h3><Price p={p}/></Link></div>)}</div></div>
   <div className="dots light">{showcase.map((p,i)=><button key={p.handle} className={i===ci?'on':''} onClick={()=>setCi(i)} aria-label={'Product '+(i+1)}/>)}</div>
  </section>
 
@@ -86,7 +88,7 @@ export default function Home(){
    <div className="n360l"><h2 className="mini">Fragrance Notes</h2>
     <div className="tabs">{TABS.map(([k,l],i)=><button key={k} className={'tab'+(i===tab?' on':'')} onClick={()=>setTab(i)}>{l}<span className="bar"><i key={tab+'-'+i} style={i===tab?{}:{animation:'none',width:0}}/></span></button>)}</div>
     <p className="tnotes">{notes[TABS[tab][0]].join(' · ')}</p></div>
-   <div className="n360c"><div className="stage"><Suspense fallback={<Fallback p={nP}/>}><Bottle3D key={nP.handle} src={nP.cut} alt={nP.title} platform hint autoSpeed={.55} viewY={.7} dist={7.2}/></Suspense></div></div>
+   <div className="n360c"><div className="stage"><LazyMount><Suspense fallback={null}><Bottle3D key={nP.handle} src={nP.cut} alt={nP.title} platform hint autoSpeed={.55} viewY={.7} dist={7.2}/></Suspense></LazyMount></div></div>
    <div className="n360r"><span className="lbl">Fragrance Notes</span><svg className="lead" viewBox="0 0 120 40" aria-hidden="true"><path d="M2 38 L34 6 L118 6" stroke="rgba(255,255,255,.55)" fill="none"/></svg>
     <b>360°</b><span className="sub">{title}</span><p>{lead(nP)}</p><Link className="more" to={'/products/'+nP.handle}>Discover →</Link></div>
   </div>
@@ -100,12 +102,12 @@ export default function Home(){
  </section>
 
  <section className="sbb">
-  <div className="sb-panel"><Suspense fallback={<GoldDrop/>}><NotesScene3D mode="left"/></Suspense></div>
+  <div className="sb-panel"><LazyMount><Suspense fallback={<GoldDrop/>}><NotesScene3D mode="left"/></Suspense></LazyMount></div>
   <div className="sb-t"><h2 className="rv">Brand Story</h2>{[about[0],about[2]].filter(Boolean).map((t,i)=><p className="rv" key={i}>{t}</p>)}</div>
  </section>
 
  {notes&&<section className="breakdown"><Smoke amt={1} tint={[.8,.66,.42]} wide={2} src={[.5,.02]} className="low"/>
-  <Suspense fallback={<><GoldDrop className="bdl"/><PourArt className="bdr"/></>}><NotesScene3D mode="both" className="bd3d"/></Suspense>
+  <LazyMount className="bd3dwrap"><Suspense fallback={<><GoldDrop className="bdl"/><PourArt className="bdr"/></>}><NotesScene3D mode="both" className="bd3d"/></Suspense></LazyMount>
   <div className="bdc">
    {TABS.map(([k,l])=><div className="nb" key={k}><h3>{l}</h3><p>{notes[k].join(', ')}</p></div>)}
    <p className="bfoot">{title} · <Link to={'/products/'+nP.handle}>View product</Link></p></div>
@@ -118,7 +120,7 @@ export default function Home(){
    <div className="ctat"><span className="eyebrow rv">Exclusive Collection</span><h2 className="rv">Buy 1 Perfume,<br/>Get a Free Body Mist</h2>
     <p className="rv">Pair any signature perfume with a complimentary body mist. Explore the full offer, or save more with our bundles.</p>
     <div className="hcta rv"><Link className="btn" to="/collections/buy-1-perfume-get-free-body-mist">Shop The Offer</Link><Link className="btn sq" to="/collections/bundles" aria-label="View bundles">→</Link></div></div>
-   <div className="ctab"><Suspense fallback={<Fallback p={ctaP}/>}><Bottle3D className="cta3d" src={ctaP.cut} alt={ctaP.title} ring autoSpeed={.4} viewY={.85} dist={7.6}/></Suspense></div>
+   <div className="ctab"><LazyMount><Suspense fallback={null}><Bottle3D className="cta3d" src={ctaP.cut} alt={ctaP.title} ring autoSpeed={.4} viewY={.85} dist={7.6}/></Suspense></LazyMount></div>
   </div>
  </section>
 

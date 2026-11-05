@@ -25,6 +25,7 @@ export function Collection({search}){
   {!list.length&&<p className="empty">No products match these filters.</p>}</div>}
 export function Product(){
  const {handle}=useParams();const p=byHandle[handle];const {add}=useStore();
+ const [det,setDet]=useState(null);useEffect(()=>{let ok=true;import('../data/details.json').then(m=>ok&&setDet(m.default[handle]||null));return()=>{ok=false;setDet(null)}},[handle]);
  const [vi,setVi]=useState(0);const [qty,setQty]=useState(1);const [gi,setGi]=useState(0);
  useEffect(()=>{setVi(0);setQty(1);setGi(0);scrollTo(0,0)},[handle]);
  useTitle(p?`${shortTitle(p.title)} | AR Fragrances`:'Not found',p&&p.desc.slice(0,155));
@@ -44,7 +45,7 @@ export function Product(){
     <p className={'stock '+(v.available?'in':'out')}>{v.available?'In stock':'Sold out'}</p>
     <div className="buy"><div className="qty big"><button onClick={()=>setQty(Math.max(1,qty-1))} aria-label="Decrease quantity">−</button><i>{qty}</i><button onClick={()=>setQty(qty+1)} aria-label="Increase quantity">+</button></div>
      <button className="btn" disabled={!v.available} onClick={()=>add(p,v,qty)}>{v.available?'Add to Cart':'Sold Out'}</button></div>
-    <div className="pdesc" dangerouslySetInnerHTML={{__html:p.descHtml}}/></div></div>
+    <div className="pdesc" dangerouslySetInnerHTML={{__html:det?det.html:'<p>'+p.desc+'</p>'}}/></div></div>
   {rel.length>0&&<section className="related"><h2 className="stitle">You May Also Like</h2><div className="grid">{rel.map(r=><Card key={r.handle} p={r}/>)}</div></section>}</div>}
 export function Page(){const {handle:hh}=useParams();if(hh==="about-us")return <About/>;if(hh==="contact")return <Contact/>;return <PageBase/>}
 function PageBase(){

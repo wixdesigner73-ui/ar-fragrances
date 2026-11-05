@@ -34,16 +34,16 @@ export default function NightWall(){
  const lv=e=>{gsap.to(e.currentTarget.querySelector('.nw-bot'),{x:0,rotateY:0,duration:.9,ease:'power3.out'});setHov(-1)};
  const n2=n=>String(n).padStart(2,'0');
  const p=it&&it.p;const [t1,t2]=p?split(shortTitle(p.title).replace(/ - .*/,'').replace(/^AR /i,'')):['',''];
- const who=p&&(p.cats.includes('women')?'For women':p.cats.includes('unisex')?'Unisex':'For men');
+ const who=p&&((p.cats.includes('women')&&p.cats.includes('men'))||p.cats.includes('unisex')?'Unisex':p.cats.includes('women')?'For women':'For men');const blurb=p?firstSentence(p).replace(/^.*?\)\s*is\s+/,'').replace(/^./,c=>c.toUpperCase()):'';const okBlurb=blurb&&!/product details|typ\.\.\.|fragrance family/i.test(blurb);
  return <section ref={root} id="night" className={'nw'+(open?' open':'')} aria-label="The Night Collection">
   <div className="nw-stone" aria-hidden="true"/><div className="nw-vig" aria-hidden="true"/><Dust n={34}/>
-  <div className={'nw-wall'} onMouseLeave={()=>setHov(-1)}>
+  <div className={'nw-wall'} onPointerLeave={()=>setHov(-1)}>
    {items.map((x,i)=><div key={x.p.handle} className={'nw-niche'+(i===sel?' sel':'')+(i===hov?' hot':'')+(open&&i!==sel?' gone':'')} style={{'--c':x.c}}
-     onMouseEnter={()=>setHov(i)} onMouseMove={mv} onMouseLeave={lv} onClick={()=>!open&&setSel(i)} role={open?undefined:'button'} tabIndex={open?-1:0} aria-label={'Open '+x.p.title} onKeyDown={e=>{if(!open&&(e.key==='Enter'||e.key===' ')){e.preventDefault();setSel(i)}}}>
+     onPointerEnter={e=>e.pointerType==='mouse'&&setHov(i)} onPointerMove={e=>e.pointerType==='mouse'&&mv(e)} onPointerLeave={lv} onClick={()=>!open&&setSel(i)} role={open?undefined:'button'} tabIndex={open?-1:0} aria-label={'Open '+x.p.title} onKeyDown={e=>{if(!open&&(e.key==='Enter'||e.key===' ')){e.preventDefault();setSel(i)}}}>
      <div className="nw-box"><i className="nw-lamp"/><i className="nw-beam"/><i className="nw-edge"/><i className="nw-glow"/>
-      <img className="nw-bot" src={x.p.cut} alt={x.p.title} loading="lazy" draggable="false"/>
+      <img className="nw-bot" src={x.p.cutS||x.p.cut} alt={x.p.title} loading="lazy" decoding="async" draggable="false"/>
       <i className="nw-sill"/></div>
-     <img className="nw-refl" src={x.p.cut} alt="" aria-hidden="true" draggable="false"/>
+     <img className="nw-refl" src={x.p.cutS||x.p.cut} alt="" aria-hidden="true" loading="lazy" decoding="async" draggable="false"/>
      <div className="nw-cap"><b>{shortTitle(x.p.title).replace(/ - .*/,'').replace(/^AR /i,'')}</b><span>{money(x.p.price)}</span></div>
     </div>)}
   </div>
@@ -53,7 +53,7 @@ export default function NightWall(){
   <aside className="nw-info" aria-live="polite" aria-hidden={!open}>{p&&<>
    <span className="eyebrow">No. {n2(sel+1)} · {who}</span>
    <h3>{t1} {t2&&<em>{t2}</em>}</h3>
-   <p className="nw-desc">{firstSentence(p).replace(/^.*?\)\s*is\s+/,'').replace(/^./,c=>c.toUpperCase())}</p>
+   {okBlurb&&<p className="nw-desc">{blurb}</p>}
    <dl className="nw-notes">{ROWS.map(([k,l])=><div key={k}><dt>{l}</dt><dd>{it.notes[k].join(', ')}</dd></div>)}</dl>
    <div className="nw-price"><b>{money(p.price)}</b>{p.compare>p.price&&<s>{money(p.compare)}</s>}{p.variants[0].title!=='Default Title'&&<small>{p.variants[0].title}</small>}</div>
    <div className="nw-act"><button className="btn" onClick={()=>{add(p,p.variants[0],1);setAdded(true)}}>{added?'Added to bag ✓':'Add to bag'}</button><Link to={'/products/'+p.handle} className="nw-link">View details →</Link></div>

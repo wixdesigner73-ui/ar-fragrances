@@ -1,7 +1,7 @@
 import React,{createContext,useContext,useEffect,useMemo,useState,useCallback} from 'react';
 import raw from './data/products.json';
 const B=import.meta.env.BASE_URL;export const U=p=>p&&p.startsWith('/')?B+p.slice(1):p;
-const products=raw.map(p=>({...p,img:U(p.img),imgS:U(p.imgS),cut:U(p.cut),images:p.images.map(U)}));
+const products=raw.map(p=>({...p,img:U(p.img),imgS:U(p.imgS),cut:U(p.cut),cutS:U(p.cutS||p.cut),images:p.images.map(U)}));
 export const SHOP='https://arfragrances.pk';
 export const WA='923330499831';
 export const money=n=>'Rs. '+Math.round(n).toLocaleString('en-PK');

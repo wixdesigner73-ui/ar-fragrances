@@ -155,3 +155,36 @@ body{background-color:#070707!important;background-image:
  .nw-hint .h-d{display:none}.nw-hint .h-m{display:inline}
  .coll .smoke,.sa .smoke,.cfin .smoke,.breakdown .smoke{opacity:.35!important}
 }
+
+/* ── performance + mobile (v7f) ── */
+@media(max-width:860px),(pointer:coarse){
+ body:before{display:none!important}
+ .smoke,.rays,.dust,.nw-beam,.nw-glow{mix-blend-mode:normal!important}
+ .hdr.sc,.mega,.n360l,.search{-webkit-backdrop-filter:none!important;backdrop-filter:none!important}
+ .hdr.sc{background:rgba(7,7,7,.94)}
+ .nw-refl,.b-refl{display:none!important}
+ .nw-bot,.cimg img.cut,.pimg img,.sb-bot{filter:none!important}
+ .nw-box:before{display:none}
+ .rays{opacity:.5}
+ /* night wall: no stretched gaps, nothing invisible still taking space */
+ .nw{min-height:0!important;justify-content:flex-start!important;padding:84px 0 34px!important}
+ .nw-wall{height:auto!important;min-height:0!important;flex:none!important;align-items:flex-start;padding-bottom:6px}
+ .nw-niche{flex:0 0 62vw!important;height:min(96vw,58vh)!important}
+ .nw-box{inset:0 0 46px!important}.nw-cap{bottom:2px}
+ .nw-wall:after{display:none}
+ .nw-title{padding:22px var(--pad) 0!important;margin:0!important}
+ .nw-hint{margin:12px 0 0!important;padding:0 var(--pad)!important}
+ .nw.open .nw-title,.nw.open .nw-hint{display:none!important}
+ .nw.open .nw-wall{overflow:hidden;justify-content:center!important;height:auto!important;min-height:0!important}
+ .nw.open .nw-niche.sel{flex:0 0 80vw!important;height:min(100vw,52vh)!important}
+ .nw-niche.gone{display:none!important}
+ .nw.open .nw-info{display:block;position:relative!important;transform:none!important;left:auto!important;top:auto!important;width:auto!important;padding:20px var(--pad) 0!important;opacity:1}
+ .nw-notes>div{grid-template-columns:62px 1fr}
+ .nw .smoke.low{height:30%!important}
+ /* general section spacing: remove the tall empty bands on phones */
+ .coll{padding:70px 0 40px}.sa{min-height:0!important;padding:96px var(--pad) 56px!important}.sbb{min-height:0!important}.breakdown{min-height:0!important;padding:80px var(--pad)!important}
+ .cta{min-height:0!important;padding:70px var(--pad)!important}.cfin{padding:64px var(--pad)!important}
+ .n360{min-height:0!important;padding:84px var(--pad) 50px!important}
+ .sb-panel{min-height:44vh!important}.sa-b{height:40vh!important}.ctab{height:46vh!important}
+ img{content-visibility:auto}
+}

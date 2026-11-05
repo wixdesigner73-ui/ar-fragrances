@@ -10,12 +10,13 @@ function taperTube(curve,seg,rad,rf){const pts=curve.getPoints(seg);const fr=cur
  const g=new THREE.BufferGeometry();g.setAttribute('position',new THREE.Float32BufferAttribute(pos,3));g.setIndex(idx);g.computeVertexNormals();return g}
 function blob(r,g,b,a){const c=document.createElement('canvas');c.width=c.height=64;const x=c.getContext('2d');const gr=x.createRadialGradient(32,32,0,32,32,32);gr.addColorStop(0,`rgba(${r},${g},${b},${a})`);gr.addColorStop(1,`rgba(${r},${g},${b},0)`);x.fillStyle=gr;x.fillRect(0,0,64,64);const t=new THREE.CanvasTexture(c);t.colorSpace=THREE.SRGBColorSpace;return t}
 
+const MOB=typeof matchMedia!=='undefined'&&matchMedia('(pointer: coarse)').matches;
 export default function NotesScene3D({mode='both',className=''}){
  const host=useRef();
  useEffect(()=>{
   const el=host.current;const rm=matchMedia('(prefers-reduced-motion: reduce)').matches;
-  let renderer;try{renderer=new THREE.WebGLRenderer({antialias:true,alpha:true})}catch(e){return}
-  renderer.setPixelRatio(Math.min(devicePixelRatio||1,2));renderer.toneMapping=THREE.ACESFilmicToneMapping;renderer.toneMappingExposure=1.1;renderer.outputColorSpace=THREE.SRGBColorSpace;
+  let renderer;try{renderer=new THREE.WebGLRenderer({antialias:!MOB,alpha:true})}catch(e){return}
+  renderer.setPixelRatio(Math.min(devicePixelRatio||1,MOB?1.1:1.5));renderer.toneMapping=THREE.ACESFilmicToneMapping;renderer.toneMappingExposure=1.1;renderer.outputColorSpace=THREE.SRGBColorSpace;
   el.appendChild(renderer.domElement);renderer.domElement.style.cssText='width:100%;height:100%;display:block';
   const scene=new THREE.Scene();const pm=new THREE.PMREMGenerator(renderer);scene.environment=pm.fromScene(new RoomEnvironment(),.04).texture;
   const cam=new THREE.PerspectiveCamera(30,1,.1,80);cam.position.set(0,3.2,14.3);cam.lookAt(0,0,0);
@@ -65,7 +66,7 @@ export default function NotesScene3D({mode='both',className=''}){
   layout();const ro=new ResizeObserver(layout);ro.observe(el);const io=new IntersectionObserver(e=>{vis=e[0].isIntersecting});io.observe(el);
   const mm=e=>{const r=el.getBoundingClientRect();st.mx=((e.clientX-r.left)/r.width-.5)*2;st.my=((e.clientY-r.top)/r.height-.5)*2};addEventListener('pointermove',mm);
   const tip=new THREE.Vector3();let last=performance.now(),raf;
-  const loop=(now)=>{raf=requestAnimationFrame(loop);if(!vis){last=now;return}const dt=Math.min(.05,(now-last)/1000);last=now;if(!rm)st.t+=dt;const t=st.t;
+  let skip=0;const loop=(now)=>{raf=requestAnimationFrame(loop);if(!vis||document.hidden){last=now;return}if(MOB&&(skip^=1))return;const dt=Math.min(.05,(now-last)/1000);last=now;if(!rm)st.t+=dt;const t=st.t;
    left.rotation.y+=((st.mx*.35+(mode==='left'?Math.sin(t*.5)*.5:Math.sin(t*.4)*.12))-left.rotation.y)*.05;left.rotation.x+=((st.my*.1)-left.rotation.x)*.05;
    left.children[0].position.y=Math.sin(t*1.1)*.03;drop.scale.set(1+Math.sin(t*2)*.012,1+Math.sin(t*2.4)*.018,1);
    glints.material.opacity=.7+Math.sin(t*3)*.3;sp.material.opacity=.6+Math.sin(t*2.2)*.3;

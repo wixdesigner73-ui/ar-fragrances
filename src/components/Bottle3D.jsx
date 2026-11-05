@@ -2,6 +2,7 @@ import React,{useEffect,useRef,useState} from 'react';
 import * as THREE from 'three';
 import {RoomEnvironment} from 'three/examples/jsm/environments/RoomEnvironment.js';
 import Bottle from './Bottle.jsx';
+const MOBILE=typeof matchMedia!=='undefined'&&matchMedia('(pointer: coarse)').matches;
 const HH=2.3; // bottle world height
 
 /* ── read the product photo: silhouette → lathe profile, real cap / glass colours, real label decal ── */
@@ -17,24 +18,32 @@ function analyze(img){
  let capMax=0;for(let i=1;i<N;i++){if(sm[i]>sm[capMax])capMax=i;else if(sm[i]<sm[capMax]*.72)break}
  let neck=capMax,mn=sm[capMax];for(let j=capMax;j<N;j++){if(sm[j]<mn){mn=sm[j];neck=j}else if(sm[j]>mn*1.35&&j>neck+3)break}
  if(neck<=capMax+4)neck=Math.min(N-2,capMax+Math.round(N*.08));
+ if(capMax>N*.4){const cw0=sm[Math.round(N*.06)];let sh=Math.round(N*.06);while(sh<N-2&&sm[sh]<cw0*1.25)sh++;neck=Math.max(4,sh-1)}
  const lum=(i)=>d[i]*.3+d[i+1]*.59+d[i+2]*.11;
  // cap colour (average of lit opaque pixels in the cap area)
  let cr=0,cg=0,cb=0,cn=0;for(let i=0;i<neck;i++){const r=rows[i];for(let xx=Math.round(cx-r.hw*.5);xx<=cx+r.hw*.5;xx++){const p=(r.y*W+Math.round(xx))*4;if(d[p+3]>230){cr+=d[p];cg+=d[p+1];cb+=d[p+2];cn++}}}
  const cap=cn?[cr/cn,cg/cn,cb/cn]:[160,140,100];
  // glass colour (dark pixels of body)
  let br=0,bg=0,bb=0,bn=0;for(let i=neck+10;i<N;i++){const r=rows[i];for(let xx=Math.round(cx-r.hw*.7);xx<=cx+r.hw*.7;xx+=2){const p=(r.y*W+Math.round(xx))*4;if(d[p+3]>230&&lum(p)<95){br+=d[p];bg+=d[p+1];bb+=d[p+2];bn++}}}
- const body=bn?[br/bn,bg/bn,bb/bn]:[10,10,12];
+ let ar=0,ag=0,ab=0,an=0,al=0;for(let i=neck+10;i<N;i++){const r=rows[i];for(let xx=Math.round(cx-r.hw*.6);xx<=cx+r.hw*.6;xx+=2){const p=(r.y*W+Math.round(xx))*4;if(d[p+3]>230){ar+=d[p];ag+=d[p+1];ab+=d[p+2];al+=lum(p);an++}}}
+ const lumMean=an?al/an:0;const light=lumMean>115;
+ const body=light?[ar/(an||1)*.8,ag/(an||1)*.8,ab/(an||1)*.8]:(bn?[br/bn,bg/bn,bb/bn]:[10,10,12]);
  // label decal: bright pixels on the body
  let x0=1e9,x1=-1,y0=1e9,y1=-1;
- const bh=N-neck;for(let i=neck+Math.round(bh*.22);i<N-Math.round(bh*.1);i++){const r=rows[i];for(let xx=Math.round(cx-r.hw*.68);xx<=cx+r.hw*.68;xx++){const p=(r.y*W+Math.round(xx))*4;if(d[p+3]>200&&lum(p)>130){if(xx<x0)x0=xx;if(xx>x1)x1=xx;if(r.y<y0)y0=r.y;if(r.y>y1)y1=r.y}}}
+ const bh=N-neck;for(let i=neck+Math.round(bh*.22);i<N-Math.round(bh*.1);i++){const r=rows[i];for(let xx=Math.round(cx-r.hw*.68);xx<=cx+r.hw*.68;xx++){const p=(r.y*W+Math.round(xx))*4;if(d[p+3]>200&&(light?lum(p)<lumMean-62:lum(p)>130)){if(xx<x0)x0=xx;if(xx>x1)x1=xx;if(r.y<y0)y0=r.y;if(r.y>y1)y1=r.y}}}
  let decal=null;
  if(x1>x0&&y1>y0){const pad=10;x0-=pad;x1+=pad;y0-=pad;y1+=pad;const dw=x1-x0,dh=y1-y0;const dc=document.createElement('canvas');dc.width=dw;dc.height=dh;const dx=dc.getContext('2d');const im=dx.createImageData(dw,dh);
-  for(let yy=0;yy<dh;yy++)for(let xx=0;xx<dw;xx++){const sx=Math.round(x0+xx),sy=Math.round(y0+yy);if(sx<0||sy<0||sx>=W||sy>=H)continue;const p=(sy*W+sx)*4;const l=lum(p);const a=Math.min(1,Math.max(0,(l-34)/44)*1.3)*(d[p+3]/255);const q=(yy*dw+xx)*4;im.data[q]=d[p];im.data[q+1]=d[p+1];im.data[q+2]=d[p+2];im.data[q+3]=a*255}
+  for(let yy=0;yy<dh;yy++)for(let xx=0;xx<dw;xx++){const sx=Math.round(x0+xx),sy=Math.round(y0+yy);if(sx<0||sy<0||sx>=W||sy>=H)continue;const p=(sy*W+sx)*4;const l=lum(p);const a=(light?Math.min(1,Math.max(0,(lumMean-l-30)/55)*1.2):Math.min(1,Math.max(0,(l-34)/44)*1.3))*(d[p+3]/255);const q=(yy*dw+xx)*4;im.data[q]=d[p];im.data[q+1]=d[p+1];im.data[q+2]=d[p+2];im.data[q+3]=a*255}
   dx.putImageData(im,0,0);decal={canvas:dc,x0,x1,y0,y1}}
+ if(light){let mhw=0;for(let i=neck+4;i<N;i++)mhw=Math.max(mhw,sm[i]);const lx0=Math.round(cx-mhw),lx1=Math.round(cx+mhw),ly0=rows[neck+4].y,ly1=rows[N-1].y;const dw=lx1-lx0,dh=ly1-ly0;
+  const dc=document.createElement('canvas');dc.width=dw;dc.height=dh;const dx=dc.getContext('2d');dx.drawImage(c,lx0,ly0,dw,dh,0,0,dw,dh);
+  dx.globalCompositeOperation='destination-in';const gr=dx.createLinearGradient(0,0,dw,0);gr.addColorStop(0,'rgba(0,0,0,0)');gr.addColorStop(.12,'rgba(0,0,0,1)');gr.addColorStop(.88,'rgba(0,0,0,1)');gr.addColorStop(1,'rgba(0,0,0,0)');dx.fillStyle=gr;dx.fillRect(0,0,dw,dh);
+  decal={canvas:dc,x0:lx0,x1:lx1,y0:ly0,y1:ly1}}
  const s=HH/(bot-top);
- return {rows,sm,N,neck,cx,s,top,cap,body,decal};
+ return {rows,sm,N,neck,cx,s,top,cap,body,decal,light};
 }
 
+const CACHE=new Map();
 const rgb=a=>new THREE.Color(`rgb(${Math.round(a[0])},${Math.round(a[1])},${Math.round(a[2])})`);
 function blobTex(r,g,b,a){const c=document.createElement('canvas');c.width=c.height=128;const x=c.getContext('2d');const gr=x.createRadialGradient(64,64,0,64,64,64);gr.addColorStop(0,`rgba(${r},${g},${b},${a})`);gr.addColorStop(1,`rgba(${r},${g},${b},0)`);x.fillStyle=gr;x.fillRect(0,0,128,128);const t=new THREE.CanvasTexture(c);t.colorSpace=THREE.SRGBColorSpace;return t}
 
@@ -43,8 +52,8 @@ export default function Bottle3D({src,alt='',className='',spray=false,anchorRef,
  useEffect(()=>{
   const host=wrap.current;let disposed=false,raf=0,cleanup=()=>{};
   const rm=matchMedia('(prefers-reduced-motion: reduce)').matches;
-  let renderer;try{renderer=new THREE.WebGLRenderer({antialias:true,alpha:true,powerPreference:'high-performance'})}catch(e){setFail(true);return}
-  renderer.setPixelRatio(Math.min(devicePixelRatio||1,2));renderer.toneMapping=THREE.ACESFilmicToneMapping;renderer.toneMappingExposure=1.05;renderer.outputColorSpace=THREE.SRGBColorSpace;
+  let renderer;try{renderer=new THREE.WebGLRenderer({antialias:!MOBILE,alpha:true,powerPreference:'high-performance'})}catch(e){setFail(true);return}
+  renderer.setPixelRatio(Math.min(devicePixelRatio||1,MOBILE?1.25:1.6));renderer.toneMapping=THREE.ACESFilmicToneMapping;renderer.toneMappingExposure=1.05;renderer.outputColorSpace=THREE.SRGBColorSpace;
   host.appendChild(renderer.domElement);renderer.domElement.className='b3d-canvas';
   const scene=new THREE.Scene();const pm=new THREE.PMREMGenerator(renderer);scene.environment=pm.fromScene(new RoomEnvironment(),.04).texture;
   const cam=new THREE.PerspectiveCamera(28,1,.1,60);cam.position.set(0,1.35,dist);cam.lookAt(0,viewY,0);
@@ -55,8 +64,8 @@ export default function Bottle3D({src,alt='',className='',spray=false,anchorRef,
   const root=new THREE.Group();scene.add(root);const bottle=new THREE.Group();root.add(bottle);
   let capG=null,reflCap=null,nz=null,nzY=0,nzR=.14,orif=null,pick=[],capTop=1.9,capR=.45,ringG=null,sparks=null,discs=[];
   const img=new Image();img.onload=()=>{if(disposed)return;
-   let a;try{a=analyze(img)}catch(e){setFail(true);return}
-   const {rows,sm,N,neck,s,top,cap,body,decal,cx}=a;
+   let a=CACHE.get(src);if(!a){try{a=analyze(img);CACHE.set(src,a)}catch(e){setFail(true);return}}
+   const {rows,sm,N,neck,s,top,cap,body,decal,cx,light}=a;
    const Y=i=>(rows[N-1].y-rows[i].y)*s; // world y of row i
    // body lathe (bottom→neck)
    const bp=[new THREE.Vector2(0,0)];for(let i=N-1;i>=neck;i-=3)bp.push(new THREE.Vector2(Math.max(.002,sm[i]*s),Y(i)));bp.push(new THREE.Vector2(Math.max(.002,sm[neck]*s*.6),Y(neck)));bp.push(new THREE.Vector2(0,Y(neck)));
@@ -64,6 +73,7 @@ export default function Bottle3D({src,alt='',className='',spray=false,anchorRef,
    const cp=[new THREE.Vector2(0,Y(neck)-.01)];for(let i=neck;i>=0;i-=2)cp.push(new THREE.Vector2(Math.max(.002,sm[i]*s),Y(i)));cp.push(new THREE.Vector2(0,Y(0)));
    const bodyMat=new THREE.MeshPhysicalMaterial({color:rgb(body).multiplyScalar(.9),metalness:.2,roughness:.12,clearcoat:.8,clearcoatRoughness:.08,envMapIntensity:1.0,reflectivity:.6});
    const capCol=rgb(cap);const hsl={};capCol.getHSL(hsl);const capMat=new THREE.MeshPhysicalMaterial({color:new THREE.Color().setHSL(hsl.h,Math.min(1,hsl.s*1.2+.05),Math.min(.78,Math.max(.56,hsl.l*1.5))),metalness:.92,roughness:.26,clearcoat:.4,clearcoatRoughness:.1,envMapIntensity:2.3});
+   if(light){const bc=rgb(body),hh={};bc.getHSL(hh);bc.setHSL(hh.h,Math.min(1,hh.s*1.3+.1),Math.min(.55,hh.l*.9));bodyMat.color.copy(bc).multiplyScalar(.55);bodyMat.emissive.copy(bc).multiplyScalar(.5);bodyMat.emissiveIntensity=1;bodyMat.metalness=0;bodyMat.roughness=.45;bodyMat.clearcoat=.2;bodyMat.envMapIntensity=.25}
    const bm=new THREE.Mesh(new THREE.LatheGeometry(bp,128),bodyMat);const cm=new THREE.Mesh(new THREE.LatheGeometry(cp,128),capMat);bottle.add(bm);capG=new THREE.Group();capG.add(cm);scene.add(capG);pick=[bm,cm];
    capTop=Y(0);capR=sm[Math.round(neck*.55)]*s;
    if(spray){nzR=Math.max(.1,sm[neck]*s);nzY=Y(neck);nz=new THREE.Group();
@@ -118,7 +128,7 @@ export default function Bottle3D({src,alt='',className='',spray=false,anchorRef,
   let vis=true;const rs=()=>{const w=host.clientWidth||2,h=host.clientHeight||2;renderer.setSize(w,h,false);cam.aspect=w/h;cam.position.x=xShift;cam.lookAt(xShift,viewY,0);cam.updateProjectionMatrix()};rs();
   const ro=new ResizeObserver(rs);ro.observe(host);const io=new IntersectionObserver(e=>{vis=e[0].isIntersecting});io.observe(host);
   const v3=new THREE.Vector3();let last=performance.now();
-  const loop=(now)=>{raf=requestAnimationFrame(loop);if(!vis){last=now;return}const dt=Math.min(.05,(now-last)/1000);last=now;st.t+=dt;
+  let skip=0;const loop=(now)=>{raf=requestAnimationFrame(loop);if(!vis||document.hidden){last=now;return}if(MOBILE&&(skip^=1)){return}const dt=Math.min(.05,(now-last)/1000);last=now;st.t+=dt;
    if(rotate&&!st.drag){st.rot+=st.vel;st.vel*=.94;st.idle+=dt;if(!rm&&Math.abs(st.vel)<.002&&st.idle>.4)st.rot+=dt*autoSpeed*(st.hover?.35:1)}
    // scroll-linked extra spin
    const sc=host.getBoundingClientRect();const prog=Math.max(-1,Math.min(1,(sc.top+sc.height/2-innerHeight/2)/innerHeight));

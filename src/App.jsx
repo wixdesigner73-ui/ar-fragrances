@@ -5,7 +5,7 @@ import {Header,Footer,CartDrawer,Search,WaFab} from './components/ui.jsx';
 import {SvgDefs} from './components/art.jsx';import Home from './pages/Home.jsx';import {Collection,Product,Page,useTitle} from './pages/Shop.jsx';
 gsap.registerPlugin(ScrollTrigger);
 function Motion(){const {pathname}=useLocation();
- useEffect(()=>{if(matchMedia('(prefers-reduced-motion: reduce)').matches)return;
+ useEffect(()=>{if(matchMedia('(prefers-reduced-motion: reduce)').matches||matchMedia('(pointer: coarse)').matches)return;
   const l=new Lenis({duration:1.15,smoothWheel:true});l.on('scroll',ScrollTrigger.update);
   const tick=t=>l.raf(t*1000);gsap.ticker.add(tick);gsap.ticker.lagSmoothing(0);window.__lenis=l;
   return()=>{gsap.ticker.remove(tick);l.destroy()}},[]);
