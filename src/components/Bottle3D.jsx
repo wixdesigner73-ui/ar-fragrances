@@ -98,13 +98,13 @@ export default function Bottle3D({src,alt='',className='',spray=false,anchorRef,
     ringG.position.y=HH*.48;ringG.rotation.x=1.2;ringG.rotation.z=-.35;scene.add(ringG);
     const n=260,pos=new Float32Array(n*3);for(let i=0;i<n;i++){const t=Math.random()*6.283,rr=1.1+Math.random()*.9,yy=Math.random()*HH*1.15;pos[i*3]=Math.cos(t)*rr;pos[i*3+1]=yy;pos[i*3+2]=Math.sin(t)*rr}
     const pg=new THREE.BufferGeometry();pg.setAttribute('position',new THREE.BufferAttribute(pos,3));sparks=new THREE.Points(pg,new THREE.PointsMaterial({size:.035,map:blobTex(255,230,170,1),color:0xffe4a0,transparent:true,blending:THREE.AdditiveBlending,depthWrite:false,sizeAttenuation:true}));scene.add(sparks)}
-   ready=true;host.classList.add('ready')};
+   ready=true;host.classList.add('ready');if(spray&&!rm)demoT=setTimeout(()=>{st.seq<0&&doSpray()},1800)};
   img.onerror=()=>setFail(true);img.src=src;
-  let ready=false;
+  let ready=false,demoT=0;
   // ── interaction ──
   const st={seq:-1,pumped:0,rot:-.5,vel:0,drag:false,lx:0,idle:0,press:0,hover:false,nextSpray:0,mx:0,my:0,t:0,tilt:0};
   const ray=new THREE.Raycaster(),nd=new THREE.Vector2();
-  const doSpray=()=>{if(!spray||st.seq>=0)return;st.seq=0;st.pumped=0};
+  const doSpray=()=>{if(!spray||!ready||st.seq>=0)return;st.seq=0;st.pumped=0};
   const onDemo=()=>doSpray();addEventListener('ar-demo',onDemo);
   const ptr=e=>{const r=renderer.domElement.getBoundingClientRect();nd.set(((e.clientX-r.left)/r.width)*2-1,-((e.clientY-r.top)/r.height)*2+1);st.mx=nd.x;st.my=nd.y};
   const hit=()=>{ray.setFromCamera(nd,cam);return ready&&ray.intersectObjects(pick,false).length>0};
@@ -130,7 +130,7 @@ export default function Bottle3D({src,alt='',className='',spray=false,anchorRef,
     if(t<.6)o=e3(t/.6);else if(t<2.9)o=1;else if(t<3.6)o=1-eio((t-2.9)/.7);else{o=0;st.seq=-1}
     [[.8,0],[1.75,1]].forEach(([tp,k])=>{if(t>=tp&&st.pumped<=k){st.pumped=k+1;dispatchEvent(new Event('ar-spray'))}if(t>=tp&&t<tp+.3)press=Math.sin((t-tp)/.3*Math.PI)});
     if(st.seq<0&&spray&&st.hover)st.nextSpray=performance.now()+900}
-   if(capG){capG.position.set(-1.1*o,bob+(-.12+Math.sin(st.t*2.4)*.04)*o,.55*o);capG.rotation.set(.25*o,0,.5*o)}
+   if(capG){capG.position.set(.82*o,bob+(-.5+Math.sin(st.t*2.4)*.04)*o,.5*o);capG.rotation.set(.25*o,0,-.5*o)}
    if(reflCap&&capG){reflCap.position.set(capG.position.x,-capG.position.y,capG.position.z);reflCap.rotation.set(-capG.rotation.x,0,-capG.rotation.z)}
    if(nz){nz.position.y=nzY+bob;const a=nz.getObjectByName('act');a.position.y=.3-press*.05}
    bottle.position.x=Math.sin(st.t*70)*press*.004;
@@ -141,7 +141,7 @@ export default function Bottle3D({src,alt='',className='',spray=false,anchorRef,
    if(anchorRef){(orif?v3.copy(orif).add(new THREE.Vector3(0,bob-(press*.05),0)):v3.set(capR*.85,capTop-.18,0)).project(cam);const r=cv.getBoundingClientRect();anchorRef.current={x:r.left+(v3.x*.5+.5)*r.width,y:r.top+(-v3.y*.5+.5)*r.height}}
    renderer.render(scene,cam)};
   raf=requestAnimationFrame(loop);
-  cleanup=()=>{disposed=true;cancelAnimationFrame(raf);ro.disconnect();io.disconnect();cv.removeEventListener('pointerdown',dn);cv.removeEventListener('pointermove',mv);cv.removeEventListener('pointerup',up);cv.removeEventListener('pointercancel',up);cv.removeEventListener('pointerleave',lv);removeEventListener('ar-demo',onDemo);
+  cleanup=()=>{disposed=true;clearTimeout(demoT);cancelAnimationFrame(raf);ro.disconnect();io.disconnect();cv.removeEventListener('pointerdown',dn);cv.removeEventListener('pointermove',mv);cv.removeEventListener('pointerup',up);cv.removeEventListener('pointercancel',up);cv.removeEventListener('pointerleave',lv);removeEventListener('ar-demo',onDemo);
    scene.traverse(o=>{if(o.geometry)o.geometry.dispose();if(o.material){(Array.isArray(o.material)?o.material:[o.material]).forEach(m=>{m.map&&m.map.dispose();m.dispose()})}});pm.dispose();renderer.dispose();cv.remove()};
   return()=>cleanup()},[src,spray,ring,platform,viewY,dist,xShift]);
  if(fail)return <div className={'b3d '+className}><Bottle src={src} alt={alt} eager/></div>;

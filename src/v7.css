@@ -85,3 +85,14 @@
 .nw-wall:after{content:'';position:absolute;left:-6%;right:-6%;bottom:0;height:92px;z-index:-1;background:linear-gradient(180deg,rgba(232,207,148,.28) 0,rgba(201,164,92,.06) 1px,rgba(255,255,255,.035) 40%,transparent);pointer-events:none}
 .nw-wall{gap:clamp(14px,2.6vw,44px)}
 @media(max-width:900px){.nw-wall:after{display:none}}
+
+/* ── v7c: no load glitch + one consistent homepage colour ── */
+.b3d .b3d-canvas{opacity:0;transition:opacity 1.1s ease}.b3d.ready .b3d-canvas{opacity:1}
+.hero3d{opacity:1!important;filter:none!important}
+:root{--page:#070707}
+body,.hero,.coll,.n360,.sa,.sbb,.breakdown,.cta,.cfin,.nw,.ph,.foot,.sb-panel{background:var(--page)!important}
+.vig{background:radial-gradient(ellipse at center,transparent 50%,rgba(7,7,7,.65))!important}
+.nw-vig{background:radial-gradient(ellipse at 50% 42%,transparent 55%,rgba(7,7,7,.6) 100%)!important}
+.nw-stone{background:none!important}
+.hero .floorbg{background:linear-gradient(180deg,rgba(255,240,215,.05) 0,rgba(255,240,215,.015) 8%,transparent 70%)!important;border-top:1px solid rgba(255,240,215,.07)}
+.breakdown:before,.coll:before,.sa:before,.n360:before,.sbb:before{opacity:.5}

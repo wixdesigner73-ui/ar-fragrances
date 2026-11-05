@@ -35,7 +35,7 @@ export default function Home(){
   tl.fromTo(q('.hero3d'),{opacity:0,scale:rm?1:.9,y:rm?0:60,filter:'blur(10px)'},{opacity:1,scale:1,y:0,filter:'blur(0px)',duration:rm?.01:1.8},0)
     .fromTo(q('.hero .ln > *'),{yPercent:rm?0:110,opacity:rm?1:0},{yPercent:0,opacity:1,duration:rm?.01:1.1,stagger:.12},.2)
     .fromTo(q('.hero .hfade'),{opacity:0,y:rm?0:22},{opacity:1,y:0,duration:rm?.01:.9,stagger:.1},.55);
-  const t=rm?0:setTimeout(()=>dispatchEvent(new Event('ar-demo')),2000);
+  const t=0;
   return()=>{tl.kill();clearTimeout(t)}},[]);
  useLayoutEffect(()=>{if(reduce())return;const ctx=gsap.context(()=>{
   gsap.to('.hero .hstage',{yPercent:-8,ease:'none',scrollTrigger:{trigger:'.hero',start:'top top',end:'bottom top',scrub:true}});
@@ -67,7 +67,7 @@ export default function Home(){
     <div className="hcta hfade"><Link className="btn" to={'/products/'+hp.handle}>Shop Now</Link><Link className="btn sq" to="/collections/all" aria-label="View all perfumes">→</Link><span className="hprice"><Price p={hp}/></span></div>
    </div>
   </div>
-  <div className="hero3d"><Suspense fallback={<Fallback p={hp}/>}><Bottle3D src={hp.cut} alt={hp.title} spray hint anchorRef={anchor}/></Suspense></div>
+  <div className="hero3d"><Suspense fallback={null}><Bottle3D src={hp.cut} alt={hp.title} spray hint anchorRef={anchor}/></Suspense></div>
  </section>
 
  <section className="coll" id="coll">

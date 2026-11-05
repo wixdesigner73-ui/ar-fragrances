@@ -16,7 +16,7 @@ export default function Smoke({burst=0,amt=1,src=[.55,.2],className='',tint=[.93
   let cw=2,ch=2,raf,vis=true,last=performance.now();const P=[];const sc=innerWidth<700?.6:.8;
   const rs=()=>{cw=c.width=Math.max(2,Math.round(c.clientWidth*sc));ch=c.height=Math.max(2,Math.round(c.clientHeight*sc))};rs();
   const ro=new ResizeObserver(rs);ro.observe(c);const io=new IntersectionObserver(e=>{vis=e[0].isIntersecting});io.observe(c);
-  const onSpray=()=>{if(jet){st.current.fire=1;st.current.last=performance.now()}};addEventListener('ar-spray',onSpray);
+  const onSpray=()=>{if(jet&&!(anchorRef&&!anchorRef.current)){st.current.fire=1;st.current.last=performance.now()}};addEventListener('ar-spray',onSpray);
   const R=Math.random;
   const spawnJet=(b)=>{const kk=Math.max(.4,Math.min(1,cw/1000));const [sx,sy]=st.current.src;const ox=sx*cw,oy=(1-sy)*ch;const n=Math.ceil(b*7);
    for(let i=0;i<n;i++){const ang=-.24+(R()-.5)*.42,sp=cw*(.005+R()*.006)*(.7+b*.6);
@@ -26,7 +26,7 @@ export default function Smoke({burst=0,amt=1,src=[.55,.2],className='',tint=[.93
    while(k-->0)P.push({k:0,x:sx*cw+(R()-.5)*wide*cw*.8,y:(1-sy)*ch+R()*14,vx:(R()-.5)*.5+(R()<.5?-.15:.15),vy:-(.12+R()*.35)*rise,s:cw*(.12+R()*.16),ds:.35,a:(.05+R()*.09)*Math.min(amt,1.6),life:320+R()*260,age:0,drag:.999,by:0})};
   const step=(dt)=>{const s=st.current;
    if(anchorRef&&anchorRef.current){const b=c.getBoundingClientRect();if(b.width)s.src=[(anchorRef.current.x-b.left)/b.width,1-(anchorRef.current.y-b.top)/b.height]}
-   if(s.fire>0&&jet&&!rm){spawnJet(s.fire);s.fire-=.012*dt;if(s.fire<0)s.fire=0}
+   if(s.fire>0&&jet&&!rm){if(anchorRef&&!anchorRef.current){}else{spawnJet(s.fire);s.fire-=.012*dt;if(s.fire<0)s.fire=0}}
    if(pulse&&jet&&!rm&&performance.now()-s.last>6500){s.fire=1;s.last=performance.now()}
    if(amt>.3)spawnAmb(dt);
    for(let i=P.length-1;i>=0;i--){const p=P[i];p.age+=dt;if(p.age>=p.life){P.splice(i,1);continue}

@@ -10,7 +10,7 @@ const LINEUP=[
  {h:'blush-me-up-inspired',c:'#f08ba6',notes:{top:['Orange Blossom','Bergamot'],heart:['Tuberose','Indian Jasmine'],base:['Madagascar Vanilla','White Musk','Virginian Cedar']}},
  {h:'ar-elites',c:'#cfd8ee',notes:{top:['Blood Mandarin','Grapefruit','Mint'],heart:['Cinnamon','Spicy Notes','Rose'],base:['Amber','Leather','Woody Notes','Indian Patchouli']}},
  {h:'ar-addiction',c:'#5b93ff',notes:{top:['Orange'],heart:['Neroli','Seaweed'],base:['Amber','Virginia Cedar']}},
- {h:'sun-kissed-gold',c:'#e8c05c',notes:{top:['Saffron','Jasmine','Bergamot'],heart:['Amberwood','Cedarwood','Cashmeran','Fir Balsam'],base:['Ambergris','Musk','Tonka Bean']}}];
+ {h:'oud-al-sultan',c:'#e8c05c',notes:{top:['Sicilian Mandarin','Lavender','Nutmeg'],heart:['Violet Leaf','Leather'],base:['Cedar','Vetiver','Musk']}}];
 const ROWS=[['top','Top'],['heart','Heart'],['base','Base']];
 const reduce=()=>matchMedia('(prefers-reduced-motion: reduce)').matches;
 const split=t=>{const w=t.trim().split(/\s+/);if(w.length<2)return[t,''];return[w.slice(0,-1).join(' '),w[w.length-1]]};
