@@ -53,7 +53,7 @@ export default function Bottle3D({src,alt='',className='',spray=false,anchorRef,
   const rim=new THREE.DirectionalLight(0xbfd2ff,2.2);rim.position.set(-4,3,-3);scene.add(rim);
   const fill=new THREE.DirectionalLight(0xffd9a0,.7);fill.position.set(-3,1.5,4);scene.add(fill);scene.add(new THREE.AmbientLight(0xffffff,.18));
   const root=new THREE.Group();scene.add(root);const bottle=new THREE.Group();root.add(bottle);
-  let capMesh=null,pick=[],capTop=1.9,capR=.45,ringG=null,sparks=null,discs=[];
+  let capG=null,reflCap=null,nz=null,nzY=0,nzR=.14,orif=null,pick=[],capTop=1.9,capR=.45,ringG=null,sparks=null,discs=[];
   const img=new Image();img.onload=()=>{if(disposed)return;
    let a;try{a=analyze(img)}catch(e){setFail(true);return}
    const {rows,sm,N,neck,s,top,cap,body,decal,cx}=a;
@@ -64,8 +64,16 @@ export default function Bottle3D({src,alt='',className='',spray=false,anchorRef,
    const cp=[new THREE.Vector2(0,Y(neck)-.01)];for(let i=neck;i>=0;i-=2)cp.push(new THREE.Vector2(Math.max(.002,sm[i]*s),Y(i)));cp.push(new THREE.Vector2(0,Y(0)));
    const bodyMat=new THREE.MeshPhysicalMaterial({color:rgb(body).multiplyScalar(.9),metalness:.2,roughness:.12,clearcoat:.8,clearcoatRoughness:.08,envMapIntensity:1.0,reflectivity:.6});
    const capCol=rgb(cap);const hsl={};capCol.getHSL(hsl);const capMat=new THREE.MeshPhysicalMaterial({color:new THREE.Color().setHSL(hsl.h,Math.min(1,hsl.s*1.2+.05),Math.min(.78,Math.max(.56,hsl.l*1.5))),metalness:.92,roughness:.26,clearcoat:.4,clearcoatRoughness:.1,envMapIntensity:2.3});
-   const bm=new THREE.Mesh(new THREE.LatheGeometry(bp,128),bodyMat);const cm=new THREE.Mesh(new THREE.LatheGeometry(cp,128),capMat);bottle.add(bm);bottle.add(cm);capMesh=cm;pick=[bm,cm];
+   const bm=new THREE.Mesh(new THREE.LatheGeometry(bp,128),bodyMat);const cm=new THREE.Mesh(new THREE.LatheGeometry(cp,128),capMat);bottle.add(bm);capG=new THREE.Group();capG.add(cm);scene.add(capG);pick=[bm,cm];
    capTop=Y(0);capR=sm[Math.round(neck*.55)]*s;
+   if(spray){nzR=Math.max(.1,sm[neck]*s);nzY=Y(neck);nz=new THREE.Group();
+    const mt=new THREE.MeshStandardMaterial({color:0xdcdcdc,metalness:1,roughness:.2,envMapIntensity:1.8});const blk=new THREE.MeshPhysicalMaterial({color:0x0c0c0c,metalness:.4,roughness:.2,clearcoat:1,envMapIntensity:1.2});
+    const c1=new THREE.Mesh(new THREE.CylinderGeometry(nzR*.95,nzR*1.05,.05,48),mt);c1.position.y=.025;
+    const c2=new THREE.Mesh(new THREE.CylinderGeometry(nzR*.5,nzR*.58,.2,36),mt);c2.position.y=.15;
+    const c3=new THREE.Mesh(new THREE.CylinderGeometry(nzR*.8,nzR*.8,.1,40),blk);c3.position.y=.3;c3.name='act';
+    const c4=new THREE.Mesh(new THREE.CylinderGeometry(.017,.017,.08,16),new THREE.MeshBasicMaterial({color:0x000000}));c4.rotation.z=Math.PI/2;c4.position.set(nzR*.8,.3,0);c3.add(c4);c4.position.set(nzR*.8,0,0);
+    const rg=new THREE.Mesh(new THREE.TorusGeometry(nzR*.82,.013,10,40),new THREE.MeshStandardMaterial({color:0xd9b25b,metalness:1,roughness:.25}));rg.rotation.x=Math.PI/2;rg.position.y=.36;
+    nz.add(c1,c2,c3,rg);nz.position.y=nzY;scene.add(nz);orif=new THREE.Vector3(nzR*.8+.045,nzY+.3,0)}
    if(decal){const wmid=(decal.x0+decal.x1)/2,ymid=(decal.y0+decal.y1)/2;const rowI=Math.min(N-1,Math.max(0,Math.round(ymid-top)));const R=sm[rowI]*s+.004;
     const wid=(decal.x1-decal.x0)*s,hei=(decal.y1-decal.y0)*s;const th=Math.min(Math.PI*1.1,wid/R);
     const tex=new THREE.CanvasTexture(decal.canvas);tex.colorSpace=THREE.SRGBColorSpace;tex.anisotropy=8;
@@ -75,10 +83,10 @@ export default function Bottle3D({src,alt='',className='',spray=false,anchorRef,
     dm.rotation.y=Math.atan2((wmid-cx)*s,R)}
    // reflection (flipped clone, fading out)
    const refl=bottle.clone(true);refl.scale.y=-1;
-   refl.traverse(o=>{if(o.isMesh){o.material=o.material.clone();o.material.transparent=true;o.material.opacity=.3;o.material.depthWrite=false;
+   const patchR=o=>{if(o.isMesh){o.material=o.material.clone();o.material.transparent=true;o.material.opacity=.3;o.material.depthWrite=false;
     o.material.onBeforeCompile=sh=>{sh.vertexShader=sh.vertexShader.replace('#include <common>','#include <common>\nvarying float vWY;').replace('#include <begin_vertex>','#include <begin_vertex>\nvWY=(modelMatrix*vec4(transformed,1.0)).y;');
-     sh.fragmentShader=sh.fragmentShader.replace('#include <common>','#include <common>\nvarying float vWY;').replace('#include <dithering_fragment>','#include <dithering_fragment>\ngl_FragColor.a*=clamp(1.0+vWY/1.15,0.0,1.0);')}}});
-   root.add(refl);
+     sh.fragmentShader=sh.fragmentShader.replace('#include <common>','#include <common>\nvarying float vWY;').replace('#include <dithering_fragment>','#include <dithering_fragment>\ngl_FragColor.a*=clamp(1.0+vWY/1.15,0.0,1.0);')}}};refl.traverse(patchR);root.add(refl);
+   reflCap=new THREE.Group();const rcm=cm.clone();reflCap.add(rcm);reflCap.scale.y=-1;reflCap.traverse(patchR);scene.add(reflCap);
    // contact shadow + floor glow
    const sh=new THREE.Mesh(new THREE.PlaneGeometry(2.6,2.6),new THREE.MeshBasicMaterial({map:blobTex(0,0,0,.75),transparent:true,depthWrite:false}));sh.rotation.x=-Math.PI/2;sh.position.y=.004;scene.add(sh);
    const gl=new THREE.Mesh(new THREE.PlaneGeometry(5.2,3.2),new THREE.MeshBasicMaterial({map:blobTex(255,200,120,.22),transparent:true,depthWrite:false,blending:THREE.AdditiveBlending}));gl.rotation.x=-Math.PI/2;gl.position.y=.006;scene.add(gl);
@@ -94,9 +102,10 @@ export default function Bottle3D({src,alt='',className='',spray=false,anchorRef,
   img.onerror=()=>setFail(true);img.src=src;
   let ready=false;
   // ── interaction ──
-  const st={rot:-.5,vel:0,drag:false,lx:0,idle:0,press:0,hover:false,nextSpray:0,mx:0,my:0,t:0,tilt:0};
+  const st={seq:-1,pumped:0,rot:-.5,vel:0,drag:false,lx:0,idle:0,press:0,hover:false,nextSpray:0,mx:0,my:0,t:0,tilt:0};
   const ray=new THREE.Raycaster(),nd=new THREE.Vector2();
-  const doSpray=()=>{if(!spray)return;st.press=1;dispatchEvent(new Event('ar-spray'))};
+  const doSpray=()=>{if(!spray||st.seq>=0)return;st.seq=0;st.pumped=0};
+  const onDemo=()=>doSpray();addEventListener('ar-demo',onDemo);
   const ptr=e=>{const r=renderer.domElement.getBoundingClientRect();nd.set(((e.clientX-r.left)/r.width)*2-1,-((e.clientY-r.top)/r.height)*2+1);st.mx=nd.x;st.my=nd.y};
   const hit=()=>{ray.setFromCamera(nd,cam);return ready&&ray.intersectObjects(pick,false).length>0};
   const dn=e=>{st.drag=true;st.lx=e.clientX;st.vel=0;st.idle=0;setTouched(true);renderer.domElement.setPointerCapture?.(e.pointerId);host.classList.add('grab')};
@@ -116,15 +125,23 @@ export default function Bottle3D({src,alt='',className='',spray=false,anchorRef,
    root.rotation.y=st.rot+prog*.9;
    st.tilt+=((st.my*.12)-st.tilt)*.06;root.rotation.x=st.tilt;
    root.position.y=Math.sin(st.t*1.2)*.035;
-   st.press=Math.max(0,st.press-dt*3.2);const pr=Math.sin(st.press*Math.PI);if(capMesh)capMesh.position.y=-pr*.06;bottle.position.x=Math.sin(st.t*60)*pr*.006;bottle.scale.setScalar(1-pr*.012);
-   if(spray&&st.hover&&performance.now()>st.nextSpray){doSpray();st.nextSpray=performance.now()+2300}
+   const bob=root.position.y;let o=0,press=0;
+   if(st.seq>=0){st.seq+=dt;const t=st.seq;const e3=x=>1-Math.pow(1-x,3),eio=x=>x<.5?2*x*x:1-Math.pow(-2*x+2,2)/2;
+    if(t<.6)o=e3(t/.6);else if(t<2.9)o=1;else if(t<3.6)o=1-eio((t-2.9)/.7);else{o=0;st.seq=-1}
+    [[.8,0],[1.75,1]].forEach(([tp,k])=>{if(t>=tp&&st.pumped<=k){st.pumped=k+1;dispatchEvent(new Event('ar-spray'))}if(t>=tp&&t<tp+.3)press=Math.sin((t-tp)/.3*Math.PI)});
+    if(st.seq<0&&spray&&st.hover)st.nextSpray=performance.now()+900}
+   if(capG){capG.position.set(-1.1*o,bob+(-.12+Math.sin(st.t*2.4)*.04)*o,.55*o);capG.rotation.set(.25*o,0,.5*o)}
+   if(reflCap&&capG){reflCap.position.set(capG.position.x,-capG.position.y,capG.position.z);reflCap.rotation.set(-capG.rotation.x,0,-capG.rotation.z)}
+   if(nz){nz.position.y=nzY+bob;const a=nz.getObjectByName('act');a.position.y=.3-press*.05}
+   bottle.position.x=Math.sin(st.t*70)*press*.004;
+   if(spray&&st.hover&&st.seq<0&&performance.now()>st.nextSpray){doSpray();st.nextSpray=performance.now()+2500}
    if(ringG){ringG.rotation.y+=dt*.55;const o=ringG.getObjectByName('orb'),g=ringG.getObjectByName('orbglow');const a=st.t*1.6;o.position.set(Math.cos(a)*1.25,Math.sin(a)*1.25,0);g.position.copy(o.position);g.quaternion.copy(cam.quaternion)}
    if(sparks){sparks.rotation.y+=dt*.12;sparks.material.opacity=.6+Math.sin(st.t*3)*.3}
    discs.forEach((d,i)=>d.material.opacity=Math.max(.05,(.5-i*.14)*(.75+Math.sin(st.t*1.4+i)*.25)));
-   if(anchorRef){v3.set(capR*.85,capTop-.18,0).project(cam);const r=cv.getBoundingClientRect();anchorRef.current={x:r.left+(v3.x*.5+.5)*r.width,y:r.top+(-v3.y*.5+.5)*r.height}}
+   if(anchorRef){(orif?v3.copy(orif).add(new THREE.Vector3(0,bob-(press*.05),0)):v3.set(capR*.85,capTop-.18,0)).project(cam);const r=cv.getBoundingClientRect();anchorRef.current={x:r.left+(v3.x*.5+.5)*r.width,y:r.top+(-v3.y*.5+.5)*r.height}}
    renderer.render(scene,cam)};
   raf=requestAnimationFrame(loop);
-  cleanup=()=>{disposed=true;cancelAnimationFrame(raf);ro.disconnect();io.disconnect();cv.removeEventListener('pointerdown',dn);cv.removeEventListener('pointermove',mv);cv.removeEventListener('pointerup',up);cv.removeEventListener('pointercancel',up);cv.removeEventListener('pointerleave',lv);
+  cleanup=()=>{disposed=true;cancelAnimationFrame(raf);ro.disconnect();io.disconnect();cv.removeEventListener('pointerdown',dn);cv.removeEventListener('pointermove',mv);cv.removeEventListener('pointerup',up);cv.removeEventListener('pointercancel',up);cv.removeEventListener('pointerleave',lv);removeEventListener('ar-demo',onDemo);
    scene.traverse(o=>{if(o.geometry)o.geometry.dispose();if(o.material){(Array.isArray(o.material)?o.material:[o.material]).forEach(m=>{m.map&&m.map.dispose();m.dispose()})}});pm.dispose();renderer.dispose();cv.remove()};
   return()=>cleanup()},[src,spray,ring,platform,viewY,dist,xShift]);
  if(fail)return <div className={'b3d '+className}><Bottle src={src} alt={alt} eager/></div>;

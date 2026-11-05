@@ -6,6 +6,7 @@ import {Dust,GoldDrop,PourArt,Petals} from '../components/art.jsx';
 import {Price} from '../components/ui.jsx';
 import {products_,byHandle,shortTitle,firstSentence,onSale} from '../store.jsx';
 import pages from '../data/pages.json';
+const NotesScene3D=lazy(()=>import('../components/NotesScene3D.jsx'));
 const Bottle3D=lazy(()=>import('../components/Bottle3D.jsx'));
 gsap.registerPlugin(ScrollTrigger);
 const reduce=()=>matchMedia('(prefers-reduced-motion: reduce)').matches;
@@ -34,7 +35,7 @@ export default function Home(){
   tl.fromTo(q('.hero3d'),{opacity:0,scale:rm?1:.9,y:rm?0:60,filter:'blur(10px)'},{opacity:1,scale:1,y:0,filter:'blur(0px)',duration:rm?.01:1.8},0)
     .fromTo(q('.hero .ln > *'),{yPercent:rm?0:110,opacity:rm?1:0},{yPercent:0,opacity:1,duration:rm?.01:1.1,stagger:.12},.2)
     .fromTo(q('.hero .hfade'),{opacity:0,y:rm?0:22},{opacity:1,y:0,duration:rm?.01:.9,stagger:.1},.55);
-  const t=rm?0:setTimeout(()=>dispatchEvent(new Event('ar-spray')),2300);
+  const t=rm?0:setTimeout(()=>dispatchEvent(new Event('ar-demo')),2000);
   return()=>{tl.kill();clearTimeout(t)}},[]);
  useLayoutEffect(()=>{if(reduce())return;const ctx=gsap.context(()=>{
   gsap.to('.hero .hstage',{yPercent:-8,ease:'none',scrollTrigger:{trigger:'.hero',start:'top top',end:'bottom top',scrub:true}});
@@ -58,7 +59,7 @@ export default function Home(){
  <Opening/>
  <section className="hero" aria-label="Featured perfume">
   <div className="rays"/><div className="floorbg"/><Dust/>
-  <Smoke jet amt={.12} anchorRef={anchor}/>
+  <Smoke amt={1.4} wide={2.4} tint={[.82,.76,.66]} src={[.62,.03]} className="low"/><Smoke jet amt={.12} anchorRef={anchor}/>
   <div className="hstage">
    <div className="htxt">
     <span className="eyebrow hfade">Premium Collection</span>
@@ -71,7 +72,7 @@ export default function Home(){
  </section>
 
  <section className="coll">
-  <div className="rays soft"/><Dust n={40}/>
+  <div className="rays soft"/><Dust n={40}/><Smoke amt={.9} tint={[.8,.72,.6]} wide={2} src={[.5,.02]} className="low"/>
   <h2 className="stitle rv">Product Collection</h2>
   <div className="car rv"><button className="arr l" onClick={()=>cgo(-1)} aria-label="Previous">‹</button><button className="arr r" onClick={()=>cgo(1)} aria-label="Next">›</button>
    <div className="track" style={{'--i':ci}}>{showcase.map((p,i)=><div key={p.handle} className={'cslot'+(i===ci?' on':'')+(Math.abs(i-ci)>1?' far':'')} onClick={()=>i!==ci&&setCi(i)}>
@@ -93,18 +94,18 @@ export default function Home(){
  </section>}
 
  <section className="sa">
-  <div className="rays soft"/><Dust n={30}/><Petals/>
+  <div className="rays soft"/><Dust n={30}/><Smoke amt={1.1} tint={[.8,.68,.5]} wide={1.8} src={[.3,.05]} className="low"/><Petals/>
   <div className="sa-g"><div className="sa-t"><span className="eyebrow rv">AR Fragrances</span><h2 className="rv">Brand Story</h2><p className="rv">{about[1]||about[0]}</p><Link to="/pages/about-us" className="btn rv">Read Our Story</Link></div>
    <div className="sa-b"><img className="sb-bot" src={storyP.cut} alt={storyP.title} loading="lazy"/></div></div>
  </section>
 
  <section className="sbb">
-  <div className="sb-panel"><GoldDrop/></div>
+  <div className="sb-panel"><Suspense fallback={<GoldDrop/>}><NotesScene3D mode="left"/></Suspense></div>
   <div className="sb-t"><h2 className="rv">Brand Story</h2>{[about[0],about[2]].filter(Boolean).map((t,i)=><p className="rv" key={i}>{t}</p>)}</div>
  </section>
 
- {notes&&<section className="breakdown">
-  <GoldDrop className="bdl"/><PourArt className="bdr"/>
+ {notes&&<section className="breakdown"><Smoke amt={1} tint={[.8,.66,.42]} wide={2} src={[.5,.02]} className="low"/>
+  <Suspense fallback={<><GoldDrop className="bdl"/><PourArt className="bdr"/></>}><NotesScene3D mode="both" className="bd3d"/></Suspense>
   <div className="bdc">
    {TABS.map(([k,l])=><div className="nb" key={k}><h3>{l}</h3><p>{notes[k].join(', ')}</p></div>)}
    <p className="bfoot">{title} · <Link to={'/products/'+nP.handle}>View product</Link></p></div>
