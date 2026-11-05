@@ -49,7 +49,7 @@ export default function NightWall(){
   </div>
   <Smoke amt={1.5} tint={[.84,.74,.56]} wide={2.6} src={[.5,.1]} className="low"/>
   <div className="nw-title"><span className="eyebrow">AR Fragrances · Collection No. 1</span><h2>The <em>night</em> collection</h2><p>Five signature fragrances, lit one by one. Select a niche to step inside.</p></div>
-  <div className="nw-hint" aria-hidden="true"><i/>Hover to illuminate · Select to open</div>
+  <div className="nw-hint" aria-hidden="true"><i/><span className="h-d">Hover to illuminate · Select to open</span><span className="h-m">Swipe · Tap a niche to open</span></div>
   <aside className="nw-info" aria-live="polite" aria-hidden={!open}>{p&&<>
    <span className="eyebrow">No. {n2(sel+1)} · {who}</span>
    <h3>{t1} {t2&&<em>{t2}</em>}</h3>

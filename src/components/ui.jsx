@@ -27,7 +27,7 @@ export function Header(){const {count,setOpen,setSearch,menu,setMenu}=useStore()
   </div></header>}
 export function Price({p,v}){const pr=v?v.price:p.price,c=v?v.compare:p.compare;return <span className="price">{c>pr&&<s>{money(c)}</s>}<b>{money(pr)}</b></span>}
 export function Card({p,big}){return <Link to={'/products/'+p.handle} className={'card'+(big?' big':'')}>
- <div className="cimg">{onSale(p)&&<em>Sale</em>}{p.cut?<img src={p.cut} alt={p.title} loading="lazy" className="cut"/>:<img src={p.imgS} alt={p.title} loading="lazy" className="ph"/>}</div>
+ <div className="cimg">{onSale(p)&&<em>Sale</em>}{p.cut?<img src={p.cut} alt={p.title} loading="lazy" className="cut"/>:<img src={p.imgS} alt={p.title} loading="lazy" className="cphoto"/>}</div>
  <h3>{shortTitle(p.title)}</h3><Price p={p}/></Link>}
 export function CartDrawer(){const {open,setOpen,lines,setQty,subtotal,code,setCode,checkoutUrl}=useStore();const [c,setC]=useState(code);
  useEffect(()=>{document.body.classList.toggle('lock',open);const k=e=>e.key==='Escape'&&setOpen(false);addEventListener('keydown',k);return()=>removeEventListener('keydown',k)},[open]);

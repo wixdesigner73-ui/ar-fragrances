@@ -7,7 +7,8 @@ const sprite=(r,g,b)=>{const c=document.createElement('canvas');c.width=c.height
  x.fillStyle=gr;x.fillRect(0,0,128,128);return c};
 export default function Smoke({burst=0,amt=1,src=[.55,.2],className='',tint=[.93,.9,.86],wide=1,jet=false,rise=1,pulse=false,anchorRef}){
  const ref=useRef();const st=useRef({burst:0,src,last:0,fire:0});
- useEffect(()=>{st.current.fire=1;st.current.last=performance.now()},[burst]);
+ const first=useRef(true);
+ useEffect(()=>{if(first.current){first.current=false;return}st.current.fire=1;st.current.last=performance.now()},[burst]);
  useEffect(()=>{st.current.src=src},[src[0],src[1]]);
  useEffect(()=>{const c=ref.current,x=c.getContext('2d');if(!x)return;
   const rm=matchMedia('(prefers-reduced-motion: reduce)').matches;

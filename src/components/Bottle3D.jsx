@@ -38,7 +38,7 @@ function analyze(img){
 const rgb=a=>new THREE.Color(`rgb(${Math.round(a[0])},${Math.round(a[1])},${Math.round(a[2])})`);
 function blobTex(r,g,b,a){const c=document.createElement('canvas');c.width=c.height=128;const x=c.getContext('2d');const gr=x.createRadialGradient(64,64,0,64,64,64);gr.addColorStop(0,`rgba(${r},${g},${b},${a})`);gr.addColorStop(1,`rgba(${r},${g},${b},0)`);x.fillStyle=gr;x.fillRect(0,0,128,128);const t=new THREE.CanvasTexture(c);t.colorSpace=THREE.SRGBColorSpace;return t}
 
-export default function Bottle3D({src,alt='',className='',spray=false,anchorRef,autoSpeed=.35,ring=false,platform=false,hint=false,viewY=.75,dist=7.4,xShift=0}){
+export default function Bottle3D({src,alt='',className='',spray=false,anchorRef,autoSpeed=.35,rotate=true,ring=false,platform=false,hint=false,viewY=.75,dist=7.4,xShift=0}){
  const wrap=useRef();const [fail,setFail]=useState(false);const [touched,setTouched]=useState(false);
  useEffect(()=>{
   const host=wrap.current;let disposed=false,raf=0,cleanup=()=>{};
@@ -102,14 +102,14 @@ export default function Bottle3D({src,alt='',className='',spray=false,anchorRef,
   img.onerror=()=>setFail(true);img.src=src;
   let ready=false,demoT=0;
   // ── interaction ──
-  const st={seq:-1,pumped:0,rot:-.5,vel:0,drag:false,lx:0,idle:0,press:0,hover:false,nextSpray:0,mx:0,my:0,t:0,tilt:0};
+  const st={seq:-1,pumped:0,rot:rotate?-.5:0,vel:0,drag:false,lx:0,idle:0,press:0,hover:false,nextSpray:0,mx:0,my:0,t:0,tilt:0};
   const ray=new THREE.Raycaster(),nd=new THREE.Vector2();
   const doSpray=()=>{if(!spray||!ready||st.seq>=0)return;st.seq=0;st.pumped=0};
   const onDemo=()=>doSpray();addEventListener('ar-demo',onDemo);
   const ptr=e=>{const r=renderer.domElement.getBoundingClientRect();nd.set(((e.clientX-r.left)/r.width)*2-1,-((e.clientY-r.top)/r.height)*2+1);st.mx=nd.x;st.my=nd.y};
   const hit=()=>{ray.setFromCamera(nd,cam);return ready&&ray.intersectObjects(pick,false).length>0};
-  const dn=e=>{st.drag=true;st.lx=e.clientX;st.vel=0;st.idle=0;setTouched(true);renderer.domElement.setPointerCapture?.(e.pointerId);host.classList.add('grab')};
-  const mv=e=>{ptr(e);if(st.drag){const dx=e.clientX-st.lx;st.lx=e.clientX;st.rot+=dx*.011;st.vel=dx*.011;st.idle=0}
+  const dn=e=>{if(!rotate){if(hit())doSpray();return}st.drag=true;st.lx=e.clientX;st.vel=0;st.idle=0;setTouched(true);renderer.domElement.setPointerCapture?.(e.pointerId);host.classList.add('grab')};
+  const mv=e=>{ptr(e);if(rotate&&st.drag){const dx=e.clientX-st.lx;st.lx=e.clientX;st.rot+=dx*.011;st.vel=dx*.011;st.idle=0}
    else{const h=hit();if(h&&!st.hover){st.hover=true;host.classList.add('hot');doSpray();st.nextSpray=performance.now()+2300}if(!h&&st.hover){st.hover=false;host.classList.remove('hot')}}};
   const up=e=>{if(st.drag&&Math.abs(e.clientX-st.lx)<3&&hit())doSpray();st.drag=false;host.classList.remove('grab')};
   const lv=()=>{st.hover=false;host.classList.remove('hot');st.mx=0;st.my=0};
@@ -119,11 +119,11 @@ export default function Bottle3D({src,alt='',className='',spray=false,anchorRef,
   const ro=new ResizeObserver(rs);ro.observe(host);const io=new IntersectionObserver(e=>{vis=e[0].isIntersecting});io.observe(host);
   const v3=new THREE.Vector3();let last=performance.now();
   const loop=(now)=>{raf=requestAnimationFrame(loop);if(!vis){last=now;return}const dt=Math.min(.05,(now-last)/1000);last=now;st.t+=dt;
-   if(!st.drag){st.rot+=st.vel;st.vel*=.94;st.idle+=dt;if(!rm&&Math.abs(st.vel)<.002&&st.idle>.4)st.rot+=dt*autoSpeed*(st.hover?.35:1)}
+   if(rotate&&!st.drag){st.rot+=st.vel;st.vel*=.94;st.idle+=dt;if(!rm&&Math.abs(st.vel)<.002&&st.idle>.4)st.rot+=dt*autoSpeed*(st.hover?.35:1)}
    // scroll-linked extra spin
    const sc=host.getBoundingClientRect();const prog=Math.max(-1,Math.min(1,(sc.top+sc.height/2-innerHeight/2)/innerHeight));
-   root.rotation.y=st.rot+prog*.9;
-   st.tilt+=((st.my*.12)-st.tilt)*.06;root.rotation.x=st.tilt;
+   root.rotation.y=rotate?st.rot+prog*.9:0;
+   st.tilt+=((rotate?st.my*.12:0)-st.tilt)*.06;root.rotation.x=st.tilt;
    root.position.y=Math.sin(st.t*1.2)*.035;
    const bob=root.position.y;let o=0,press=0;
    if(st.seq>=0){st.seq+=dt;const t=st.seq;const e3=x=>1-Math.pow(1-x,3),eio=x=>x<.5?2*x*x:1-Math.pow(-2*x+2,2)/2;
@@ -143,6 +143,6 @@ export default function Bottle3D({src,alt='',className='',spray=false,anchorRef,
   raf=requestAnimationFrame(loop);
   cleanup=()=>{disposed=true;clearTimeout(demoT);cancelAnimationFrame(raf);ro.disconnect();io.disconnect();cv.removeEventListener('pointerdown',dn);cv.removeEventListener('pointermove',mv);cv.removeEventListener('pointerup',up);cv.removeEventListener('pointercancel',up);cv.removeEventListener('pointerleave',lv);removeEventListener('ar-demo',onDemo);
    scene.traverse(o=>{if(o.geometry)o.geometry.dispose();if(o.material){(Array.isArray(o.material)?o.material:[o.material]).forEach(m=>{m.map&&m.map.dispose();m.dispose()})}});pm.dispose();renderer.dispose();cv.remove()};
-  return()=>cleanup()},[src,spray,ring,platform,viewY,dist,xShift]);
+  return()=>cleanup()},[src,spray,rotate,ring,platform,viewY,dist,xShift]);
  if(fail)return <div className={'b3d '+className}><Bottle src={src} alt={alt} eager/></div>;
- return <div ref={wrap} className={'b3d '+className} role="img" aria-label={alt+' — interactive 3D view'}>{hint&&!touched&&<span className="b3d-hint"><i/>{spray?'Hover to spray · Drag to rotate 360°':'Drag to rotate 360°'}</span>}</div>}
+ return <div ref={wrap} className={'b3d '+className} role="img" aria-label={alt+' — interactive 3D view'}>{hint&&!touched&&<span className="b3d-hint"><i/>{!rotate?'Hover to spray':spray?'Hover to spray · Drag to rotate 360°':'Drag to rotate 360°'}</span>}</div>}

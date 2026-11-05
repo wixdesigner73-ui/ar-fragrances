@@ -143,3 +143,15 @@ body{background-color:#070707!important;background-image:
 @media(max-width:900px){.nw-hint{margin:14px auto 0;justify-content:flex-start;padding:0 var(--pad)}}
 /* hover-tilt safe centering (GSAP owns transform) */
 .nw-bot{left:0!important;right:0!important;margin:0 auto!important;transform:none}
+
+/* ── mobile visibility ── */
+.nw-hint .h-m{display:none}
+@media(max-width:860px){
+ .n360 .smoke{opacity:.22!important}
+ .n360l{position:relative;z-index:6;background:rgba(7,7,7,.72);padding:18px 16px 20px;border:1px solid rgba(201,164,92,.18);border-radius:6px;-webkit-backdrop-filter:blur(8px);backdrop-filter:blur(8px)}
+ .tab{color:#cdc4b3;font-size:15px}.tab.on{color:#fff}.tnotes{color:#fff;font-size:15px}.mini{color:#fff}
+ .n360r p,.nw-desc,.sa-t p,.sb-t p,.ab-txt p{color:#d8d0c1}
+ .fab{width:42px;height:42px;right:12px;bottom:14px;opacity:.9}
+ .nw-hint .h-d{display:none}.nw-hint .h-m{display:inline}
+ .coll .smoke,.sa .smoke,.cfin .smoke,.breakdown .smoke{opacity:.35!important}
+}

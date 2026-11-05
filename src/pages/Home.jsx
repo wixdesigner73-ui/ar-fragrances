@@ -15,8 +15,7 @@ const pick=(pre,pool)=>pre.map(x=>pool.find(p=>p.handle.startsWith(x))).filter(B
 // notes hand-verified against the product descriptions on arfragrances.pk
 const NOTES={
  'ar-elites-inspired-by-one-million-elites-perfume':{top:['Blood Mandarin','Grapefruit','Mint'],heart:['Cinnamon','Spicy Notes','Rose'],base:['Amber','Leather','Woody Notes','Indian Patchouli']},
- 'blush-me-up-inspired-by-my-way-women-30ml':{top:['Orange Blossom','Bergamot'],heart:['Tuberose','Indian Jasmine'],base:['Madagascar Vanilla','White Musk','Virginian Cedar']},
- 'sun-kissed-gold-24-hours-lasting':{top:['Saffron','Jasmine','Bergamot'],heart:['Amberwood','Cedarwood','Cashmeran','Fir Balsam'],base:['Ambergris','Musk','Tonka Bean']}};
+ 'ar-addiction-inspired-by-aqva':{top:['Orange'],heart:['Neroli','Seaweed'],base:['Amber','Virginia Cedar']}};
 const TABS=[['top','Top Notes'],['heart','Heart Notes'],['base','Base Notes']];
 const para=h=>h.replace(/<h1[\s\S]*?<\/h1>/,'').replace(/<br\s*\/?>\s*<br\s*\/?>/g,'\n\n').replace(/<[^>]+>/g,'').replace(/&amp;/g,'&').replace(/&nbsp;/g,' ').split(/\n\s*\n/).map(t=>t.replace(/\s+/g,' ').trim()).filter(t=>t.length>70&&!t.startsWith('-')&&!/first to know|subscribe|newsletter/i.test(t));
 const lead=p=>firstSentence(p).replace(/^.*?\)\s*is\s+/,'').replace(/^./,c=>c.toUpperCase());
@@ -67,7 +66,7 @@ export default function Home(){
     <div className="hcta hfade"><Link className="btn" to={'/products/'+hp.handle}>Shop Now</Link><Link className="btn sq" to="/collections/all" aria-label="View all perfumes">→</Link><span className="hprice"><Price p={hp}/></span></div>
    </div>
   </div>
-  <div className="hero3d"><Suspense fallback={null}><Bottle3D src={hp.cut} alt={hp.title} spray hint anchorRef={anchor}/></Suspense></div>
+  <div className="hero3d"><Suspense fallback={null}><Bottle3D src={hp.cut} alt={hp.title} spray rotate={false} hint anchorRef={anchor}/></Suspense></div>
  </section>
 
  <section className="coll" id="coll">
