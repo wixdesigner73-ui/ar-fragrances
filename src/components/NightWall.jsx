@@ -47,7 +47,7 @@ export default function NightWall(){
      <div className="nw-cap"><b>{shortTitle(x.p.title).replace(/ - .*/,'').replace(/^AR /i,'')}</b><span>{money(x.p.price)}</span></div>
     </div>)}
   </div>
-  <Smoke amt={1.5} tint={[.74,.7,.78]} wide={2.6} src={[.5,.1]} className="low"/>
+  <Smoke amt={1.5} tint={[.84,.74,.56]} wide={2.6} src={[.5,.1]} className="low"/>
   <div className="nw-title"><span className="eyebrow">AR Fragrances · Collection No. 1</span><h2>The <em>night</em> collection</h2><p>Five signature fragrances, lit one by one. Select a niche to step inside.</p></div>
   <div className="nw-hint" aria-hidden="true"><i/>Hover to illuminate · Select to open</div>
   <aside className="nw-info" aria-live="polite" aria-hidden={!open}>{p&&<>
