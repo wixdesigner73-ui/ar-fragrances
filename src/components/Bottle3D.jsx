@@ -95,8 +95,8 @@ export default function Bottle3D({src,alt='',className='',spray=false,anchorRef,
    const refl=bottle.clone(true);refl.scale.y=-1;
    const patchR=o=>{if(o.isMesh){o.material=o.material.clone();o.material.transparent=true;o.material.opacity=.3;o.material.depthWrite=false;
     o.material.onBeforeCompile=sh=>{sh.vertexShader=sh.vertexShader.replace('#include <common>','#include <common>\nvarying float vWY;').replace('#include <begin_vertex>','#include <begin_vertex>\nvWY=(modelMatrix*vec4(transformed,1.0)).y;');
-     sh.fragmentShader=sh.fragmentShader.replace('#include <common>','#include <common>\nvarying float vWY;').replace('#include <dithering_fragment>','#include <dithering_fragment>\ngl_FragColor.a*=clamp(1.0+vWY/1.15,0.0,1.0);')}}};refl.traverse(patchR);root.add(refl);
-   reflCap=new THREE.Group();const rcm=cm.clone();reflCap.add(rcm);reflCap.scale.y=-1;reflCap.traverse(patchR);scene.add(reflCap);
+     sh.fragmentShader=sh.fragmentShader.replace('#include <common>','#include <common>\nvarying float vWY;').replace('#include <dithering_fragment>','#include <dithering_fragment>\ngl_FragColor.a*=clamp(1.0+vWY/1.15,0.0,1.0);')}}};if(innerWidth>=860){refl.traverse(patchR);root.add(refl)}
+   if(innerWidth>=860){reflCap=new THREE.Group();const rcm=cm.clone();reflCap.add(rcm);reflCap.scale.y=-1;reflCap.traverse(patchR);scene.add(reflCap)}
    // contact shadow + floor glow
    const sh=new THREE.Mesh(new THREE.PlaneGeometry(2.6,2.6),new THREE.MeshBasicMaterial({map:blobTex(0,0,0,.75),transparent:true,depthWrite:false}));sh.rotation.x=-Math.PI/2;sh.position.y=.004;scene.add(sh);
    const gl=new THREE.Mesh(new THREE.PlaneGeometry(5.2,3.2),new THREE.MeshBasicMaterial({map:blobTex(255,200,120,.22),transparent:true,depthWrite:false,blending:THREE.AdditiveBlending}));gl.rotation.x=-Math.PI/2;gl.position.y=.006;scene.add(gl);

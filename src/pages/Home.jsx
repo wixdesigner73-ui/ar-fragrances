@@ -52,7 +52,7 @@ export default function Home(){
   return()=>removeEventListener('pointermove',mm)
  },root);return()=>ctx.revert()},[]);
  useEffect(()=>{if(reduce())return;const t=setInterval(()=>setTab(i=>(i+1)%3),5200);return()=>clearInterval(t)},[]);
- const cs=showcase.length;const cgo=d=>setCi(i=>Math.max(0,Math.min(cs-1,i+d)));
+ const swx=useRef(0);const cs=showcase.length;const cgo=d=>setCi(i=>Math.max(0,Math.min(cs-1,i+d)));
  const nn=d=>{setNi(i=>(i+d+notesList.length)%notesList.length);setTab(0)};
  const name=shortTitle(hp.title).replace(/ - .*/,'');
  const title=shortTitle(nP?nP.title:'').replace(/ - .*/,'');
@@ -74,7 +74,7 @@ export default function Home(){
  <section className="coll" id="coll">
   <div className="rays soft"/><Dust n={40}/><Smoke amt={.9} tint={[.8,.72,.6]} wide={2} src={[.5,.02]} className="low"/>
   <h2 className="stitle rv">Product Collection</h2>
-  <div className="car rv"><button className="arr l" onClick={()=>cgo(-1)} aria-label="Previous">‹</button><button className="arr r" onClick={()=>cgo(1)} aria-label="Next">›</button>
+  <div className="car rv" onTouchStart={e=>{swx.current=e.touches[0].clientX}} onTouchEnd={e=>{const dx=e.changedTouches[0].clientX-swx.current;if(Math.abs(dx)>40)cgo(dx<0?1:-1)}}><button className="arr l" onClick={()=>cgo(-1)} aria-label="Previous">‹</button><button className="arr r" onClick={()=>cgo(1)} aria-label="Next">›</button>
    <div className="track" style={{'--i':ci}}>{showcase.map((p,i)=><div key={p.handle} className={'cslot'+(i===ci?' on':'')+(Math.abs(i-ci)>1?' far':'')} onClick={()=>i!==ci&&setCi(i)}>
      <Link to={'/products/'+p.handle} className="pcard tilt" tabIndex={i===ci?0:-1}>{onSale(p)&&<em className="ptag">Sale</em>}<div className="pimg"><img src={p.cutS||p.cut} alt={p.title} loading="lazy" decoding="async"/></div><h3>{shortTitle(p.title).replace(/ - .*/,'')}</h3><Price p={p}/></Link></div>)}</div></div>
   <div className="dots light">{showcase.map((p,i)=><button key={p.handle} className={i===ci?'on':''} onClick={()=>setCi(i)} aria-label={'Product '+(i+1)}/>)}</div>

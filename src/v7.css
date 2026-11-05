@@ -188,3 +188,26 @@ body{background-color:#070707!important;background-image:
  .sb-panel{min-height:44vh!important}.sa-b{height:40vh!important}.ctab{height:46vh!important}
  img{content-visibility:auto}
 }
+
+/* hero: bottle never overlaps the text on tablet/phone */
+@media(max-width:860px){
+ .hero{min-height:100svh}
+ .hero3d{top:64px!important;bottom:auto!important;height:46svh}
+ .hero .htxt{top:calc(64px + 46svh)!important;bottom:auto!important;transform:none!important;left:20px;right:20px;padding-bottom:70px}
+ .hero .hbot-wrap{display:none}
+}
+@media(max-width:860px) and (min-height:900px){.hero3d{height:44svh}.hero .htxt{top:calc(64px + 44svh)!important}}
+
+/* notes carousel arrows must sit above the content layer so taps reach them */
+.n360 .arr{z-index:12!important;pointer-events:auto;touch-action:manipulation;background:rgba(7,7,7,.55)}
+@media(max-width:860px){.n360 .arr{width:44px;height:64px;top:30%}.n360 .arr.l{left:4px}.n360 .arr.r{right:4px}}
+
+/* carousels: arrows always tappable, above the content layer */
+.n360 .arr,.coll .car .arr{z-index:12;touch-action:manipulation}
+@media(max-width:860px){
+ .n360 .arr{top:calc(84px + 24vh);width:44px;height:56px;background:rgba(7,7,7,.55)}
+ .n360 .arr.l{left:6px}.n360 .arr.r{right:6px}
+ .coll .car .arr{display:grid;width:40px;height:52px;background:rgba(7,7,7,.55);top:44%}
+ .coll .car .arr.l{left:4px}.coll .car .arr.r{right:4px}
+ .car{touch-action:pan-y}
+}
