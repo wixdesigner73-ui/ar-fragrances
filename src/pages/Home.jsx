@@ -1,7 +1,7 @@
 import React,{Suspense,lazy,useEffect,useLayoutEffect,useMemo,useRef,useState} from 'react';
 import {Link} from 'react-router-dom';
 import gsap from 'gsap';import {ScrollTrigger} from 'gsap/ScrollTrigger';
-import Opening from '../components/Opening.jsx';import Bottle from '../components/Bottle.jsx';import Smoke from '../components/Smoke.jsx';
+import Bottle from '../components/Bottle.jsx';import Smoke from '../components/Smoke.jsx';
 import {Dust,GoldDrop,PourArt,Petals} from '../components/art.jsx';
 import {Price} from '../components/ui.jsx';
 import {products_,byHandle,shortTitle,firstSentence,onSale} from '../store.jsx';
@@ -56,10 +56,9 @@ export default function Home(){
  const name=shortTitle(hp.title).replace(/ - .*/,'');
  const title=shortTitle(nP?nP.title:'').replace(/ - .*/,'');
  return <div ref={root}>
- <Opening/>
- <section className="hero" aria-label="Featured perfume">
+ <section className="hero" id="hero" aria-label="Featured perfume">
   <div className="rays"/><div className="floorbg"/><Dust/>
-  <Smoke amt={1.4} wide={2.4} tint={[.82,.76,.66]} src={[.62,.03]} className="low"/><Smoke jet amt={.12} anchorRef={anchor}/>
+  <Smoke amt={1.6} wide={2.6} tint={[.82,.76,.66]} src={[.62,.03]} className="low"/><Smoke amt={.9} wide={3} tint={[.7,.62,.5]} rise={.6} src={[.5,.3]} className="mid"/><Smoke jet amt={.12} anchorRef={anchor}/>
   <div className="hstage">
    <div className="htxt">
     <span className="eyebrow hfade">Premium Collection</span>
@@ -71,7 +70,7 @@ export default function Home(){
   <div className="hero3d"><Suspense fallback={<Fallback p={hp}/>}><Bottle3D src={hp.cut} alt={hp.title} spray hint anchorRef={anchor}/></Suspense></div>
  </section>
 
- <section className="coll">
+ <section className="coll" id="coll">
   <div className="rays soft"/><Dust n={40}/><Smoke amt={.9} tint={[.8,.72,.6]} wide={2} src={[.5,.02]} className="low"/>
   <h2 className="stitle rv">Product Collection</h2>
   <div className="car rv"><button className="arr l" onClick={()=>cgo(-1)} aria-label="Previous">‹</button><button className="arr r" onClick={()=>cgo(1)} aria-label="Next">›</button>
@@ -80,7 +79,7 @@ export default function Home(){
   <div className="dots light">{showcase.map((p,i)=><button key={p.handle} className={i===ci?'on':''} onClick={()=>setCi(i)} aria-label={'Product '+(i+1)}/>)}</div>
  </section>
 
- {notes&&<section className="n360">
+ {notes&&<section className="n360" id="n360">
   <div className="vig"/><Smoke amt={1.5} tint={[.86,.7,.46]} wide={1.6} src={[.5,.2]} className="low"/>
   <div className="n360g">
    <div className="n360l"><h2 className="mini">Fragrance Notes</h2>
@@ -93,7 +92,7 @@ export default function Home(){
   {notesList.length>1&&<><button className="arr l" onClick={()=>nn(-1)} aria-label="Previous">‹</button><button className="arr r" onClick={()=>nn(1)} aria-label="Next">›</button></>}
  </section>}
 
- <section className="sa">
+ <section className="sa" id="sa">
   <div className="rays soft"/><Dust n={30}/><Smoke amt={1.1} tint={[.8,.68,.5]} wide={1.8} src={[.3,.05]} className="low"/><Petals/>
   <div className="sa-g"><div className="sa-t"><span className="eyebrow rv">AR Fragrances</span><h2 className="rv">Brand Story</h2><p className="rv">{about[1]||about[0]}</p><Link to="/pages/about-us" className="btn rv">Read Our Story</Link></div>
    <div className="sa-b"><img className="sb-bot" src={storyP.cut} alt={storyP.title} loading="lazy"/></div></div>
@@ -111,7 +110,7 @@ export default function Home(){
    <p className="bfoot">{title} · <Link to={'/products/'+nP.handle}>View product</Link></p></div>
  </section>}
 
- <section className="cta">
+ <section className="cta" id="cta">
   <div className="rays soft"/><Dust n={40}/><div className="bokeh" aria-hidden="true"><i/><i/><i/><i/><i/></div>
   <Smoke amt={2.2} wide={2.2} src={[.62,.1]} className="low"/>
   <div className="ctag">
@@ -122,7 +121,7 @@ export default function Home(){
   </div>
  </section>
 
- <section className="cfin"><h2>Find Your Signature Scent</h2>
+ <section className="cfin"><Smoke amt={1.2} tint={[.8,.7,.5]} wide={2.4} src={[.5,.02]} className="low"/><h2>Find Your Signature Scent</h2>
   <p>With 25+ outlets nationwide and delivery across Pakistan, AR Fragrances brings designer-inspired perfumes with high oil concentration to your door — or your nearest store.</p>
   <Link className="pill" to="/collections/all">Shop All Perfumes</Link><Link className="chip" to="/pages/our-outlets">Find an outlet</Link></section>
  </div>}
