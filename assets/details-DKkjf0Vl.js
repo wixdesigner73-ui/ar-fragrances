@@ -1,0 +1,2735 @@
+var e={"blush-me-up-inspired-by-my-way-women-30ml":{html:`<h2>BLUSH ME UP - INSPIRED BY MY WAY (WOMEN)</h2>
+<p><strong>Blush Me Up Perfume</strong>\xA0inspired by <strong>MY WAY</strong>\xA0is a Floral fragrance for women.\xA0</p>
+<p>The Top notes are Orange Blossom and Bergamot; middle notes are Tuberose and Indian Jasmine; base notes are Madagascar Vanilla, White Musk and Virginian Cedar.</p>
+<p>Get ready to feel amazing with BLUSH ME UP perfume, the perfect fragrance for women. It's not just any scent; it's the best perfume for you. When you wear BLUSH ME UP fragrance, everyone will be amazed and say, 'You are smelling like a flower! Wow just looking like a Waw It's like a happy smell just for you. BLUSH ME UP is more than a scent, it's your best friend for feeling fantastic.\xA0</p>
+<p>Try it now and see how it makes you smell and feel beautiful. BLUSH ME UP – the best perfume with discounted price in Pakistan, just for you!</p>
+<p>\xA0</p>
+<p><img class="_resizableImage_c2z95_102" src="https://cdn.shopify.com/s/files/1/0571/8907/2940/files/1_b8a6a717-6be2-422b-95fc-285c656ea313_480x480.png?v=1671805825" alt=""></p>`,desc:`BLUSH ME UP - INSPIRED BY MY WAY (WOMEN) Blush Me Up Perfume inspired by MY WAY is a Floral fragrance for women. The Top notes are Orange Blossom and Bergamot; middle notes are Tuberose and Indian Jasmine; base notes are Madagascar Vanilla, White Musk and Virginian Cedar. Get ready to feel amazing with BLUSH ME UP perfume, the perfect fragrance for women. It's not just any scent; it's the best perfume for you. When you wear BLUSH ME UP fragrance, everyone will be amazed and say, 'You are smelling like a flower! Wow just looking like a Waw It's like a happy smell just for you. BLUSH ME UP is more than a scent, it's your best friend for feeling fantastic. Try it now and see how it makes you smell and feel beautiful. BLUSH ME UP – the best perfume with discounted price in Pakistan, just for you!`},"crysto-glam-girl-perfume-pack-of-2":{html:`<p dir="auto" data-start="272" data-end="312" class="PDq2pG_selectionAnchorContainer">✨ <strong data-start="274" data-end="310">Crysto &amp; Glam Girl – Perfume Duo</strong> ✨<span class="PDq2pG_selectionAnchor"></span></p>
+<p dir="auto" data-start="314" data-end="412">Add a touch of elegance to your fragrance collection with this beautiful <strong data-start="387" data-end="400">Pack of 2</strong>, featuring:</p>
+<p dir="auto" data-start="414" data-end="501">🤍 <strong data-start="417" data-end="435">Crysto – 30 ML</strong><br data-start="435" data-end="438">A refined fragrance designed to complement your personal style.</p>
+<p dir="auto" data-start="503" data-end="599">🌸 <strong data-start="506" data-end="527">Glam Girl – 30 ML</strong><br data-start="527" data-end="530">An elegant fragrance perfect for everyday wear and special occasions.</p>
+<h3 dir="auto" data-start="601" data-end="622">📦 What's Inside?</h3>
+<ul data-start="623" data-end="722">
+<li data-start="623" data-end="655">1 × <strong data-start="629" data-end="655">Crysto Perfume – 30 ML</strong>
+</li>
+<li data-start="656" data-end="691">1 × <strong data-start="662" data-end="691">Glam Girl Perfume – 30 ML</strong>
+</li>
+<li data-start="692" data-end="710"><strong data-start="694" data-end="710">Total: 60 ML</strong></li>
+<li data-start="711" data-end="722">Pack of 2</li>
+</ul>`,desc:`✨ Crysto & Glam Girl – Perfume Duo ✨ Add a touch of elegance to your fragrance collection with this beautiful Pack of 2 , featuring: 🤍 Crysto – 30 ML A refined fragrance designed to complement your personal style. 🌸 Glam Girl – 30 ML An elegant fragrance perfect for everyday wear and special occasions. 📦 What's Inside? 1 × Crysto Perfume – 30 ML 1 × Glam Girl Perfume – 30 ML Total: 60 ML Pack of 2`},"blush-me-up-crysto-perfume-pack-of-2":{html:`<p dir="auto" data-start="276" data-end="318" class="PDq2pG_selectionAnchorContainer">✨ <strong data-start="278" data-end="316">Blush Me Up &amp; Crysto – Perfume Duo</strong> ✨<span class="PDq2pG_selectionAnchor"></span></p>
+<p dir="auto" data-start="320" data-end="418">Add a touch of elegance to your fragrance collection with this beautiful <strong data-start="393" data-end="406">Pack of 2</strong>, featuring:</p>
+<p dir="auto" data-start="420" data-end="513">🌸 <strong data-start="423" data-end="446">Blush Me Up – 30 ML</strong><br data-start="446" data-end="449">A charming fragrance designed to complement your personal style.</p>
+<p dir="auto" data-start="515" data-end="608">🤍 <strong data-start="518" data-end="536">Crysto – 30 ML</strong><br data-start="536" data-end="539">An elegant fragrance perfect for everyday wear and special occasions.</p>
+<h3 dir="auto" data-start="610" data-end="631">📦 What's Inside?</h3>
+<ul data-start="632" data-end="733">
+<li data-start="632" data-end="669">1 × <strong data-start="638" data-end="669">Blush Me Up Perfume – 30 ML</strong>
+</li>
+<li data-start="670" data-end="702">1 × <strong data-start="676" data-end="702">Crysto Perfume – 30 ML</strong>
+</li>
+<li data-start="703" data-end="721"><strong data-start="705" data-end="721">Total: 60 ML</strong></li>
+<li data-start="722" data-end="733">Pack of 2</li>
+</ul>`,desc:`✨ Blush Me Up & Crysto – Perfume Duo ✨ Add a touch of elegance to your fragrance collection with this beautiful Pack of 2 , featuring: 🌸 Blush Me Up – 30 ML A charming fragrance designed to complement your personal style. 🤍 Crysto – 30 ML An elegant fragrance perfect for everyday wear and special occasions. 📦 What's Inside? 1 × Blush Me Up Perfume – 30 ML 1 × Crysto Perfume – 30 ML Total: 60 ML Pack of 2`},"chocolate-swaggy-crysto-perfume-pack-of-3":{html:`<p dir="auto" data-start="299" data-end="348" class="PDq2pG_selectionAnchorContainer">✨ <strong data-start="301" data-end="346">Chocolate, Swaggy &amp; Crysto – Perfume Trio</strong> ✨<span class="PDq2pG_selectionAnchor"></span></p>
+<p dir="auto" data-start="350" data-end="427">Upgrade your fragrance collection with this premium <strong data-start="402" data-end="415">Pack of 3</strong>, featuring:</p>
+<p dir="auto" data-start="429" data-end="563">🍫 <strong data-start="432" data-end="453">Chocolate – 30 ML</strong><br data-start="453" data-end="456">A rich and elegant fragrance with a warm, sophisticated character, perfect for making a lasting impression.</p>
+<p dir="auto" data-start="565" data-end="675">🖤 <strong data-start="568" data-end="586">Swaggy – 30 ML</strong><br data-start="586" data-end="589">A bold and stylish fragrance designed for those who love a confident and modern scent.</p>
+<p dir="auto" data-start="677" data-end="811">💙 <strong data-start="680" data-end="698">Crysto – 30 ML</strong><br data-start="698" data-end="701">A fresh and captivating fragrance with a distinctive character, ideal for everyday wear and special occasions.</p>
+<h3 dir="auto" data-start="813" data-end="834">📦 What's Inside?</h3>
+<ul data-start="836" data-end="972">
+<li data-start="836" data-end="871">1 × <strong data-start="842" data-end="871">Chocolate Perfume – 30 ML</strong>
+</li>
+<li data-start="872" data-end="904">1 × <strong data-start="878" data-end="904">Swaggy Perfume – 30 ML</strong>
+</li>
+<li data-start="905" data-end="937">1 × <strong data-start="911" data-end="937">Crysto Perfume – 30 ML</strong>
+</li>
+<li data-start="938" data-end="956"><strong data-start="940" data-end="956">Total: 90 ML</strong></li>
+<li data-start="957" data-end="972"><strong data-start="959" data-end="972">Pack of 3</strong></li>
+</ul>`,desc:`✨ Chocolate, Swaggy & Crysto – Perfume Trio ✨ Upgrade your fragrance collection with this premium Pack of 3 , featuring: 🍫 Chocolate – 30 ML A rich and elegant fragrance with a warm, sophisticated character, perfect for making a lasting impression. 🖤 Swaggy – 30 ML A bold and stylish fragrance designed for those who love a confident and modern scent. 💙 Crysto – 30 ML A fresh and captivating fragrance with a distinctive character, ideal for everyday wear and special occasions. 📦 What's Inside? 1 × Chocolate Perfume – 30 ML 1 × Swaggy Perfume – 30 ML 1 × Crysto Perfume – 30 ML Total: 90 ML Pack of 3`},"summer-unisex-eau-de-parfum-50ml":{html:`<div>
+<p dir="auto" data-start="526" data-end="571" class="PDq2pG_selectionAnchorContainer"><strong data-start="526" data-end="571">SUMMER is a fragrance without boundaries.</strong><span class="PDq2pG_selectionAnchor"></span></p>
+<p dir="auto" data-start="573" data-end="723">Created for <strong data-start="585" data-end="607">both men and women</strong>, SUMMER captures the fresh, vibrant feeling of a perfect summer day with a beautifully balanced citrus composition.</p>
+<p dir="auto" data-start="725" data-end="862">It opens with a refreshing burst of <strong data-start="761" data-end="811">Mandarin Orange, Sicilian Orange, and Bergamot</strong>, creating a bright and energetic first impression.</p>
+<p dir="auto" data-start="864" data-end="976">At the heart, <strong data-start="878" data-end="888">Ginger</strong> adds a subtle touch of warmth and spice, giving the fragrance more depth and character.</p>
+<p dir="auto" data-start="978" data-end="1088">As it settles, <strong data-start="993" data-end="1006">Ambergris</strong> creates a smooth, warm finish that complements the citrus and ginger beautifully.</p>
+<p dir="auto" data-start="1090" data-end="1208">Fresh yet warm, vibrant yet refined — <strong data-start="1128" data-end="1208">SUMMER is an effortless unisex fragrance designed to be enjoyed by everyone.</strong></p>
+<hr data-start="1210" data-end="1213">
+<h2 dir="auto" data-start="1215" data-end="1236">🍊 FRAGRANCE NOTES</h2>
+<h3 dir="auto" data-start="1238" data-end="1251">TOP NOTES</h3>
+<p dir="auto" data-start="1252" data-end="1307">🍊 Mandarin Orange<br data-start="1270" data-end="1273">🍊 Sicilian Orange<br data-start="1291" data-end="1294">🍋 Bergamot</p>
+<h3 dir="auto" data-start="1309" data-end="1323">HEART NOTE</h3>
+<p dir="auto" data-start="1324" data-end="1335">🌿 Ginger</p>
+<h3 dir="auto" data-start="1337" data-end="1350">BASE NOTE</h3>
+<p dir="auto" data-start="1351" data-end="1364">✨ Ambergris</p>
+</div>
+<!---->`,desc:`SUMMER is a fragrance without boundaries. Created for both men and women , SUMMER captures the fresh, vibrant feeling of a perfect summer day with a beautifully balanced citrus composition. It opens with a refreshing burst of Mandarin Orange, Sicilian Orange, and Bergamot , creating a bright and energetic first impression. At the heart, Ginger adds a subtle touch of warmth and spice, giving the fragrance more depth and character. As it settles, Ambergris creates a smooth, warm finish that complements the citrus and ginger beautifully. Fresh yet warm, vibrant yet refined — SUMMER is an effortless unisex fragrance designed to be enjoyed by everyone. 🍊 FRAGRANCE NOTES TOP NOTES 🍊 Mandarin Orange 🍊 Sicilian Orange 🍋 Bergamot HEART NOTE 🌿 Ginger BASE NOTE ✨ Ambergris`},"dream-our-signature-perfume-50ml":{html:`<div>
+<p dir="auto" data-start="414" data-end="471" class="PDq2pG_selectionAnchorContainer"><strong data-start="414" data-end="471">DREAM is more than a fragrance — it is our signature.</strong><span class="PDq2pG_selectionAnchor"></span></p>
+<p dir="auto" data-start="473" data-end="632">Created as part of our <strong data-start="496" data-end="529">most premium fragrance series</strong>, DREAM combines sparkling citrus freshness with a sophisticated aquatic heart and a warm, smooth base.</p>
+<p dir="auto" data-start="634" data-end="892">The fragrance opens with the refreshing brightness of <strong data-start="688" data-end="710">Bergamot and Lemon</strong>, creating a crisp and uplifting first impression. As it develops, <strong data-start="777" data-end="809">Seaweed, Calone, and Hedione</strong> create a clean, airy aquatic character that gives DREAM its distinctive freshness.</p>
+<p dir="auto" data-start="894" data-end="1033">The scent finally settles into a refined base of <strong data-start="943" data-end="972">Musk, Ambroxan, and Cedar</strong>, adding depth, smoothness, and a sophisticated woody finish.</p>
+<p dir="auto" data-start="1035" data-end="1077"><strong data-start="1035" data-end="1077">Fresh. Refined. Modern. Unforgettable.</strong></p>
+<p dir="auto" data-start="1079" data-end="1201">DREAM is made for those who appreciate a premium fragrance with a clean aquatic character and an elegant signature finish.</p>
+<hr data-start="1203" data-end="1206">
+<h2 dir="auto" data-start="1208" data-end="1229">🌊 Fragrance Notes</h2>
+<h3 dir="auto" data-start="1231" data-end="1247">🍋 Top Notes</h3>
+<ul data-start="1248" data-end="1266">
+<li data-start="1248" data-end="1258">Bergamot</li>
+<li data-start="1259" data-end="1266">Lemon</li>
+</ul>
+<h3 dir="auto" data-start="1268" data-end="1287">🌊 Middle Notes</h3>
+<ul data-start="1288" data-end="1316">
+<li data-start="1288" data-end="1297">Seaweed</li>
+<li data-start="1298" data-end="1306">Calone</li>
+<li data-start="1307" data-end="1316">Hedione</li>
+</ul>
+<h3 dir="auto" data-start="1318" data-end="1335">🌲 Base Notes</h3>
+<ul data-start="1336" data-end="1361">
+<li data-start="1336" data-end="1342">Musk</li>
+<li data-start="1343" data-end="1353">Ambroxan</li>
+<li data-start="1354" data-end="1361">Cedar</li>
+</ul>
+</div>
+<!---->`,desc:`DREAM is more than a fragrance — it is our signature. Created as part of our most premium fragrance series , DREAM combines sparkling citrus freshness with a sophisticated aquatic heart and a warm, smooth base. The fragrance opens with the refreshing brightness of Bergamot and Lemon , creating a crisp and uplifting first impression. As it develops, Seaweed, Calone, and Hedione create a clean, airy aquatic character that gives DREAM its distinctive freshness. The scent finally settles into a refined base of Musk, Ambroxan, and Cedar , adding depth, smoothness, and a sophisticated woody finish. Fresh. Refined. Modern. Unforgettable. DREAM is made for those who appreciate a premium fragrance with a clean aquatic character and an elegant signature finish. 🌊 Fragrance Notes 🍋 Top Notes Bergamot Lemon 🌊 Middle Notes Seaweed Calone Hedione 🌲 Base Notes Musk Ambroxan Cedar`},"divine-prestige-the-boss-perfume-pack-of-3":{html:`<p dir="auto" data-start="309" data-end="367" class="PDq2pG_selectionAnchorContainer">✨ <strong data-start="311" data-end="365">Divine, Prestige &amp; The Boss – Premium Perfume Trio</strong> ✨<span class="PDq2pG_selectionAnchor"></span></p>
+<p dir="auto" data-start="369" data-end="475">Upgrade your fragrance collection with this stylish <strong data-start="421" data-end="434">Pack of 3</strong>, featuring three distinctive fragrances:</p>
+<p dir="auto" data-start="477" data-end="597">🖤 <strong data-start="480" data-end="498">Divine – 30 ML</strong><br data-start="498" data-end="501">An elegant and sophisticated fragrance designed to add a luxurious touch to your everyday style.</p>
+<p dir="auto" data-start="599" data-end="717">❤️ <strong data-start="602" data-end="622">Prestige – 30 ML</strong><br data-start="622" data-end="625">A bold and refined fragrance perfect for making a confident impression on special occasions.</p>
+<p dir="auto" data-start="719" data-end="835">🖤 <strong data-start="722" data-end="742">The Boss – 30 ML</strong><br data-start="742" data-end="745">A powerful and stylish fragrance created for those who love a confident, premium presence.</p>
+<h3 dir="auto" data-start="837" data-end="858">📦 What's Inside?</h3>
+<ul data-start="860" data-end="997">
+<li data-start="860" data-end="892">1 × <strong data-start="866" data-end="892">Divine Perfume – 30 ML</strong>
+</li>
+<li data-start="893" data-end="927">1 × <strong data-start="899" data-end="927">Prestige Perfume – 30 ML</strong>
+</li>
+<li data-start="928" data-end="962">1 × <strong data-start="934" data-end="962">The Boss Perfume – 30 ML</strong>
+</li>
+<li data-start="963" data-end="981"><strong data-start="965" data-end="981">Total: 90 ML</strong></li>
+<li data-start="982" data-end="997"><strong data-start="984" data-end="997">Pack of 3</strong></li>
+</ul>`,desc:`✨ Divine, Prestige & The Boss – Premium Perfume Trio ✨ Upgrade your fragrance collection with this stylish Pack of 3 , featuring three distinctive fragrances: 🖤 Divine – 30 ML An elegant and sophisticated fragrance designed to add a luxurious touch to your everyday style. ❤️ Prestige – 30 ML A bold and refined fragrance perfect for making a confident impression on special occasions. 🖤 The Boss – 30 ML A powerful and stylish fragrance created for those who love a confident, premium presence. 📦 What's Inside? 1 × Divine Perfume – 30 ML 1 × Prestige Perfume – 30 ML 1 × The Boss Perfume – 30 ML Total: 90 ML Pack of 3`},"sixer-reflections-divine-perfume-pack-of-3":{html:`<p dir="auto" data-start="296" data-end="346" class="PDq2pG_selectionAnchorContainer">✨ <strong data-start="298" data-end="344">Sixer, Reflections &amp; Divine – Perfume Trio</strong> ✨<span class="PDq2pG_selectionAnchor"></span></p>
+<p dir="auto" data-start="348" data-end="425">Elevate your fragrance collection with this premium <strong data-start="400" data-end="413">Pack of 3</strong>, featuring:</p>
+<p dir="auto" data-start="427" data-end="569">🖤 <strong data-start="430" data-end="447">Sixer – 30 ML</strong><br data-start="447" data-end="450">A sophisticated fragrance with a bold and elegant character, perfect for adding a refined touch to your everyday style.</p>
+<p dir="auto" data-start="571" data-end="714">✨ <strong data-start="573" data-end="596">Reflections – 30 ML</strong><br data-start="596" data-end="599">A modern and captivating fragrance designed to complement your personality for everyday wear and special occasions.</p>
+<p dir="auto" data-start="716" data-end="844">👑 <strong data-start="719" data-end="737">Divine – 30 ML</strong><br data-start="737" data-end="740">An elegant and distinctive fragrance that adds a luxurious finishing touch to your fragrance collection.</p>
+<h3 dir="auto" data-start="846" data-end="867">📦 What's Inside?</h3>
+<ul data-start="869" data-end="1006">
+<li data-start="869" data-end="900">1 × <strong data-start="875" data-end="900">Sixer Perfume – 30 ML</strong>
+</li>
+<li data-start="901" data-end="938">1 × <strong data-start="907" data-end="938">Reflections Perfume – 30 ML</strong>
+</li>
+<li data-start="939" data-end="971">1 × <strong data-start="945" data-end="971">Divine Perfume – 30 ML</strong>
+</li>
+<li data-start="972" data-end="990"><strong data-start="974" data-end="990">Total: 90 ML</strong></li>
+<li data-start="991" data-end="1006"><strong data-start="993" data-end="1006">Pack of 3</strong></li>
+</ul>`,desc:`✨ Sixer, Reflections & Divine – Perfume Trio ✨ Elevate your fragrance collection with this premium Pack of 3 , featuring: 🖤 Sixer – 30 ML A sophisticated fragrance with a bold and elegant character, perfect for adding a refined touch to your everyday style. ✨ Reflections – 30 ML A modern and captivating fragrance designed to complement your personality for everyday wear and special occasions. 👑 Divine – 30 ML An elegant and distinctive fragrance that adds a luxurious finishing touch to your fragrance collection. 📦 What's Inside? 1 × Sixer Perfume – 30 ML 1 × Reflections Perfume – 30 ML 1 × Divine Perfume – 30 ML Total: 90 ML Pack of 3`},"mr-blue-mr-king-divine-perfume-pack-of-3":{html:`<p dir="auto" data-start="295" data-end="343" class="PDq2pG_selectionAnchorContainer">✨ <strong data-start="297" data-end="341">Mr Blue, Mr King &amp; Divine – Perfume Trio</strong> ✨<span class="PDq2pG_selectionAnchor"></span></p>
+<p dir="auto" data-start="345" data-end="422">Elevate your fragrance collection with this premium <strong data-start="397" data-end="410">Pack of 3</strong>, featuring:</p>
+<p dir="auto" data-start="424" data-end="536">💙 <strong data-start="427" data-end="446">Mr Blue – 30 ML</strong><br data-start="446" data-end="449">A fresh and sophisticated fragrance with a modern character, perfect for everyday wear.</p>
+<p dir="auto" data-start="538" data-end="658">👑 <strong data-start="541" data-end="560">Mr King – 30 ML</strong><br data-start="560" data-end="563">A bold and commanding fragrance designed to add confidence and a touch of luxury to your style.</p>
+<p dir="auto" data-start="660" data-end="767">✨ <strong data-start="662" data-end="680">Divine – 30 ML</strong><br data-start="680" data-end="683">An elegant and captivating fragrance that brings a refined touch to your collection.</p>
+<h3 dir="auto" data-start="769" data-end="790">📦 What's Inside?</h3>
+<ul data-start="792" data-end="927">
+<li data-start="792" data-end="825">1 × <strong data-start="798" data-end="825">Mr Blue Perfume – 30 ML</strong>
+</li>
+<li data-start="826" data-end="859">1 × <strong data-start="832" data-end="859">Mr King Perfume – 30 ML</strong>
+</li>
+<li data-start="860" data-end="892">1 × <strong data-start="866" data-end="892">Divine Perfume – 30 ML</strong>
+</li>
+<li data-start="893" data-end="911"><strong data-start="895" data-end="911">Total: 90 ML</strong></li>
+<li data-start="912" data-end="927"><strong data-start="914" data-end="927">Pack of 3</strong></li>
+</ul>`,desc:`✨ Mr Blue, Mr King & Divine – Perfume Trio ✨ Elevate your fragrance collection with this premium Pack of 3 , featuring: 💙 Mr Blue – 30 ML A fresh and sophisticated fragrance with a modern character, perfect for everyday wear. 👑 Mr King – 30 ML A bold and commanding fragrance designed to add confidence and a touch of luxury to your style. ✨ Divine – 30 ML An elegant and captivating fragrance that brings a refined touch to your collection. 📦 What's Inside? 1 × Mr Blue Perfume – 30 ML 1 × Mr King Perfume – 30 ML 1 × Divine Perfume – 30 ML Total: 90 ML Pack of 3`},"prestige-the-legend-ocean-shades-perfume-pack-of-3":{html:`<p dir="auto" data-start="309" data-end="367" class="PDq2pG_selectionAnchorContainer">✨ <strong data-start="311" data-end="365">Prestige, The Legend &amp; Ocean Shades – Perfume Trio</strong> ✨<span class="PDq2pG_selectionAnchor"></span></p>
+<p dir="auto" data-start="369" data-end="446">Upgrade your fragrance collection with this elegant <strong data-start="421" data-end="434">Pack of 3</strong>, featuring:</p>
+<p dir="auto" data-start="448" data-end="563">❤️ <strong data-start="451" data-end="471">Prestige – 30 ML</strong><br data-start="471" data-end="474">A bold and sophisticated fragrance designed to add confidence and elegance to your style.</p>
+<p dir="auto" data-start="565" data-end="700">🖤 <strong data-start="568" data-end="590">The Legend – 30 ML</strong><br data-start="590" data-end="593">A classic and powerful fragrance with a refined character, perfect for everyday wear and special occasions.</p>
+<p dir="auto" data-start="702" data-end="814">💙 <strong data-start="705" data-end="729">Ocean Shades – 30 ML</strong><br data-start="729" data-end="732">A fresh and refreshing fragrance inspired by the clean, cool feeling of the ocean.</p>
+<h3 dir="auto" data-start="816" data-end="837">📦 What's Inside?</h3>
+<ul data-start="839" data-end="984">
+<li data-start="839" data-end="873">1 × <strong data-start="845" data-end="873">Prestige Perfume – 30 ML</strong>
+</li>
+<li data-start="874" data-end="910">1 × <strong data-start="880" data-end="910">The Legend Perfume – 30 ML</strong>
+</li>
+<li data-start="911" data-end="949">1 × <strong data-start="917" data-end="949">Ocean Shades Perfume – 30 ML</strong>
+</li>
+<li data-start="950" data-end="968"><strong data-start="952" data-end="968">Total: 90 ML</strong></li>
+<li data-start="969" data-end="984"><strong data-start="971" data-end="984">Pack of 3</strong></li>
+</ul>`,desc:`✨ Prestige, The Legend & Ocean Shades – Perfume Trio ✨ Upgrade your fragrance collection with this elegant Pack of 3 , featuring: ❤️ Prestige – 30 ML A bold and sophisticated fragrance designed to add confidence and elegance to your style. 🖤 The Legend – 30 ML A classic and powerful fragrance with a refined character, perfect for everyday wear and special occasions. 💙 Ocean Shades – 30 ML A fresh and refreshing fragrance inspired by the clean, cool feeling of the ocean. 📦 What's Inside? 1 × Prestige Perfume – 30 ML 1 × The Legend Perfume – 30 ML 1 × Ocean Shades Perfume – 30 ML Total: 90 ML Pack of 3`},"glam-girl-crush-blush-me-up-perfume-pack-of-3":{html:`<p dir="auto" data-start="302" data-end="355" class="PDq2pG_selectionAnchorContainer">✨ <strong data-start="304" data-end="353">Glam Girl, Crush &amp; Blush Me Up – Perfume Trio</strong> ✨<span class="PDq2pG_selectionAnchor"></span></p>
+<p dir="auto" data-start="357" data-end="436">Elevate your fragrance collection with this beautiful <strong data-start="411" data-end="424">Pack of 3</strong>, featuring:</p>
+<p dir="auto" data-start="438" data-end="559">🌸 <strong data-start="441" data-end="462">Glam Girl – 30 ML</strong><br data-start="462" data-end="465">A stylish and elegant fragrance designed to complement your everyday look and special moments.</p>
+<p dir="auto" data-start="561" data-end="685">🖤 <strong data-start="564" data-end="581">Crush – 30 ML</strong><br data-start="581" data-end="584">A captivating fragrance with a bold and confident character, perfect for making a lasting impression.</p>
+<p dir="auto" data-start="687" data-end="801">🌷 <strong data-start="690" data-end="713">Blush Me Up – 30 ML</strong><br data-start="713" data-end="716">A graceful fragrance that adds a soft and elegant touch to your fragrance collection.</p>
+<h3 dir="auto" data-start="803" data-end="824">📦 What's Inside?</h3>
+<ul data-start="826" data-end="966">
+<li data-start="826" data-end="861">1 × <strong data-start="832" data-end="861">Glam Girl Perfume – 30 ML</strong>
+</li>
+<li data-start="862" data-end="893">1 × <strong data-start="868" data-end="893">Crush Perfume – 30 ML</strong>
+</li>
+<li data-start="894" data-end="931">1 × <strong data-start="900" data-end="931">Blush Me Up Perfume – 30 ML</strong>
+</li>
+<li data-start="932" data-end="950"><strong data-start="934" data-end="950">Total: 90 ML</strong></li>
+<li data-start="951" data-end="966"><strong data-start="953" data-end="966">Pack of 3</strong></li>
+</ul>`,desc:`✨ Glam Girl, Crush & Blush Me Up – Perfume Trio ✨ Elevate your fragrance collection with this beautiful Pack of 3 , featuring: 🌸 Glam Girl – 30 ML A stylish and elegant fragrance designed to complement your everyday look and special moments. 🖤 Crush – 30 ML A captivating fragrance with a bold and confident character, perfect for making a lasting impression. 🌷 Blush Me Up – 30 ML A graceful fragrance that adds a soft and elegant touch to your fragrance collection. 📦 What's Inside? 1 × Glam Girl Perfume – 30 ML 1 × Crush Perfume – 30 ML 1 × Blush Me Up Perfume – 30 ML Total: 90 ML Pack of 3`},"glam-girl-sensation-x-chocolate-perfume-pack-of-3":{html:`<p dir="auto" data-start="318" data-end="375" class="PDq2pG_selectionAnchorContainer">✨ <strong data-start="320" data-end="373">Glam Girl, Sensation &amp; X Chocolate – Perfume Trio</strong> ✨<span class="PDq2pG_selectionAnchor"></span></p>
+<p dir="auto" data-start="377" data-end="456">Upgrade your fragrance collection with this beautiful <strong data-start="431" data-end="444">Pack of 3</strong>, featuring:</p>
+<p dir="auto" data-start="458" data-end="579">💗 <strong data-start="461" data-end="482">Glam Girl – 30 ML</strong><br data-start="482" data-end="485">An elegant and feminine fragrance perfect for adding a stylish touch to your everyday routine.</p>
+<p dir="auto" data-start="581" data-end="709">🖤 <strong data-start="584" data-end="605">Sensation – 30 ML</strong><br data-start="605" data-end="608">A sophisticated fragrance designed to complement your personal style and make every moment memorable.</p>
+<p dir="auto" data-start="711" data-end="855">🍫 <strong data-start="714" data-end="737">X Chocolate – 30 ML</strong><br data-start="737" data-end="740">A rich and luxurious fragrance with a warm character, perfect for those who enjoy an elegant and distinctive scent.</p>
+<h3 dir="auto" data-start="857" data-end="878">📦 What's Inside?</h3>
+<ul data-start="880" data-end="1024">
+<li data-start="880" data-end="915">1 × <strong data-start="886" data-end="915">Glam Girl Perfume – 30 ML</strong>
+</li>
+<li data-start="916" data-end="951">1 × <strong data-start="922" data-end="951">Sensation Perfume – 30 ML</strong>
+</li>
+<li data-start="952" data-end="989">1 × <strong data-start="958" data-end="989">X Chocolate Perfume – 30 ML</strong>
+</li>
+<li data-start="990" data-end="1008"><strong data-start="992" data-end="1008">Total: 90 ML</strong></li>
+<li data-start="1009" data-end="1024"><strong data-start="1011" data-end="1024">Pack of 3</strong></li>
+</ul>`,desc:`✨ Glam Girl, Sensation & X Chocolate – Perfume Trio ✨ Upgrade your fragrance collection with this beautiful Pack of 3 , featuring: 💗 Glam Girl – 30 ML An elegant and feminine fragrance perfect for adding a stylish touch to your everyday routine. 🖤 Sensation – 30 ML A sophisticated fragrance designed to complement your personal style and make every moment memorable. 🍫 X Chocolate – 30 ML A rich and luxurious fragrance with a warm character, perfect for those who enjoy an elegant and distinctive scent. 📦 What's Inside? 1 × Glam Girl Perfume – 30 ML 1 × Sensation Perfume – 30 ML 1 × X Chocolate Perfume – 30 ML Total: 90 ML Pack of 3`},"blush-me-up-prestige-perfume-pack-of-2":{html:`<p dir="auto" data-start="296" data-end="340" class="PDq2pG_selectionAnchorContainer">✨ <strong data-start="298" data-end="338">Blush Me Up &amp; Prestige – Perfume Duo</strong> ✨<span class="PDq2pG_selectionAnchor"></span></p>
+<p dir="auto" data-start="342" data-end="419">Enhance your fragrance collection with this elegant <strong data-start="394" data-end="407">Pack of 2</strong>, featuring:</p>
+<p dir="auto" data-start="421" data-end="545">🌸 <strong data-start="424" data-end="447">Blush Me Up – 30 ML</strong><br data-start="447" data-end="450">A feminine and graceful fragrance designed to add a soft, elegant touch to your everyday style.</p>
+<p dir="auto" data-start="547" data-end="713">❤️ <strong data-start="550" data-end="570">Prestige – 30 ML</strong><br data-start="570" data-end="573">A captivating and sophisticated fragrance perfect for outings, special occasions, and moments when you want to leave a memorable impression.</p>
+<h3 dir="auto" data-start="715" data-end="736">📦 What's Inside?</h3>
+<ul data-start="738" data-end="845">
+<li data-start="738" data-end="775">1 × <strong data-start="744" data-end="775">Blush Me Up Perfume – 30 ML</strong>
+</li>
+<li data-start="776" data-end="810">1 × <strong data-start="782" data-end="810">Prestige Perfume – 30 ML</strong>
+</li>
+<li data-start="811" data-end="829"><strong data-start="813" data-end="829">Total: 60 ML</strong></li>
+<li data-start="830" data-end="845"><strong data-start="832" data-end="845">Pack of 2</strong></li>
+</ul>`,desc:`✨ Blush Me Up & Prestige – Perfume Duo ✨ Enhance your fragrance collection with this elegant Pack of 2 , featuring: 🌸 Blush Me Up – 30 ML A feminine and graceful fragrance designed to add a soft, elegant touch to your everyday style. ❤️ Prestige – 30 ML A captivating and sophisticated fragrance perfect for outings, special occasions, and moments when you want to leave a memorable impression. 📦 What's Inside? 1 × Blush Me Up Perfume – 30 ML 1 × Prestige Perfume – 30 ML Total: 60 ML Pack of 2`},"glam-girl-prestige-perfume-pack-of-2":{html:`<p dir="auto" data-start="294" data-end="336" class="PDq2pG_selectionAnchorContainer">✨ <strong data-start="296" data-end="334">Glam Girl &amp; Prestige – Perfume Duo</strong> ✨<span class="PDq2pG_selectionAnchor"></span></p>
+<p dir="auto" data-start="338" data-end="417">Refresh your fragrance collection with this beautiful <strong data-start="392" data-end="405">Pack of 2</strong>, featuring:</p>
+<p dir="auto" data-start="419" data-end="538">💗 <strong data-start="422" data-end="443">Glam Girl – 30 ML</strong><br data-start="443" data-end="446">A feminine and elegant fragrance perfect for adding a touch of charm to your everyday style.</p>
+<p dir="auto" data-start="540" data-end="684">❤️ <strong data-start="543" data-end="563">Prestige – 30 ML</strong><br data-start="563" data-end="566">A captivating fragrance with a sophisticated character, perfect for outings, special occasions, and memorable moments.</p>
+<h3 dir="auto" data-start="686" data-end="707">📦 What's Inside?</h3>
+<ul data-start="709" data-end="814">
+<li data-start="709" data-end="744">1 × <strong data-start="715" data-end="744">Glam Girl Perfume – 30 ML</strong>
+</li>
+<li data-start="745" data-end="779">1 × <strong data-start="751" data-end="779">Prestige Perfume – 30 ML</strong>
+</li>
+<li data-start="780" data-end="798"><strong data-start="782" data-end="798">Total: 60 ML</strong></li>
+<li data-start="799" data-end="814"><strong data-start="801" data-end="814">Pack of 2</strong></li>
+</ul>`,desc:`✨ Glam Girl & Prestige – Perfume Duo ✨ Refresh your fragrance collection with this beautiful Pack of 2 , featuring: 💗 Glam Girl – 30 ML A feminine and elegant fragrance perfect for adding a touch of charm to your everyday style. ❤️ Prestige – 30 ML A captivating fragrance with a sophisticated character, perfect for outings, special occasions, and memorable moments. 📦 What's Inside? 1 × Glam Girl Perfume – 30 ML 1 × Prestige Perfume – 30 ML Total: 60 ML Pack of 2`},"x-chocolate-the-boss-perfume-pack-of-2":{html:`<p dir="auto" data-start="280" data-end="324" class="PDq2pG_selectionAnchorContainer">✨ <strong data-start="282" data-end="322">X Chocolate &amp; The Boss – Perfume Duo</strong> ✨<span class="PDq2pG_selectionAnchor"></span></p>
+<p dir="auto" data-start="326" data-end="409">Upgrade your fragrance collection with this sophisticated <strong data-start="384" data-end="397">Pack of 2</strong>, featuring:</p>
+<p dir="auto" data-start="411" data-end="552">🍫 <strong data-start="414" data-end="437">X Chocolate – 30 ML</strong><br data-start="437" data-end="440">A rich and elegant fragrance with a warm, luxurious character, perfect for those who love a sophisticated scent.</p>
+<p dir="auto" data-start="554" data-end="675">🖤 <strong data-start="557" data-end="577">The Boss – 30 ML</strong><br data-start="577" data-end="580">A bold and confident fragrance designed to complement your style and make a lasting impression.</p>
+<h3 dir="auto" data-start="677" data-end="698">📦 What's Inside?</h3>
+<ul data-start="700" data-end="807">
+<li data-start="700" data-end="737">1 × <strong data-start="706" data-end="737">X Chocolate Perfume – 30 ML</strong>
+</li>
+<li data-start="738" data-end="772">1 × <strong data-start="744" data-end="772">The Boss Perfume – 30 ML</strong>
+</li>
+<li data-start="773" data-end="791"><strong data-start="775" data-end="791">Total: 60 ML</strong></li>
+<li data-start="792" data-end="807"><strong data-start="794" data-end="807">Pack of 2</strong></li>
+</ul>`,desc:`✨ X Chocolate & The Boss – Perfume Duo ✨ Upgrade your fragrance collection with this sophisticated Pack of 2 , featuring: 🍫 X Chocolate – 30 ML A rich and elegant fragrance with a warm, luxurious character, perfect for those who love a sophisticated scent. 🖤 The Boss – 30 ML A bold and confident fragrance designed to complement your style and make a lasting impression. 📦 What's Inside? 1 × X Chocolate Perfume – 30 ML 1 × The Boss Perfume – 30 ML Total: 60 ML Pack of 2`},"blush-me-up-glam-girl-perfume-pack-of-2":{html:`<p dir="auto" data-start="282" data-end="327" class="PDq2pG_selectionAnchorContainer">✨ <strong data-start="284" data-end="325">Blush Me Up &amp; Glam Girl – Perfume Duo</strong> ✨<span class="PDq2pG_selectionAnchor"></span></p>
+<p dir="auto" data-start="329" data-end="427">Add a touch of elegance to your fragrance collection with this beautiful <strong data-start="402" data-end="415">Pack of 2</strong>, featuring:</p>
+<p dir="auto" data-start="429" data-end="522">🌸 <strong data-start="432" data-end="455">Blush Me Up – 30 ML</strong><br data-start="455" data-end="458">An elegant fragrance designed to complement your personal style.</p>
+<p dir="auto" data-start="524" data-end="619">💗 <strong data-start="527" data-end="548">Glam Girl – 30 ML</strong><br data-start="548" data-end="551">A stylish fragrance perfect for everyday wear and special occasions.</p>
+<h3 dir="auto" data-start="621" data-end="642">📦 What's Inside?</h3>
+<ul data-start="643" data-end="747">
+<li data-start="643" data-end="680">1 × <strong data-start="649" data-end="680">Blush Me Up Perfume – 30 ML</strong>
+</li>
+<li data-start="681" data-end="716">1 × <strong data-start="687" data-end="716">Glam Girl Perfume – 30 ML</strong>
+</li>
+<li data-start="717" data-end="735"><strong data-start="719" data-end="735">Total: 60 ML</strong></li>
+<li data-start="736" data-end="747">Pack of 2</li>
+</ul>`,desc:`✨ Blush Me Up & Glam Girl – Perfume Duo ✨ Add a touch of elegance to your fragrance collection with this beautiful Pack of 2 , featuring: 🌸 Blush Me Up – 30 ML An elegant fragrance designed to complement your personal style. 💗 Glam Girl – 30 ML A stylish fragrance perfect for everyday wear and special occasions. 📦 What's Inside? 1 × Blush Me Up Perfume – 30 ML 1 × Glam Girl Perfume – 30 ML Total: 60 ML Pack of 2`},"crush-blush-me-up-perfume-pack-of-2":{html:`<p dir="auto" data-start="274" data-end="315" class="PDq2pG_selectionAnchorContainer">✨ <strong data-start="276" data-end="313">Crush &amp; Blush Me Up – Perfume Duo</strong> ✨<span class="PDq2pG_selectionAnchor"></span></p>
+<p dir="auto" data-start="317" data-end="413">Add a touch of elegance to your fragrance collection with this stylish <strong data-start="388" data-end="401">Pack of 2</strong>, featuring:</p>
+<p dir="auto" data-start="415" data-end="505">🖤 <strong data-start="418" data-end="435">Crush – 30 ML</strong><br data-start="435" data-end="438">A captivating fragrance designed to complement your personal style.</p>
+<p dir="auto" data-start="507" data-end="605">🌸 <strong data-start="510" data-end="533">Blush Me Up – 30 ML</strong><br data-start="533" data-end="536">An elegant fragrance perfect for everyday wear and special occasions.</p>
+<h3 dir="auto" data-start="607" data-end="628">📦 What's Inside?</h3>
+<ul data-start="629" data-end="729">
+<li data-start="629" data-end="660">1 × <strong data-start="635" data-end="660">Crush Perfume – 30 ML</strong>
+</li>
+<li data-start="661" data-end="698">1 × <strong data-start="667" data-end="698">Blush Me Up Perfume – 30 ML</strong>
+</li>
+<li data-start="699" data-end="717"><strong data-start="701" data-end="717">Total: 60 ML</strong></li>
+<li data-start="718" data-end="729">Pack of 2</li>
+</ul>
+<p dir="auto" data-start="731" data-end="754">\xA0</p>`,desc:`✨ Crush & Blush Me Up – Perfume Duo ✨ Add a touch of elegance to your fragrance collection with this stylish Pack of 2 , featuring: 🖤 Crush – 30 ML A captivating fragrance designed to complement your personal style. 🌸 Blush Me Up – 30 ML An elegant fragrance perfect for everyday wear and special occasions. 📦 What's Inside? 1 × Crush Perfume – 30 ML 1 × Blush Me Up Perfume – 30 ML Total: 60 ML Pack of 2`},"swaggy-divine-perfume-pack-of-2":{html:`<p dir="auto" data-start="264" data-end="301" class="PDq2pG_selectionAnchorContainer">✨ <strong data-start="266" data-end="299">Swaggy &amp; Divine – Perfume Duo</strong> ✨<span class="PDq2pG_selectionAnchor"></span></p>
+<p dir="auto" data-start="303" data-end="380">Elevate your fragrance collection with this elegant <strong data-start="355" data-end="368">Pack of 2</strong>, featuring:</p>
+<p dir="auto" data-start="382" data-end="469">🖤 <strong data-start="385" data-end="403">Swaggy – 30 ML</strong><br data-start="403" data-end="406">A stylish fragrance designed to complement your personal style.</p>
+<p dir="auto" data-start="471" data-end="563">✨ <strong data-start="473" data-end="491">Divine – 30 ML</strong><br data-start="491" data-end="494">An elegant fragrance perfect for everyday wear and special occasions.</p>
+<h3 dir="auto" data-start="565" data-end="586">📦 What's Inside?</h3>
+<ul data-start="587" data-end="683">
+<li data-start="587" data-end="619">1 × <strong data-start="593" data-end="619">Swaggy Perfume – 30 ML</strong>
+</li>
+<li data-start="620" data-end="652">1 × <strong data-start="626" data-end="652">Divine Perfume – 30 ML</strong>
+</li>
+<li data-start="653" data-end="671"><strong data-start="655" data-end="671">Total: 60 ML</strong></li>
+<li data-start="672" data-end="683">Pack of 2</li>
+</ul>`,desc:`✨ Swaggy & Divine – Perfume Duo ✨ Elevate your fragrance collection with this elegant Pack of 2 , featuring: 🖤 Swaggy – 30 ML A stylish fragrance designed to complement your personal style. ✨ Divine – 30 ML An elegant fragrance perfect for everyday wear and special occasions. 📦 What's Inside? 1 × Swaggy Perfume – 30 ML 1 × Divine Perfume – 30 ML Total: 60 ML Pack of 2`},"elites-sensation-perfume-pack-of-2":{html:`<p dir="auto" data-start="276" data-end="316" class="PDq2pG_selectionAnchorContainer">✨ <strong data-start="278" data-end="314">Elites &amp; Sensation – Perfume Duo</strong> ✨<span class="PDq2pG_selectionAnchor"></span></p>
+<p dir="auto" data-start="318" data-end="395">Elevate your fragrance collection with this stylish <strong data-start="370" data-end="383">Pack of 2</strong>, featuring:</p>
+<p dir="auto" data-start="397" data-end="485">🖤 <strong data-start="400" data-end="418">Elites – 30 ML</strong><br data-start="418" data-end="421">An elegant fragrance designed to complement your personal style.</p>
+<p dir="auto" data-start="487" data-end="581">✨ <strong data-start="489" data-end="510">Sensation – 30 ML</strong><br data-start="510" data-end="513">A refined fragrance perfect for everyday wear and special occasions.</p>
+<h3 dir="auto" data-start="583" data-end="604">📦 What's Inside?</h3>
+<ul data-start="605" data-end="704">
+<li data-start="605" data-end="637">1 × <strong data-start="611" data-end="637">Elites Perfume – 30 ML</strong>
+</li>
+<li data-start="638" data-end="673">1 × <strong data-start="644" data-end="673">Sensation Perfume – 30 ML</strong>
+</li>
+<li data-start="674" data-end="692"><strong data-start="676" data-end="692">Total: 60 ML</strong></li>
+<li data-start="693" data-end="704">Pack of 2</li>
+</ul>`,desc:`✨ Elites & Sensation – Perfume Duo ✨ Elevate your fragrance collection with this stylish Pack of 2 , featuring: 🖤 Elites – 30 ML An elegant fragrance designed to complement your personal style. ✨ Sensation – 30 ML A refined fragrance perfect for everyday wear and special occasions. 📦 What's Inside? 1 × Elites Perfume – 30 ML 1 × Sensation Perfume – 30 ML Total: 60 ML Pack of 2`},"the-legend-romantic-chocolate-perfume-pack-of-2":{html:`<p dir="auto" data-start="294" data-end="347" class="PDq2pG_selectionAnchorContainer">✨ <strong data-start="296" data-end="345">The Legend &amp; Romantic Chocolate – Perfume Duo</strong> ✨<span class="PDq2pG_selectionAnchor"></span></p>
+<p dir="auto" data-start="349" data-end="426">Upgrade your fragrance collection with this elegant <strong data-start="401" data-end="414">Pack of 2</strong>, featuring:</p>
+<p dir="auto" data-start="428" data-end="519">🖤 <strong data-start="431" data-end="453">The Legend – 30 ML</strong><br data-start="453" data-end="456">A refined fragrance designed to complement your personal style.</p>
+<p dir="auto" data-start="521" data-end="614">🍫 <strong data-start="524" data-end="554">Romantic Chocolate – 30 ML</strong><br data-start="554" data-end="557">A warm and elegant addition to your fragrance collection.</p>
+<h3 dir="auto" data-start="616" data-end="637">📦 What's Inside?</h3>
+<ul data-start="638" data-end="750">
+<li data-start="638" data-end="674">1 × <strong data-start="644" data-end="674">The Legend Perfume – 30 ML</strong>
+</li>
+<li data-start="675" data-end="719">1 × <strong data-start="681" data-end="719">Romantic Chocolate Perfume – 30 ML</strong>
+</li>
+<li data-start="720" data-end="738"><strong data-start="722" data-end="738">Total: 60 ML</strong></li>
+<li data-start="739" data-end="750">Pack of 2</li>
+</ul>`,desc:`✨ The Legend & Romantic Chocolate – Perfume Duo ✨ Upgrade your fragrance collection with this elegant Pack of 2 , featuring: 🖤 The Legend – 30 ML A refined fragrance designed to complement your personal style. 🍫 Romantic Chocolate – 30 ML A warm and elegant addition to your fragrance collection. 📦 What's Inside? 1 × The Legend Perfume – 30 ML 1 × Romantic Chocolate Perfume – 30 ML Total: 60 ML Pack of 2`},"eros-charm-mr-king-perfume-pack-of-2":{html:`<p dir="auto" data-start="275" data-end="317" class="PDq2pG_selectionAnchorContainer">✨ <strong data-start="277" data-end="315">Eros Charm &amp; Mr King – Perfume Duo</strong> ✨<span class="PDq2pG_selectionAnchor"></span></p>
+<p dir="auto" data-start="319" data-end="396">Elevate your fragrance collection with this stylish <strong data-start="371" data-end="384">Pack of 2</strong>, featuring:</p>
+<p dir="auto" data-start="398" data-end="490">🖤 <strong data-start="401" data-end="423">Eros Charm – 30 ML</strong><br data-start="423" data-end="426">An elegant fragrance designed to complement your personal style.</p>
+<p dir="auto" data-start="492" data-end="577">👑 <strong data-start="495" data-end="514">Mr King – 30 ML</strong><br data-start="514" data-end="517">A sophisticated fragrance with a bold, premium presentation.</p>
+<h3 dir="auto" data-start="579" data-end="600">📦 What's Inside?</h3>
+<ul data-start="601" data-end="702">
+<li data-start="601" data-end="637">1 × <strong data-start="607" data-end="637">Eros Charm Perfume – 30 ML</strong>
+</li>
+<li data-start="638" data-end="671">1 × <strong data-start="644" data-end="671">Mr King Perfume – 30 ML</strong>
+</li>
+<li data-start="672" data-end="690"><strong data-start="674" data-end="690">Total: 60 ML</strong></li>
+<li data-start="691" data-end="702">Pack of 2</li>
+</ul>`,desc:`✨ Eros Charm & Mr King – Perfume Duo ✨ Elevate your fragrance collection with this stylish Pack of 2 , featuring: 🖤 Eros Charm – 30 ML An elegant fragrance designed to complement your personal style. 👑 Mr King – 30 ML A sophisticated fragrance with a bold, premium presentation. 📦 What's Inside? 1 × Eros Charm Perfume – 30 ML 1 × Mr King Perfume – 30 ML Total: 60 ML Pack of 2`},"be-classic-ocean-shades-perfume-pack-of-2":{html:`<p dir="auto" data-start="276" data-end="323" class="PDq2pG_selectionAnchorContainer">✨ <strong data-start="278" data-end="321">Be Classic &amp; Ocean Shades – Perfume Duo</strong> ✨<span class="PDq2pG_selectionAnchor"></span></p>
+<p dir="auto" data-start="325" data-end="403">Complete your fragrance collection with this elegant <strong data-start="378" data-end="391">Pack of 2</strong>, featuring:</p>
+<p dir="auto" data-start="405" data-end="502">🖤 <strong data-start="408" data-end="430">Be Classic – 30 ML</strong><br data-start="430" data-end="433">A sophisticated fragrance designed to complement your personal style.</p>
+<p dir="auto" data-start="504" data-end="619">💙 <strong data-start="507" data-end="531">Ocean Shades – 30 ML</strong><br data-start="531" data-end="534">A fresh and stylish addition to your fragrance collection, perfect for everyday wear.</p>
+<h3 dir="auto" data-start="621" data-end="642">📦 What's Inside?</h3>
+<ul data-start="643" data-end="749">
+<li data-start="643" data-end="679">1 × <strong data-start="649" data-end="679">Be Classic Perfume – 30 ML</strong>
+</li>
+<li data-start="680" data-end="718">1 × <strong data-start="686" data-end="718">Ocean Shades Perfume – 30 ML</strong>
+</li>
+<li data-start="719" data-end="737"><strong data-start="721" data-end="737">Total: 60 ML</strong></li>
+<li data-start="738" data-end="749">Pack of 2</li>
+</ul>`,desc:`✨ Be Classic & Ocean Shades – Perfume Duo ✨ Complete your fragrance collection with this elegant Pack of 2 , featuring: 🖤 Be Classic – 30 ML A sophisticated fragrance designed to complement your personal style. 💙 Ocean Shades – 30 ML A fresh and stylish addition to your fragrance collection, perfect for everyday wear. 📦 What's Inside? 1 × Be Classic Perfume – 30 ML 1 × Ocean Shades Perfume – 30 ML Total: 60 ML Pack of 2`},"endless-golden-era-perfume-pack-of-2":{html:`<p dir="auto" data-start="276" data-end="318" class="PDq2pG_selectionAnchorContainer">✨ <strong data-start="278" data-end="316">Endless &amp; Golden Era – Perfume Duo</strong> ✨<span class="PDq2pG_selectionAnchor"></span></p>
+<p dir="auto" data-start="320" data-end="397">Elevate your fragrance collection with this stylish <strong data-start="372" data-end="385">Pack of 2</strong>, featuring:</p>
+<p dir="auto" data-start="399" data-end="488">🖤 <strong data-start="402" data-end="421">Endless – 30 ML</strong><br data-start="421" data-end="424">An elegant fragrance designed to complement your personal style.</p>
+<p dir="auto" data-start="490" data-end="588">✨ <strong data-start="492" data-end="514">Golden Era – 30 ML</strong><br data-start="514" data-end="517">A sophisticated fragrance that adds a refined touch to your collection.</p>
+<h3 dir="auto" data-start="590" data-end="611">📦 What's Inside?</h3>
+<ul data-start="612" data-end="713">
+<li data-start="612" data-end="645">1 × <strong data-start="618" data-end="645">Endless Perfume – 30 ML</strong>
+</li>
+<li data-start="646" data-end="682">1 × <strong data-start="652" data-end="682">Golden Era Perfume – 30 ML</strong>
+</li>
+<li data-start="683" data-end="701"><strong data-start="685" data-end="701">Total: 60 ML</strong></li>
+<li data-start="702" data-end="713">Pack of 2</li>
+</ul>`,desc:`✨ Endless & Golden Era – Perfume Duo ✨ Elevate your fragrance collection with this stylish Pack of 2 , featuring: 🖤 Endless – 30 ML An elegant fragrance designed to complement your personal style. ✨ Golden Era – 30 ML A sophisticated fragrance that adds a refined touch to your collection. 📦 What's Inside? 1 × Endless Perfume – 30 ML 1 × Golden Era Perfume – 30 ML Total: 60 ML Pack of 2`},"vibes-prestige-perfume-pack-of-2":{html:`<p dir="auto" data-start="270" data-end="308" class="PDq2pG_selectionAnchorContainer">✨ <strong data-start="272" data-end="306">Vibes &amp; Prestige – Perfume Duo</strong> ✨<span class="PDq2pG_selectionAnchor"></span></p>
+<p dir="auto" data-start="310" data-end="387">Refresh your fragrance collection with this elegant <strong data-start="362" data-end="375">Pack of 2</strong>, featuring:</p>
+<p dir="auto" data-start="389" data-end="478">🖤 <strong data-start="392" data-end="409">Vibes – 30 ML</strong><br data-start="409" data-end="412">A stylish fragrance designed to complement your everyday presence.</p>
+<p dir="auto" data-start="480" data-end="582">❤️ <strong data-start="483" data-end="503">Prestige – 30 ML</strong><br data-start="503" data-end="506">A refined fragrance that adds an elegant touch to your fragrance collection.</p>
+<h3 dir="auto" data-start="584" data-end="605">📦 What's Inside?</h3>
+<ul data-start="606" data-end="703">
+<li data-start="606" data-end="637">1 × <strong data-start="612" data-end="637">Vibes Perfume – 30 ML</strong>
+</li>
+<li data-start="638" data-end="672">1 × <strong data-start="644" data-end="672">Prestige Perfume – 30 ML</strong>
+</li>
+<li data-start="673" data-end="691"><strong data-start="675" data-end="691">Total: 60 ML</strong></li>
+<li data-start="692" data-end="703">Pack of 2</li>
+</ul>`,desc:`✨ Vibes & Prestige – Perfume Duo ✨ Refresh your fragrance collection with this elegant Pack of 2 , featuring: 🖤 Vibes – 30 ML A stylish fragrance designed to complement your everyday presence. ❤️ Prestige – 30 ML A refined fragrance that adds an elegant touch to your fragrance collection. 📦 What's Inside? 1 × Vibes Perfume – 30 ML 1 × Prestige Perfume – 30 ML Total: 60 ML Pack of 2`},"reflections-time-less-perfume-pack-of-2":{html:`<p dir="auto" data-start="376" data-end="421" class="PDq2pG_selectionAnchorContainer">✨ <strong data-start="378" data-end="419">Reflections &amp; Time Less – Perfume Duo</strong> ✨<span class="PDq2pG_selectionAnchor"></span></p>
+<p dir="auto" data-start="423" data-end="501">Complete your fragrance collection with this premium <strong data-start="476" data-end="489">Pack of 2</strong>, featuring:</p>
+<p dir="auto" data-start="503" data-end="602">🌟 <strong data-start="506" data-end="529">Reflections – 30 ML</strong><br data-start="529" data-end="532">An elegant fragrance that adds a refined touch to your everyday style.</p>
+<p dir="auto" data-start="604" data-end="710">✨ <strong data-start="606" data-end="627">Time Less – 30 ML</strong><br data-start="627" data-end="630">A sophisticated fragrance designed for those who appreciate a timeless presence.</p>
+<h3 dir="auto" data-start="712" data-end="733">📦 What's Inside?</h3>
+<ul data-start="734" data-end="838">
+<li data-start="734" data-end="771">1 × <strong data-start="740" data-end="771">Reflections Perfume – 30 ML</strong>
+</li>
+<li data-start="772" data-end="807">1 × <strong data-start="778" data-end="807">Time Less Perfume – 30 ML</strong>
+</li>
+<li data-start="808" data-end="826"><strong data-start="810" data-end="826">Total: 60 ML</strong></li>
+<li data-start="827" data-end="838">Pack of 2</li>
+</ul>`,desc:`✨ Reflections & Time Less – Perfume Duo ✨ Complete your fragrance collection with this premium Pack of 2 , featuring: 🌟 Reflections – 30 ML An elegant fragrance that adds a refined touch to your everyday style. ✨ Time Less – 30 ML A sophisticated fragrance designed for those who appreciate a timeless presence. 📦 What's Inside? 1 × Reflections Perfume – 30 ML 1 × Time Less Perfume – 30 ML Total: 60 ML Pack of 2`},"samma-destiny-perfume-pack-of-2":{html:`<p dir="auto" data-start="351" data-end="396" class="PDq2pG_selectionAnchorContainer">✨ <strong data-start="353" data-end="394">Samma &amp; Destiny – Premium Perfume Duo</strong> ✨<span class="PDq2pG_selectionAnchor"></span></p>
+<p dir="auto" data-start="398" data-end="477">Upgrade your fragrance collection with this beautiful <strong data-start="452" data-end="465">Pack of 2</strong>, featuring:</p>
+<p dir="auto" data-start="479" data-end="557">🌸 <strong data-start="482" data-end="499">Samma – 30 ML</strong><br data-start="499" data-end="502">An elegant fragrance designed to complement your style.</p>
+<p dir="auto" data-start="559" data-end="657">✨ <strong data-start="561" data-end="580">Destiny – 30 ML</strong><br data-start="580" data-end="583">A sophisticated fragrance perfect for everyday wear and special occasions.</p>
+<h3 dir="auto" data-start="659" data-end="680">📦 What's Inside?</h3>
+<ul data-start="681" data-end="785">
+<li data-start="681" data-end="712">1 × <strong data-start="687" data-end="712">Samma Perfume – 30 ML</strong>
+</li>
+<li data-start="713" data-end="746">1 × <strong data-start="719" data-end="746">Destiny Perfume – 30 ML</strong>
+</li>
+<li data-start="747" data-end="765"><strong data-start="749" data-end="765">Total: 60 ML</strong></li>
+<li data-start="766" data-end="785">Premium Pack of 2</li>
+</ul>`,desc:`✨ Samma & Destiny – Premium Perfume Duo ✨ Upgrade your fragrance collection with this beautiful Pack of 2 , featuring: 🌸 Samma – 30 ML An elegant fragrance designed to complement your style. ✨ Destiny – 30 ML A sophisticated fragrance perfect for everyday wear and special occasions. 📦 What's Inside? 1 × Samma Perfume – 30 ML 1 × Destiny Perfume – 30 ML Total: 60 ML Premium Pack of 2`},"5-perfume-bundle-30ml-ocean-shades-golden-era-timeless-reflections-be-classic":{html:`<h3 dir="auto" class="PDq2pG_selectionAnchorContainer">
+<span role="text"><strong>5 SIGNATURE FRAGRANCES. ONE EXCLUSIVE BUNDLE.</strong></span><span class="PDq2pG_selectionAnchor"></span>
+</h3>
+<p dir="auto">Your fragrance collection deserves variety.</p>
+<p dir="auto">The <strong>A. Fragrances Premium Bundle of 5</strong> brings together five elegant <strong>30ml perfumes</strong>, each presented in a distinctive premium bottle. Whether you prefer a fresh and modern feel, a sophisticated everyday fragrance, or a classic statement scent, this collection gives you five options to choose from.</p>
+<h3 dir="auto">💎 What's Included</h3>
+<p dir="auto"><strong>🌊 Ocean Shades – 30ml</strong><br>A striking blue bottle with a clean, modern presentation — perfect for adding a fresh touch to your fragrance collection.</p>
+<p dir="auto"><strong>✨ Golden Era – 30ml</strong><br>A sophisticated black bottle finished with a luxurious gold cap, giving the fragrance an elegant and premium appearance.</p>
+<p dir="auto"><strong>⏳ Timeless – 30ml</strong><br>A sleek black bottle with a silver cap, designed around a timeless and refined aesthetic.</p>
+<p dir="auto"><strong>🪞 Reflections – 30ml</strong><br>A sophisticated black bottle with a metallic silver cap, bringing a polished touch to your collection.</p>
+<p dir="auto"><strong>🖤 Be Classic – 30ml</strong><br>A classic black bottle with a luxurious gold cap — an elegant addition for fragrance lovers.</p>`,desc:`5 SIGNATURE FRAGRANCES. ONE EXCLUSIVE BUNDLE. Your fragrance collection deserves variety. The A. Fragrances Premium Bundle of 5 brings together five elegant 30ml perfumes , each presented in a distinctive premium bottle. Whether you prefer a fresh and modern feel, a sophisticated everyday fragrance, or a classic statement scent, this collection gives you five options to choose from. 💎 What's Included 🌊 Ocean Shades – 30ml A striking blue bottle with a clean, modern presentation — perfect for adding a fresh touch to your fragrance collection. ✨ Golden Era – 30ml A sophisticated black bottle finished with a luxurious gold cap, giving the fragrance an elegant and premium appearance. ⏳ Timeless – 30ml A sleek black bottle with a silver cap, designed around a timeless and refined aesthetic. 🪞 Reflections – 30ml A sophisticated black bottle with a metallic silver cap, bringing a polished touch to your collection. 🖤 Be Classic – 30ml A classic black bottle with a luxurious gold cap — an elegant addition for fragrance lovers.`},"5-perfume-bundle-30ml-sixer-mr-blue-mr-king-the-legend-the-boss":{html:`<h3 dir="auto" class="PDq2pG_selectionAnchorContainer">
+<span role="text"><strong>THE ULTIMATE 5-PERFUME COLLECTION</strong></span><span class="PDq2pG_selectionAnchor"></span>
+</h3>
+<p dir="auto">Why settle for one fragrance when you can have five?</p>
+<p dir="auto">Upgrade your collection with the <strong>A. Fragrances Bundle of 5</strong>, featuring five premium <strong>30ml perfumes</strong> in distinctive, luxurious bottles.</p>
+<p dir="auto">From the bold character of <strong>Mr King</strong> to the confident feel of <strong>The Boss</strong>, this collection gives you multiple fragrance options for different occasions and moods.</p>
+<h3 dir="auto">💎 What's Included</h3>
+<p dir="auto"><strong>1. Sixer – 30ml</strong><br>A stylish fragrance presented in an elegant black bottle with a premium gold spherical cap.</p>
+<p dir="auto"><strong>2. Mr Blue – 30ml</strong><br>A distinctive blue bottle that adds a bold and modern touch to your fragrance collection.</p>
+<p dir="auto"><strong>3. Mr King – 30ml</strong> 👑<br>The centerpiece of the collection, featuring a sophisticated black bottle with a luxurious presentation.</p>
+<p dir="auto"><strong>4. The Legend – 30ml</strong><br>A sleek black bottle with a silver metallic cap, designed for a refined fragrance collection.</p>
+<p dir="auto"><strong>5. The Boss – 30ml</strong><br>A sophisticated black bottle with a silver cap, completing this powerful five-piece collection.</p>`,desc:`THE ULTIMATE 5-PERFUME COLLECTION Why settle for one fragrance when you can have five? Upgrade your collection with the A. Fragrances Bundle of 5 , featuring five premium 30ml perfumes in distinctive, luxurious bottles. From the bold character of Mr King to the confident feel of The Boss , this collection gives you multiple fragrance options for different occasions and moods. 💎 What's Included 1. Sixer – 30ml A stylish fragrance presented in an elegant black bottle with a premium gold spherical cap. 2. Mr Blue – 30ml A distinctive blue bottle that adds a bold and modern touch to your fragrance collection. 3. Mr King – 30ml 👑 The centerpiece of the collection, featuring a sophisticated black bottle with a luxurious presentation. 4. The Legend – 30ml A sleek black bottle with a silver metallic cap, designed for a refined fragrance collection. 5. The Boss – 30ml A sophisticated black bottle with a silver cap, completing this powerful five-piece collection.`},"4-perfume-bundle-30ml-sensation-blush-me-up-crush-chocolate":{html:`<p dir="auto" class="PDq2pG_selectionAnchorContainer"><strong>4 Fragrances. 120ml Total. One Luxury Bundle. ✨</strong><span class="PDq2pG_selectionAnchor"></span></p>
+<p dir="auto">Upgrade your fragrance collection with our <strong>Premium 4-Piece Perfume Bundle</strong>, featuring four beautifully crafted <strong>30ml perfumes</strong> in elegant bottles.</p>
+<p dir="auto">Whether you're getting ready for a special occasion, heading to work, going out with friends, or simply want to smell amazing throughout the day, this collection gives you a fragrance for every mood.</p>
+<h3 dir="auto">💎 What's Included</h3>
+<p dir="auto"><strong>1. Sensation – 30ml</strong><br>A sophisticated addition to your everyday fragrance collection, presented in a sleek black bottle with a luxurious metallic cap.</p>
+<p dir="auto"><strong>2. Blush Me Up – 30ml</strong><br>An elegant and feminine fragrance presented in a beautiful white bottle with a premium gold cap.</p>
+<p dir="auto"><strong>3. Crush – 30ml</strong><br>A stylish fragrance housed in a sleek black bottle, perfect for adding a touch of elegance to your fragrance collection.</p>
+<p dir="auto"><strong>4. Chocolate – 30ml</strong><br>A rich-looking fragrance presented in an elegant amber-toned bottle with a luxurious gold cap.</p>`,desc:`4 Fragrances. 120ml Total. One Luxury Bundle. ✨ Upgrade your fragrance collection with our Premium 4-Piece Perfume Bundle , featuring four beautifully crafted 30ml perfumes in elegant bottles. Whether you're getting ready for a special occasion, heading to work, going out with friends, or simply want to smell amazing throughout the day, this collection gives you a fragrance for every mood. 💎 What's Included 1. Sensation – 30ml A sophisticated addition to your everyday fragrance collection, presented in a sleek black bottle with a luxurious metallic cap. 2. Blush Me Up – 30ml An elegant and feminine fragrance presented in a beautiful white bottle with a premium gold cap. 3. Crush – 30ml A stylish fragrance housed in a sleek black bottle, perfect for adding a touch of elegance to your fragrance collection. 4. Chocolate – 30ml A rich-looking fragrance presented in an elegant amber-toned bottle with a luxurious gold cap.`},"top-3-perfume-bundle-success-sun-kissed-sixer-gold":{html:`<h2><span>OUR TOP 3 FRAGRANCES — NOW IN ONE EXCLUSIVE BUNDLE</span></h2>
+<p class="isSelectedEnd"><span>Why choose one signature scent when you can have three?</span></p>
+<p class="isSelectedEnd"><span>Introducing the </span><strong><span>Top 3 Fragrances Bundle</span></strong><span> — a premium collection featuring </span><strong><span>Success Gold, Sun Kissed Gold and Sixer Gold</span></strong><span>.</span></p>
+<p class="isSelectedEnd"><span>Each fragrance offers its own distinctive personality, making this bundle perfect for anyone who loves variety, sophistication and premium fragrance experiences.</span></p>
+<p class="isSelectedEnd"><span>From the refined woody-aromatic character of </span><strong><span>Success Gold</span></strong><span>, to the warm and luxurious amber-woody profile of </span><strong><span>Sun Kissed Gold</span></strong><span>, and the vibrant fruity-floral-woody character of </span><strong><span>Sixer Gold</span></strong><span>, this collection gives you a fragrance for every mood and occasion.</span></p>
+<h3><span>What's Included?</span></h3>
+<p class="isSelectedEnd"><strong><span>1. SUCCESS GOLD</span></strong></p>
+<p class="isSelectedEnd"><span>A sophisticated woody-aromatic fragrance built around bergamot, ambroxan, woody accords, amber and musk. Its refined character makes it an excellent choice for confident everyday wear and special occasions.</span></p>
+<p class="isSelectedEnd"><strong><span>2. SUN KISSED GOLD</span></strong></p>
+<p class="isSelectedEnd"><span>A warm, radiant and luxurious unisex fragrance featuring saffron, jasmine, bergamot, amberwood, cedarwood, cashmeran, musk and tonka bean.</span></p>
+<p class="isSelectedEnd"><strong><span>3. SIXER GOLD</span></strong></p>
+<p class="isSelectedEnd"><span>A bold men's fragrance opening with pineapple, bergamot, black currant and apple, developing into a rich heart of birch, patchouli, Moroccan jasmine and rose, and finishing with musk, oak moss, ambergris and vanilla.<br><br><meta charset="utf-8"></span></p>
+<h1><span>WHY CHOOSE THE TOP 3 BUNDLE?</span></h1>
+<h3><span>✨ Three Signature Fragrances</span></h3>
+<p class="isSelectedEnd"><span>Get three distinctive fragrance profiles in one exclusive collection.</span></p>
+<h3><span>🔥 Variety for Every Occasion</span></h3>
+<p class="isSelectedEnd"><span>Switch between fresh, fruity, woody, warm and sophisticated scent profiles depending on your mood and occasion.</span></p>
+<h3><span>💎 Premium Fragrance Experience</span></h3>
+<p class="isSelectedEnd"><span>A carefully selected combination of woody, amber, floral, fruity and musky accords.</span></p>
+<h3><span>👔 Day-to-Night Versatility</span></h3>
+<p class="isSelectedEnd"><span>Perfect for office wear, everyday use, dinners, gatherings, events and special occasions.</span></p>
+<h3><span>🎁 The Perfect Fragrance Gift</span></h3>
+<p class="isSelectedEnd"><span>A premium three-fragrance collection that makes an impressive gift for fragrance lovers.</span></p>
+<h3><span>💰 More Fragrance. More Value.</span></h3>
+<p><strong><span>Actual Value:</span></strong><span> Rs. 9,900</span><br><strong><span>Bundle Price:</span></strong><span> Rs. 8,400</span><br><strong><span>You Save:</span></strong><span> Rs. 1,500</span></p>
+<p class="isSelectedEnd"><span></span><br></p>
+<div><hr></div>`,desc:`OUR TOP 3 FRAGRANCES — NOW IN ONE EXCLUSIVE BUNDLE Why choose one signature scent when you can have three? Introducing the Top 3 Fragrances Bundle — a premium collection featuring Success Gold, Sun Kissed Gold and Sixer Gold . Each fragrance offers its own distinctive personality, making this bundle perfect for anyone who loves variety, sophistication and premium fragrance experiences. From the refined woody-aromatic character of Success Gold , to the warm and luxurious amber-woody profile of Sun Kissed Gold , and the vibrant fruity-floral-woody character of Sixer Gold , this collection gives you a fragrance for every mood and occasion. What's Included? 1. SUCCESS GOLD A sophisticated woody-aromatic fragrance built around bergamot, ambroxan, woody accords, amber and musk. Its refined character makes it an excellent choice for confident everyday wear and special occasions. 2. SUN KISSED GOLD A warm, radiant and luxurious unisex fragrance featuring saffron, jasmine, bergamot, amberwood, cedarwood, cashmeran, musk and tonka bean. 3. SIXER GOLD A bold men's fragrance opening with pineapple, bergamot, black currant and apple, developing into a rich heart of birch, patchouli, Moroccan jasmine and rose, and finishing with musk, oak moss, ambergris and vanilla. WHY CHOOSE THE TOP 3 BUNDLE? ✨ Three Signature Fragrances Get three distinctive fragrance profiles in one exclusive collection. 🔥 Variety for Every Occasion Switch between fresh, fruity, woody, warm and sophisticated scent profiles depending on your mood and occasion. 💎 Premium Fragrance Experience A carefully selected combination of woody, amber, floral, fruity and musky accords. 👔 Day-to-Night Versatility Perfect for office wear, everyday use, dinners, gatherings, events and special occasions. 🎁 The Perfect Fragrance Gift A premium three-fragrance collection that makes an impressive gift for fragrance lovers. 💰 More Fragrance. More Value. Actual Value: Rs. 9,900 Bundle Price: Rs. 8,400 You Save: Rs. 1,500`},"sixer-gold-sun-kissed-gold-perfume-bundle":{html:`<p>\xA0</p>
+<h2><span>TWO SIGNATURE SCENTS. ONE EXCLUSIVE BUNDLE.</span></h2>
+<p class="isSelectedEnd"><span>Why choose one when you can have two?</span></p>
+<p class="isSelectedEnd"><span>The </span><strong><span>Sixer Gold &amp; Sun Kissed Gold Perfume Bundle</span></strong><span> combines two distinctive fragrances into one premium-value duo.</span></p>
+<p class="isSelectedEnd"><strong><span>Sixer Gold</span></strong><span> delivers a sophisticated fruity, floral and woody fragrance profile, while </span><strong><span>Sun Kissed Gold</span></strong><span> brings a warm, opulent amber-woody oriental character.</span></p>
+<p class="isSelectedEnd"><span>Whether you're dressing up for a special occasion, heading to work, going out for dinner or simply want to elevate your everyday fragrance collection, this duo gives you two different scent experiences in one bundle.</span></p>
+<h3><span>WHAT'S INCLUDED?</span></h3>
+<p class="isSelectedEnd"><strong><span>1. SIXER GOLD — For Men</span></strong></p>
+<p class="isSelectedEnd"><span>A bold and sophisticated fragrance with a vibrant fruity opening, a refined floral-woody heart and a warm, sensual base.</span></p>
+<p class="isSelectedEnd"><strong><span>2. SUN KISSED GOLD — Unisex</span></strong></p>
+<p><span>A warm and luxurious fragrance combining saffron, jasmine, bergamot, rich woods, ambergris, musk and tonka bean for a radiant and sophisticated scent.<br><br><meta charset="utf-8"></span></p>
+<h1><span>WHY YOU'LL LOVE THIS BUNDLE</span></h1>
+<h3><span>✨ Two Distinctive Fragrances</span></h3>
+<p class="isSelectedEnd"><span>Enjoy two completely different fragrance profiles in one exclusive bundle.</span></p>
+<h3><span>🔥 Long-Lasting Fragrance Experience</span></h3>
+<p class="isSelectedEnd"><span>Both fragrances are designed to create a noticeable and memorable scent experience.</span></p>
+<h3><span>💎 Premium Fragrance Profiles</span></h3>
+<p class="isSelectedEnd"><span>Sixer Gold offers a fruity-floral-woody character, while Sun Kissed Gold delivers a warm amber-woody oriental experience.</span></p>
+<h3><span>👔 Perfect for Different Occasions</span></h3>
+<p class="isSelectedEnd"><span>Great for everyday wear, office, dinners, gatherings, events and special occasions.</span></p>
+<h3><span>🎁 Perfect Fragrance Gift</span></h3>
+<p class="isSelectedEnd"><span>A premium fragrance duo that makes an excellent gift for birthdays, anniversaries, celebrations and special moments.</span></p>
+<h3><span>💰 More Fragrance. More Value.</span></h3>
+<p><strong><span>Actual Price:</span></strong><span> Rs. 6,400</span><br><strong><span>Bundle Price:</span></strong><span> Rs. 5,400</span><br><strong><span>You Save:</span></strong><span> Rs. 1,000</span></p>
+<p><span></span><br></p>`,desc:`TWO SIGNATURE SCENTS. ONE EXCLUSIVE BUNDLE. Why choose one when you can have two? The Sixer Gold & Sun Kissed Gold Perfume Bundle combines two distinctive fragrances into one premium-value duo. Sixer Gold delivers a sophisticated fruity, floral and woody fragrance profile, while Sun Kissed Gold brings a warm, opulent amber-woody oriental character. Whether you're dressing up for a special occasion, heading to work, going out for dinner or simply want to elevate your everyday fragrance collection, this duo gives you two different scent experiences in one bundle. WHAT'S INCLUDED? 1. SIXER GOLD — For Men A bold and sophisticated fragrance with a vibrant fruity opening, a refined floral-woody heart and a warm, sensual base. 2. SUN KISSED GOLD — Unisex A warm and luxurious fragrance combining saffron, jasmine, bergamot, rich woods, ambergris, musk and tonka bean for a radiant and sophisticated scent. WHY YOU'LL LOVE THIS BUNDLE ✨ Two Distinctive Fragrances Enjoy two completely different fragrance profiles in one exclusive bundle. 🔥 Long-Lasting Fragrance Experience Both fragrances are designed to create a noticeable and memorable scent experience. 💎 Premium Fragrance Profiles Sixer Gold offers a fruity-floral-woody character, while Sun Kissed Gold delivers a warm amber-woody oriental experience. 👔 Perfect for Different Occasions Great for everyday wear, office, dinners, gatherings, events and special occasions. 🎁 Perfect Fragrance Gift A premium fragrance duo that makes an excellent gift for birthdays, anniversaries, celebrations and special moments. 💰 More Fragrance. More Value. Actual Price: Rs. 6,400 Bundle Price: Rs. 5,400 You Save: Rs. 1,000`},"sixer-gold-success-gold-perfume-bundle":{html:`<div>
+<h2><span>TWO SIGNATURE SCENTS. ONE PREMIUM BUNDLE.</span></h2>
+<p class="isSelectedEnd"><span>Upgrade your fragrance collection with the </span><strong><span>Sixer Gold &amp; Success Gold Perfume Bundle</span></strong><span> — a carefully paired duo for the modern man who wants to smell confident, refined and unforgettable.</span></p>
+<p class="isSelectedEnd"><span>From the fresh, fruity opening of </span><strong><span>Sixer Gold</span></strong><span> to the sophisticated woody and amber character of </span><strong><span>Success Gold</span></strong><span>, this bundle gives you two distinctive fragrance profiles for different moods, occasions and moments.</span></p>
+<p class="isSelectedEnd"><span>Whether you're heading to the office, meeting friends, attending an event or stepping out for a special evening, this premium duo has you covered.</span></p>
+<h3><span>What's Included?</span></h3>
+<p class="isSelectedEnd"><strong><span>SIXER GOLD</span></strong><br><span>A bold and sophisticated fragrance with a fresh fruity opening, an aromatic floral heart and a warm, sensual base of musk, ambergris, oak moss and vanilla.</span></p>
+<p><strong><span>SUCCESS GOLD</span></strong><br><span>A refined woody-aromatic fragrance with fresh bergamot and ambroxan at the opening, followed by woody, floral and amber accords and a deep musky-woody base.</span><br><br><br><meta charset="utf-8"></p>
+<h1><span>WHY CHOOSE THIS BUNDLE?</span></h1>
+<h3><span>✨ Two Distinctive Fragrances</span></h3>
+<p class="isSelectedEnd"><span>Enjoy two different scent profiles in one premium bundle.</span></p>
+<h3><span>🔥 Long-Lasting Fragrance Experience</span></h3>
+<p class="isSelectedEnd"><span>Designed for men who want a noticeable and memorable scent throughout the day.</span></p>
+<h3><span>👔 Perfect for Everyday &amp; Special Occasions</span></h3>
+<p class="isSelectedEnd"><span>Ideal for office wear, gatherings, dinners, events and evening occasions.</span></p>
+<h3><span>💎 Sophisticated Fragrance Profiles</span></h3>
+<p class="isSelectedEnd"><span>Sixer Gold brings fruity, floral and woody richness, while Success Gold delivers a refined woody-aromatic character.</span></p>
+<h3><span>🎁 Great Gift Choice</span></h3>
+<p class="isSelectedEnd"><span>A premium fragrance duo for birthdays, anniversaries, celebrations or simply treating someone special.</span></p>
+<h3><span>💰 More Fragrance. More Value.</span></h3>
+<p><strong><span>Actual Price: Rs. 6,500</span></strong><br><strong><span>Bundle Price: Rs. 5,500</span></strong><br><strong><span>You Save: Rs. 1,000</span></strong><br><br></p>
+</div>
+<!---->`,desc:`TWO SIGNATURE SCENTS. ONE PREMIUM BUNDLE. Upgrade your fragrance collection with the Sixer Gold & Success Gold Perfume Bundle — a carefully paired duo for the modern man who wants to smell confident, refined and unforgettable. From the fresh, fruity opening of Sixer Gold to the sophisticated woody and amber character of Success Gold , this bundle gives you two distinctive fragrance profiles for different moods, occasions and moments. Whether you're heading to the office, meeting friends, attending an event or stepping out for a special evening, this premium duo has you covered. What's Included? SIXER GOLD A bold and sophisticated fragrance with a fresh fruity opening, an aromatic floral heart and a warm, sensual base of musk, ambergris, oak moss and vanilla. SUCCESS GOLD A refined woody-aromatic fragrance with fresh bergamot and ambroxan at the opening, followed by woody, floral and amber accords and a deep musky-woody base. WHY CHOOSE THIS BUNDLE? ✨ Two Distinctive Fragrances Enjoy two different scent profiles in one premium bundle. 🔥 Long-Lasting Fragrance Experience Designed for men who want a noticeable and memorable scent throughout the day. 👔 Perfect for Everyday & Special Occasions Ideal for office wear, gatherings, dinners, events and evening occasions. 💎 Sophisticated Fragrance Profiles Sixer Gold brings fruity, floral and woody richness, while Success Gold delivers a refined woody-aromatic character. 🎁 Great Gift Choice A premium fragrance duo for birthdays, anniversaries, celebrations or simply treating someone special. 💰 More Fragrance. More Value. Actual Price: Rs. 6,500 Bundle Price: Rs. 5,500 You Save: Rs. 1,000`},"premium-perfume-bundle-sun-kissed-gold-success-gold":{html:`<div>
+<h2><span>TWO ICONIC SCENTS. ONE EXCLUSIVE BUNDLE.</span></h2>
+<p class="isSelectedEnd"><span>Why settle for one signature scent when you can have two?</span></p>
+<p class="isSelectedEnd"><span>The </span><strong><span>Premium Perfume Bundle</span></strong><span> brings together </span><strong><span>Sun Kissed Gold</span></strong><span> and </span><strong><span>Success Gold</span></strong><span> — a powerful combination of warm sophistication and confident woody elegance.</span></p>
+<p class="isSelectedEnd"><span>Whether you're heading to the office, attending a special occasion, going out for dinner or simply want to smell exceptional throughout the day, this duo gives you a fragrance for every mood and moment.</span></p>
+<h3><span>✨ What's Included</span></h3>
+<p class="isSelectedEnd"><strong><span>1. Sun Kissed Gold</span></strong><br><span>A warm, luxurious and sophisticated fragrance with a radiant amber-woody character. Its rich blend creates an elegant scent trail that feels confident, opulent and unforgettable.</span></p>
+<p><strong><span>2. Success Gold</span></strong><br><span>A refined woody-aromatic fragrance built around confidence and sophistication. Its deep woody, amber and musky character makes it an excellent choice for professional settings, evenings and important occasions</span><br><br><br><meta charset="utf-8"></p>
+<h1><span>WHY YOU'LL LOVE THIS BUNDLE</span></h1>
+<p class="isSelectedEnd"><span>✨ </span><strong><span>Two Premium Fragrances</span></strong><br><span>Get two distinctive scents in one exclusive bundle.</span></p>
+<p class="isSelectedEnd"><span>🔥 </span><strong><span>Long-Lasting Performance</span></strong><br><span>Designed to leave a noticeable fragrance trail and keep you smelling fresh for longer.</span></p>
+<p class="isSelectedEnd"><span>💎 </span><strong><span>Luxury Fragrance Experience</span></strong><br><span>Rich woody, amber, floral and musky accords create a sophisticated fragrance experience.</span></p>
+<p class="isSelectedEnd"><span>👔 </span><strong><span>Perfect for Multiple Occasions</span></strong><br><span>Ideal for office wear, dinners, gatherings, special occasions and everyday use.</span></p>
+<p class="isSelectedEnd"><span>🎁 </span><strong><span>Perfect Gift Choice</span></strong><br><span>A premium fragrance duo for anyone who appreciates elegant and sophisticated scents.</span></p>
+<p><span>💰 </span><strong><span>More Fragrance. More Value.</span></strong><br><span>Individual value: </span><strong><span>Rs. 6,900</span></strong><br><span>Bundle price: </span><strong><span>Rs. 5,900</span></strong><br><strong><span>Save Rs. 1,000</span></strong></p>
+</div>
+<!---->`,desc:`TWO ICONIC SCENTS. ONE EXCLUSIVE BUNDLE. Why settle for one signature scent when you can have two? The Premium Perfume Bundle brings together Sun Kissed Gold and Success Gold — a powerful combination of warm sophistication and confident woody elegance. Whether you're heading to the office, attending a special occasion, going out for dinner or simply want to smell exceptional throughout the day, this duo gives you a fragrance for every mood and moment. ✨ What's Included 1. Sun Kissed Gold A warm, luxurious and sophisticated fragrance with a radiant amber-woody character. Its rich blend creates an elegant scent trail that feels confident, opulent and unforgettable. 2. Success Gold A refined woody-aromatic fragrance built around confidence and sophistication. Its deep woody, amber and musky character makes it an excellent choice for professional settings, evenings and important occasions WHY YOU'LL LOVE THIS BUNDLE ✨ Two Premium Fragrances Get two distinctive scents in one exclusive bundle. 🔥 Long-Lasting Performance Designed to leave a noticeable fragrance trail and keep you smelling fresh for longer. 💎 Luxury Fragrance Experience Rich woody, amber, floral and musky accords create a sophisticated fragrance experience. 👔 Perfect for Multiple Occasions Ideal for office wear, dinners, gatherings, special occasions and everyday use. 🎁 Perfect Gift Choice A premium fragrance duo for anyone who appreciates elegant and sophisticated scents. 💰 More Fragrance. More Value. Individual value: Rs. 6,900 Bundle price: Rs. 5,900 Save Rs. 1,000`},"cool-box-premium-summer-perfume-gift-set":{html:`<div style="text-align: start;">
+<h2 data-start="1120" data-end="1145" class="PDq2pG_selectionAnchorContainer">Stay Fresh. Stay Cool.<span aria-hidden="true" class="PDq2pG_selectionAnchor"></span>
+</h2>
+<p data-start="1147" data-end="1272">Introducing the <strong data-start="1163" data-end="1176">Cool Box™</strong>, a premium fragrance collection created for men who enjoy fresh, clean and long-lasting scents.</p>
+<p data-start="1274" data-end="1404">Inside the beautifully designed luxury gift box are <strong data-start="1326" data-end="1354">three signature perfumes</strong>, each offering a completely different experience.</p>
+<hr data-start="1406" data-end="1409">
+<h2 data-start="1411" data-end="1428">What's Inside?</h2>
+<h3 data-start="1430" data-end="1447">🌿 Frost Edge</h3>
+<p data-start="1449" data-end="1499">A crisp green fragrance with energizing freshness.</p>
+<p data-start="1501" data-end="1513">Perfect for:</p>
+<ul data-start="1514" data-end="1562">
+<li data-start="1514" data-end="1526">Daily wear</li>
+<li data-start="1527" data-end="1535">Office</li>
+<li data-start="1536" data-end="1548">University</li>
+<li data-start="1549" data-end="1562">Morning use</li>
+</ul>
+<p data-start="1564" data-end="1589">Fresh • Clean • Confident</p>
+<hr data-start="1591" data-end="1594">
+<h3 data-start="1596" data-end="1613">❄ Crazy Chill</h3>
+<p data-start="1615" data-end="1660">Smooth, balanced and effortlessly refreshing.</p>
+<p data-start="1662" data-end="1674">Perfect for:</p>
+<ul data-start="1675" data-end="1727">
+<li data-start="1675" data-end="1691">Casual outings</li>
+<li data-start="1692" data-end="1705">Lunch dates</li>
+<li data-start="1706" data-end="1727">Everyday confidence</li>
+</ul>
+<p data-start="1729" data-end="1758">Modern • Elegant • Refreshing</p>
+<hr data-start="1760" data-end="1763">
+<h3 data-start="1765" data-end="1780">🌊 Ice Wave</h3>
+<p data-start="1782" data-end="1832">An aquatic fragrance inspired by the ocean breeze.</p>
+<p data-start="1834" data-end="1846">Perfect for:</p>
+<ul data-start="1847" data-end="1906">
+<li data-start="1847" data-end="1864">Summer evenings</li>
+<li data-start="1865" data-end="1878">Beach trips</li>
+<li data-start="1879" data-end="1890">Vacations</li>
+<li data-start="1891" data-end="1906">Night outings</li>
+</ul>
+<p data-start="1908" data-end="1935">Cool • Fresh • Long Lasting</p>
+</div>
+<!---->`,desc:`Stay Fresh. Stay Cool. Introducing the Cool Box™ , a premium fragrance collection created for men who enjoy fresh, clean and long-lasting scents. Inside the beautifully designed luxury gift box are three signature perfumes , each offering a completely different experience. What's Inside? 🌿 Frost Edge A crisp green fragrance with energizing freshness. Perfect for: Daily wear Office University Morning use Fresh • Clean • Confident ❄ Crazy Chill Smooth, balanced and effortlessly refreshing. Perfect for: Casual outings Lunch dates Everyday confidence Modern • Elegant • Refreshing 🌊 Ice Wave An aquatic fragrance inspired by the ocean breeze. Perfect for: Summer evenings Beach trips Vacations Night outings Cool • Fresh • Long Lasting`},"premium-oud-collection-oud-al-hussain-oud-al-rehman-oud-al-umar-3x50ml":{html:`<div style="text-align: start;">
+<p>Discover the essence of luxury with the PREMIUM OUD COLLECTION, an exclusive set featuring three signature fragrances—OUD AL HUSSAIN, OUD AL REHMAN, and OUD AL UMAR. Crafted for fragrance enthusiasts who appreciate depth, elegance, and long-lasting performance, this collection offers a versatile scent for every mood and occasion.</p>
+<p>OUD AL HUSSAIN delivers a rich and intense blend of woody and amber accords. OUD AL REHMAN presents a smooth and sophisticated fragrance with refined oriental notes. OUD AL UMAR completes the collection with a fresh, balanced composition that embodies timeless elegance.</p>
+<p>Together, these three premium fragrances create a luxurious experience designed to leave a lasting impression.</p>
+<p>✨ What's Included:<br>• OUD AL HUSSAIN Eau de Parfum – 50ML<br>• OUD AL REHMAN Eau de Parfum – 50ML<br>• OUD AL UMAR Eau de Parfum – 50ML</p>
+<p>Why You'll Love It:<br>✔ Three Signature Oud Fragrances in One Collection<br>✔ Long-Lasting Eau de Parfum Formula<br>✔ Suitable for Men &amp; Women<br>✔ Elegant Premium Packaging<br>✔ Rich Woody, Amber &amp; Oriental Notes<br>✔ Perfect for Gifting and Personal Collection<br>✔ Ideal for Daily Wear and Special Occasions</p>
+<p>Fragrance Family:<br>Woody • Oriental • Amber • Oud</p>
+<p>Size:<br>3 x 50ML (150ML Total)</p>
+<p>Concentration:<br>Eau de Parfum (EDP)</p>
+<p>Gender:<br>Unisex</p>
+<p>Experience the art of fine perfumery with the PREMIUM OUD COLLECTION—a refined fragrance trio crafted to elevate every moment with richness, elegance, and sophistication.<br></p>
+</div>
+<!---->`,desc:`Discover the essence of luxury with the PREMIUM OUD COLLECTION, an exclusive set featuring three signature fragrances—OUD AL HUSSAIN, OUD AL REHMAN, and OUD AL UMAR. Crafted for fragrance enthusiasts who appreciate depth, elegance, and long-lasting performance, this collection offers a versatile scent for every mood and occasion. OUD AL HUSSAIN delivers a rich and intense blend of woody and amber accords. OUD AL REHMAN presents a smooth and sophisticated fragrance with refined oriental notes. OUD AL UMAR completes the collection with a fresh, balanced composition that embodies timeless elegance. Together, these three premium fragrances create a luxurious experience designed to leave a lasting impression. ✨ What's Included: • OUD AL HUSSAIN Eau de Parfum – 50ML • OUD AL REHMAN Eau de Parfum – 50ML • OUD AL UMAR Eau de Parfum – 50ML Why You'll Love It: ✔ Three Signature Oud Fragrances in One Collection ✔ Long-Lasting Eau de Parfum Formula ✔ Suitable for Men & Women ✔ Elegant Premium Packaging ✔ Rich Woody, Amber & Oriental Notes ✔ Perfect for Gifting and Personal Collection ✔ Ideal for Daily Wear and Special Occasions Fragrance Family: Woody • Oriental • Amber • Oud Size: 3 x 50ML (150ML Total) Concentration: Eau de Parfum (EDP) Gender: Unisex Experience the art of fine perfumery with the PREMIUM OUD COLLECTION—a refined fragrance trio crafted to elevate every moment with richness, elegance, and sophistication.`},"oud-al-hussain-oud-al-umar-duo-pack-2x50ml":{html:`<div style="text-align: start;">
+<p>Experience the art of fine perfumery with the OUD AL HUSSAIN &amp; OUD AL UMAR DUO PACK, an exclusive collection featuring two distinctive oud fragrances crafted for those who appreciate elegance and lasting sophistication.</p>
+<p>OUD AL HUSSAIN captivates with its deep, warm, and intense character, offering rich woody and amber accords that leave a memorable impression. OUD AL UMAR presents a smooth and refined fragrance profile with a balanced blend of fresh, woody, and oriental notes, making it perfect for both everyday wear and special occasions.</p>
+<p>Together, these two fragrances create a versatile collection that complements every mood and moment.</p>
+<p>✨ What's Included:<br>• OUD AL HUSSAIN Eau de Parfum – 50ML<br>• OUD AL UMAR Eau de Parfum – 50ML</p>
+<p>Why You'll Love It:<br>✔ Two Premium Oud Fragrances in One Collection<br>✔ Long-Lasting Eau de Parfum Formula<br>✔ Suitable for Men &amp; Women<br>✔ Elegant Packaging, Perfect for Gifting<br>✔ Rich Woody, Amber &amp; Oriental Notes<br>✔ Ideal for Daily Wear and Special Occasions</p>
+<p>Fragrance Family:<br>Woody • Oriental • Amber • Oud</p>
+<p>Size:<br>2 x 50ML (100ML Total)</p>
+<p>Concentration:<br>Eau de Parfum (EDP)</p>
+<p>Gender:<br>Unisex</p>
+<p>Discover the perfect balance of richness and refinement with the OUD AL HUSSAIN &amp; OUD AL UMAR DUO PACK—a luxurious fragrance collection designed to leave a lasting impression.<br></p>
+</div>
+<!---->`,desc:`Experience the art of fine perfumery with the OUD AL HUSSAIN & OUD AL UMAR DUO PACK, an exclusive collection featuring two distinctive oud fragrances crafted for those who appreciate elegance and lasting sophistication. OUD AL HUSSAIN captivates with its deep, warm, and intense character, offering rich woody and amber accords that leave a memorable impression. OUD AL UMAR presents a smooth and refined fragrance profile with a balanced blend of fresh, woody, and oriental notes, making it perfect for both everyday wear and special occasions. Together, these two fragrances create a versatile collection that complements every mood and moment. ✨ What's Included: • OUD AL HUSSAIN Eau de Parfum – 50ML • OUD AL UMAR Eau de Parfum – 50ML Why You'll Love It: ✔ Two Premium Oud Fragrances in One Collection ✔ Long-Lasting Eau de Parfum Formula ✔ Suitable for Men & Women ✔ Elegant Packaging, Perfect for Gifting ✔ Rich Woody, Amber & Oriental Notes ✔ Ideal for Daily Wear and Special Occasions Fragrance Family: Woody • Oriental • Amber • Oud Size: 2 x 50ML (100ML Total) Concentration: Eau de Parfum (EDP) Gender: Unisex Discover the perfect balance of richness and refinement with the OUD AL HUSSAIN & OUD AL UMAR DUO PACK—a luxurious fragrance collection designed to leave a lasting impression.`},"oud-al-hussain-oud-al-rehman-duo-pack-2x50ml":{html:`<div style="text-align: start;">
+<p>Discover the perfect fragrance pairing with the OUD AL HUSSAIN &amp; OUD AL REHMAN DUO PACK. This premium collection brings together two distinctive oud fragrances, crafted for those who appreciate elegance, depth, and long-lasting performance.</p>
+<p>OUD AL HUSSAIN offers a rich, warm, and captivating scent with deep woody and amber accords, while OUD AL REHMAN delivers a smooth, refined fragrance that balances sophistication with timeless charm. Together, they create a versatile duo suitable for every occasion.</p>
+<p>✨ What's Included:<br>• OUD AL HUSSAIN Eau de Parfum – 50ML<br>• OUD AL REHMAN Eau de Parfum – 50ML</p>
+<p>Why You'll Love It:<br>✔ Two Premium Oud Fragrances in One Set<br>✔ Long-Lasting Eau de Parfum Formula<br>✔ Suitable for Men &amp; Women<br>✔ Elegant Packaging, Perfect for Gifting<br>✔ Rich Woody and Oriental Notes<br>✔ Ideal for Daily Wear and Special Occasions</p>
+<p>Fragrance Family:<br>Woody • Oriental • Amber • Oud</p>
+<p>Size: 2 x 50ML (100ML Total)<br>Concentration: Eau de Parfum (EDP)<br>Gender: Unisex</p>
+<p>Experience the richness of premium oud fragrances with the OUD AL HUSSAIN &amp; OUD AL REHMAN DUO PACK—a sophisticated collection designed to leave a lasting impression.<br></p>
+</div>
+<!---->`,desc:`Discover the perfect fragrance pairing with the OUD AL HUSSAIN & OUD AL REHMAN DUO PACK. This premium collection brings together two distinctive oud fragrances, crafted for those who appreciate elegance, depth, and long-lasting performance. OUD AL HUSSAIN offers a rich, warm, and captivating scent with deep woody and amber accords, while OUD AL REHMAN delivers a smooth, refined fragrance that balances sophistication with timeless charm. Together, they create a versatile duo suitable for every occasion. ✨ What's Included: • OUD AL HUSSAIN Eau de Parfum – 50ML • OUD AL REHMAN Eau de Parfum – 50ML Why You'll Love It: ✔ Two Premium Oud Fragrances in One Set ✔ Long-Lasting Eau de Parfum Formula ✔ Suitable for Men & Women ✔ Elegant Packaging, Perfect for Gifting ✔ Rich Woody and Oriental Notes ✔ Ideal for Daily Wear and Special Occasions Fragrance Family: Woody • Oriental • Amber • Oud Size: 2 x 50ML (100ML Total) Concentration: Eau de Parfum (EDP) Gender: Unisex Experience the richness of premium oud fragrances with the OUD AL HUSSAIN & OUD AL REHMAN DUO PACK—a sophisticated collection designed to leave a lasting impression.`},"oud-al-hussain-long-lasting-arabic-oud-perfume":{html:`<div style="text-align: start;">
+<h1>OUD AL HUSSAIN – Premium Creation\xA0Oud Perfume</h1>
+<p>Experience the richness of the East with <strong>OUD AL HUSSAIN Eau De Parfum 50ML</strong>, a luxurious fragrance crafted for lovers of deep, sophisticated oud scents. This premium perfume blends fresh citrus, elegant florals, and warm woody accords to create a captivating scent that leaves a lasting impression.</p>
+<p>Inspired by values of honor, strength, and timeless elegance, <strong>OUD AL HUSSAIN</strong> is designed for individuals who appreciate refined fragrances and premium craftsmanship.</p>
+<h2>Fragrance Notes</h2>
+<p><strong>Top Notes:</strong> Turkish Rose, Lavender &amp; Lemon<br><strong>Middle Notes:</strong> Sandalwood &amp; White Flowers<br><strong>Base Notes:</strong> Musk &amp; Agarwood (Oud)</p>
+<h2>Product Details</h2>
+<ul>
+<li>
+<strong>Fragrance Family:</strong> Oriental Woody Oud</li>
+<li>
+<strong>Type:</strong> Eau De Parfum (EDP)</li>
+<li>
+<strong>Size:</strong> 50ML</li>
+<li>
+<strong>Longevity:</strong> Long Lasting</li>
+<li>
+<strong>Suitable For:</strong> Men &amp; Women</li>
+<li>
+<strong>Occasion:</strong> Daily Wear, Evening Wear, Special Gatherings &amp; Gift Giving</li>
+</ul>
+<h2>Why You'll Love OUD AL HUSSAIN</h2>
+<p>✔ Premium Arabic Oud Fragrance<br>✔ Fresh Rose and Citrus Opening<br>✔ Rich Sandalwood and Floral Heart<br>✔ Deep Musk and Agarwood Base<br>✔ Long-Lasting Eau De Parfum<br>✔ Elegant Luxury Bottle Design<br>✔ Perfect Gift for Oud Lovers<br>✔ Suitable for Every Season</p>
+<p>Discover the perfect harmony of <strong>Turkish Rose, Lavender, Lemon, Sandalwood, White Flowers, Musk, and Agarwood</strong> in <strong>OUD AL HUSSAIN</strong>—a premium fragrance that embodies sophistication and timeless oriental luxury.</p>
+</div>
+<!---->`,desc:`OUD AL HUSSAIN – Premium Creation Oud Perfume Experience the richness of the East with OUD AL HUSSAIN Eau De Parfum 50ML , a luxurious fragrance crafted for lovers of deep, sophisticated oud scents. This premium perfume blends fresh citrus, elegant florals, and warm woody accords to create a captivating scent that leaves a lasting impression. Inspired by values of honor, strength, and timeless elegance, OUD AL HUSSAIN is designed for individuals who appreciate refined fragrances and premium craftsmanship. Fragrance Notes Top Notes: Turkish Rose, Lavender & Lemon Middle Notes: Sandalwood & White Flowers Base Notes: Musk & Agarwood (Oud) Product Details Fragrance Family: Oriental Woody Oud Type: Eau De Parfum (EDP) Size: 50ML Longevity: Long Lasting Suitable For: Men & Women Occasion: Daily Wear, Evening Wear, Special Gatherings & Gift Giving Why You'll Love OUD AL HUSSAIN ✔ Premium Arabic Oud Fragrance ✔ Fresh Rose and Citrus Opening ✔ Rich Sandalwood and Floral Heart ✔ Deep Musk and Agarwood Base ✔ Long-Lasting Eau De Parfum ✔ Elegant Luxury Bottle Design ✔ Perfect Gift for Oud Lovers ✔ Suitable for Every Season Discover the perfect harmony of Turkish Rose, Lavender, Lemon, Sandalwood, White Flowers, Musk, and Agarwood in OUD AL HUSSAIN —a premium fragrance that embodies sophistication and timeless oriental luxury.`},"pack-of-8-body-mist-collection":{html:`<p class="isSelectedEnd"><span>Experience the ultimate fragrance bundle with our Pack of 8 Premium Body Mist Collection. Carefully curated with eight customer-favorite scents, this collection offers the perfect blend of freshness, elegance, sweetness, and long-lasting fragrance for every mood and occasion.</span></p>
+<p class="isSelectedEnd"><strong>Included Fragrances:</strong><br><span>• Million Body Mist</span><br><span>• CK One Body Mist</span><br><span>• Cool Water Body Mist</span><br><span>• Eros Body Mist</span><br><span>• Bright Crystal Body Mist</span><br><span>• Good Girl Body Mist</span><br><span>• Flora Body Mist</span><br><span>• Sensation Body Mist</span></p>
+<p class="isSelectedEnd"><strong>Why You'll Love It:</strong><br><span>✔ Pack of 8 Best-Selling Fragrances</span><br><span>✔ Perfect for Daily Use</span><br><span>✔ Long-Lasting Freshness</span><br><span>✔ Ideal Gift Set for Friends &amp; Family</span><br><span>✔ Suitable for All Seasons</span><br><span>✔ Premium Quality Fragrance Oils</span></p>
+<p class="isSelectedEnd"><strong>Available Sizes:</strong><br><span>• 50ml Pack of 8</span><br><span>• 125ml Pack of 8</span></p>
+<p class="isSelectedEnd"><span>Whether you're looking for a complete fragrance wardrobe or the perfect gift, this Pack of 8 Body Mist Collection offers exceptional value and variety in one beautiful bundle.</span></p>
+<p class="isSelectedEnd"><strong>Package Includes:</strong><br><span>8 × Body Mist Bottles (Choose 50ml or 125ml Variant)</span></p>
+<p>\xA0</p>`,desc:`Experience the ultimate fragrance bundle with our Pack of 8 Premium Body Mist Collection. Carefully curated with eight customer-favorite scents, this collection offers the perfect blend of freshness, elegance, sweetness, and long-lasting fragrance for every mood and occasion. Included Fragrances: • Million Body Mist • CK One Body Mist • Cool Water Body Mist • Eros Body Mist • Bright Crystal Body Mist • Good Girl Body Mist • Flora Body Mist • Sensation Body Mist Why You'll Love It: ✔ Pack of 8 Best-Selling Fragrances ✔ Perfect for Daily Use ✔ Long-Lasting Freshness ✔ Ideal Gift Set for Friends & Family ✔ Suitable for All Seasons ✔ Premium Quality Fragrance Oils Available Sizes: • 50ml Pack of 8 • 125ml Pack of 8 Whether you're looking for a complete fragrance wardrobe or the perfect gift, this Pack of 8 Body Mist Collection offers exceptional value and variety in one beautiful bundle. Package Includes: 8 × Body Mist Bottles (Choose 50ml or 125ml Variant)`},"crysto-perfume-free-bright-crystal-body-mist":{html:`<p class="isSelectedEnd"><strong>✨ Elegance in Every Spray.</strong></p>
+<p class="isSelectedEnd"><span>Introducing Crysto by a. Fragrances — a fragrance inspired by beauty, sophistication, and timeless femininity. Fresh, radiant, and effortlessly elegant, Crysto blends sparkling fruity notes with delicate florals to create a scent that feels graceful and luxurious.</span></p>
+<p class="isSelectedEnd"><span>For a limited time, purchase Crysto Perfume 50ml and receive a matching Bright Crystal Body Mist 50ml absolutely FREE.</span></p>
+<p class="isSelectedEnd"><span>Layer both products together to enjoy enhanced longevity and a fragrance experience that remains fresh and captivating throughout the day.</span></p>
+<p class="isSelectedEnd"><span>Whether it's a day at work, a casual outing, or a special occasion, Crysto adds a touch of elegance to every moment.</span></p>
+<p class="isSelectedEnd"><strong>WHAT'S INCLUDED</strong></p>
+<p class="isSelectedEnd"><span>✔ Crysto Perfume – 50ml</span></p>
+<p class="isSelectedEnd"><span>✔ Bright Crystal Body Mist – 50ml (FREE)</span></p>
+<p class="isSelectedEnd"><strong>FRAGRANCE PROFILE</strong></p>
+<p class="isSelectedEnd"><em><strong>Top Notes:</strong></em><br><span>• Pomegranate</span><br><span>• Yuzu</span><br><span>• Fresh Citrus</span></p>
+<p class="isSelectedEnd"><em><strong>Heart Notes:</strong></em><br><span>• Peony</span><br><span>• Magnolia</span><br><span>• Lotus Flower</span></p>
+<p class="isSelectedEnd"><em><strong>Base Notes:</strong></em><br><span>• Musk</span><br><span>• Amber</span><br><span>• Mahogany Wood</span></p>
+<p class="isSelectedEnd"><strong>WHY YOU'LL LOVE IT</strong></p>
+<p class="isSelectedEnd"><span>✓ Buy 1 Perfume &amp; Get 1 Body Mist FREE</span></p>
+<p class="isSelectedEnd"><span>✓ Fresh Floral-Fruity Fragrance</span></p>
+<p class="isSelectedEnd"><span>✓ Elegant &amp; Feminine Scent</span></p>
+<p class="isSelectedEnd"><span>✓ Long-Lasting Performance</span></p>
+<p class="isSelectedEnd"><span>✓ Perfect for Daily Wear</span></p>
+<p class="isSelectedEnd"><span>✓ Ideal for Women</span></p>
+<p class="isSelectedEnd"><span>✓ Beautiful Gift Choice</span></p>
+<p class="isSelectedEnd"><span>✓ Limited-Time Bundle Offer</span></p>
+<p class="isSelectedEnd"><strong>PRODUCT DETAILS</strong></p>
+<p class="isSelectedEnd"><span>Brand: a. Fragrances</span></p>
+<p class="isSelectedEnd"><span>Category: Perfume + Body Mist Bundle</span></p>
+<p class="isSelectedEnd"><span>Volume: 50ml Perfume + 50ml Body Mist</span></p>
+<p class="isSelectedEnd"><span>Gender: Women</span></p>
+<p><span>Fragrance Family: Floral Fruity</span></p>`,desc:`✨ Elegance in Every Spray. Introducing Crysto by a. Fragrances — a fragrance inspired by beauty, sophistication, and timeless femininity. Fresh, radiant, and effortlessly elegant, Crysto blends sparkling fruity notes with delicate florals to create a scent that feels graceful and luxurious. For a limited time, purchase Crysto Perfume 50ml and receive a matching Bright Crystal Body Mist 50ml absolutely FREE. Layer both products together to enjoy enhanced longevity and a fragrance experience that remains fresh and captivating throughout the day. Whether it's a day at work, a casual outing, or a special occasion, Crysto adds a touch of elegance to every moment. WHAT'S INCLUDED ✔ Crysto Perfume – 50ml ✔ Bright Crystal Body Mist – 50ml (FREE) FRAGRANCE PROFILE Top Notes: • Pomegranate • Yuzu • Fresh Citrus Heart Notes: • Peony • Magnolia • Lotus Flower Base Notes: • Musk • Amber • Mahogany Wood WHY YOU'LL LOVE IT ✓ Buy 1 Perfume & Get 1 Body Mist FREE ✓ Fresh Floral-Fruity Fragrance ✓ Elegant & Feminine Scent ✓ Long-Lasting Performance ✓ Perfect for Daily Wear ✓ Ideal for Women ✓ Beautiful Gift Choice ✓ Limited-Time Bundle Offer PRODUCT DETAILS Brand: a. Fragrances Category: Perfume + Body Mist Bundle Volume: 50ml Perfume + 50ml Body Mist Gender: Women Fragrance Family: Floral Fruity`},"elites-perfume-free-1-million-body-mist":{html:`<p class="isSelectedEnd"><strong>💎 Luxury That Speaks for Itself.</strong></p>
+<p class="isSelectedEnd"><span>Introducing Elites by a. Fragrances — a fragrance created for men who aim higher, dream bigger, and leave a lasting impression. Bold, charismatic, and refined, Elites combines fresh spices with warm woody accords to deliver a scent that embodies success and confidence.</span></p>
+<p class="isSelectedEnd"><span>For a limited time, purchase Elites Perfume 50ml and receive a matching 1 Million Body Mist 50ml absolutely FREE.</span></p>
+<p class="isSelectedEnd"><span>Layering the perfume and body mist together creates a richer fragrance experience while helping your scent last even longer throughout the day.</span></p>
+<p class="isSelectedEnd"><span>Whether you're heading to an important meeting, a special event, or a night out, Elites ensures you stand out with confidence and style.</span></p>
+<p class="isSelectedEnd"><strong>WHAT'S INCLUDED</strong></p>
+<p class="isSelectedEnd"><span>✔ Elites Perfume – 50ml</span></p>
+<p class="isSelectedEnd"><span>✔ 1 Million Body Mist – 50ml (FREE)</span></p>
+<p class="isSelectedEnd"><strong>FRAGRANCE PROFILE</strong></p>
+<p class="isSelectedEnd"><em><strong>Top Notes:</strong></em><br><span>• Blood Mandarin</span><br><span>• Grapefruit</span><br><span>• Mint</span></p>
+<p class="isSelectedEnd"><em><strong>Heart Notes:</strong></em><br><span>• Cinnamon</span><br><span>• Spicy Notes</span><br><span>• Rose</span></p>
+<p class="isSelectedEnd"><em><strong>Base Notes:</strong></em><br><span>• Leather</span><br><span>• Amber</span><br><span>• Woody Notes</span></p>
+<p class="isSelectedEnd"><strong>WHY YOU'LL LOVE IT</strong></p>
+<p class="isSelectedEnd"><span>✓ Buy 1 Perfume &amp; Get 1 Body Mist FREE</span></p>
+<p class="isSelectedEnd"><span>✓ Rich &amp; Luxurious Fragrance</span></p>
+<p class="isSelectedEnd"><span>✓ Long-Lasting Performance</span></p>
+<p class="isSelectedEnd"><span>✓ Perfect for Evening Wear</span></p>
+<p class="isSelectedEnd"><span>✓ Bold &amp; Masculine Scent</span></p>
+<p class="isSelectedEnd"><span>✓ Premium Fragrance Experience</span></p>
+<p class="isSelectedEnd"><span>✓ Ideal Gift for Men</span></p>
+<p class="isSelectedEnd"><span>✓ Limited-Time Bundle Offer</span></p>
+<p class="isSelectedEnd"><strong>PRODUCT DETAILS</strong></p>
+<p class="isSelectedEnd"><span>Brand: a. Fragrances</span></p>
+<p class="isSelectedEnd"><span>Category: Perfume + Body Mist Bundle</span></p>
+<p class="isSelectedEnd"><span>Volume: 50ml Perfume + 50ml Body Mist</span></p>
+<p class="isSelectedEnd"><span>Gender: Men</span></p>
+<p><span>Fragrance Family: Woody Spicy</span></p>`,desc:`💎 Luxury That Speaks for Itself. Introducing Elites by a. Fragrances — a fragrance created for men who aim higher, dream bigger, and leave a lasting impression. Bold, charismatic, and refined, Elites combines fresh spices with warm woody accords to deliver a scent that embodies success and confidence. For a limited time, purchase Elites Perfume 50ml and receive a matching 1 Million Body Mist 50ml absolutely FREE. Layering the perfume and body mist together creates a richer fragrance experience while helping your scent last even longer throughout the day. Whether you're heading to an important meeting, a special event, or a night out, Elites ensures you stand out with confidence and style. WHAT'S INCLUDED ✔ Elites Perfume – 50ml ✔ 1 Million Body Mist – 50ml (FREE) FRAGRANCE PROFILE Top Notes: • Blood Mandarin • Grapefruit • Mint Heart Notes: • Cinnamon • Spicy Notes • Rose Base Notes: • Leather • Amber • Woody Notes WHY YOU'LL LOVE IT ✓ Buy 1 Perfume & Get 1 Body Mist FREE ✓ Rich & Luxurious Fragrance ✓ Long-Lasting Performance ✓ Perfect for Evening Wear ✓ Bold & Masculine Scent ✓ Premium Fragrance Experience ✓ Ideal Gift for Men ✓ Limited-Time Bundle Offer PRODUCT DETAILS Brand: a. Fragrances Category: Perfume + Body Mist Bundle Volume: 50ml Perfume + 50ml Body Mist Gender: Men Fragrance Family: Woody Spicy`},"eros-charm-perfume-free-eros-body-mist":{html:`<p class="isSelectedEnd"><strong>👑 Confidence That Leaves an Impression.</strong></p>
+<p class="isSelectedEnd"><span>Introducing Eros Charm by a. Fragrances — a powerful fragrance designed for men who command attention wherever they go. Fresh, energetic, and undeniably masculine, this scent combines vibrant freshness with warm sensual notes to create a fragrance that feels both modern and unforgettable.</span></p>
+<p><span>For a limited time</span><span>, purchase Eros Charm Perfume 50ml and receive a matching Eros Body Mist 50ml absolutely FREE.</span></p>
+<p class="isSelectedEnd"><span>Layer both products together for enhanced performance, longer-lasting freshness, and an irresistible scent trail that stays with you throughout the day.</span></p>
+<p class="isSelectedEnd"><span>Whether you're heading to the office, a casual outing, a special event, or a night out, Eros Charm is designed to elevate your presence and confidence.</span></p>
+<p class="isSelectedEnd"><strong>WHAT'S INCLUDED</strong></p>
+<p class="isSelectedEnd"><span>✔ Eros Charm Perfume – 50ml</span></p>
+<p class="isSelectedEnd"><span>✔ Eros Body Mist – 50ml (FREE)</span></p>
+<p class="isSelectedEnd"><strong>FRAGRANCE PROFILE</strong></p>
+<p class="isSelectedEnd"><em><strong>Top Notes:</strong></em><br><span>• Mint</span><br><span>• Green Apple</span><br><span>• Lemon</span></p>
+<p class="isSelectedEnd"><em><strong>Heart Notes:</strong></em><br><span>• Tonka Bean</span><br><span>• Ambroxan</span><br><span>• Geranium</span></p>
+<p class="isSelectedEnd"><em><strong>Base Notes:</strong></em><br><span>• Vanilla</span><br><span>• Cedarwood</span><br><span>• Oakmoss</span></p>
+<p class="isSelectedEnd"><strong>WHY YOU'LL LOVE IT</strong></p>
+<p class="isSelectedEnd"><span>✓ Buy 1 Perfume &amp; Get 1 Body Mist FREE</span></p>
+<p class="isSelectedEnd"><span>✓ Fresh &amp; Masculine Fragrance</span></p>
+<p class="isSelectedEnd"><span>✓ Long-Lasting Performance</span></p>
+<p class="isSelectedEnd"><span>✓ Perfect for Daily Wear &amp; Special Occasions</span></p>
+<p class="isSelectedEnd"><span>✓ Premium Fragrance Experience</span></p>
+<p class="isSelectedEnd"><span>✓ Ideal for Modern Men</span></p>
+<p class="isSelectedEnd"><span>✓ Great Gift Choice</span></p>
+<p class="isSelectedEnd"><span>✓ Limited-Time Bundle Offer</span></p>
+<p class="isSelectedEnd"><strong>PRODUCT DETAILS</strong></p>
+<p class="isSelectedEnd"><span>Brand: a. Fragrances</span></p>
+<p class="isSelectedEnd"><span>Category: Perfume + Body Mist Bundle</span></p>
+<p class="isSelectedEnd"><span>Volume: 50ml Perfume + 50ml Body Mist</span></p>
+<p class="isSelectedEnd"><span>Gender: Men</span></p>
+<p><span>Fragrance Family: Fresh Aromatic</span></p>
+<!---->`,desc:`👑 Confidence That Leaves an Impression. Introducing Eros Charm by a. Fragrances — a powerful fragrance designed for men who command attention wherever they go. Fresh, energetic, and undeniably masculine, this scent combines vibrant freshness with warm sensual notes to create a fragrance that feels both modern and unforgettable. For a limited time , purchase Eros Charm Perfume 50ml and receive a matching Eros Body Mist 50ml absolutely FREE. Layer both products together for enhanced performance, longer-lasting freshness, and an irresistible scent trail that stays with you throughout the day. Whether you're heading to the office, a casual outing, a special event, or a night out, Eros Charm is designed to elevate your presence and confidence. WHAT'S INCLUDED ✔ Eros Charm Perfume – 50ml ✔ Eros Body Mist – 50ml (FREE) FRAGRANCE PROFILE Top Notes: • Mint • Green Apple • Lemon Heart Notes: • Tonka Bean • Ambroxan • Geranium Base Notes: • Vanilla • Cedarwood • Oakmoss WHY YOU'LL LOVE IT ✓ Buy 1 Perfume & Get 1 Body Mist FREE ✓ Fresh & Masculine Fragrance ✓ Long-Lasting Performance ✓ Perfect for Daily Wear & Special Occasions ✓ Premium Fragrance Experience ✓ Ideal for Modern Men ✓ Great Gift Choice ✓ Limited-Time Bundle Offer PRODUCT DETAILS Brand: a. Fragrances Category: Perfume + Body Mist Bundle Volume: 50ml Perfume + 50ml Body Mist Gender: Men Fragrance Family: Fresh Aromatic`},"glam-girl-perfume-free-flora-body-mist":{html:`<p><strong>🌸 Glamour Meets Elegance.</strong></p>
+<p>Introducing Glam Girl by a. Fragrances — a charming and sophisticated fragrance created for women who love confidence, beauty, and timeless elegance. With its delicate floral bouquet and soft feminine character, Glam Girl is designed to make every moment feel special.</p>
+<p>For a limited time, purchase Glam Girl Perfume 50ml and receive a matching Flora Body Mist 50ml absolutely FREE.</p>
+<p>The perfect combination for fragrance layering, allowing you to enjoy a richer scent experience and longer-lasting freshness throughout the day.</p>
+<p>Whether you're heading to work, university, brunch with friends, or a special evening out, Glam Girl adds the perfect touch of femininity and grace.</p>
+<p><strong>WHAT'S INCLUDED</strong></p>
+<p>✔ Glam Girl Perfume – 50ml</p>
+<p>✔ Flora Body Mist – 50ml (FREE)</p>
+<p><strong>FRAGRANCE PROFILE</strong></p>
+<p><em><strong>Top Notes:</strong></em><br>• Pear<br>• Citrus<br>• Red Berries</p>
+<p><em><strong>Heart Notes:</strong></em><br>• Rose<br>• Peony<br>• White Floral Accord</p>
+<p><em><strong>Base Notes:</strong></em><br>• Musk<br>• Sandalwood<br>• Soft Amber</p>
+<p><strong>WHY YOU'LL LOVE IT</strong></p>
+<p>✓ Buy 1 Perfume &amp; Get 1 Body Mist FREE</p>
+<p>✓ Elegant Floral Fragrance</p>
+<p>✓ Soft &amp; Feminine Scent</p>
+<p>✓ Long-Lasting Performance</p>
+<p>✓ Perfect for Daily Wear</p>
+<p>✓ Ideal for Women of All Ages</p>
+<p>✓ Great Gift Choice</p>
+<p>✓ Premium Fragrance Experience</p>
+<p><strong>PRODUCT DETAILS</strong></p>
+<p>Brand: a. Fragrances</p>
+<p>Category: Perfume + Body Mist Bundle</p>
+<p>Volume: 50ml Perfume + 50ml Body Mist</p>
+<p>Gender: Women</p>
+<p>Fragrance Family: Floral &amp; Fruity</p>`,desc:`🌸 Glamour Meets Elegance. Introducing Glam Girl by a. Fragrances — a charming and sophisticated fragrance created for women who love confidence, beauty, and timeless elegance. With its delicate floral bouquet and soft feminine character, Glam Girl is designed to make every moment feel special. For a limited time, purchase Glam Girl Perfume 50ml and receive a matching Flora Body Mist 50ml absolutely FREE. The perfect combination for fragrance layering, allowing you to enjoy a richer scent experience and longer-lasting freshness throughout the day. Whether you're heading to work, university, brunch with friends, or a special evening out, Glam Girl adds the perfect touch of femininity and grace. WHAT'S INCLUDED ✔ Glam Girl Perfume – 50ml ✔ Flora Body Mist – 50ml (FREE) FRAGRANCE PROFILE Top Notes: • Pear • Citrus • Red Berries Heart Notes: • Rose • Peony • White Floral Accord Base Notes: • Musk • Sandalwood • Soft Amber WHY YOU'LL LOVE IT ✓ Buy 1 Perfume & Get 1 Body Mist FREE ✓ Elegant Floral Fragrance ✓ Soft & Feminine Scent ✓ Long-Lasting Performance ✓ Perfect for Daily Wear ✓ Ideal for Women of All Ages ✓ Great Gift Choice ✓ Premium Fragrance Experience PRODUCT DETAILS Brand: a. Fragrances Category: Perfume + Body Mist Bundle Volume: 50ml Perfume + 50ml Body Mist Gender: Women Fragrance Family: Floral & Fruity`},"ocean-shades-perfume-free-cool-water-body-mist":{html:`<p class="isSelectedEnd"><strong>🌊 Fresh Like the Ocean. Cool Like the Breeze.</strong></p>
+<p class="isSelectedEnd"><span>Experience the refreshing power of Ocean Shades by a. Fragrances. Designed for those who love clean, aquatic, and energizing fragrances, Ocean Shades delivers an invigorating scent that captures the essence of the sea.</span></p>
+<p class="isSelectedEnd"><span>For a limited time, purchase Ocean Shades Perfume 50ml and receive a matching Cool Water Body Mist 50ml absolutely FREE.</span></p>
+<p class="isSelectedEnd"><span>Use both together for enhanced longevity and a refreshing fragrance trail that keeps you feeling confident from morning to night.</span></p>
+<p class="isSelectedEnd"><strong>WHAT'S INCLUDED</strong></p>
+<p class="isSelectedEnd"><span>✔ Ocean Shades Perfume – 50ml</span></p>
+<p class="isSelectedEnd"><span>✔ Cool Water Body Mist – 50ml (FREE)</span></p>
+<p class="isSelectedEnd"><strong>FRAGRANCE PROFILE</strong></p>
+<p class="isSelectedEnd"><em><strong>Top Notes:</strong></em><br><span>• Marine Accord</span><br><span>• Mint</span><br><span>• Bergamot</span></p>
+<p class="isSelectedEnd"><em><strong>Heart Notes:</strong></em><br><span>• Lavender</span><br><span>• Green Notes</span><br><span>• Geranium</span></p>
+<p class="isSelectedEnd"><em><strong>Base Notes:</strong></em><br><span>• Musk</span><br><span>• Cedarwood</span><br><span>• Amber</span></p>
+<p class="isSelectedEnd"><strong>WHY YOU'LL LOVE IT</strong></p>
+<p class="isSelectedEnd"><span>✓ Buy 1 Perfume &amp; Get 1 Body Mist FREE</span></p>
+<p class="isSelectedEnd"><span>✓ Fresh Aquatic Fragrance</span></p>
+<p class="isSelectedEnd"><span>✓ Perfect for Daily Wear</span></p>
+<p class="isSelectedEnd"><span>✓ Long-Lasting Freshness</span></p>
+<p class="isSelectedEnd"><span>✓ Clean &amp; Masculine Scent</span></p>
+<p class="isSelectedEnd"><span>✓ Great for Summer Weather</span></p>
+<p class="isSelectedEnd"><span>✓ Premium Gift Choice</span></p>
+<p class="isSelectedEnd"><span>✓ Refreshing All-Day Performance</span></p>
+<p class="isSelectedEnd"><strong>PRODUCT DETAILS</strong></p>
+<p class="isSelectedEnd"><span>Brand: a. Fragrances</span></p>
+<p class="isSelectedEnd"><span>Category: Perfume + Body Mist Bundle</span></p>
+<p class="isSelectedEnd"><span>Volume: 50ml Perfume + 50ml Body Mist</span></p>
+<p class="isSelectedEnd"><span>Gender: Men</span></p>
+<p><span>Fragrance Family: Fresh Aquatic</span></p>`,desc:`🌊 Fresh Like the Ocean. Cool Like the Breeze. Experience the refreshing power of Ocean Shades by a. Fragrances. Designed for those who love clean, aquatic, and energizing fragrances, Ocean Shades delivers an invigorating scent that captures the essence of the sea. For a limited time, purchase Ocean Shades Perfume 50ml and receive a matching Cool Water Body Mist 50ml absolutely FREE. Use both together for enhanced longevity and a refreshing fragrance trail that keeps you feeling confident from morning to night. WHAT'S INCLUDED ✔ Ocean Shades Perfume – 50ml ✔ Cool Water Body Mist – 50ml (FREE) FRAGRANCE PROFILE Top Notes: • Marine Accord • Mint • Bergamot Heart Notes: • Lavender • Green Notes • Geranium Base Notes: • Musk • Cedarwood • Amber WHY YOU'LL LOVE IT ✓ Buy 1 Perfume & Get 1 Body Mist FREE ✓ Fresh Aquatic Fragrance ✓ Perfect for Daily Wear ✓ Long-Lasting Freshness ✓ Clean & Masculine Scent ✓ Great for Summer Weather ✓ Premium Gift Choice ✓ Refreshing All-Day Performance PRODUCT DETAILS Brand: a. Fragrances Category: Perfume + Body Mist Bundle Volume: 50ml Perfume + 50ml Body Mist Gender: Men Fragrance Family: Fresh Aquatic`},"sensation-perfume-free-sensation-body-mist":{html:`<p class="isSelectedEnd"><strong>🌿 Feel Fresh. Feel Sensational.</strong></p>
+<p class="isSelectedEnd"><span>Introducing Sensation by a. Fragrances — a refreshing fragrance crafted for those who love clean, uplifting, and naturally elegant scents. Inspired by fresh florals and green accords, Sensation delivers a vibrant fragrance experience that keeps you feeling confident and refreshed all day long.</span></p>
+<p class="isSelectedEnd"><span>For a limited time, purchase Sensation Perfume 50ml and receive a matching Sensation Body Mist FREE.</span></p>
+<p class="isSelectedEnd"><span>Layering the perfume and body mist together enhances fragrance longevity while creating a richer and more refreshing scent trail.</span></p>
+<p class="isSelectedEnd"><strong>WHAT'S INCLUDED</strong></p>
+<p class="isSelectedEnd"><span>✔ Sensation Perfume – 50ml</span></p>
+<p class="isSelectedEnd"><span>✔ Sensation Body Mist – 50ml (FREE)</span></p>
+<p class="isSelectedEnd"><strong>FRAGRANCE PROFILE</strong></p>
+<p class="isSelectedEnd"><em><strong>Top Notes:</strong></em><br><span>• Green Citrus</span><br><span>• Fresh Lemon</span><br><span>• Bergamot</span></p>
+<p class="isSelectedEnd"><em><strong>Heart Notes:</strong></em><br><span>• White Jasmine</span><br><span>• Lily of the Valley</span><br><span>• Floral Accord</span></p>
+<p class="isSelectedEnd"><em><strong>Base Notes:</strong></em><br><span>• White Musk</span><br><span>• Soft Woods</span><br><span>• Amber</span></p>
+<p class="isSelectedEnd"><strong>WHY YOU'LL LOVE IT</strong></p>
+<p class="isSelectedEnd"><span>✓ Buy 1 Perfume &amp; Get 1 Body Mist FREE</span></p>
+<p class="isSelectedEnd"><span>✓ Fresh Floral Fragrance</span></p>
+<p class="isSelectedEnd"><span>✓ Long-Lasting Freshness</span></p>
+<p class="isSelectedEnd"><span>✓ Perfect for Daily Wear</span></p>
+<p class="isSelectedEnd"><span>✓ Clean &amp; Elegant Scent</span></p>
+<p class="isSelectedEnd"><span>✓ Suitable for Men &amp; Women</span></p>
+<p class="isSelectedEnd"><span>✓ Ideal for Spring &amp; Summer</span></p>
+<p class="isSelectedEnd"><span>✓ Premium Gift Choice</span></p>
+<p class="isSelectedEnd"><strong>PRODUCT DETAILS</strong></p>
+<p class="isSelectedEnd"><span>Brand: a. Fragrances</span></p>
+<p class="isSelectedEnd"><span>Category: Perfume + Body Mist Bundle</span></p>
+<p class="isSelectedEnd"><span>Volume: 50ml Perfume + 50ml Body Mist</span></p>
+<p class="isSelectedEnd"><span>Gender: Unisex</span></p>
+<p><span>Fragrance Family: Fresh Floral</span></p>
+<!---->`,desc:`🌿 Feel Fresh. Feel Sensational. Introducing Sensation by a. Fragrances — a refreshing fragrance crafted for those who love clean, uplifting, and naturally elegant scents. Inspired by fresh florals and green accords, Sensation delivers a vibrant fragrance experience that keeps you feeling confident and refreshed all day long. For a limited time, purchase Sensation Perfume 50ml and receive a matching Sensation Body Mist FREE. Layering the perfume and body mist together enhances fragrance longevity while creating a richer and more refreshing scent trail. WHAT'S INCLUDED ✔ Sensation Perfume – 50ml ✔ Sensation Body Mist – 50ml (FREE) FRAGRANCE PROFILE Top Notes: • Green Citrus • Fresh Lemon • Bergamot Heart Notes: • White Jasmine • Lily of the Valley • Floral Accord Base Notes: • White Musk • Soft Woods • Amber WHY YOU'LL LOVE IT ✓ Buy 1 Perfume & Get 1 Body Mist FREE ✓ Fresh Floral Fragrance ✓ Long-Lasting Freshness ✓ Perfect for Daily Wear ✓ Clean & Elegant Scent ✓ Suitable for Men & Women ✓ Ideal for Spring & Summer ✓ Premium Gift Choice PRODUCT DETAILS Brand: a. Fragrances Category: Perfume + Body Mist Bundle Volume: 50ml Perfume + 50ml Body Mist Gender: Unisex Fragrance Family: Fresh Floral`},"timeless-perfume-free-ck-one-body-mist":{html:`<p class="isSelectedEnd"><strong>🍍 Fresh. Clean. Timeless.</strong></p>
+<p class="isSelectedEnd"><span>Introducing Timeless by a. Fragrances, a refreshing fragrance crafted for those who appreciate simplicity, elegance, and confidence. Inspired by the iconic fresh citrus fragrance style, Timeless delivers a crisp blend of fruity, citrus, and clean musky notes that feel effortlessly modern.</span></p>
+<p class="isSelectedEnd"><span>For a limited time, purchase Timeless Perfume 50ml and receive a CK One Inspired Body Mist absolutely FREE.</span></p>
+<p class="isSelectedEnd"><span>Layer both products together for an enhanced fragrance experience that stays fresh and vibrant throughout the day.</span></p>
+<p class="isSelectedEnd"><strong>WHAT'S INCLUDED</strong></p>
+<p class="isSelectedEnd"><span>✔ Timeless Perfume – 50ml</span></p>
+<p class="isSelectedEnd"><span>✔ CK One Inspired Body Mist – 50ml (FREE)</span></p>
+<p class="isSelectedEnd"><strong>FRAGRANCE PROFILE</strong></p>
+<p class="isSelectedEnd"><strong>Top Notes:</strong><br><span>• Pineapple</span><br><span>• Bergamot</span><br><span>• Lemon</span></p>
+<p class="isSelectedEnd"><strong>Heart Notes:</strong><br><span>• Green Notes</span><br><span>• Lavender</span><br><span>• Jasmine</span></p>
+<p class="isSelectedEnd"><strong>Base Notes:</strong><br><span>• Musk</span><br><span>• Cedarwood</span><br><span>• Amber</span></p>
+<p class="isSelectedEnd"><strong>WHY YOU'LL LOVE IT</strong></p>
+<p class="isSelectedEnd"><span>✓ Buy 1 Perfume &amp; Get 1 Body Mist FREE</span></p>
+<p class="isSelectedEnd"><span>✓ Fresh Citrus Fragrance</span></p>
+<p class="isSelectedEnd"><span>✓ Perfect for Daily Wear</span></p>
+<p class="isSelectedEnd"><span>✓ Long-Lasting Performance</span></p>
+<p class="isSelectedEnd"><span>✓ Clean &amp; Modern Scent</span></p>
+<p class="isSelectedEnd"><span>✓ Suitable for Men &amp; Women</span></p>
+<p class="isSelectedEnd"><span>✓ Ideal for Summer</span></p>
+<p class="isSelectedEnd"><span>✓ Premium Gift Option</span></p>
+<p class="isSelectedEnd"><strong>PRODUCT DETAILS</strong></p>
+<p class="isSelectedEnd"><span>Brand: a. Fragrances</span></p>
+<p class="isSelectedEnd"><span>Category: Perfume + Body Mist Bundle</span></p>
+<p class="isSelectedEnd"><span>Volume: 50ml Perfume + 50ml Body Mist</span></p>
+<p class="isSelectedEnd"><span>Gender: Unisex</span></p>
+<p><span>Fragrance Family: Fresh Citrus</span></p>
+<!---->`,desc:`🍍 Fresh. Clean. Timeless. Introducing Timeless by a. Fragrances, a refreshing fragrance crafted for those who appreciate simplicity, elegance, and confidence. Inspired by the iconic fresh citrus fragrance style, Timeless delivers a crisp blend of fruity, citrus, and clean musky notes that feel effortlessly modern. For a limited time, purchase Timeless Perfume 50ml and receive a CK One Inspired Body Mist absolutely FREE. Layer both products together for an enhanced fragrance experience that stays fresh and vibrant throughout the day. WHAT'S INCLUDED ✔ Timeless Perfume – 50ml ✔ CK One Inspired Body Mist – 50ml (FREE) FRAGRANCE PROFILE Top Notes: • Pineapple • Bergamot • Lemon Heart Notes: • Green Notes • Lavender • Jasmine Base Notes: • Musk • Cedarwood • Amber WHY YOU'LL LOVE IT ✓ Buy 1 Perfume & Get 1 Body Mist FREE ✓ Fresh Citrus Fragrance ✓ Perfect for Daily Wear ✓ Long-Lasting Performance ✓ Clean & Modern Scent ✓ Suitable for Men & Women ✓ Ideal for Summer ✓ Premium Gift Option PRODUCT DETAILS Brand: a. Fragrances Category: Perfume + Body Mist Bundle Volume: 50ml Perfume + 50ml Body Mist Gender: Unisex Fragrance Family: Fresh Citrus`},"x-chocolate-perfume-free-body-mist":{html:`<p class="isSelectedEnd"><strong>🍫 Double the Chocolate. Double the Attraction.</strong></p>
+<p class="isSelectedEnd"><span>Experience the deliciously addictive scent of X Chocolate by a. Fragrances. Inspired by the rich aroma of premium chocolate, this fragrance delivers a warm, sweet and luxurious scent profile that stands out wherever you go.</span></p>
+<p class="isSelectedEnd"><span>For a limited time, when you purchase the X Chocolate Perfume 50ml, you'll receive a matching X Chocolate Body Mist 50ml absolutely FREE.</span></p>
+<p class="isSelectedEnd"><span>Layering both products together helps your fragrance last longer while enhancing the rich chocolate experience throughout the day.</span></p>
+<p class="isSelectedEnd"><strong>WHAT'S INCLUDED</strong></p>
+<p class="isSelectedEnd"><span>✔ X Chocolate Perfume – 50ml</span></p>
+<p class="isSelectedEnd"><span>✔ X Chocolate Body Mist – 50ml (FREE)</span></p>
+<p class="isSelectedEnd"><strong>FRAGRANCE PROFILE</strong></p>
+<p class="isSelectedEnd"><em><strong>Top Notes:</strong></em><br><span>• Dark Chocolate</span><br><span>• Cocoa</span></p>
+<p class="isSelectedEnd"><em><strong>Heart Notes:</strong></em><br><span>• Caramel</span><br><span>• Creamy Gourmand Accord</span></p>
+<p class="isSelectedEnd"><em><strong>Base Notes:</strong></em><br><span>• Vanilla</span><br><span>• Soft Musk</span></p>
+<p class="isSelectedEnd"><strong>WHY YOU'LL LOVE IT</strong></p>
+<p class="isSelectedEnd"><span>✓ Buy 1 Perfume &amp; Get 1 Body Mist FREE</span></p>
+<p class="isSelectedEnd"><span>✓ Rich Chocolate Scent</span></p>
+<p class="isSelectedEnd"><span>✓ Long-Lasting Performance</span></p>
+<p class="isSelectedEnd"><span>✓ Perfect for Daily Wear</span></p>
+<p class="isSelectedEnd"><span>✓ Unisex Fragrance</span></p>
+<p class="isSelectedEnd"><span>✓ Ideal Gift for Chocolate Lovers</span></p>
+<p class="isSelectedEnd"><span>✓ Premium Packaging</span></p>
+<p class="isSelectedEnd"><strong>PRODUCT DETAILS</strong></p>
+<p class="isSelectedEnd"><span>Brand: a. Fragrances</span></p>
+<p class="isSelectedEnd"><span>Category: Perfume + Body Mist Bundle</span></p>
+<p class="isSelectedEnd"><span>Volume: 50ml Perfume + 50ml Body Mist</span></p>
+<p class="isSelectedEnd"><span>Gender: Unisex</span></p>
+<p><span>Fragrance Family: Gourmand</span></p>
+<!---->`,desc:`🍫 Double the Chocolate. Double the Attraction. Experience the deliciously addictive scent of X Chocolate by a. Fragrances. Inspired by the rich aroma of premium chocolate, this fragrance delivers a warm, sweet and luxurious scent profile that stands out wherever you go. For a limited time, when you purchase the X Chocolate Perfume 50ml, you'll receive a matching X Chocolate Body Mist 50ml absolutely FREE. Layering both products together helps your fragrance last longer while enhancing the rich chocolate experience throughout the day. WHAT'S INCLUDED ✔ X Chocolate Perfume – 50ml ✔ X Chocolate Body Mist – 50ml (FREE) FRAGRANCE PROFILE Top Notes: • Dark Chocolate • Cocoa Heart Notes: • Caramel • Creamy Gourmand Accord Base Notes: • Vanilla • Soft Musk WHY YOU'LL LOVE IT ✓ Buy 1 Perfume & Get 1 Body Mist FREE ✓ Rich Chocolate Scent ✓ Long-Lasting Performance ✓ Perfect for Daily Wear ✓ Unisex Fragrance ✓ Ideal Gift for Chocolate Lovers ✓ Premium Packaging PRODUCT DETAILS Brand: a. Fragrances Category: Perfume + Body Mist Bundle Volume: 50ml Perfume + 50ml Body Mist Gender: Unisex Fragrance Family: Gourmand`},"a-fragrances-x-chocolate-body-mist-125ml":{html:`<h2>
+<meta charset="utf-8">
+<strong>Chocolate Never Smelled This Good.</strong><br>
+</h2>
+<p class="isSelectedEnd"><strong>🍫 X Chocolate Body Mist by a. Fragrances</strong></p>
+<p class="isSelectedEnd"><span>Indulge in the rich and mouthwatering aroma of chocolate with the all-new X Chocolate Body Mist from a. Fragrances. Inspired by the beloved X Chocolate fragrance profile, this body mist delivers a delicious blend of creamy chocolate, smooth caramel, and warm vanilla notes that instantly uplift your mood and leave a lasting impression.</span></p>
+<p class="isSelectedEnd"><span>Crafted for daily use, X Chocolate Body Mist provides a refreshing burst of fragrance while keeping you feeling confident and fresh throughout the day. Its lightweight formula makes it perfect for work, university, casual outings, gym sessions, or whenever you want to smell irresistibly sweet.</span></p>
+<p><span>Whether you're a chocolate lover or someone who enjoys warm gourmand fragrances, X Chocolate Body Mist is designed to become your everyday signature scent.</span></p>
+<p class="isSelectedEnd"><strong>FRAGRANCE NOTES</strong></p>
+<p class="isSelectedEnd"><strong>Top Notes:</strong><br><span>• Rich Chocolate</span><br><span>• Cocoa Accord</span></p>
+<p class="isSelectedEnd"><strong>Heart Notes:</strong><br><span>• Creamy Caramel</span><br><span>• Sweet Gourmand Notes</span></p>
+<p><strong>Base Notes:</strong><br><span>• Vanilla</span><br><span>• Soft Musk<br><br></span></p>
+<p class="isSelectedEnd"><strong>WHY YOU'LL LOVE IT</strong></p>
+<p class="isSelectedEnd"><span>✓ Rich Chocolate Aroma</span></p>
+<p class="isSelectedEnd"><span>✓ Refreshing Body Mist Formula</span></p>
+<p class="isSelectedEnd"><span>✓ Long-Lasting Sweet Scent</span></p>
+<p class="isSelectedEnd"><span>✓ Perfect for Everyday Use</span></p>
+<p class="isSelectedEnd"><span>✓ Lightweight &amp; Non-Sticky</span></p>
+<p class="isSelectedEnd"><span>✓ Unisex Fragrance</span></p>
+<p class="isSelectedEnd"><span>✓ Travel-Friendly Bottle</span></p>
+<p><span>✓ Perfect for Chocolate Lovers</span></p>
+<p>\xA0</p>
+<p class="isSelectedEnd"><strong>PRODUCT DETAILS</strong></p>
+<p class="isSelectedEnd"><span>Product Type: Body Mist</span></p>
+<p class="isSelectedEnd"><span>Fragrance Family: Gourmand</span></p>
+<p class="isSelectedEnd"><span>Scent Profile: Chocolate, Caramel &amp; Vanilla</span></p>
+<p class="isSelectedEnd"><span>Gender: Unisex</span></p>
+<p class="isSelectedEnd"><span>Volume: 125ml, 50ml</span></p>
+<p><span>Made in Pakistan</span></p>`,desc:`Chocolate Never Smelled This Good. 🍫 X Chocolate Body Mist by a. Fragrances Indulge in the rich and mouthwatering aroma of chocolate with the all-new X Chocolate Body Mist from a. Fragrances. Inspired by the beloved X Chocolate fragrance profile, this body mist delivers a delicious blend of creamy chocolate, smooth caramel, and warm vanilla notes that instantly uplift your mood and leave a lasting impression. Crafted for daily use, X Chocolate Body Mist provides a refreshing burst of fragrance while keeping you feeling confident and fresh throughout the day. Its lightweight formula makes it perfect for work, university, casual outings, gym sessions, or whenever you want to smell irresistibly sweet. Whether you're a chocolate lover or someone who enjoys warm gourmand fragrances, X Chocolate Body Mist is designed to become your everyday signature scent. FRAGRANCE NOTES Top Notes: • Rich Chocolate • Cocoa Accord Heart Notes: • Creamy Caramel • Sweet Gourmand Notes Base Notes: • Vanilla • Soft Musk WHY YOU'LL LOVE IT ✓ Rich Chocolate Aroma ✓ Refreshing Body Mist Formula ✓ Long-Lasting Sweet Scent ✓ Perfect for Everyday Use ✓ Lightweight & Non-Sticky ✓ Unisex Fragrance ✓ Travel-Friendly Bottle ✓ Perfect for Chocolate Lovers PRODUCT DETAILS Product Type: Body Mist Fragrance Family: Gourmand Scent Profile: Chocolate, Caramel & Vanilla Gender: Unisex Volume: 125ml, 50ml Made in Pakistan`},"ar-be-classic-fragrance-for-men":{html:`<h2><strong>Discover Be Classic - Fragrance for Men | Perfume | 2025</strong></h2><p>Introducing Be Classic, a timeless fragrance for men from A.R Fragrances, designed to embody sophistication and elegance. This 2024 edition combines rich, classic notes with a modern twist, making it the perfect addition to any gentleman’s collection. Whether you’re heading to the office or an evening out, Be Classic is your go-to scent for any occasion.</p><p><strong>Fragrance Profile</strong></p><p><strong>Fragrance Family: Woody, aromatic</strong></p><p><strong>Scent Type: Fresh, spicy</strong></p><p><strong>Notes for men perfumes:</strong></p><ul>
+<li><p>Top Notes: An invigorating blend of bergamot, lemon, and lavender for a fresh and crisp opening.</p></li>
+<li><p>Middle Notes: Heart notes of jasmine, geranium, and cardamom add a floral and spicy depth.</p></li>
+<li><p>Base Notes: A strong foundation of cedarwood, amber, and patchouli provides a warm and lasting finish.</p></li>
+</ul><p><strong>Suggested Use</strong></p><p>For a long-lasting fragrance that stays with you all day, apply Be Classic perfume to your pulse points—behind the ears, at the base of the neck, and on your wrists. Applying to warmer areas such as behind the knees and inside the elbows will help intensify the scent with your body heat.</p><p><strong>Why Choose Be Classic Perfume?</strong></p><p>Be Classic perfume for man is more than just a fragrance; it’s a statement. Crafted with the finest ingredients, this scent offers a balanced and refined aroma that stands the test of time. At A.R Fragrances, we ensure you get exceptional quality at an affordable price, making luxury accessible to everyone.</p><p>Elevate your fragrance game in 2024 with Be Classic perfume with discounted price in Pakistan- the perfect blend of tradition and modernity. Experience the timeless elegance and make your mark with A.R Fragrances.<br></p>`,desc:`Discover Be Classic - Fragrance for Men | Perfume | 2025 Introducing Be Classic, a timeless fragrance for men from A.R Fragrances, designed to embody sophistication and elegance. This 2024 edition combines rich, classic notes with a modern twist, making it the perfect addition to any gentleman’s collection. Whether you’re heading to the office or an evening out, Be Classic is your go-to scent for any occasion. Fragrance Profile Fragrance Family: Woody, aromatic Scent Type: Fresh, spicy Notes for men perfumes: Top Notes: An invigorating blend of bergamot, lemon, and lavender for a fresh and crisp opening. Middle Notes: Heart notes of jasmine, geranium, and cardamom add a floral and spicy depth. Base Notes: A strong foundation of cedarwood, amber, and patchouli provides a warm and lasting finish. Suggested Use For a long-lasting fragrance that stays with you all day, apply Be Classic perfume to your pulse points—behind the ears, at the base of the neck, and on your wrists. Applying to warmer areas such as behind the knees and inside the elbows will help intensify the scent with your body heat. Why Choose Be Classic Perfume? Be Classic perfume for man is more than just a fragrance; it’s a statement. Crafted with the finest ingredients, this scent offers a balanced and refined aroma that stands the test of time. At A.R Fragrances, we ensure you get exceptional quality at an affordable price, making luxury accessible to everyone. Elevate your fragrance game in 2024 with Be Classic perfume with discounted price in Pakistan- the perfect blend of tradition and modernity. Experience the timeless elegance and make your mark with A.R Fragrances.`},"buy-any-3-perfumes-30ml":{html:`<p></p>`,desc:``},"success-gold-inspired-by-office-for-men-men-our-1-best-seller-🏆":{html:`<div>
+<h3>Success Gold Perfume - Inspired by Office for Men (MEN) \xA0Our #1 Best Seller 🏆\xA0</h3>
+<p>Step into confidence and sophistication with <strong>Success - Office perfume for Men in Pakistan\xA0</strong>, a refined fragrance meticulously crafted by A.R Fragrances. This office scent is tailored for the modern man who exudes professionalism and charisma in every aspect of his life. Whether you're closing deals in the boardroom or making a lasting impression at a networking event, Success is your perfect accessory, leaving a trail of sophistication and success wherever you go.</p>
+<p>At A.R Fragrances, we offer scent of Success perfume at an exceptional value, ensuring you experience luxury without compromise. Elevate your fragrance collection with Success office perfume for man and embrace the essence of success with every spritz.</p>
+<h3>Fragrance Profile</h3>
+<p><strong>Fragrance Family:</strong> Woody, aromatic<br><strong>Scent Type:</strong> Confident, sophisticated</p>
+<h3>Notes:</h3>
+</div>
+<div>
+<p><strong>Top Notes:</strong> A refreshing blend of citrus, bergamot, and neroli that opens with brightness and energy, setting the stage for success.</p>
+<p><strong>Middle Notes:</strong> The heart reveals a harmonious fusion of lavender, violet leaves, and clary sage, adding depth and refinement.</p>
+<p><strong>Base Notes:</strong> A warm and masculine base of amber, vetiver, and cedarwood provides a lasting finish, leaving a memorable impression.</p>
+</div>
+<div>
+<h3>Suggested Use</h3>
+<p>For a fragrance experience that lasts throughout the day, apply Success fragrance to your pulse points—behind the ears, at the base of the neck, and on your wrists. Additionally, a light spritz on your clothing can enhance the longevity of the scent.</p>
+<h3>Why Choose Success?</h3>
+<p><strong>Success</strong> is more than just a fragrance; it's a symbol of ambition and achievement. Crafted with precision, this scent embodies the essence of success, empowering you to conquer every challenge with confidence. At A.R Fragrances, we ensure you receive top-tier quality at an affordable price, allowing you to exude success in every aspect of your life.</p>
+</div>
+<p>Elevate your fragrance game with <strong>Success - Inspired by Office for Men with discounted price in Pakistan</strong> and make every moment a testament to your triumphs with A.R Fragrances.</p>
+<!---->`,desc:`Success Gold Perfume - Inspired by Office for Men (MEN) Our #1 Best Seller 🏆 Step into confidence and sophistication with Success - Office perfume for Men in Pakistan , a refined fragrance meticulously crafted by A.R Fragrances. This office scent is tailored for the modern man who exudes professionalism and charisma in every aspect of his life. Whether you're closing deals in the boardroom or making a lasting impression at a networking event, Success is your perfect accessory, leaving a trail of sophistication and success wherever you go. At A.R Fragrances, we offer scent of Success perfume at an exceptional value, ensuring you experience luxury without compromise. Elevate your fragrance collection with Success office perfume for man and embrace the essence of success with every spritz. Fragrance Profile Fragrance Family: Woody, aromatic Scent Type: Confident, sophisticated Notes: Top Notes: A refreshing blend of citrus, bergamot, and neroli that opens with brightness and energy, setting the stage for success. Middle Notes: The heart reveals a harmonious fusion of lavender, violet leaves, and clary sage, adding depth and refinement. Base Notes: A warm and masculine base of amber, vetiver, and cedarwood provides a lasting finish, leaving a memorable impression. Suggested Use For a fragrance experience that lasts throughout the day, apply Success fragrance to your pulse points—behind the ears, at the base of the neck, and on your wrists. Additionally, a light spritz on your clothing can enhance the longevity of the scent. Why Choose Success? Success is more than just a fragrance; it's a symbol of ambition and achievement. Crafted with precision, this scent embodies the essence of success, empowering you to conquer every challenge with confidence. At A.R Fragrances, we ensure you receive top-tier quality at an affordable price, allowing you to exude success in every aspect of your life. Elevate your fragrance game with Success - Inspired by Office for Men with discounted price in Pakistan and make every moment a testament to your triumphs with A.R Fragrances.`},"men-bundle-4-x-chocolate-success":{html:`<p></p>`,desc:``},"women-bundle-3-sensation-blush-me-up":{html:`<p></p>`,desc:``},"couple-bundle-2-endless-love-me":{html:`<p></p>`,desc:``},"couple-bundle-1-success-blush-me-up":{html:`<p></p>`,desc:``},"low-price-bundle-50-ml-miss-world-urban-azar-glamour-sea-breeze":{html:`<p></p>`,desc:``},"bundle-of-50-ml-miss-world-glamour":{html:`<p></p>`,desc:``},"bundle-of-50-ml-boss-blend-urban-azar":{html:`<p></p>`,desc:``},"bundle-of-50-ml-blush-me-up-glam-girl":{html:`<p></p>`,desc:``},"bundle-of-50-ml-success-x-chocolate":{html:`<p></p>`,desc:``},"bundle-of-50-ml-success-blush-me-up":{html:`<p></p>`,desc:``},"bundle-of-50-ml-success-ocean-shade":{html:`<p></p>`,desc:``},"sun-kissed-gold-24-hours-lasting":{html:`<h3 data-start="156" data-end="185"><strong data-start="164" data-end="183">Sun Kissed Gold</strong></h3>
+<p data-start="186" data-end="219"><strong data-start="186" data-end="219">A Fusion of Elegance &amp; Warmth</strong></p>
+<p data-start="221" data-end="530"><strong data-start="221" data-end="237">Description:</strong><br data-start="237" data-end="240">Sun Kissed Gold captures the radiant glow of a golden sunset — warm, sensual, and irresistibly luxurious. Inspired by the luminous allure of <em data-start="381" data-end="401">Baccarat Rouge 540</em> and the bold sophistication of <em data-start="433" data-end="438">TK4</em>, this scent unfolds like liquid gold on your skin — delicate yet powerful, airy yet deep.</p>
+<p data-start="532" data-end="714">Every note reflects confidence and grace, leaving behind a trail that glows long after you’ve left the room. It’s a fragrance made for those who live boldly and shine effortlessly.</p>
+<hr data-start="716" data-end="719">
+<h3 data-start="721" data-end="744"><strong data-start="725" data-end="744">Olfactory Notes</strong></h3>
+<p data-start="746" data-end="791"><strong data-start="746" data-end="760">Top Notes:</strong><br data-start="760" data-end="763">Saffron, Jasmine, Bergamot</p>
+<p data-start="793" data-end="857"><strong data-start="793" data-end="809">Heart Notes:</strong><br data-start="809" data-end="812">Amberwood, Cedarwood, Cashmeran, Fir Balsam</p>
+<p data-start="859" data-end="925"><strong data-start="859" data-end="874">Base Notes:</strong><br data-start="874" data-end="877">Ambergris, Musk, Tonka Bean, Warm Woody Accord</p>
+<hr data-start="927" data-end="930">
+<p data-start="932" data-end="1100"><strong data-start="932" data-end="953">Fragrance Family:</strong> Amber Woody Oriental<br data-start="974" data-end="977"><strong data-start="977" data-end="991">Longevity:</strong> 12–24 hours depending on usage\xA0<br data-start="1003" data-end="1006"><strong data-start="1006" data-end="1018">Sillage:</strong> Bold &amp; Long-lasting<br data-start="1038" data-end="1041"><strong data-start="1041" data-end="1052">Gender:</strong> Unisex<br data-start="1059" data-end="1062"><strong data-start="1062" data-end="1071">Vibe:</strong> Warm • Opulent • Confident</p>`,desc:`Sun Kissed Gold A Fusion of Elegance & Warmth Description: Sun Kissed Gold captures the radiant glow of a golden sunset — warm, sensual, and irresistibly luxurious. Inspired by the luminous allure of Baccarat Rouge 540 and the bold sophistication of TK4 , this scent unfolds like liquid gold on your skin — delicate yet powerful, airy yet deep. Every note reflects confidence and grace, leaving behind a trail that glows long after you’ve left the room. It’s a fragrance made for those who live boldly and shine effortlessly. Olfactory Notes Top Notes: Saffron, Jasmine, Bergamot Heart Notes: Amberwood, Cedarwood, Cashmeran, Fir Balsam Base Notes: Ambergris, Musk, Tonka Bean, Warm Woody Accord Fragrance Family: Amber Woody Oriental Longevity: 12–24 hours depending on usage Sillage: Bold & Long-lasting Gender: Unisex Vibe: Warm • Opulent • Confident`},"gift-for-her-premium-fragrance-gift-set":{html:`<h3 data-start="317" data-end="381"><strong data-start="321" data-end="379">A Perfect Gift for Her – Because She Deserves the Best</strong></h3>
+<p data-start="382" data-end="558">Celebrate love, beauty, and elegance with our <strong data-start="428" data-end="468">Premium Fragrance Gift Set for Women</strong>, designed for <strong data-start="483" data-end="542">wives, girlfriends, mothers, sisters, or anyone special</strong> in your life.</p>
+<p data-start="560" data-end="799">This <strong data-start="565" data-end="604">luxury perfume and body mist bundle</strong> brings together floral, fresh, and feminine scents in a beautifully curated <strong data-start="681" data-end="701">premium gift box</strong>, making it the ideal choice for <strong data-start="734" data-end="796">birthdays, anniversaries, Valentine’s Day, or any occasion</strong>.</p>
+<hr data-start="801" data-end="804">
+<h3 data-start="806" data-end="838"><strong data-start="810" data-end="836">What’s Inside the Box:</strong></h3>
+<ul data-start="839" data-end="1397">
+<li data-start="839" data-end="915">
+<p data-start="841" data-end="915"><strong data-start="841" data-end="861">Premium Gift Box</strong> – Elegant packaging for a luxury gifting experience</p>
+</li>
+<li data-start="916" data-end="994">
+<p data-start="918" data-end="994"><strong data-start="918" data-end="950">1x Shopping Card Bag Premium</strong> – Ready-to-gift, no extra wrapping needed</p>
+</li>
+<li data-start="995" data-end="1076">
+<p data-start="997" data-end="1076"><strong data-start="997" data-end="1019">Blush Me Up (50ML)</strong> – Inspired by <em data-start="1034" data-end="1042">My Waay</em> | A feminine, elegant fragrance</p>
+</li>
+<li data-start="1077" data-end="1154">
+<p data-start="1079" data-end="1154"><strong data-start="1079" data-end="1099">Glam Girl (30ML)</strong> – Inspired by <em data-start="1114" data-end="1127">Guci Flora</em> | A soft, romantic scent</p>
+</li>
+<li data-start="1155" data-end="1230">
+<p data-start="1157" data-end="1230"><strong data-start="1157" data-end="1187">Sensation Body Mist (50ML)</strong> – Fresh &amp; Floral fragrance for daily use</p>
+</li>
+<li data-start="1231" data-end="1312">
+<p data-start="1233" data-end="1312"><strong data-start="1233" data-end="1265">Guci Flora Body Mist (50ML)</strong> – Floral &amp; Elegant notes for timeless beauty</p>
+</li>
+<li data-start="1313" data-end="1397">
+<p data-start="1315" data-end="1397"><strong data-start="1315" data-end="1347">Roll-On Moroccan Rose (10ML)</strong> – Pure fragrance oil, delicate and long-lasting</p>
+</li>
+</ul>
+<hr data-start="1399" data-end="1402">
+<h3 data-start="1404" data-end="1432"><strong data-start="1408" data-end="1430">Why She’ll Love It</strong></h3>
+<ul data-start="1433" data-end="1638">
+<li data-start="1433" data-end="1488">
+<p data-start="1435" data-end="1488"><strong data-start="1435" data-end="1465">Designer-inspired perfumes</strong> at affordable prices</p>
+</li>
+<li data-start="1489" data-end="1537">
+<p data-start="1491" data-end="1537"><strong data-start="1491" data-end="1535">Long-lasting floral and fresh fragrances</strong></p>
+</li>
+<li data-start="1538" data-end="1582">
+<p data-start="1540" data-end="1582"><strong data-start="1540" data-end="1560">Luxury packaging</strong> perfect for gifting</p>
+</li>
+<li data-start="1583" data-end="1638">
+<p data-start="1585" data-end="1638">Suitable for <strong data-start="1598" data-end="1636">everyday wear or special occasions</strong></p>
+</li>
+</ul>
+<hr data-start="1640" data-end="1643">
+<h3 data-start="1645" data-end="1667"><strong data-start="1649" data-end="1665">Perfect For:</strong></h3>
+<ul data-start="1668" data-end="1809">
+<li data-start="1668" data-end="1693">
+<p data-start="1670" data-end="1693">Valentine’s Day Gifts</p>
+</li>
+<li data-start="1694" data-end="1716">
+<p data-start="1696" data-end="1716">Birthday Surprises</p>
+</li>
+<li data-start="1717" data-end="1745">
+<p data-start="1719" data-end="1745">Anniversary Celebrations</p>
+</li>
+<li data-start="1746" data-end="1782">
+<p data-start="1748" data-end="1782">Mother’s Day &amp; Women’s Day Gifts</p>
+</li>
+<li data-start="1783" data-end="1809">
+<p data-start="1785" data-end="1809">Bridal &amp; Wedding Gifts</p>
+</li>
+</ul>`,desc:`A Perfect Gift for Her – Because She Deserves the Best Celebrate love, beauty, and elegance with our Premium Fragrance Gift Set for Women , designed for wives, girlfriends, mothers, sisters, or anyone special in your life. This luxury perfume and body mist bundle brings together floral, fresh, and feminine scents in a beautifully curated premium gift box , making it the ideal choice for birthdays, anniversaries, Valentine’s Day, or any occasion . What’s Inside the Box: Premium Gift Box – Elegant packaging for a luxury gifting experience 1x Shopping Card Bag Premium – Ready-to-gift, no extra wrapping needed Blush Me Up (50ML) – Inspired by My Waay | A feminine, elegant fragrance Glam Girl (30ML) – Inspired by Guci Flora | A soft, romantic scent Sensation Body Mist (50ML) – Fresh & Floral fragrance for daily use Guci Flora Body Mist (50ML) – Floral & Elegant notes for timeless beauty Roll-On Moroccan Rose (10ML) – Pure fragrance oil, delicate and long-lasting Why She’ll Love It Designer-inspired perfumes at affordable prices Long-lasting floral and fresh fragrances Luxury packaging perfect for gifting Suitable for everyday wear or special occasions Perfect For: Valentine’s Day Gifts Birthday Surprises Anniversary Celebrations Mother’s Day & Women’s Day Gifts Bridal & Wedding Gifts`},"gift-for-him-premium-fragrance-gift-set":{html:`<h3 data-start="308" data-end="373">
+<strong data-start="312" data-end="371">Celebrate Special Moments with the Perfect Gift for Him</strong><strong data-start="312" data-end="371"></strong>
+</h3>
+<p data-start="374" data-end="550">Surprise your loved ones with our <strong data-start="408" data-end="446">Premium Fragrance Gift Set for Men</strong>, thoughtfully curated for <strong data-start="473" data-end="534">couples, husbands, boyfriends, fathers, or anyone special</strong> in your life.</p>
+<p data-start="552" data-end="783">This luxury gift box includes <strong data-start="582" data-end="627">designer-inspired perfumes and body mists</strong> that deliver long-lasting freshness and sophistication, making it the <strong data-start="698" data-end="780">perfect gift for birthdays, anniversaries, Valentine’s Day, or any celebration</strong>.</p>
+<hr data-start="785" data-end="788">
+<h3 data-start="790" data-end="822"><strong data-start="794" data-end="820">What’s Inside the Box:</strong></h3>
+<ul data-start="823" data-end="1436">
+<li data-start="823" data-end="903">
+<p data-start="825" data-end="903"><strong data-start="825" data-end="845">Premium Gift Box</strong> – Elegant packaging for a luxurious gifting experience.</p>
+</li>
+<li data-start="904" data-end="996">
+<p data-start="906" data-end="996"><strong data-start="906" data-end="938">1x Shopping Card Bag Premium</strong> – Perfect for direct gifting, no extra wrapping needed.</p>
+</li>
+<li data-start="997" data-end="1078">
+<p data-start="999" data-end="1078"><strong data-start="999" data-end="1017">SUCCESS (50ML)</strong> – Inspired by <em data-start="1032" data-end="1048">Office for Men</em> | <strong data-start="1051" data-end="1076">Our #1 Best Seller 🏆</strong></p>
+</li>
+<li data-start="1079" data-end="1162">
+<p data-start="1081" data-end="1162"><strong data-start="1081" data-end="1097">PRESTIGE (30ML)</strong> – Inspired by <em>Dunhill Desire</em>\xA0| For a bold, adventurous scent.</p>
+</li>
+<li data-start="1163" data-end="1251">
+<p data-start="1165" data-end="1251"><strong data-start="1165" data-end="1196">COOL WATER Body Mist (50ML)</strong> – Inspired by <em data-start="1211" data-end="1221">Davidof</em> | Fresh, aquatic fragrance.</p>
+</li>
+<li data-start="1252" data-end="1341">
+<p data-start="1254" data-end="1341"><strong data-start="1254" data-end="1282">C-K ONE Body Mist (50ML)</strong> – Inspired by <em data-start="1297" data-end="1311">Calven Klen</em> | Iconic, unisex freshness.</p>
+</li>
+</ul>
+<hr data-start="1438" data-end="1441">
+<h3 data-start="1443" data-end="1470"><strong data-start="1447" data-end="1468">Why He’ll Love It</strong></h3>
+<ul data-start="1471" data-end="1722">
+<li data-start="1471" data-end="1534">
+<p data-start="1473" data-end="1534"><strong data-start="1473" data-end="1505">Designer-inspired fragrances</strong> at a fraction of the price</p>
+</li>
+<li data-start="1535" data-end="1597">
+<p data-start="1537" data-end="1597"><strong data-start="1537" data-end="1560">Long-lasting scents</strong> for daily use or special occasions</p>
+</li>
+<li data-start="1598" data-end="1654">
+<p data-start="1600" data-end="1654">Perfect as a <strong data-start="1613" data-end="1636">gift for loved ones</strong> or personal use</p>
+</li>
+<li data-start="1655" data-end="1722">
+<p data-start="1657" data-end="1722"><strong data-start="1657" data-end="1684">Ready-to-gift packaging</strong> – No hassle, just heartfelt moments</p>
+</li>
+</ul>
+<hr data-start="1724" data-end="1727">
+<h3 data-start="1729" data-end="1751"><strong data-start="1733" data-end="1749">Perfect For:</strong></h3>
+<ul data-start="1752" data-end="1888">
+<li data-start="1752" data-end="1777">
+<p data-start="1754" data-end="1777">Valentine’s Day Gifts</p>
+</li>
+<li data-start="1778" data-end="1803">
+<p data-start="1780" data-end="1803">Anniversary Surprises</p>
+</li>
+<li data-start="1804" data-end="1825">
+<p data-start="1806" data-end="1825">Birthday Presents</p>
+</li>
+<li data-start="1826" data-end="1856">
+<p data-start="1828" data-end="1856">Wedding &amp; Engagement Gifts</p>
+</li>
+<li data-start="1857" data-end="1888">
+<p data-start="1859" data-end="1888">Corporate &amp; Holiday Gifting</p>
+</li>
+</ul>`,desc:`Celebrate Special Moments with the Perfect Gift for Him Surprise your loved ones with our Premium Fragrance Gift Set for Men , thoughtfully curated for couples, husbands, boyfriends, fathers, or anyone special in your life. This luxury gift box includes designer-inspired perfumes and body mists that deliver long-lasting freshness and sophistication, making it the perfect gift for birthdays, anniversaries, Valentine’s Day, or any celebration . What’s Inside the Box: Premium Gift Box – Elegant packaging for a luxurious gifting experience. 1x Shopping Card Bag Premium – Perfect for direct gifting, no extra wrapping needed. SUCCESS (50ML) – Inspired by Office for Men | Our #1 Best Seller 🏆 PRESTIGE (30ML) – Inspired by Dunhill Desire | For a bold, adventurous scent. COOL WATER Body Mist (50ML) – Inspired by Davidof | Fresh, aquatic fragrance. C-K ONE Body Mist (50ML) – Inspired by Calven Klen | Iconic, unisex freshness. Why He’ll Love It Designer-inspired fragrances at a fraction of the price Long-lasting scents for daily use or special occasions Perfect as a gift for loved ones or personal use Ready-to-gift packaging – No hassle, just heartfelt moments Perfect For: Valentine’s Day Gifts Anniversary Surprises Birthday Presents Wedding & Engagement Gifts Corporate & Holiday Gifting`},"bundle-4-body-mists-gucci-flora-sensation-1million-50ml":{html:`<p data-end="662" data-start="372">💐 <strong data-end="411" data-start="375">4 Scents. One Luxury Collection.</strong><br data-end="414" data-start="411">Experience elegance and freshness with our <strong data-end="483" data-start="457">Bundle of 4 Body Mists</strong>, featuring <strong data-end="510" data-start="495">Gucci Flora</strong>, <strong data-end="525" data-start="512">Sensation</strong>, <strong data-end="543" data-start="527">Versace Eros</strong>, and <strong data-end="562" data-start="549">1 Million</strong>. Each bottle delivers long-lasting, premium-quality fragrances for everyday wear or gifting.</p>
+<hr data-end="667" data-start="664">
+<h3 data-end="697" data-start="669">🌿 <strong data-end="695" data-start="676">Fragrance Notes</strong>
+</h3>
+<p data-end="719" data-start="699"><strong data-end="717" data-start="699">🌸 Gucci Flora</strong></p>
+<ul data-end="877" data-start="720">
+<li data-end="769" data-start="720">
+<p data-end="769" data-start="722"><strong data-end="736" data-start="722">Top Notes:</strong> Citrus, Peony, Mandarin Orange</p>
+</li>
+<li data-end="822" data-start="770">
+<p data-end="822" data-start="772"><strong data-end="788" data-start="772">Heart Notes:</strong> Rose, Osmanthus, Fruity Accords</p>
+</li>
+<li data-end="877" data-start="823">
+<p data-end="877" data-start="825"><strong data-end="840" data-start="825">Base Notes:</strong> Sandalwood, Patchouli, Pink Pepper</p>
+</li>
+</ul>
+<p data-end="897" data-start="879"><strong data-end="895" data-start="879">🌼 Sensation</strong></p>
+<ul data-end="1031" data-start="898">
+<li data-end="942" data-start="898">
+<p data-end="942" data-start="900"><strong data-end="914" data-start="900">Top Notes:</strong> Fresh Citrus, Green Notes</p>
+</li>
+<li data-end="986" data-start="943">
+<p data-end="986" data-start="945"><strong data-end="961" data-start="945">Heart Notes:</strong> White Florals, Jasmine</p>
+</li>
+<li data-end="1031" data-start="987">
+<p data-end="1031" data-start="989"><strong data-end="1004" data-start="989">Base Notes:</strong> Musk, Amber, Woody Notes</p>
+</li>
+</ul>
+<p data-end="1054" data-start="1033"><strong data-end="1052" data-start="1033">💙 Versace Eros</strong></p>
+<ul data-end="1207" data-start="1055">
+<li data-end="1098" data-start="1055">
+<p data-end="1098" data-start="1057"><strong data-end="1071" data-start="1057">Top Notes:</strong> Mint, Green Apple, Lemon</p>
+</li>
+<li data-end="1150" data-start="1099">
+<p data-end="1150" data-start="1101"><strong data-end="1117" data-start="1101">Heart Notes:</strong> Tonka Bean, Ambroxan, Geranium</p>
+</li>
+<li data-end="1207" data-start="1151">
+<p data-end="1207" data-start="1153"><strong data-end="1168" data-start="1153">Base Notes:</strong> Vanilla, Cedarwood, Vetiver, Oakmoss</p>
+</li>
+</ul>
+<p data-end="1227" data-start="1209"><strong data-end="1225" data-start="1209">💛 1 Million</strong></p>
+<ul data-end="1387" data-start="1228">
+<li data-end="1279" data-start="1228">
+<p data-end="1279" data-start="1230"><strong data-end="1244" data-start="1230">Top Notes:</strong> Blood Mandarin, Grapefruit, Mint</p>
+</li>
+<li data-end="1328" data-start="1280">
+<p data-end="1328" data-start="1282"><strong data-end="1298" data-start="1282">Heart Notes:</strong> Cinnamon, Spicy Notes, Rose</p>
+</li>
+<li data-end="1387" data-start="1329">
+<p data-end="1387" data-start="1331"><strong data-end="1346" data-start="1331">Base Notes:</strong> Amber, Leather, Woody Notes, Patchouli</p>
+</li>
+</ul>`,desc:`💐 4 Scents. One Luxury Collection. Experience elegance and freshness with our Bundle of 4 Body Mists , featuring Gucci Flora , Sensation , Versace Eros , and 1 Million . Each bottle delivers long-lasting, premium-quality fragrances for everyday wear or gifting. 🌿 Fragrance Notes 🌸 Gucci Flora Top Notes: Citrus, Peony, Mandarin Orange Heart Notes: Rose, Osmanthus, Fruity Accords Base Notes: Sandalwood, Patchouli, Pink Pepper 🌼 Sensation Top Notes: Fresh Citrus, Green Notes Heart Notes: White Florals, Jasmine Base Notes: Musk, Amber, Woody Notes 💙 Versace Eros Top Notes: Mint, Green Apple, Lemon Heart Notes: Tonka Bean, Ambroxan, Geranium Base Notes: Vanilla, Cedarwood, Vetiver, Oakmoss 💛 1 Million Top Notes: Blood Mandarin, Grapefruit, Mint Heart Notes: Cinnamon, Spicy Notes, Rose Base Notes: Amber, Leather, Woody Notes, Patchouli`},"bundle-4-body-mists-ck-one-bright-crystal-cool-water-50ml":{html:`<p data-start="368" data-end="656">💧 <strong data-start="371" data-end="407">4 Scents, One Perfect Collection</strong><br data-start="407" data-end="410">Discover the ultimate fragrance variety with our <strong data-start="459" data-end="485">Bundle of 4 Body Mists</strong>, featuring <strong data-start="497" data-end="507">CK One</strong>, <strong data-start="509" data-end="527">Bright Crystal</strong>, <strong data-start="529" data-end="542">Good Girl</strong>, and <strong data-start="548" data-end="562">Cool Water</strong>. Each bottle delivers fresh, long-lasting scents perfect for everyday wear or gifting.</p>
+<hr data-start="658" data-end="661">
+<h3 data-start="663" data-end="691">🌿 <strong data-start="670" data-end="689">Fragrance Notes</strong>
+</h3>
+<p data-start="693" data-end="708"><strong data-start="693" data-end="706">🍃 CK One</strong></p>
+<ul data-start="709" data-end="910">
+<li data-start="709" data-end="777">
+<p data-start="711" data-end="777"><strong data-start="711" data-end="725">Top Notes:</strong> Lemon, Bergamot, Mandarin, Green Notes, Pineapple</p>
+</li>
+<li data-start="778" data-end="848">
+<p data-start="780" data-end="848"><strong data-start="780" data-end="796">Heart Notes:</strong> Jasmine, Lily-of-the-Valley, Violet, Rose, Nutmeg</p>
+</li>
+<li data-start="849" data-end="910">
+<p data-start="851" data-end="910"><strong data-start="851" data-end="866">Base Notes:</strong> Musk, Cedar, Green Tea, Sandalwood, Amber</p>
+</li>
+</ul>
+<p data-start="912" data-end="935"><strong data-start="912" data-end="933">💎 Bright Crystal</strong></p>
+<ul data-start="936" data-end="1071">
+<li data-start="936" data-end="985">
+<p data-start="938" data-end="985"><strong data-start="938" data-end="952">Top Notes:</strong> Pomegranate, Yuzu, Iced Accord</p>
+</li>
+<li data-start="986" data-end="1029">
+<p data-start="988" data-end="1029"><strong data-start="988" data-end="1004">Heart Notes:</strong> Peony, Magnolia, Lotus</p>
+</li>
+<li data-start="1030" data-end="1071">
+<p data-start="1032" data-end="1071"><strong data-start="1032" data-end="1047">Base Notes:</strong> Amber, Musk, Mahogany</p>
+</li>
+</ul>
+<p data-start="1073" data-end="1091"><strong data-start="1073" data-end="1089">🌸 Good Girl</strong></p>
+<ul data-start="1092" data-end="1224">
+<li data-start="1092" data-end="1132">
+<p data-start="1094" data-end="1132"><strong data-start="1094" data-end="1108">Top Notes:</strong> Almond, Coffee, Lemon</p>
+</li>
+<li data-start="1133" data-end="1177">
+<p data-start="1135" data-end="1177"><strong data-start="1135" data-end="1151">Heart Notes:</strong> Jasmine, Tuberose, Rose</p>
+</li>
+<li data-start="1178" data-end="1224">
+<p data-start="1180" data-end="1224"><strong data-start="1180" data-end="1195">Base Notes:</strong> Cocoa, Tonka Bean, Vanilla</p>
+</li>
+</ul>
+<p data-start="1226" data-end="1245"><strong data-start="1226" data-end="1243">🌊 Cool Water</strong></p>
+<ul data-start="1246" data-end="1398">
+<li data-start="1246" data-end="1303">
+<p data-start="1248" data-end="1303"><strong data-start="1248" data-end="1262">Top Notes:</strong> Sea Water, Mint, Green Notes, Lavender</p>
+</li>
+<li data-start="1304" data-end="1350">
+<p data-start="1306" data-end="1350"><strong data-start="1306" data-end="1322">Heart Notes:</strong> Neroli, Geranium, Jasmine</p>
+</li>
+<li data-start="1351" data-end="1398">
+<p data-start="1353" data-end="1398"><strong data-start="1353" data-end="1368">Base Notes:</strong> Musk, Cedar, Amber, Tobacco</p>
+</li>
+</ul>`,desc:`💧 4 Scents, One Perfect Collection Discover the ultimate fragrance variety with our Bundle of 4 Body Mists , featuring CK One , Bright Crystal , Good Girl , and Cool Water . Each bottle delivers fresh, long-lasting scents perfect for everyday wear or gifting. 🌿 Fragrance Notes 🍃 CK One Top Notes: Lemon, Bergamot, Mandarin, Green Notes, Pineapple Heart Notes: Jasmine, Lily-of-the-Valley, Violet, Rose, Nutmeg Base Notes: Musk, Cedar, Green Tea, Sandalwood, Amber 💎 Bright Crystal Top Notes: Pomegranate, Yuzu, Iced Accord Heart Notes: Peony, Magnolia, Lotus Base Notes: Amber, Musk, Mahogany 🌸 Good Girl Top Notes: Almond, Coffee, Lemon Heart Notes: Jasmine, Tuberose, Rose Base Notes: Cocoa, Tonka Bean, Vanilla 🌊 Cool Water Top Notes: Sea Water, Mint, Green Notes, Lavender Heart Notes: Neroli, Geranium, Jasmine Base Notes: Musk, Cedar, Amber, Tobacco`},"bundle-4-body-mists-men-50ml":{html:`<p data-start="380" data-end="667">💧 <strong data-start="383" data-end="421">4 Scents. One Powerful Collection.</strong><br data-start="421" data-end="424">Upgrade your fragrance game with our <strong data-start="461" data-end="495">Bundle of 4 Body Mists for Men</strong>, featuring <strong data-start="507" data-end="520">1 Million</strong>, <strong data-start="522" data-end="536">Cool Water</strong>, <strong data-start="538" data-end="554">Versace Eros</strong>, and <strong data-start="560" data-end="570">CK One</strong>. Each bottle delivers fresh, masculine, and long-lasting scents perfect for any occasion.</p>
+<hr data-start="669" data-end="672">
+<h3 data-start="674" data-end="702">🌿 <strong data-start="681" data-end="700">Fragrance Notes</strong>
+</h3>
+<p data-start="704" data-end="722"><strong data-start="704" data-end="720">💛 1 Million</strong></p>
+<ul data-start="723" data-end="882">
+<li data-start="723" data-end="774">
+<p data-start="725" data-end="774"><strong data-start="725" data-end="739">Top Notes:</strong> Blood Mandarin, Grapefruit, Mint</p>
+</li>
+<li data-start="775" data-end="823">
+<p data-start="777" data-end="823"><strong data-start="777" data-end="793">Heart Notes:</strong> Cinnamon, Spicy Notes, Rose</p>
+</li>
+<li data-start="824" data-end="882">
+<p data-start="826" data-end="882"><strong data-start="826" data-end="841">Base Notes:</strong> Amber, Leather, Woody Notes, Patchouli</p>
+</li>
+</ul>
+<p data-start="884" data-end="903"><strong data-start="884" data-end="901">🌊 Cool Water</strong></p>
+<ul data-start="904" data-end="1092">
+<li data-start="904" data-end="972">
+<p data-start="906" data-end="972"><strong data-start="906" data-end="920">Top Notes:</strong> Sea Water, Lavender, Mint, Green Notes, Coriander</p>
+</li>
+<li data-start="973" data-end="1031">
+<p data-start="975" data-end="1031"><strong data-start="975" data-end="991">Heart Notes:</strong> Sandalwood, Neroli, Geranium, Jasmine</p>
+</li>
+<li data-start="1032" data-end="1092">
+<p data-start="1034" data-end="1092"><strong data-start="1034" data-end="1049">Base Notes:</strong> Musk, Oakmoss, Cedar, Tobacco, Ambergris</p>
+</li>
+</ul>
+<p data-start="1094" data-end="1115"><strong data-start="1094" data-end="1113">💙 Versace Eros</strong></p>
+<ul data-start="1116" data-end="1268">
+<li data-start="1116" data-end="1159">
+<p data-start="1118" data-end="1159"><strong data-start="1118" data-end="1132">Top Notes:</strong> Mint, Green Apple, Lemon</p>
+</li>
+<li data-start="1160" data-end="1211">
+<p data-start="1162" data-end="1211"><strong data-start="1162" data-end="1178">Heart Notes:</strong> Tonka Bean, Ambroxan, Geranium</p>
+</li>
+<li data-start="1212" data-end="1268">
+<p data-start="1214" data-end="1268"><strong data-start="1214" data-end="1229">Base Notes:</strong> Vanilla, Cedarwood, Vetiver, Oakmoss</p>
+</li>
+</ul>
+<p data-start="1270" data-end="1285"><strong data-start="1270" data-end="1283">🍃 CK One</strong></p>
+<ul data-start="1286" data-end="1487">
+<li data-start="1286" data-end="1354">
+<p data-start="1288" data-end="1354"><strong data-start="1288" data-end="1302">Top Notes:</strong> Lemon, Bergamot, Mandarin, Pineapple, Green Notes</p>
+</li>
+<li data-start="1355" data-end="1425">
+<p data-start="1357" data-end="1425"><strong data-start="1357" data-end="1373">Heart Notes:</strong> Jasmine, Lily-of-the-Valley, Violet, Rose, Nutmeg</p>
+</li>
+<li data-start="1426" data-end="1487">
+<p data-start="1428" data-end="1487"><strong data-start="1428" data-end="1443">Base Notes:</strong> Musk, Cedar, Green Tea, Sandalwood, Amber</p>
+</li>
+</ul>
+<hr data-start="1489" data-end="1492">
+<h3 data-start="1494" data-end="1524">✨ <strong data-start="1500" data-end="1522">Why You’ll Love It</strong>
+</h3>
+<ul data-start="1525" data-end="1795">
+<li data-start="1525" data-end="1598">
+<p data-start="1527" data-end="1598">🕺 <strong data-start="1530" data-end="1552">Masculine &amp; Fresh:</strong> Perfect for daily wear or special occasions</p>
+</li>
+<li data-start="1599" data-end="1663">
+<p data-start="1601" data-end="1663">🎯 <strong data-start="1604" data-end="1624">Travel-Friendly:</strong> 50ml &amp; 125ml bottles, easy to carry anywhere</p>
+</li>
+<li data-start="1664" data-end="1719">
+<p data-start="1666" data-end="1719">💎 <strong data-start="1669" data-end="1693">Long-Lasting Scents:</strong> Keeps you fresh all day</p>
+</li>
+<li data-start="1720" data-end="1795">
+<p data-start="1722" data-end="1795">🎁 <strong data-start="1725" data-end="1745">Great Gift Idea:</strong> Perfect set for birthdays, anniversaries &amp; more</p>
+</li>
+</ul>`,desc:`💧 4 Scents. One Powerful Collection. Upgrade your fragrance game with our Bundle of 4 Body Mists for Men , featuring 1 Million , Cool Water , Versace Eros , and CK One . Each bottle delivers fresh, masculine, and long-lasting scents perfect for any occasion. 🌿 Fragrance Notes 💛 1 Million Top Notes: Blood Mandarin, Grapefruit, Mint Heart Notes: Cinnamon, Spicy Notes, Rose Base Notes: Amber, Leather, Woody Notes, Patchouli 🌊 Cool Water Top Notes: Sea Water, Lavender, Mint, Green Notes, Coriander Heart Notes: Sandalwood, Neroli, Geranium, Jasmine Base Notes: Musk, Oakmoss, Cedar, Tobacco, Ambergris 💙 Versace Eros Top Notes: Mint, Green Apple, Lemon Heart Notes: Tonka Bean, Ambroxan, Geranium Base Notes: Vanilla, Cedarwood, Vetiver, Oakmoss 🍃 CK One Top Notes: Lemon, Bergamot, Mandarin, Pineapple, Green Notes Heart Notes: Jasmine, Lily-of-the-Valley, Violet, Rose, Nutmeg Base Notes: Musk, Cedar, Green Tea, Sandalwood, Amber ✨ Why You’ll Love It 🕺 Masculine & Fresh: Perfect for daily wear or special occasions 🎯 Travel-Friendly: 50ml & 125ml bottles, easy to carry anywhere 💎 Long-Lasting Scents: Keeps you fresh all day 🎁 Great Gift Idea: Perfect set for birthdays, anniversaries & more`},"bundle-4-body-mists-women-50ml":{html:`<p data-start="372" data-end="693">🌸 <strong data-start="375" data-end="406">4 Scents, Endless Freshness</strong><br data-start="406" data-end="409">Experience the perfect fragrance collection with our <strong data-start="462" data-end="498">Bundle of 4 Body Mists for Women</strong>, featuring <strong data-start="510" data-end="528">Bright Crystal</strong>, <strong data-start="530" data-end="543">Good Girl</strong>, <strong data-start="545" data-end="560">Gucci Flora</strong>, and <strong data-start="566" data-end="579">Sensation</strong>. Each bottle offers a unique blend of floral, fruity, and refreshing notes designed for everyday elegance.</p>
+<p data-start="695" data-end="719">💐 <strong data-start="698" data-end="717">Fragrance Notes</strong></p>
+<ul data-start="720" data-end="988">
+<li data-start="720" data-end="785">
+<p data-start="722" data-end="785"><strong data-start="722" data-end="741">Bright Crystal:</strong> Pomegranate, Peony, Magnolia, Lotus, Musk</p>
+</li>
+<li data-start="786" data-end="849">
+<p data-start="788" data-end="849"><strong data-start="788" data-end="802">Good Girl:</strong> Jasmine, Tuberose, Almond, Cocoa, Tonka Bean</p>
+</li>
+<li data-start="850" data-end="924">
+<p data-start="852" data-end="924"><strong data-start="852" data-end="868">Gucci Flora:</strong> Citrus, Peony, Rose, Osmanthus, Sandalwood, Patchouli</p>
+</li>
+<li data-start="925" data-end="988">
+<p data-start="927" data-end="988"><strong data-start="927" data-end="941">Sensation:</strong> Fresh Citrus, White Florals, Soft Musky Base</p>
+</li>
+</ul>
+<p data-start="990" data-end="1016">✨ <strong data-start="992" data-end="1014">Why You’ll Love It</strong></p>
+<ul data-start="1017" data-end="1318">
+<li data-start="1017" data-end="1090">
+<p data-start="1019" data-end="1090">🌷 <strong data-start="1022" data-end="1046">Variety in One Pack:</strong> 4 unique scents for every mood &amp; occasion</p>
+</li>
+<li data-start="1091" data-end="1161">
+<p data-start="1093" data-end="1161">💎 <strong data-start="1096" data-end="1123">Long-Lasting Freshness:</strong> Keeps you feeling confident all day</p>
+</li>
+<li data-start="1162" data-end="1238">
+<p data-start="1164" data-end="1238">👜 <strong data-start="1167" data-end="1192">Travel-Friendly Size:</strong> 50ml bottles, perfect for handbags &amp; travel</p>
+</li>
+<li data-start="1239" data-end="1318">
+<p data-start="1241" data-end="1318">🎁 <strong data-start="1244" data-end="1263">Ideal Gift Set:</strong> Perfect for birthdays, weddings, or self-care treats</p>
+</li>
+</ul>`,desc:`🌸 4 Scents, Endless Freshness Experience the perfect fragrance collection with our Bundle of 4 Body Mists for Women , featuring Bright Crystal , Good Girl , Gucci Flora , and Sensation . Each bottle offers a unique blend of floral, fruity, and refreshing notes designed for everyday elegance. 💐 Fragrance Notes Bright Crystal: Pomegranate, Peony, Magnolia, Lotus, Musk Good Girl: Jasmine, Tuberose, Almond, Cocoa, Tonka Bean Gucci Flora: Citrus, Peony, Rose, Osmanthus, Sandalwood, Patchouli Sensation: Fresh Citrus, White Florals, Soft Musky Base ✨ Why You’ll Love It 🌷 Variety in One Pack: 4 unique scents for every mood & occasion 💎 Long-Lasting Freshness: Keeps you feeling confident all day 👜 Travel-Friendly Size: 50ml bottles, perfect for handbags & travel 🎁 Ideal Gift Set: Perfect for birthdays, weddings, or self-care treats`},"body-mists-bright-crystal-gucci-flora-50ml":{html:`<p data-start="348" data-end="651">🌸 <strong data-start="351" data-end="386">Luxury Fragrances for Every Day</strong><br data-start="386" data-end="389">Indulge in freshness and femininity with our <strong data-start="434" data-end="468">Pack of 2 Body Mists for Women</strong>, featuring <strong data-start="480" data-end="498">Bright Crystal</strong> and <strong data-start="503" data-end="518">Gucci Flora</strong>. Designed for women who love floral, fruity, and long-lasting scents, these 50ml &amp;125ml bottles are perfect for everyday wear or gifting.</p>
+<p data-start="653" data-end="677">💐 <strong data-start="656" data-end="675">Fragrance Notes</strong></p>
+<ul data-start="678" data-end="899">
+<li data-start="678" data-end="786">
+<p data-start="680" data-end="786"><strong data-start="680" data-end="699">Bright Crystal:</strong> Pomegranate, Peony, Magnolia, Lotus, and Musk for a fresh, fruity-floral experience.</p>
+</li>
+<li data-start="787" data-end="899">
+<p data-start="789" data-end="899"><strong data-start="789" data-end="805">Gucci Flora:</strong> Citrus, Peony, Rose, Osmanthus, Sandalwood, and Patchouli for a sophisticated floral touch.</p>
+</li>
+</ul>
+<p data-start="901" data-end="927">✨ <strong data-start="903" data-end="925">Why You’ll Love It</strong></p>
+<ul data-start="928" data-end="1239">
+<li data-start="928" data-end="1001">
+<p data-start="930" data-end="1001">🌷 <strong data-start="933" data-end="959">Feminine &amp; Refreshing:</strong> Soft floral blends with fruity accents.</p>
+</li>
+<li data-start="1002" data-end="1091">
+<p data-start="1004" data-end="1091">👜 <strong data-start="1007" data-end="1032">Travel-Friendly Size:</strong> Perfect 50ml &amp; 125ml bottles for handbags &amp; on-the-go freshness.</p>
+</li>
+<li data-start="1092" data-end="1170">
+<p data-start="1094" data-end="1170">🎁 <strong data-start="1097" data-end="1115">Gifting-Ready:</strong> Ideal for birthdays, weddings, or self-care moments.</p>
+</li>
+<li data-start="1171" data-end="1239">
+<p data-start="1173" data-end="1239">💎 <strong data-start="1176" data-end="1201">Long-Lasting Formula:</strong> Keeps you smelling amazing all day.</p>
+</li>
+</ul>`,desc:`🌸 Luxury Fragrances for Every Day Indulge in freshness and femininity with our Pack of 2 Body Mists for Women , featuring Bright Crystal and Gucci Flora . Designed for women who love floral, fruity, and long-lasting scents, these 50ml &125ml bottles are perfect for everyday wear or gifting. 💐 Fragrance Notes Bright Crystal: Pomegranate, Peony, Magnolia, Lotus, and Musk for a fresh, fruity-floral experience. Gucci Flora: Citrus, Peony, Rose, Osmanthus, Sandalwood, and Patchouli for a sophisticated floral touch. ✨ Why You’ll Love It 🌷 Feminine & Refreshing: Soft floral blends with fruity accents. 👜 Travel-Friendly Size: Perfect 50ml & 125ml bottles for handbags & on-the-go freshness. 🎁 Gifting-Ready: Ideal for birthdays, weddings, or self-care moments. 💎 Long-Lasting Formula: Keeps you smelling amazing all day.`},"body-mists-good-girl-sensation-50ml":{html:`<p data-start="331" data-end="600">🌸 <strong data-start="334" data-end="367">Two Scents, Endless Freshness</strong><br data-start="367" data-end="370">Discover the perfect duo with our <strong data-start="404" data-end="438">Pack of 2 Body Mists for Women</strong>, featuring <strong data-start="450" data-end="463">Good Girl</strong> and <strong data-start="468" data-end="481">Sensation</strong> fragrances. Designed for the modern woman, each 50ml &amp; 125ml bottle delivers a burst of long-lasting freshness and elegance.</p>
+<p data-start="602" data-end="626">💐 <strong data-start="605" data-end="624">Fragrance Notes</strong></p>
+<ul data-start="627" data-end="803">
+<li data-start="627" data-end="712">
+<p data-start="629" data-end="712"><strong data-start="629" data-end="643">Good Girl:</strong> Sweet floral blend with hints of jasmine, tuberose &amp; warm vanilla.</p>
+</li>
+<li data-start="713" data-end="803">
+<p data-start="715" data-end="803"><strong data-start="715" data-end="729">Sensation:</strong> Fresh, citrusy, and slightly fruity notes for a vibrant everyday scent.</p>
+</li>
+</ul>
+<p data-start="805" data-end="831">✨ <strong data-start="807" data-end="829">Why You’ll Love It</strong></p>
+<ul data-start="832" data-end="1133">
+<li data-start="832" data-end="898">
+<p data-start="834" data-end="898">🌷 <strong data-start="837" data-end="863">Feminine &amp; Refreshing:</strong> Uplifting scents for daily wear.</p>
+</li>
+<li data-start="899" data-end="972">
+<p data-start="901" data-end="972">👜 <strong data-start="904" data-end="924">Travel-Friendly:</strong> Compact 50ml &amp; 125ml bottles for on-the-go freshness.</p>
+</li>
+<li data-start="973" data-end="1053">
+<p data-start="975" data-end="1053">🎁 <strong data-start="978" data-end="999">Perfect Gift Set:</strong> Ideal for birthdays, weddings, or self-care treats.</p>
+</li>
+<li data-start="1054" data-end="1133">
+<p data-start="1056" data-end="1133">💎 <strong data-start="1059" data-end="1084">Long-Lasting Formula:</strong> Keeps you feeling fresh and confident all day.</p>
+</li>
+</ul>`,desc:`🌸 Two Scents, Endless Freshness Discover the perfect duo with our Pack of 2 Body Mists for Women , featuring Good Girl and Sensation fragrances. Designed for the modern woman, each 50ml & 125ml bottle delivers a burst of long-lasting freshness and elegance. 💐 Fragrance Notes Good Girl: Sweet floral blend with hints of jasmine, tuberose & warm vanilla. Sensation: Fresh, citrusy, and slightly fruity notes for a vibrant everyday scent. ✨ Why You’ll Love It 🌷 Feminine & Refreshing: Uplifting scents for daily wear. 👜 Travel-Friendly: Compact 50ml & 125ml bottles for on-the-go freshness. 🎁 Perfect Gift Set: Ideal for birthdays, weddings, or self-care treats. 💎 Long-Lasting Formula: Keeps you feeling fresh and confident all day.`},"products-body-mists-versace-eros-1-million-50ml":{html:`<p data-start="271" data-end="598">🔥 <strong data-start="274" data-end="314">Two Iconic Scents. One Powerful Duo.</strong><br data-start="314" data-end="317">Elevate your fragrance game with our <strong data-start="354" data-end="386">Pack of 2 Body Mists for Men</strong>, featuring the bold and refreshing <strong data-start="422" data-end="438">Versace Eros</strong>and the luxurious <strong data-start="457" data-end="470">1 Million</strong> by Paco Rabanne. Perfectly sized at <strong data-start="507" data-end="521">50 ml 125ml each</strong>, this set delivers long-lasting freshness and confidence for any occasion.</p>
+<hr data-start="600" data-end="603">
+<h3 data-start="605" data-end="633">🌿 <strong data-start="612" data-end="631">Fragrance Notes</strong>
+</h3>
+<p data-start="635" data-end="656"><strong data-start="635" data-end="654">💚 Versace Eros</strong></p>
+<ul data-start="657" data-end="865">
+<li data-start="657" data-end="723">
+<p data-start="659" data-end="723"><strong data-start="659" data-end="673">Top Notes:</strong> Mint, Green Apple, Lemon, Mandarin, Candy Apple</p>
+</li>
+<li data-start="724" data-end="787">
+<p data-start="726" data-end="787"><strong data-start="726" data-end="742">Heart Notes:</strong> Tonka Bean, Ambroxan, Geranium, Clary Sage</p>
+</li>
+<li data-start="788" data-end="865">
+<p data-start="790" data-end="865"><strong data-start="790" data-end="805">Base Notes:</strong> Vanilla, Cedarwood, Vetiver, Oakmoss, Sandalwood, Leather</p>
+</li>
+</ul>
+<p data-start="867" data-end="901"><strong data-start="867" data-end="899">💛 1 Million by Paco Rabanne</strong></p>
+<ul data-start="902" data-end="1068">
+<li data-start="902" data-end="953">
+<p data-start="904" data-end="953"><strong data-start="904" data-end="918">Top Notes:</strong> Blood Mandarin, Grapefruit, Mint</p>
+</li>
+<li data-start="954" data-end="1002">
+<p data-start="956" data-end="1002"><strong data-start="956" data-end="972">Heart Notes:</strong> Cinnamon, Spicy Notes, Rose</p>
+</li>
+<li data-start="1003" data-end="1068">
+<p data-start="1005" data-end="1068"><strong data-start="1005" data-end="1020">Base Notes:</strong> Amber, Leather, Woody Notes, Indian Patchouli</p>
+</li>
+</ul>
+<hr data-start="1070" data-end="1073">
+<h3 data-start="1075" data-end="1105">✨ <strong data-start="1081" data-end="1103">Why You’ll Love It</strong>
+</h3>
+<ul data-start="1106" data-end="1466">
+<li data-start="1106" data-end="1204">
+<p data-start="1108" data-end="1204">🕺 <strong data-start="1111" data-end="1140">Masculine &amp; Long-Lasting:</strong> Designed for the modern man who wants to smell fresh all day.</p>
+</li>
+<li data-start="1205" data-end="1288">
+<p data-start="1207" data-end="1288">🏆 <strong data-start="1210" data-end="1237">Iconic Designer Scents:</strong> Two globally loved fragrances in one value pack.</p>
+</li>
+<li data-start="1289" data-end="1376">
+<p data-start="1291" data-end="1376">🎯 <strong data-start="1294" data-end="1319">Travel-Friendly Size:</strong> Compact 50ml &amp; 125ml bottles perfect for on-the-go freshness.</p>
+</li>
+<li data-start="1377" data-end="1466">
+<p data-start="1379" data-end="1466">🎁 <strong data-start="1382" data-end="1403">Perfect Gift Set:</strong> Ideal for birthdays, anniversaries, or self-care indulgence.</p>
+</li>
+</ul>`,desc:`🔥 Two Iconic Scents. One Powerful Duo. Elevate your fragrance game with our Pack of 2 Body Mists for Men , featuring the bold and refreshing Versace Eros and the luxurious 1 Million by Paco Rabanne. Perfectly sized at 50 ml 125ml each , this set delivers long-lasting freshness and confidence for any occasion. 🌿 Fragrance Notes 💚 Versace Eros Top Notes: Mint, Green Apple, Lemon, Mandarin, Candy Apple Heart Notes: Tonka Bean, Ambroxan, Geranium, Clary Sage Base Notes: Vanilla, Cedarwood, Vetiver, Oakmoss, Sandalwood, Leather 💛 1 Million by Paco Rabanne Top Notes: Blood Mandarin, Grapefruit, Mint Heart Notes: Cinnamon, Spicy Notes, Rose Base Notes: Amber, Leather, Woody Notes, Indian Patchouli ✨ Why You’ll Love It 🕺 Masculine & Long-Lasting: Designed for the modern man who wants to smell fresh all day. 🏆 Iconic Designer Scents: Two globally loved fragrances in one value pack. 🎯 Travel-Friendly Size: Compact 50ml & 125ml bottles perfect for on-the-go freshness. 🎁 Perfect Gift Set: Ideal for birthdays, anniversaries, or self-care indulgence.`},"body-mists-ck-one-cool-water-men-50ml":{html:`<p data-start="243" data-end="520">💧 <strong data-start="246" data-end="293">Double the Freshness, Double the Confidence</strong><br data-start="293" data-end="296">Experience two iconic scents in one pack with our <strong data-start="346" data-end="378">Pack of 2 Body Mists for Men</strong>. Featuring <strong data-start="390" data-end="400">CK One</strong> and <strong data-start="405" data-end="419">Cool Water</strong>, these body mists bring a burst of long-lasting freshness and style to your everyday routine.</p>
+<hr data-start="522" data-end="525">
+<h3 data-start="527" data-end="552"><strong data-start="531" data-end="550">Fragrance Notes</strong></h3>
+<p data-start="554" data-end="569">🌿 <strong data-start="557" data-end="567">CK One</strong></p>
+<ul data-start="570" data-end="723">
+<li data-start="570" data-end="625">
+<p data-start="572" data-end="625"><strong data-start="572" data-end="586">Top Notes:</strong> Bergamot, Lemon, Mandarin, Green Tea</p>
+</li>
+<li data-start="626" data-end="680">
+<p data-start="628" data-end="680"><strong data-start="628" data-end="644">Heart Notes:</strong> Jasmine, Lily-of-the-Valley, Rose</p>
+</li>
+<li data-start="681" data-end="723">
+<p data-start="683" data-end="723"><strong data-start="683" data-end="698">Base Notes:</strong> Musk, Cedarwood, Amber</p>
+</li>
+</ul>
+<p data-start="725" data-end="744">🌊 <strong data-start="728" data-end="742">Cool Water</strong></p>
+<ul data-start="745" data-end="880">
+<li data-start="745" data-end="789">
+<p data-start="747" data-end="789"><strong data-start="747" data-end="761">Top Notes:</strong> Mint, Lavender, Coriander</p>
+</li>
+<li data-start="790" data-end="836">
+<p data-start="792" data-end="836"><strong data-start="792" data-end="808">Heart Notes:</strong> Geranium, Neroli, Jasmine</p>
+</li>
+<li data-start="837" data-end="880">
+<p data-start="839" data-end="880"><strong data-start="839" data-end="854">Base Notes:</strong> Musk, Amber, Sandalwood</p>
+</li>
+</ul>
+<hr data-start="882" data-end="885">
+<h3 data-start="887" data-end="915"><strong data-start="891" data-end="913">Why You’ll Love It</strong></h3>
+<ul data-start="916" data-end="1206">
+<li data-start="916" data-end="987">
+<p data-start="918" data-end="987">🕺 <strong data-start="921" data-end="942">Versatile Scents:</strong> Perfect for office, gym, or casual outings</p>
+</li>
+<li data-start="988" data-end="1055">
+<p data-start="990" data-end="1055">🏆 <strong data-start="993" data-end="1020">Long-Lasting Freshness:</strong> Stay fresh and confident all day</p>
+</li>
+<li data-start="1056" data-end="1122">
+<p data-start="1058" data-end="1122">✈️ <strong data-start="1061" data-end="1081">Travel-Friendly:</strong> Compact 50ML &amp; 125ML bottles for on-the-go use</p>
+</li>
+<li data-start="1123" data-end="1206">
+<p data-start="1125" data-end="1206">🎁 <strong data-start="1128" data-end="1149">Perfect Gift Set:</strong> Ideal for birthdays, anniversaries, or personal treats</p>
+</li>
+</ul>`,desc:`💧 Double the Freshness, Double the Confidence Experience two iconic scents in one pack with our Pack of 2 Body Mists for Men . Featuring CK One and Cool Water , these body mists bring a burst of long-lasting freshness and style to your everyday routine. Fragrance Notes 🌿 CK One Top Notes: Bergamot, Lemon, Mandarin, Green Tea Heart Notes: Jasmine, Lily-of-the-Valley, Rose Base Notes: Musk, Cedarwood, Amber 🌊 Cool Water Top Notes: Mint, Lavender, Coriander Heart Notes: Geranium, Neroli, Jasmine Base Notes: Musk, Amber, Sandalwood Why You’ll Love It 🕺 Versatile Scents: Perfect for office, gym, or casual outings 🏆 Long-Lasting Freshness: Stay fresh and confident all day ✈️ Travel-Friendly: Compact 50ML & 125ML bottles for on-the-go use 🎁 Perfect Gift Set: Ideal for birthdays, anniversaries, or personal treats`},"premium-gift-box":{html:`<p data-start="143" data-end="396">🎁 <strong data-start="146" data-end="179">Make Every Gift Extra Special</strong><br data-start="179" data-end="182">Add a touch of elegance to your presents with our <strong data-start="232" data-end="259">Luxury Premium Gift Box</strong>. Perfect for birthdays, anniversaries, weddings, or corporate gifts – this stunning box turns any present into a memorable experience.</p>
+<p data-start="398" data-end="425">✨ <strong data-start="400" data-end="423">Why You’ll Love It:</strong></p>
+<ul data-start="426" data-end="795">
+<li data-start="426" data-end="527">
+<p data-start="428" data-end="527">🎀 <strong data-start="431" data-end="450">Elegant Design:</strong> Sleek matte black finish with a luxurious satin ribbon for a premium look.</p>
+</li>
+<li data-start="528" data-end="618">
+<p data-start="530" data-end="618">💎 <strong data-start="533" data-end="556">High-Quality Build:</strong> Strong, durable materials ensure your gifts stay protected.</p>
+</li>
+<li data-start="619" data-end="707">
+<p data-start="621" data-end="707">🎉 <strong data-start="624" data-end="642">Ready-to-Gift:</strong> Comes with decorative filling for a beautiful unboxing moment.</p>
+</li>
+<li data-start="708" data-end="795">
+<p data-start="710" data-end="795">🥂 <strong data-start="713" data-end="742">Perfect for Any Occasion:</strong> Ideal for perfumes, jewelry, chocolates, and more.</p>
+</li>
+</ul>
+<p data-start="797" data-end="1011">💖 <strong data-start="800" data-end="835">The Ultimate Gifting Experience</strong><br data-start="835" data-end="838">Our premium gift box doesn’t just hold your gift—it <em data-start="890" data-end="900">elevates</em> it. With its refined style and thoughtful details, it leaves a lasting impression on anyone who receives it.</p>
+<!---->`,desc:`🎁 Make Every Gift Extra Special Add a touch of elegance to your presents with our Luxury Premium Gift Box . Perfect for birthdays, anniversaries, weddings, or corporate gifts – this stunning box turns any present into a memorable experience. ✨ Why You’ll Love It: 🎀 Elegant Design: Sleek matte black finish with a luxurious satin ribbon for a premium look. 💎 High-Quality Build: Strong, durable materials ensure your gifts stay protected. 🎉 Ready-to-Gift: Comes with decorative filling for a beautiful unboxing moment. 🥂 Perfect for Any Occasion: Ideal for perfumes, jewelry, chocolates, and more. 💖 The Ultimate Gifting Experience Our premium gift box doesn’t just hold your gift—it elevates it. With its refined style and thoughtful details, it leaves a lasting impression on anyone who receives it.`},"gucci-flora-body-mist-for-women-50ml-spray":{html:`<p data-start="658" data-end="934">Embrace timeless elegance with <strong data-start="689" data-end="724">Gucci Flora Body Mist for Women</strong>. This spray delivers a beautiful floral fragrance that captures the essence of luxury and sophistication. Perfect for any occasion, this lightweight body mist provides a delicate yet long-lasting scent.</p>
+<p data-start="936" data-end="1080">✔ <strong data-start="938" data-end="959">Fragrance Family:</strong> Floral<br data-start="966" data-end="969">✔ <strong data-start="971" data-end="985">Top Notes:</strong> Citrus, Peony<br data-start="999" data-end="1002">✔ <strong data-start="1004" data-end="1020">Heart Notes:</strong> Rose, Osmanthus<br data-start="1036" data-end="1039">✔ <strong data-start="1041" data-end="1056">Base Notes:</strong> Sandalwood, Patchouli</p>
+<p data-start="1082" data-end="1299">Whether you’re heading to work, enjoying a day out, or attending a special event, <strong data-start="1164" data-end="1189">Gucci Flora Body Mist</strong> adds a touch of luxury and freshness to your routine. The 50ml &amp; 125ml\xA0 sizes makes it ideal for travel or daily use.</p>
+<p data-start="1301" data-end="1326"><strong data-start="1301" data-end="1324">Why You’ll Love It:</strong></p>
+<ul data-start="1327" data-end="1536">
+<li data-start="1327" data-end="1382">
+<p data-start="1329" data-end="1382">A refreshing floral fragrance with a hint of citrus</p>
+</li>
+<li data-start="1383" data-end="1448">
+<p data-start="1385" data-end="1448">Perfect for everyday wear, offering a light but lasting scent</p>
+</li>
+<li data-start="1449" data-end="1478">
+<p data-start="1451" data-end="1478">Travel-friendly 50ml &amp; 125ml sizes</p>
+</li>
+<li data-start="1479" data-end="1536">
+<p data-start="1481" data-end="1536">A luxurious fragrance by Gucci at an affordable price</p>
+</li>
+</ul>
+<p data-start="1538" data-end="1676">Elevate your daily scent routine with <strong data-start="1576" data-end="1611">Gucci Flora Body Mist for Women</strong>, a fragrance that embodies grace, elegance, and timeless beauty.</p>`,desc:`Embrace timeless elegance with Gucci Flora Body Mist for Women . This spray delivers a beautiful floral fragrance that captures the essence of luxury and sophistication. Perfect for any occasion, this lightweight body mist provides a delicate yet long-lasting scent. ✔ Fragrance Family: Floral ✔ Top Notes: Citrus, Peony ✔ Heart Notes: Rose, Osmanthus ✔ Base Notes: Sandalwood, Patchouli Whether you’re heading to work, enjoying a day out, or attending a special event, Gucci Flora Body Mist adds a touch of luxury and freshness to your routine. The 50ml & 125ml sizes makes it ideal for travel or daily use. Why You’ll Love It: A refreshing floral fragrance with a hint of citrus Perfect for everyday wear, offering a light but lasting scent Travel-friendly 50ml & 125ml sizes A luxurious fragrance by Gucci at an affordable price Elevate your daily scent routine with Gucci Flora Body Mist for Women , a fragrance that embodies grace, elegance, and timeless beauty.`},"bright-crystal-body-mist-for-women-50ml-spray":{html:`<p data-start="658" data-end="894">Indulge in the refreshing scent of <strong data-start="693" data-end="731">Bright Crystal Body Mist for Women</strong>. This spray delivers a delicate, floral fragrance that is perfect for daily wear, providing a soft yet long-lasting scent that stays with you all day long.</p>
+<p data-start="896" data-end="1061">✔ <strong data-start="898" data-end="919">Fragrance Family:</strong> Floral Fruity<br data-start="933" data-end="936">✔ <strong data-start="938" data-end="952">Top Notes:</strong> Yuzu, Pomegranate<br data-start="970" data-end="973">✔ <strong data-start="975" data-end="991">Heart Notes:</strong> Peony, Magnolia, Lotus<br data-start="1014" data-end="1017">✔ <strong data-start="1019" data-end="1034">Base Notes:</strong> Amber, Musk, Acajou Wood</p>
+<p data-start="1063" data-end="1277">Whether you’re heading to the office, running errands, or enjoying a day out, <strong data-start="1141" data-end="1169">Bright Crystal Body Mist</strong> keeps you feeling fresh and elegant. The compact 50ml &amp; 125ml sizes makes it perfect for travel and on-the-go use.</p>
+<p data-start="1279" data-end="1304"><strong data-start="1279" data-end="1302">Why You’ll Love It:</strong></p>
+<ul data-start="1305" data-end="1469">
+<li data-start="1305" data-end="1344">
+<p data-start="1307" data-end="1344">Fresh and delicate floral fragrance</p>
+</li>
+<li data-start="1345" data-end="1382">
+<p data-start="1347" data-end="1382">Long-lasting and refreshing scent</p>
+</li>
+<li data-start="1383" data-end="1420">
+<p data-start="1385" data-end="1420">Travel-friendly 50ml &amp; 125ml spray bottle</p>
+</li>
+<li data-start="1421" data-end="1469">
+<p data-start="1423" data-end="1469">Perfect for everyday wear or a quick refresh</p>
+</li>
+</ul>
+<p data-start="1471" data-end="1635">Add a touch of elegance and freshness to your fragrance collection with <strong data-start="1543" data-end="1581">Bright Crystal Body Mist for Women</strong> – a beautiful and uplifting scent for every occasion.</p>`,desc:`Indulge in the refreshing scent of Bright Crystal Body Mist for Women . This spray delivers a delicate, floral fragrance that is perfect for daily wear, providing a soft yet long-lasting scent that stays with you all day long. ✔ Fragrance Family: Floral Fruity ✔ Top Notes: Yuzu, Pomegranate ✔ Heart Notes: Peony, Magnolia, Lotus ✔ Base Notes: Amber, Musk, Acajou Wood Whether you’re heading to the office, running errands, or enjoying a day out, Bright Crystal Body Mist keeps you feeling fresh and elegant. The compact 50ml & 125ml sizes makes it perfect for travel and on-the-go use. Why You’ll Love It: Fresh and delicate floral fragrance Long-lasting and refreshing scent Travel-friendly 50ml & 125ml spray bottle Perfect for everyday wear or a quick refresh Add a touch of elegance and freshness to your fragrance collection with Bright Crystal Body Mist for Women – a beautiful and uplifting scent for every occasion.`},"good-girl-body-mist-for-women-50ml-spray":{html:`<p data-start="644" data-end="938">Step into your power with <strong data-start="670" data-end="703">Good Girl Body Mist for Women</strong>. This body mist combines floral and sensual notes that leave you feeling elegant and confident all day. The lightweight formula provides a lasting fragrance without being overpowering, perfect for daily wear or a quick refresh.</p>
+<p data-start="940" data-end="1130">✔ <strong data-start="942" data-end="963">Fragrance Family:</strong> Floral Gourmand<br data-start="979" data-end="982">✔ <strong data-start="984" data-end="998">Top Notes:</strong> Almond, Coffee, Bergamot<br data-start="1023" data-end="1026">✔ <strong data-start="1028" data-end="1044">Heart Notes:</strong> Jasmine, Orange Blossom, Tuberose<br data-start="1078" data-end="1081">✔ <strong data-start="1083" data-end="1098">Base Notes:</strong> Tonka Bean, Cocoa, Sandalwood</p>
+<p data-start="1132" data-end="1302">Whether you're heading to work, a night out, or simply want a touch of luxury in your daily routine, this body mist offers a perfect balance of elegance and sensuality.</p>
+<p data-start="1304" data-end="1329"><strong data-start="1304" data-end="1327">Why You’ll Love It:</strong></p>
+<ul data-start="1330" data-end="1506">
+<li data-start="1330" data-end="1378">
+<p data-start="1332" data-end="1378">Bold, floral fragrance with a gourmand twist</p>
+</li>
+<li data-start="1379" data-end="1416">
+<p data-start="1381" data-end="1416">Travel-friendly 50ml &amp; 125ml spray bottles</p>
+</li>
+<li data-start="1417" data-end="1457">
+<p data-start="1419" data-end="1457">Long-lasting scent for everyday wear</p>
+</li>
+<li data-start="1458" data-end="1506">
+<p data-start="1460" data-end="1506">A luxurious fragrance at an affordable price</p>
+</li>
+</ul>
+<p data-start="1508" data-end="1642">Add sophistication and charm to your fragrance collection with <strong data-start="1571" data-end="1604">Good Girl Body Mist for Women</strong> – a captivating and empowering scent.</p>`,desc:`Step into your power with Good Girl Body Mist for Women . This body mist combines floral and sensual notes that leave you feeling elegant and confident all day. The lightweight formula provides a lasting fragrance without being overpowering, perfect for daily wear or a quick refresh. ✔ Fragrance Family: Floral Gourmand ✔ Top Notes: Almond, Coffee, Bergamot ✔ Heart Notes: Jasmine, Orange Blossom, Tuberose ✔ Base Notes: Tonka Bean, Cocoa, Sandalwood Whether you're heading to work, a night out, or simply want a touch of luxury in your daily routine, this body mist offers a perfect balance of elegance and sensuality. Why You’ll Love It: Bold, floral fragrance with a gourmand twist Travel-friendly 50ml & 125ml spray bottles Long-lasting scent for everyday wear A luxurious fragrance at an affordable price Add sophistication and charm to your fragrance collection with Good Girl Body Mist for Women – a captivating and empowering scent.`},"sensation-body-mist-for-women-50ml-spray":{html:`<p data-start="654" data-end="939">Indulge in the refreshing scent of <strong data-start="689" data-end="722">Sensation Body Mist for Women</strong>. This spray delivers a light, floral fragrance that leaves you feeling refreshed, confident, and energized. Perfect for daily wear, the delicate fragrance lingers throughout the day without being overpowering.</p>
+<p data-start="941" data-end="1105">✔ <strong data-start="943" data-end="964">Fragrance Family:</strong> Floral Fruity<br data-start="978" data-end="981">✔ <strong data-start="983" data-end="997">Top Notes:</strong> Peach, Apple, Citrus<br data-start="1018" data-end="1021">✔ <strong data-start="1023" data-end="1039">Heart Notes:</strong> Rose, Jasmine, Lily<br data-start="1059" data-end="1062">✔ <strong data-start="1064" data-end="1079">Base Notes:</strong> Musk, Amber, Sandalwood</p>
+<p data-start="1107" data-end="1254">Whether you’re on your way to the office, out for a casual day, or traveling, this 50ml &amp; 125ml body mists is perfect for keeping you refreshed on-the-go.</p>
+<p data-start="1256" data-end="1281"><strong data-start="1256" data-end="1279">Why You’ll Love It:</strong></p>
+<ul data-start="1282" data-end="1436">
+<li data-start="1282" data-end="1323">
+<p data-start="1284" data-end="1323">Light and refreshing floral fragrance</p>
+</li>
+<li data-start="1324" data-end="1353">
+<p data-start="1326" data-end="1353">Travel-friendly 50ml &amp; 125ml sizes</p>
+</li>
+<li data-start="1354" data-end="1394">
+<p data-start="1356" data-end="1394">Long-lasting scent for everyday wear</p>
+</li>
+<li data-start="1395" data-end="1436">
+<p data-start="1397" data-end="1436">Affordable luxury body mist for women</p>
+</li>
+</ul>
+<p data-start="1438" data-end="1598">Add the perfect touch of elegance and freshness to your day with <strong data-start="1503" data-end="1536">Sensation Body Mist for Women</strong>, a fragrance that will make you feel as beautiful as you are.</p>`,desc:`Indulge in the refreshing scent of Sensation Body Mist for Women . This spray delivers a light, floral fragrance that leaves you feeling refreshed, confident, and energized. Perfect for daily wear, the delicate fragrance lingers throughout the day without being overpowering. ✔ Fragrance Family: Floral Fruity ✔ Top Notes: Peach, Apple, Citrus ✔ Heart Notes: Rose, Jasmine, Lily ✔ Base Notes: Musk, Amber, Sandalwood Whether you’re on your way to the office, out for a casual day, or traveling, this 50ml & 125ml body mists is perfect for keeping you refreshed on-the-go. Why You’ll Love It: Light and refreshing floral fragrance Travel-friendly 50ml & 125ml sizes Long-lasting scent for everyday wear Affordable luxury body mist for women Add the perfect touch of elegance and freshness to your day with Sensation Body Mist for Women , a fragrance that will make you feel as beautiful as you are.`},"versace-eros-body-mist-for-men-50ml-versace":{html:`<p data-start="649" data-end="922">Unleash your confidence with <strong data-start="678" data-end="712">Versace Eros Body Mist for Men</strong>, a fragrance that embodies passion, strength, and seduction. This body mist delivers the signature fresh, woody scent of\xA0<strong data-start="839" data-end="855">Versace Eros</strong>, offering an intense, long-lasting fragrance for the modern man.</p>
+<p data-start="924" data-end="1102">✔ <strong data-start="926" data-end="947">Fragrance Family:</strong> Woody Oriental<br data-start="962" data-end="965">✔ <strong data-start="967" data-end="981">Top Notes:</strong> Mint, Green Apple, Lemon<br data-start="1006" data-end="1009">✔ <strong data-start="1011" data-end="1027">Heart Notes:</strong> Tonka Bean, Geranium, Amber<br data-start="1055" data-end="1058">✔ <strong data-start="1060" data-end="1075">Base Notes:</strong> Vanilla, Musk, Cedarwood</p>
+<p data-start="1104" data-end="1362">The 50ml size is perfect for carrying in your gym bag or taking on-the-go, ensuring you stay refreshed and bold all day long. Whether you’re at the office, a night out, or at the gym, <strong data-start="1288" data-end="1314">Versace Eros Body Mist</strong> keeps you feeling energized and irresistible.</p>
+<p data-start="1364" data-end="1389"><strong data-start="1364" data-end="1387">Why You’ll Love It:</strong></p>
+<ul data-start="1390" data-end="1572">
+<li data-start="1390" data-end="1445">
+<p data-start="1392" data-end="1445">Bold, seductive fragrance with fresh and warm notes</p>
+</li>
+<li data-start="1446" data-end="1483">
+<p data-start="1448" data-end="1483">Travel-friendly 50ml &amp; 125ml spray bottles</p>
+</li>
+<li data-start="1484" data-end="1528">
+<p data-start="1486" data-end="1528">Long-lasting scent for day-to-night wear</p>
+</li>
+<li data-start="1529" data-end="1572">
+<p data-start="1531" data-end="1572">Authentic <strong data-start="1541" data-end="1552">Versace</strong> fragrance for men</p>
+</li>
+</ul>
+<p data-start="1574" data-end="1708">Embrace your inner power and confidence with <strong data-start="1619" data-end="1653">Versace Eros Body Mist for Men</strong> – a fragrance that speaks to your strength and allure.</p>`,desc:`Unleash your confidence with Versace Eros Body Mist for Men , a fragrance that embodies passion, strength, and seduction. This body mist delivers the signature fresh, woody scent of Versace Eros , offering an intense, long-lasting fragrance for the modern man. ✔ Fragrance Family: Woody Oriental ✔ Top Notes: Mint, Green Apple, Lemon ✔ Heart Notes: Tonka Bean, Geranium, Amber ✔ Base Notes: Vanilla, Musk, Cedarwood The 50ml size is perfect for carrying in your gym bag or taking on-the-go, ensuring you stay refreshed and bold all day long. Whether you’re at the office, a night out, or at the gym, Versace Eros Body Mist keeps you feeling energized and irresistible. Why You’ll Love It: Bold, seductive fragrance with fresh and warm notes Travel-friendly 50ml & 125ml spray bottles Long-lasting scent for day-to-night wear Authentic Versace fragrance for men Embrace your inner power and confidence with Versace Eros Body Mist for Men – a fragrance that speaks to your strength and allure.`},"1-million-body-mist-for-men-50ml-paco-rabanne":{html:`<p data-start="392" data-end="640">Experience the luxury and boldness of <strong data-start="430" data-end="461">1 Million Body Mist for Men</strong> by <strong data-start="465" data-end="481">Paco Rabanne</strong>. This spray delivers the iconic spicy, woody fragrance that <strong data-start="547" data-end="560">1 Million</strong> is known for, offering a fresh and long-lasting scent perfect for daily wear.</p>
+<p data-start="642" data-end="797">✔ <strong data-start="644" data-end="665">Fragrance Family:</strong> Spicy Woody<br data-start="677" data-end="680">✔ <strong data-start="682" data-end="696">Top Notes:</strong> Grapefruit, Mint<br data-start="713" data-end="716">✔ <strong data-start="718" data-end="734">Heart Notes:</strong> Rose, Cinnamon<br data-start="749" data-end="752">✔ <strong data-start="754" data-end="769">Base Notes:</strong> Amber, Leather, Patchouli</p>
+<p data-start="799" data-end="1057">Whether you're heading to the office, a night out, or just need a quick refresh, this body mist provides an instant burst of confidence and a bold scent that lasts all day. The compact 50ml &amp; 125ml sizes makes it perfect for travel, your gym bag, or your desk drawer.</p>
+<p data-start="1059" data-end="1084"><strong data-start="1059" data-end="1082">Why You'll Love It:</strong></p>
+<ul data-start="1085" data-end="1244">
+<li data-start="1085" data-end="1129">
+<p data-start="1087" data-end="1129">Bold, long-lasting spicy-woody fragrance</p>
+</li>
+<li data-start="1130" data-end="1167">
+<p data-start="1132" data-end="1167">Travel-friendly 50ml &amp; 125ml spray bottles</p>
+</li>
+<li data-start="1168" data-end="1198">
+<p data-start="1170" data-end="1198">Iconic <strong data-start="1177" data-end="1190">1 Million</strong> scent</p>
+</li>
+<li data-start="1199" data-end="1244">
+<p data-start="1201" data-end="1244">Versatile fragrance for day-to-night wear</p>
+</li>
+</ul>
+<p data-start="1246" data-end="1385">Upgrade your scent game with <strong data-start="1275" data-end="1306">1 Million Body Mist for Men</strong> – a luxurious and empowering fragrance that makes a statement wherever you go.</p>`,desc:`Experience the luxury and boldness of 1 Million Body Mist for Men by Paco Rabanne . This spray delivers the iconic spicy, woody fragrance that 1 Million is known for, offering a fresh and long-lasting scent perfect for daily wear. ✔ Fragrance Family: Spicy Woody ✔ Top Notes: Grapefruit, Mint ✔ Heart Notes: Rose, Cinnamon ✔ Base Notes: Amber, Leather, Patchouli Whether you're heading to the office, a night out, or just need a quick refresh, this body mist provides an instant burst of confidence and a bold scent that lasts all day. The compact 50ml & 125ml sizes makes it perfect for travel, your gym bag, or your desk drawer. Why You'll Love It: Bold, long-lasting spicy-woody fragrance Travel-friendly 50ml & 125ml spray bottles Iconic 1 Million scent Versatile fragrance for day-to-night wear Upgrade your scent game with 1 Million Body Mist for Men – a luxurious and empowering fragrance that makes a statement wherever you go.`},"cool-water-body-mist-for-men-50ml-davidoff":{html:`<p data-start="271" data-end="490">Stay refreshed and invigorated with <strong data-start="349" data-end="390">Davidoff Cool Water Body Mist for Men</strong>, a spray offering a clean, aquatic fragrance perfect for daily wear and on-the-go freshness.</p>
+<p data-start="492" data-end="819"><strong data-start="492" data-end="538">FULL DESCRIPTION:</strong><br data-start="538" data-end="541">Experience the cooling freshness of <strong data-start="577" data-end="621">Cool Water Body Mist for Men by Davidoff</strong>. With its signature aquatic scent, this body mist delivers a crisp, clean fragrance that’s perfect for any occasion. The lightweight formula provides all-day freshness without being overpowering.</p>
+<p data-start="821" data-end="997">✔ <strong data-start="823" data-end="844">Fragrance Family:</strong> Aquatic<br data-start="852" data-end="855">✔ <strong data-start="857" data-end="871">Top Notes:</strong> Mint, Green Notes, Lavender<br data-start="899" data-end="902">✔ <strong data-start="904" data-end="920">Heart Notes:</strong> Coriander, Geranium, Jasmine<br data-start="949" data-end="952">✔ <strong data-start="954" data-end="969">Base Notes:</strong> Sandalwood, Musk, Tobacco</p>
+<p data-start="999" data-end="1160">Whether you’re heading to the office, gym, or out for a casual outing, this <strong data-start="1075" data-end="1104">50ml &amp; 125ml Cool Water Body Mist</strong> is compact and ideal for your daily grooming routine.</p>
+<p data-start="1162" data-end="1187"><strong data-start="1162" data-end="1185">Why You’ll Love It:</strong></p>
+<ul data-start="1188" data-end="1389">
+<li data-start="1188" data-end="1240">
+<p data-start="1190" data-end="1240">Refreshing, aquatic scent with mint and lavender</p>
+</li>
+<li data-start="1241" data-end="1294">
+<p data-start="1243" data-end="1294">Lightweight and easy to carry, perfect for travel</p>
+</li>
+<li data-start="1295" data-end="1335">
+<p data-start="1297" data-end="1335">Authentic Davidoff fragrance for men</p>
+</li>
+<li data-start="1336" data-end="1389">
+<p data-start="1338" data-end="1389">Long-lasting freshness without being overpowering</p>
+</li>
+</ul>
+<p data-start="1391" data-end="1508">Elevate your daily routine with <strong data-start="1423" data-end="1455">Cool Water Body Mist for Men</strong>, the perfect balance of freshness and masculinity.</p>`,desc:`Stay refreshed and invigorated with Davidoff Cool Water Body Mist for Men , a spray offering a clean, aquatic fragrance perfect for daily wear and on-the-go freshness. FULL DESCRIPTION: Experience the cooling freshness of Cool Water Body Mist for Men by Davidoff . With its signature aquatic scent, this body mist delivers a crisp, clean fragrance that’s perfect for any occasion. The lightweight formula provides all-day freshness without being overpowering. ✔ Fragrance Family: Aquatic ✔ Top Notes: Mint, Green Notes, Lavender ✔ Heart Notes: Coriander, Geranium, Jasmine ✔ Base Notes: Sandalwood, Musk, Tobacco Whether you’re heading to the office, gym, or out for a casual outing, this 50ml & 125ml Cool Water Body Mist is compact and ideal for your daily grooming routine. Why You’ll Love It: Refreshing, aquatic scent with mint and lavender Lightweight and easy to carry, perfect for travel Authentic Davidoff fragrance for men Long-lasting freshness without being overpowering Elevate your daily routine with Cool Water Body Mist for Men , the perfect balance of freshness and masculinity.`},"ck-one-body-mist-for-men-50ml-calvin-klein":{html:`<p data-start="451" data-end="681">Stay fresh and confident all day with <strong>K</strong><strong data-start="531" data-end="572">alvin Klein CK One Body Mist for Men</strong>, a refreshing spray with a clean, citrus-woody fragrance. Perfect for daily wear and travel-friendly.</p>
+<p data-start="683" data-end="965"><strong data-start="683" data-end="729">Full Description:</strong><br data-start="729" data-end="732">Discover the timeless freshness of <strong data-start="767" data-end="811">CK One Body Mist for Men by Kalvin Klein</strong>. Designed for the modern man, this lightweight body spray offers a refreshing burst of citrus, balanced with subtle green tea and soft musk undertones.</p>
+<p data-start="967" data-end="1143">✔ <strong data-start="969" data-end="990">Fragrance Family:</strong> Citrus Woody<br data-start="1003" data-end="1006">✔ <strong data-start="1008" data-end="1022">Top Notes:</strong> Bergamot, Lemon, Pineapple<br data-start="1049" data-end="1052">✔ <strong data-start="1054" data-end="1070">Heart Notes:</strong> Green Tea, Jasmine, Violet<br data-start="1097" data-end="1100">✔ <strong data-start="1102" data-end="1117">Base Notes:</strong> Musk, Amber, Sandalwood</p>
+<p data-start="1145" data-end="1344">Whether you’re heading to the gym, work, or a night out, this <strong data-start="1207" data-end="1232">50ml &amp; 125ml CK One Body Mist</strong> is compact, travel-friendly, and ideal for everyday use. Stay cool, confident, and energized wherever you go.</p>
+<p data-start="1346" data-end="1371"><strong data-start="1346" data-end="1369">Why You’ll Love It:</strong></p>
+<ul data-start="1372" data-end="1566">
+<li data-start="1372" data-end="1417">
+<p data-start="1374" data-end="1417">Fresh, clean scent perfect for daily wear</p>
+</li>
+<li data-start="1418" data-end="1469">
+<p data-start="1420" data-end="1469">Lightweight body mist formula, not overpowering</p>
+</li>
+<li data-start="1470" data-end="1523">
+<p data-start="1472" data-end="1523">Compact 50ml &amp; 125ml sizes – fits in gym bag or travel kit</p>
+</li>
+<li data-start="1524" data-end="1566">
+<p data-start="1526" data-end="1566">Authentic Calvin Klein men’s fragrance</p>
+</li>
+</ul>
+<p data-start="1568" data-end="1690">Upgrade your grooming routine with <strong data-start="1603" data-end="1636">CK One Body Mist for Men</strong> – the perfect balance of freshness and masculinity.</p>`,desc:`Stay fresh and confident all day with K alvin Klein CK One Body Mist for Men , a refreshing spray with a clean, citrus-woody fragrance. Perfect for daily wear and travel-friendly. Full Description: Discover the timeless freshness of CK One Body Mist for Men by Kalvin Klein . Designed for the modern man, this lightweight body spray offers a refreshing burst of citrus, balanced with subtle green tea and soft musk undertones. ✔ Fragrance Family: Citrus Woody ✔ Top Notes: Bergamot, Lemon, Pineapple ✔ Heart Notes: Green Tea, Jasmine, Violet ✔ Base Notes: Musk, Amber, Sandalwood Whether you’re heading to the gym, work, or a night out, this 50ml & 125ml CK One Body Mist is compact, travel-friendly, and ideal for everyday use. Stay cool, confident, and energized wherever you go. Why You’ll Love It: Fresh, clean scent perfect for daily wear Lightweight body mist formula, not overpowering Compact 50ml & 125ml sizes – fits in gym bag or travel kit Authentic Calvin Klein men’s fragrance Upgrade your grooming routine with CK One Body Mist for Men – the perfect balance of freshness and masculinity.`},"oud-al-rehman-inspired-by-ameer-ul-oud-unisex-copy":{html:`<div style="text-align: start;">
+<h3><strong>OUD AL UMAR – Inspired by Lancôme Oud Bouquet (Unisex Eau de Parfum)</strong></h3>
+<p><span class="relative -mx-px my-[-0.2rem] rounded px-px py-[0.2rem] transition-colors duration-100 ease-in-out">A sophisticated and modern take on the classic rose-oud-gourmand blend, <strong>Oud Al Umar</strong> mirrors the refined essence of Lancôme’s <em>Ôud Bouquet</em>. Elegant, rich, and unisex — it’s designed for those who appreciate depth with a touch of sweetness.</span></p>
+<hr>
+<h4>🌹 <strong>Fragrance Profile</strong>
+</h4>
+<ul>
+<li>
+<p><span class="relative -mx-px my-[-0.2rem] rounded px-px py-[0.2rem] transition-colors duration-100 ease-in-out"><strong>Top Notes:</strong> Opulent oud wood reveals a warm, woody embrace</span><br><span class="relative -mx-px my-[-0.2rem] rounded px-px py-[0.2rem] transition-colors duration-100 ease-in-out">Balanced by saffron and rose to lend floral sophistication</span><span class=""><span class="ms-1 inline-flex max-w-full items-center relative top-[-0.094rem] animate-[show_150ms_ease-in]"><br><br><a href="https://www.notino.co.uk/lancome/oud-bouquet-eau-de-parfum-unisex/?utm_source=chatgpt.com" rel="noopener" alt="https://www.notino.co.uk/lancome/oud-bouquet-eau-de-parfum-unisex/?utm_source=chatgpt.com" class="flex h-4.5 overflow-hidden rounded-xl px-2 text-[0.5625em] font-medium text-token-text-secondary! bg-[#F4F4F4]! dark:bg-[#303030]! transition-colors duration-150 ease-in-out" target="_blank"><span class="relative start-0 bottom-0 flex h-full w-full items-center"><span class="flex h-4 w-full items-center justify-between absolute"><span class="max-w-full grow truncate overflow-hidden text-center"></span></span></span></a></span></span><span class="relative -mx-px my-[-0.2rem] rounded px-px py-[0.2rem] transition-colors duration-100 ease-in-out"><strong>Heart Notes:</strong> Deep rose petals velvetled with gourmand praline and creamy vanilla</span></p>
+</li>
+<li>
+<p><span class="relative -mx-px my-[-0.2rem] rounded px-px py-[0.2rem] transition-colors duration-100 ease-in-out"><strong>Base Notes:</strong> Earthy cedar, patchouli, guaiac wood anchor the scent for a lasting, luxurious trail</span><span class=""></span></p>
+</li>
+</ul>
+<hr>
+<h4>🌟 <strong>Why You'll Love It</strong>
+</h4>
+<ul>
+<li>
+<p><span class="relative -mx-px my-[-0.2rem] rounded px-px py-[0.2rem] transition-colors duration-100 ease-in-out"><strong>Gourmand Oud Elegance:</strong> A beautifully balanced fragrance — not too woody, softened by sweet rose and praline</span><span class=""></span></p>
+</li>
+<li>
+<p><span class="relative -mx-px my-[-0.2rem] rounded px-px py-[0.2rem] transition-colors duration-100 ease-in-out"><strong>Unisex Appeal:</strong> Rich yet delicate, this scent suits all genders — a favorite among fragrance lovers</span><span class=""></span></p>
+</li>
+<li>
+<p><span class="relative -mx-px my-[-0.2rem] rounded px-px py-[0.2rem] transition-colors duration-100 ease-in-out"><strong>Strong Performance:</strong> Praised for its longevity and sillage; memorable and wearable day-to-night</span><span class=""></span></p>
+</li>
+</ul>
+<hr>
+<h3>🧴 <strong>How to Apply</strong>
+</h3>
+<ol>
+<li>
+<p>Lightly mist 2–3 sprays on pulse points: neck, wrists, and behind the ears.</p>
+</li>
+<li>
+<p>Apply to lightly moisturized skin for best longevity.</p>
+</li>
+<li>
+<p>Let the fragrance evolve naturally—no rubbing.</p>
+</li>
+</ol>
+<hr>
+<p><strong>Eau de Parfum • 50 ml</strong><br><strong>Unisex. Luxe. Evergreen.</strong></p>
+<p>A statement scent blending oud’s regal depth, rose’s romantic clarity, and divine gourmand warmth. Elevate your scent wardrobe with <strong>Oud Al Umar</strong> today.</p>
+<p>\xA0</p>
+<p><img src="https://cdn.shopify.com/s/files/1/0571/8907/2940/files/Screenshot_2025-06-23_at_6.47.35_PM.png?v=1750686470" alt=""></p>
+</div>
+<!---->`,desc:`OUD AL UMAR – Inspired by Lancôme Oud Bouquet (Unisex Eau de Parfum) A sophisticated and modern take on the classic rose-oud-gourmand blend, Oud Al Umar mirrors the refined essence of Lancôme’s Ôud Bouquet . Elegant, rich, and unisex — it’s designed for those who appreciate depth with a touch of sweetness. 🌹 Fragrance Profile Top Notes: Opulent oud wood reveals a warm, woody embrace Balanced by saffron and rose to lend floral sophistication Heart Notes: Deep rose petals velvetled with gourmand praline and creamy vanilla Base Notes: Earthy cedar, patchouli, guaiac wood anchor the scent for a lasting, luxurious trail 🌟 Why You'll Love It Gourmand Oud Elegance: A beautifully balanced fragrance — not too woody, softened by sweet rose and praline Unisex Appeal: Rich yet delicate, this scent suits all genders — a favorite among fragrance lovers Strong Performance: Praised for its longevity and sillage; memorable and wearable day-to-night 🧴 How to Apply Lightly mist 2–3 sprays on pulse points: neck, wrists, and behind the ears. Apply to lightly moisturized skin for best longevity. Let the fragrance evolve naturally—no rubbing. Eau de Parfum • 50 ml Unisex. Luxe. Evergreen. A statement scent blending oud’s regal depth, rose’s romantic clarity, and divine gourmand warmth. Elevate your scent wardrobe with Oud Al Umar today.`},"royal-musk-inspired-by-musk-al-hind-unisex-copy":{html:`<div style="text-align: start;">
+<h3><strong>OUD AL REHMAN – Inspired by Ameer ul Oud (Unisex Eau de Parfum)</strong></h3>
+<p><span class="relative -mx-px my-[-0.2rem] rounded px-px py-[0.2rem] transition-colors duration-100 ease-in-out">Unveil the regal allure of <strong>Oud Al Rehman</strong>, a unisex tribute to the majestic elegance of Ajmal’s <em>Ameer ul Oud</em>. Designed for both men and women, this scent offers a rich tapestry of deep oud, warm spices, and creamy sweetness—perfect for those who exude authority with grace.</span></p>
+<hr>
+<h3>🌿 Fragrance Profile</h3>
+<ul>
+<li>
+<p><span class="relative -mx-px my-[-0.2rem] rounded px-px py-[0.2rem] transition-colors duration-100 ease-in-out"><strong>Top Notes:</strong> Rich agarwood and earthy oud open with a dark, woody embrace</span><span class=""></span></p>
+</li>
+<li>
+<p><span class="relative -mx-px my-[-0.2rem] rounded px-px py-[0.2rem] transition-colors duration-100 ease-in-out"><strong>Heart Notes:</strong> Spiced whispers of cinnamon and nutmeg meet soft florals like jasmine and rose</span></p>
+</li>
+<li>
+<p><span class="relative -mx-px my-[-0.2rem] rounded px-px py-[0.2rem] transition-colors duration-100 ease-in-out"><strong>Base Notes:</strong> An opulent blend of vanilla, amber, sandalwood, musk, herbal and guaiac wood creates a sensual, lingering finish</span><span class=""></span></p>
+</li>
+</ul>
+<hr>
+<h3>🔐 Why You'll Love It</h3>
+<ul>
+<li>
+<p><span class="relative -mx-px my-[-0.2rem] rounded px-px py-[0.2rem] transition-colors duration-100 ease-in-out"><strong>Luxurious &amp; Complex:</strong> A masterful blend that balances deep oud with sweet and spicy warmth—sophisticated yet approachable</span><span class=""></span></p>
+</li>
+<li>
+<p><span class="relative -mx-px my-[-0.2rem] rounded px-px py-[0.2rem] transition-colors duration-100 ease-in-out"><strong>Unisex Elegance:</strong> Deep and smoky yet invitingly sweet, it’s designed to appeal to all genders</span><span class=""><span class="ms-1 inline-flex max-w-full items-center relative top-[-0.094rem] animate-[show_150ms_ease-in]"><a class="flex h-4.5 overflow-hidden rounded-xl px-2 text-[0.5625em] font-medium text-token-text-secondary! bg-[#F4F4F4]! dark:bg-[#303030]! transition-colors duration-150 ease-in-out" alt="https://muskalmahalpakistan.com/products/ameer-al-oud-concentrated-perfume-attar-oil-12ml-copy?utm_source=chatgpt.com" rel="noopener" href="https://muskalmahalpakistan.com/products/ameer-al-oud-concentrated-perfume-attar-oil-12ml-copy?utm_source=chatgpt.com" target="_blank"><span class="relative start-0 bottom-0 flex h-full w-full items-center"><span class="flex h-4 w-full items-center justify-between absolute"><span class="max-w-full grow truncate overflow-hidden text-center">y</span></span></span></a></span></span></p>
+</li>
+<li>
+<p><span class="relative -mx-px my-[-0.2rem] rounded px-px py-[0.2rem] transition-colors duration-100 ease-in-out"><strong>Exceptional Performance:</strong> With high longevity (8–12 hrs+) and strong projection, it ensures a memorable presence</span></p>
+</li>
+</ul>
+<hr>
+<h3>✨ How to Apply</h3>
+<ol>
+<li>
+<p>Spritz 2–3 times on pulse points: neck, wrists, and behind ears</p>
+</li>
+<li>
+<p>For optimal longevity, apply on moisturized skin</p>
+</li>
+<li>
+<p>Avoid rubbing—let the glorious blend evolve naturally</p>
+</li>
+</ol>
+<hr>
+<p><strong>Eau de Parfum | 50 ml</strong><br>Unisex. Regal. Enduring.</p>
+<p>Step into a world of aromatic royalty—make <strong>Oud Al Rehman</strong> your signature fragrance today.</p>
+<p>\xA0</p>
+<p><img alt="" src="https://cdn.shopify.com/s/files/1/0571/8907/2940/files/Screenshot_2025-06-23_at_6.38.22_PM.png?v=1750685955"></p>
+</div>
+<!---->`,desc:`OUD AL REHMAN – Inspired by Ameer ul Oud (Unisex Eau de Parfum) Unveil the regal allure of Oud Al Rehman , a unisex tribute to the majestic elegance of Ajmal’s Ameer ul Oud . Designed for both men and women, this scent offers a rich tapestry of deep oud, warm spices, and creamy sweetness—perfect for those who exude authority with grace. 🌿 Fragrance Profile Top Notes: Rich agarwood and earthy oud open with a dark, woody embrace Heart Notes: Spiced whispers of cinnamon and nutmeg meet soft florals like jasmine and rose Base Notes: An opulent blend of vanilla, amber, sandalwood, musk, herbal and guaiac wood creates a sensual, lingering finish 🔐 Why You'll Love It Luxurious & Complex: A masterful blend that balances deep oud with sweet and spicy warmth—sophisticated yet approachable Unisex Elegance: Deep and smoky yet invitingly sweet, it’s designed to appeal to all genders y Exceptional Performance: With high longevity (8–12 hrs+) and strong projection, it ensures a memorable presence ✨ How to Apply Spritz 2–3 times on pulse points: neck, wrists, and behind ears For optimal longevity, apply on moisturized skin Avoid rubbing—let the glorious blend evolve naturally Eau de Parfum | 50 ml Unisex. Regal. Enduring. Step into a world of aromatic royalty—make Oud Al Rehman your signature fragrance today.`},"roll-on-success-inspired-by-office-for-men":{html:`<div>
+<p data-start="232" data-end="643"><strong data-start="232" data-end="362">Exude confidence with Success – our premium roll-on fragrance oil inspired by the bold and energizing scent of Office for Men.</strong><br data-start="362" data-end="365">Crafted for the driven and the stylish, this pure oil formula offers a long-lasting scent that blends bright citrus top notes with warm, woody undertones. Designed for men who want to make a strong first impression, this fragrance is perfect for daily wear or special occasions.</p>
+<ul data-start="645" data-end="882">
+<li data-start="645" data-end="680">
+<p data-start="647" data-end="680"><strong data-start="647" data-end="663">Inspired by:</strong> Office for Men</p>
+</li>
+<li data-start="681" data-end="738">
+<p data-start="683" data-end="738"><strong data-start="683" data-end="694">Format:</strong> Roll-on applicator for easy use on the go</p>
+</li>
+<li data-start="739" data-end="784">
+<p data-start="741" data-end="784"><strong data-start="741" data-end="750">Type:</strong> Alcohol-free pure fragrance oil</p>
+</li>
+<li data-start="785" data-end="840">
+<p data-start="787" data-end="840"><strong data-start="787" data-end="796">Size:</strong> 10ml bottle – compact and travel-friendly</p>
+</li>
+<li data-start="841" data-end="882">
+<p data-start="843" data-end="882"><strong data-start="843" data-end="856">Category:</strong> Masculine, Fresh, Woody</p>
+</li>
+</ul>
+<p data-start="884" data-end="928">Unleash your inner ambition with every roll.</p>
+</div>
+<!---->`,desc:`Exude confidence with Success – our premium roll-on fragrance oil inspired by the bold and energizing scent of Office for Men. Crafted for the driven and the stylish, this pure oil formula offers a long-lasting scent that blends bright citrus top notes with warm, woody undertones. Designed for men who want to make a strong first impression, this fragrance is perfect for daily wear or special occasions. Inspired by: Office for Men Format: Roll-on applicator for easy use on the go Type: Alcohol-free pure fragrance oil Size: 10ml bottle – compact and travel-friendly Category: Masculine, Fresh, Woody Unleash your inner ambition with every roll.`},"roll-on-prestige-inspired-by-dunhill-desire":{html:`<div>
+<p data-start="282" data-end="647"><strong data-start="282" data-end="394">Elevate your presence with Prestige – a refined roll-on fragrance oil inspired by the iconic Dunhill Desire.</strong><br data-start="394" data-end="397">This luxurious 10ml pure oil blend captures the perfect balance of citrusy freshness and sensual warmth, making it a signature scent for confident, modern men. Alcohol-free and long-lasting, Prestige is designed for smooth daily wear or evenings out.</p>
+<ul data-start="649" data-end="912">
+<li data-start="649" data-end="684">
+<p data-start="651" data-end="684"><strong data-start="651" data-end="667">Inspired by:</strong> Dunhill Desire</p>
+</li>
+<li data-start="685" data-end="749">
+<p data-start="687" data-end="749"><strong data-start="687" data-end="698">Format:</strong> Roll-on applicator for convenient, mess-free use</p>
+</li>
+<li data-start="750" data-end="795">
+<p data-start="752" data-end="795"><strong data-start="752" data-end="761">Type:</strong> Alcohol-free pure fragrance oil</p>
+</li>
+<li data-start="796" data-end="863">
+<p data-start="798" data-end="863"><strong data-start="798" data-end="807">Size:</strong> 10ml bottle – sleek, portable, and perfect for travel</p>
+</li>
+<li data-start="864" data-end="912">
+<p data-start="866" data-end="912"><strong data-start="866" data-end="879">Category:</strong> Masculine, Citrus, Woody, Warm</p>
+</li>
+</ul>
+<p data-start="914" data-end="986">Command attention with Prestige – your personal scent of sophistication.</p>
+</div>
+<!---->`,desc:`Elevate your presence with Prestige – a refined roll-on fragrance oil inspired by the iconic Dunhill Desire. This luxurious 10ml pure oil blend captures the perfect balance of citrusy freshness and sensual warmth, making it a signature scent for confident, modern men. Alcohol-free and long-lasting, Prestige is designed for smooth daily wear or evenings out. Inspired by: Dunhill Desire Format: Roll-on applicator for convenient, mess-free use Type: Alcohol-free pure fragrance oil Size: 10ml bottle – sleek, portable, and perfect for travel Category: Masculine, Citrus, Woody, Warm Command attention with Prestige – your personal scent of sophistication.`},"roll-on-blush-me-up-inspired-by-my-way":{html:`<div>
+<p data-start="250" data-end="608"><strong data-start="250" data-end="380">Feminine, fresh, and effortlessly elegant – Blush Me Up is a roll-on fragrance oil inspired by the enchanting scent of My Way.</strong><br data-start="380" data-end="383">Crafted for women who embrace their individuality, this alcohol-free pure oil offers a graceful blend of floral and citrus notes with a soft, lingering trail. Presented in a sleek 10ml roll-on bottle for on-the-go confidence.</p>
+<ul data-start="610" data-end="858">
+<li data-start="610" data-end="655">
+<p data-start="612" data-end="655"><strong data-start="612" data-end="628">Inspired by:</strong> My Way by Giorgio Armani</p>
+</li>
+<li data-start="656" data-end="719">
+<p data-start="658" data-end="719"><strong data-start="658" data-end="669">Format:</strong> Roll-on applicator – smooth and travel-friendly</p>
+</li>
+<li data-start="720" data-end="767">
+<p data-start="722" data-end="767"><strong data-start="722" data-end="731">Type:</strong> Pure fragrance oil (alcohol-free)</p>
+</li>
+<li data-start="768" data-end="815">
+<p data-start="770" data-end="815"><strong data-start="770" data-end="779">Size:</strong> 10ml bottle – compact and stylish</p>
+</li>
+<li data-start="816" data-end="858">
+<p data-start="818" data-end="858"><strong data-start="818" data-end="831">Category:</strong> Feminine, Floral, Citrus</p>
+</li>
+</ul>
+<p data-start="860" data-end="933">Let your scent speak volumes with Blush Me Up – made to express your way.</p>
+</div>
+<!---->`,desc:`Feminine, fresh, and effortlessly elegant – Blush Me Up is a roll-on fragrance oil inspired by the enchanting scent of My Way. Crafted for women who embrace their individuality, this alcohol-free pure oil offers a graceful blend of floral and citrus notes with a soft, lingering trail. Presented in a sleek 10ml roll-on bottle for on-the-go confidence. Inspired by: My Way by Giorgio Armani Format: Roll-on applicator – smooth and travel-friendly Type: Pure fragrance oil (alcohol-free) Size: 10ml bottle – compact and stylish Category: Feminine, Floral, Citrus Let your scent speak volumes with Blush Me Up – made to express your way.`},"roll-on-divine-inspired-by-sauvage":{html:`<div>
+<p data-start="241" data-end="600"><strong data-start="241" data-end="346">Bold. Rugged. Magnetic. Divine is a powerful roll-on fragrance oil inspired by the legendary Sauvage.</strong><br data-start="346" data-end="349">Crafted for men who command attention, this alcohol-free 10ml oil delivers a crisp burst of citrus layered over deep, spicy and woody accords. Perfect for daytime confidence or evening allure, Divine is long-lasting, refined, and undeniably masculine.</p>
+<ul data-start="602" data-end="858">
+<li data-start="602" data-end="638">
+<p data-start="604" data-end="638"><strong data-start="604" data-end="620">Inspired by:</strong> Sauvage by Dior</p>
+</li>
+<li data-start="639" data-end="702">
+<p data-start="641" data-end="702"><strong data-start="641" data-end="652">Format:</strong> Roll-on applicator for smooth, travel-ready use</p>
+</li>
+<li data-start="703" data-end="748">
+<p data-start="705" data-end="748"><strong data-start="705" data-end="714">Type:</strong> Alcohol-free pure fragrance oil</p>
+</li>
+<li data-start="749" data-end="809">
+<p data-start="751" data-end="809"><strong data-start="751" data-end="760">Size:</strong> 10ml bottle – compact, sleek, and TSA-friendly</p>
+</li>
+<li data-start="810" data-end="858">
+<p data-start="812" data-end="858"><strong data-start="812" data-end="825">Category:</strong> Masculine, Spicy, Fresh, Woody</p>
+</li>
+</ul>
+<p data-start="860" data-end="935">Embrace the wild sophistication of Divine – a scent that makes a statement.</p>
+</div>
+<!---->`,desc:`Bold. Rugged. Magnetic. Divine is a powerful roll-on fragrance oil inspired by the legendary Sauvage. Crafted for men who command attention, this alcohol-free 10ml oil delivers a crisp burst of citrus layered over deep, spicy and woody accords. Perfect for daytime confidence or evening allure, Divine is long-lasting, refined, and undeniably masculine. Inspired by: Sauvage by Dior Format: Roll-on applicator for smooth, travel-ready use Type: Alcohol-free pure fragrance oil Size: 10ml bottle – compact, sleek, and TSA-friendly Category: Masculine, Spicy, Fresh, Woody Embrace the wild sophistication of Divine – a scent that makes a statement.`},"sixer-gold-roll-on-inspired-avantus-gold":{html:`<div>
+<p data-start="116" data-end="590">Discover the essence of luxury with <strong data-start="152" data-end="166">SIXER GOLD</strong>, a premium roll-on fragrance oil exclusively crafted for men. Inspired by the sophisticated allure of Avantus Gold, this pure fragrance oil embodies a bold, fresh, and captivating aroma perfect for the modern man. Experience long-lasting fragrance with easy and precise application—ideal for everyday elegance or special occasions. Compact and travel-friendly, it's your perfect fragrance companion wherever life takes you.</p>
+<p data-start="592" data-end="609"><strong data-start="592" data-end="609">Key Features:</strong></p>
+<ul data-start="610" data-end="769">
+<li data-start="610" data-end="639">
+<p data-start="612" data-end="639">Premium Roll-On Application</p>
+</li>
+<li data-start="640" data-end="666">
+<p data-start="642" data-end="666">Inspired by Avantus Gold</p>
+</li>
+<li data-start="667" data-end="701">
+<p data-start="669" data-end="701">Pure, Concentrated Fragrance Oil</p>
+</li>
+<li data-start="702" data-end="735">
+<p data-start="704" data-end="735">Long-lasting, Distinctive Scent</p>
+</li>
+<li data-start="736" data-end="769">
+<p data-start="738" data-end="769">Travel-Friendly and Easy to Use</p>
+</li>
+</ul>
+<p data-start="771" data-end="857">Elevate your fragrance collection with SIXER GOLD—a statement of class and confidence.</p>
+</div>
+<!---->`,desc:`Discover the essence of luxury with SIXER GOLD , a premium roll-on fragrance oil exclusively crafted for men. Inspired by the sophisticated allure of Avantus Gold, this pure fragrance oil embodies a bold, fresh, and captivating aroma perfect for the modern man. Experience long-lasting fragrance with easy and precise application—ideal for everyday elegance or special occasions. Compact and travel-friendly, it's your perfect fragrance companion wherever life takes you. Key Features: Premium Roll-On Application Inspired by Avantus Gold Pure, Concentrated Fragrance Oil Long-lasting, Distinctive Scent Travel-Friendly and Easy to Use Elevate your fragrance collection with SIXER GOLD—a statement of class and confidence.`},"oud-bouquet-inspired-roll-on-10ml":{html:`<div>
+<p data-start="108" data-end="608">Indulge in the luxurious and captivating fragrance of our <strong data-start="166" data-end="204">OUD BOUQET Inspired Roll-On (10ml)</strong>—a sophisticated, sensual pure fragrance oil crafted for both men and women. Inspired by the enchanting aroma of Oud Bouquet, this fragrance blends exotic oud with rich floral and warm, woody notes, creating a mesmerizing scent perfect for any occasion. The convenient 10ml size with an easy-to-use roll-on applicator ensures precise, effortless, and long-lasting fragrance application anytime, anywhere.</p>
+<p data-start="610" data-end="627"><strong data-start="610" data-end="627">Key Features:</strong></p>
+<ul data-start="628" data-end="836">
+<li data-start="628" data-end="663">
+<p data-start="630" data-end="663">Inspired by Oud Bouquet fragrance</p>
+</li>
+<li data-start="664" data-end="705">
+<p data-start="666" data-end="705">Pure, concentrated fragrance oil (10ml)</p>
+</li>
+<li data-start="706" data-end="736">
+<p data-start="708" data-end="736">Unisex—ideal for all genders</p>
+</li>
+<li data-start="737" data-end="770">
+<p data-start="739" data-end="770">Long-lasting, captivating aroma</p>
+</li>
+<li data-start="771" data-end="802">
+<p data-start="773" data-end="802">Convenient roll-on applicator</p>
+</li>
+<li data-start="803" data-end="836">
+<p data-start="805" data-end="836">Compact, travel-friendly design</p>
+</li>
+</ul>
+<p data-start="838" data-end="902">Experience elegance, allure, and sophistication with every roll.</p>
+</div>
+<!---->`,desc:`Indulge in the luxurious and captivating fragrance of our OUD BOUQET Inspired Roll-On (10ml) —a sophisticated, sensual pure fragrance oil crafted for both men and women. Inspired by the enchanting aroma of Oud Bouquet, this fragrance blends exotic oud with rich floral and warm, woody notes, creating a mesmerizing scent perfect for any occasion. The convenient 10ml size with an easy-to-use roll-on applicator ensures precise, effortless, and long-lasting fragrance application anytime, anywhere. Key Features: Inspired by Oud Bouquet fragrance Pure, concentrated fragrance oil (10ml) Unisex—ideal for all genders Long-lasting, captivating aroma Convenient roll-on applicator Compact, travel-friendly design Experience elegance, allure, and sophistication with every roll.`},"ameer-ul-oud-inspired-roll-on-10ml":{html:`<div>
+<p data-start="172" data-end="488">Experience the richness and depth of oriental luxury with <strong data-start="230" data-end="263">AMEER UL OUD Inspired Roll-On</strong>, a pure fragrance oil crafted for both men and women. This unisex roll-on captures the essence of Ameer Ul Oud with its bold, smoky, and resinous oud notes blended seamlessly with warm spices and sweet balsamic undertones.</p>
+<p data-start="490" data-end="698">Perfect for everyday elegance or evening allure, this compact 10ml roll-on offers a powerful and long-lasting scent in a travel-friendly bottle. Apply with ease and carry your signature scent wherever you go.</p>
+<p data-start="700" data-end="717"><strong data-start="700" data-end="717">Key Features:</strong></p>
+<ul data-start="718" data-end="935">
+<li data-start="718" data-end="744">
+<p data-start="720" data-end="744">Inspired by Ameer Ul Oud</p>
+</li>
+<li data-start="745" data-end="786">
+<p data-start="747" data-end="786">Pure, concentrated fragrance oil (10ml)</p>
+</li>
+<li data-start="787" data-end="820">
+<p data-start="789" data-end="820">Suitable for both men and women</p>
+</li>
+<li data-start="821" data-end="859">
+<p data-start="823" data-end="859">Strong, long-lasting oud-based scent</p>
+</li>
+<li data-start="860" data-end="891">
+<p data-start="862" data-end="891">Convenient roll-on applicator</p>
+</li>
+<li data-start="892" data-end="935">
+<p data-start="894" data-end="935">Ideal for daily wear or special occasions</p>
+</li>
+</ul>
+</div>
+<!---->`,desc:`Experience the richness and depth of oriental luxury with AMEER UL OUD Inspired Roll-On , a pure fragrance oil crafted for both men and women. This unisex roll-on captures the essence of Ameer Ul Oud with its bold, smoky, and resinous oud notes blended seamlessly with warm spices and sweet balsamic undertones. Perfect for everyday elegance or evening allure, this compact 10ml roll-on offers a powerful and long-lasting scent in a travel-friendly bottle. Apply with ease and carry your signature scent wherever you go. Key Features: Inspired by Ameer Ul Oud Pure, concentrated fragrance oil (10ml) Suitable for both men and women Strong, long-lasting oud-based scent Convenient roll-on applicator Ideal for daily wear or special occasions`},"aseel-inspired-roll-on-10ml":{html:`<div>
+<p data-start="183" data-end="441">Unveil the timeless elegance of <strong data-start="215" data-end="241">ASEEL Inspired Roll-On</strong>, a pure fragrance oil crafted for both men and women. Inspired by the classic Middle Eastern scent "Aseel," this fragrance blends floral, spicy, and woody notes to deliver a bold yet refined aroma.</p>
+<p data-start="443" data-end="609">Packaged in a convenient 10ml roll-on bottle, this fragrance oil offers long-lasting wear and easy, mess-free application—perfect for everyday use or special moments.</p>
+<p data-start="611" data-end="630"><strong data-start="611" data-end="628">Key Features:</strong></p>
+<ul data-start="631" data-end="871">
+<li data-start="631" data-end="673">
+<p data-start="633" data-end="673">Inspired by the iconic Aseel fragrance</p>
+</li>
+<li data-start="674" data-end="717">
+<p data-start="676" data-end="717">Pure, concentrated fragrance oil (10ml)</p>
+</li>
+<li data-start="718" data-end="752">
+<p data-start="720" data-end="752">Unisex – ideal for all genders</p>
+</li>
+<li data-start="753" data-end="786">
+<p data-start="755" data-end="786">Warm, floral, and woody scent</p>
+</li>
+<li data-start="787" data-end="820">
+<p data-start="789" data-end="820">Long-lasting and alcohol-free</p>
+</li>
+<li data-start="821" data-end="871">
+<p data-start="823" data-end="871">Compact and travel-friendly roll-on applicator</p>
+</li>
+</ul>
+</div>
+<!---->`,desc:`Unveil the timeless elegance of ASEEL Inspired Roll-On , a pure fragrance oil crafted for both men and women. Inspired by the classic Middle Eastern scent "Aseel," this fragrance blends floral, spicy, and woody notes to deliver a bold yet refined aroma. Packaged in a convenient 10ml roll-on bottle, this fragrance oil offers long-lasting wear and easy, mess-free application—perfect for everyday use or special moments. Key Features: Inspired by the iconic Aseel fragrance Pure, concentrated fragrance oil (10ml) Unisex – ideal for all genders Warm, floral, and woody scent Long-lasting and alcohol-free Compact and travel-friendly roll-on applicator`},"wisal-inspired-roll-on-10ml":{html:`<div>
+<p data-start="187" data-end="485">Elevate your scent game with <strong data-start="216" data-end="242">WISAL Inspired Roll-On</strong>, a pure fragrance oil designed for both men and women. Inspired by the popular and refreshing scent of Wisal, this roll-on fragrance delivers a harmonious blend of florals, musk, and soft spicy notes that embody elegance and sophistication.</p>
+<p data-start="487" data-end="703">Crafted in a convenient 10ml roll-on bottle, it’s alcohol-free, long-lasting, and perfect for daily use or special occasions. Whether you're headed to work or a night out, Wisal keeps you feeling fresh and confident.</p>
+<p data-start="705" data-end="724"><strong data-start="705" data-end="722">Key Features:</strong></p>
+<ul data-start="725" data-end="978">
+<li data-start="725" data-end="768">
+<p data-start="727" data-end="768">Inspired by the beloved Wisal fragrance</p>
+</li>
+<li data-start="769" data-end="812">
+<p data-start="771" data-end="812">Pure, concentrated fragrance oil (10ml)</p>
+</li>
+<li data-start="813" data-end="850">
+<p data-start="815" data-end="850">Unisex – suitable for all genders</p>
+</li>
+<li data-start="851" data-end="893">
+<p data-start="853" data-end="893">Floral, musky, and lightly spicy scent</p>
+</li>
+<li data-start="894" data-end="935">
+<p data-start="896" data-end="935">Long-lasting and alcohol-free formula</p>
+</li>
+<li data-start="936" data-end="978">
+<p data-start="938" data-end="978">Compact and easy-to-use roll-on design</p>
+</li>
+</ul>
+</div>
+<!---->`,desc:`Elevate your scent game with WISAL Inspired Roll-On , a pure fragrance oil designed for both men and women. Inspired by the popular and refreshing scent of Wisal, this roll-on fragrance delivers a harmonious blend of florals, musk, and soft spicy notes that embody elegance and sophistication. Crafted in a convenient 10ml roll-on bottle, it’s alcohol-free, long-lasting, and perfect for daily use or special occasions. Whether you're headed to work or a night out, Wisal keeps you feeling fresh and confident. Key Features: Inspired by the beloved Wisal fragrance Pure, concentrated fragrance oil (10ml) Unisex – suitable for all genders Floral, musky, and lightly spicy scent Long-lasting and alcohol-free formula Compact and easy-to-use roll-on design`},"white-musk-inspired-roll-on-10ml":{html:`<div>
+<p data-start="161" data-end="198"><span class="relative -mx-px my-[-0.2rem] rounded px-px py-[0.2rem] transition-colors duration-100 ease-in-out">Indulge in the timeless and sensual aura of <strong data-start="44" data-end="75">WHITE MUSK Inspired Roll-On</strong>, a pure fragrance oil crafted especially for women. Inspired by iconic clean musk perfumes, this roll-on harmonizes soft florals with warm, powdery musk to deliver a comforting yet feminine scent experience.</span></p>
+<p data-start="200" data-end="237"><span class="relative -mx-px my-[-0.2rem] rounded px-px py-[0.2rem] transition-colors duration-100 ease-in-out">Housed in a sleek 10 ml bottle, it offers concentrated, alcohol‑free fragrance that’s perfect for everyday wear or intimate moments. Apply effortlessly with the roll‑on applicator and enjoy a subtle, elegant trail all day.</span></p>
+<p data-start="239" data-end="256"><strong data-start="239" data-end="256">Key Features:</strong></p>
+<ul data-start="257" data-end="508">
+<li data-start="257" data-end="298">
+<p data-start="259" data-end="298"><span class="relative -mx-px my-[-0.2rem] rounded px-px py-[0.2rem] transition-colors duration-100 ease-in-out">Inspired by classic musk perfumery</span></p>
+</li>
+<li data-start="299" data-end="340">
+<p data-start="301" data-end="340"><span class="relative -mx-px my-[-0.2rem] rounded px-px py-[0.2rem] transition-colors duration-100 ease-in-out">Pure, alcohol-free fragrance oil (10 ml)</span></p>
+</li>
+<li data-start="341" data-end="382">
+<p data-start="343" data-end="382"><span class="relative -mx-px my-[-0.2rem] rounded px-px py-[0.2rem] transition-colors duration-100 ease-in-out">Feminine and softly sensual</span></p>
+</li>
+<li data-start="383" data-end="424">
+<p data-start="385" data-end="424"><span class="relative -mx-px my-[-0.2rem] rounded px-px py-[0.2rem] transition-colors duration-100 ease-in-out">Long-lasting, skin‑friendly scent</span></p>
+</li>
+<li data-start="425" data-end="466">
+<p data-start="427" data-end="466"><span class="relative -mx-px my-[-0.2rem] rounded px-px py-[0.2rem] transition-colors duration-100 ease-in-out">Easy-to-use roll‑on applicator</span></p>
+</li>
+<li data-start="467" data-end="508">
+<p data-start="469" data-end="508"><span class="relative -mx-px my-[-0.2rem] rounded px-px py-[0.2rem] transition-colors duration-100 ease-in-out">Compact and travel‑ready</span></p>
+</li>
+</ul>
+</div>
+<!---->`,desc:`Indulge in the timeless and sensual aura of WHITE MUSK Inspired Roll-On , a pure fragrance oil crafted especially for women. Inspired by iconic clean musk perfumes, this roll-on harmonizes soft florals with warm, powdery musk to deliver a comforting yet feminine scent experience. Housed in a sleek 10 ml bottle, it offers concentrated, alcohol‑free fragrance that’s perfect for everyday wear or intimate moments. Apply effortlessly with the roll‑on applicator and enjoy a subtle, elegant trail all day. Key Features: Inspired by classic musk perfumery Pure, alcohol-free fragrance oil (10 ml) Feminine and softly sensual Long-lasting, skin‑friendly scent Easy-to-use roll‑on applicator Compact and travel‑ready`},"moroccan-rose-inspired-roll-on-10ml":{html:`<div>
+<p data-start="238" data-end="572">Elevate your scent with the exquisite and romantic elegance of <strong data-start="301" data-end="335">MOROCCAN ROSE Inspired Roll‑On</strong>, a pure fragrance oil crafted especially for women. Inspired by luxurious Moroccan rose fragrances, this oil blends rich Damask rose, delicate petals, and subtle herbal greenery—layered on a warm, comforting base of musk and sandalwood.</p>
+<p data-start="574" data-end="765">Presented in a sleek 10 ml roll‑on bottle, it’s alcohol‑free and designed for easy, precise application. This fragrance oil offers soft, long-lasting wear for everyday use or special moments.</p>
+<p data-start="767" data-end="784"><strong data-start="767" data-end="784">Key Features:</strong></p>
+<ul data-start="785" data-end="1013">
+<li data-start="785" data-end="821">
+<p data-start="787" data-end="821">Inspired by Moroccan rose scents</p>
+</li>
+<li data-start="822" data-end="866">
+<p data-start="824" data-end="866">Pure, alcohol-free fragrance oil (10 ml)</p>
+</li>
+<li data-start="867" data-end="895">
+<p data-start="869" data-end="895">Feminine floral elegance</p>
+</li>
+<li data-start="896" data-end="936">
+<p data-start="898" data-end="936">Long-lasting blend of rose and woods</p>
+</li>
+<li data-start="937" data-end="975">
+<p data-start="939" data-end="975">Travel-friendly roll‑on applicator</p>
+</li>
+<li data-start="976" data-end="1013">
+<p data-start="978" data-end="1013">Perfect for gifting or daily wear</p>
+</li>
+</ul>
+</div>
+<!---->`,desc:`Elevate your scent with the exquisite and romantic elegance of MOROCCAN ROSE Inspired Roll‑On , a pure fragrance oil crafted especially for women. Inspired by luxurious Moroccan rose fragrances, this oil blends rich Damask rose, delicate petals, and subtle herbal greenery—layered on a warm, comforting base of musk and sandalwood. Presented in a sleek 10 ml roll‑on bottle, it’s alcohol‑free and designed for easy, precise application. This fragrance oil offers soft, long-lasting wear for everyday use or special moments. Key Features: Inspired by Moroccan rose scents Pure, alcohol-free fragrance oil (10 ml) Feminine floral elegance Long-lasting blend of rose and woods Travel-friendly roll‑on applicator Perfect for gifting or daily wear`},"midnight-womens-perfume-inspired-by-euphoria":{html:`<h3><strong>MIDNIGHT – Inspired by Euphoria (Women)</strong></h3>
+<p><strong>Seductive. Bold. Addictive.</strong></p>
+<p><span class="relative -mx-px my-[-0.2rem] rounded px-px py-[0.2rem] transition-colors duration-100 ease-in-out">MIDNIGHT captures the essence of Calvin Klein Euphoria—a luxurious Oriental‑floral parfum designed to enchant. It opens with juicy pomegranate, persimmon, and fresh green accord, transitions into exotic black orchid, lotus, and champaca florals, and settles into a warm, sensual base of mahogany, amber, black violet, and whipped cream</span><span class=""><span class="ms-1 inline-flex max-w-full items-center relative top-[-0.094rem] animate-[show_150ms_ease-in]"><a class="flex h-4.5 overflow-hidden rounded-xl px-2 text-[9px] font-medium text-token-text-secondary! bg-[#F4F4F4]! dark:bg-[#303030]! transition-colors duration-150 ease-in-out" alt="https://www.fragrantica.com/perfume/Calvin-Klein/Euphoria-253.html?utm_source=chatgpt.com" rel="noopener" href="https://www.fragrantica.com/perfume/Calvin-Klein/Euphoria-253.html?utm_source=chatgpt.com" target="_blank"><span class="relative start-0 bottom-0 flex h-full w-full items-center"><span class="flex h-4 w-full items-center justify-between"><span class="max-w-full grow truncate overflow-hidden text-center"></span></span></span></a></span></span></p>
+<p><span class="relative -mx-px my-[-0.2rem] rounded px-px py-[0.2rem] transition-colors duration-100 ease-in-out">🔹 <strong>Top Notes:</strong> Pomegranate, Persimmon, Green Accord</span><br><span class="relative -mx-px my-[-0.2rem] rounded px-px py-[0.2rem] transition-colors duration-100 ease-in-out">🔹 <strong>Heart Notes:</strong> Black Orchid, Lotus, Champaca</span><br><span class="relative -mx-px my-[-0.2rem] rounded px-px py-[0.2rem] transition-colors duration-100 ease-in-out">🔹 <strong>Base Notes:</strong> Mahogany, Amber, Black Violet, Whipped Cream</span></p>
+<p><strong>Perfect For:</strong> Romantic evenings, date nights, special events</p>
+<p><span class="relative -mx-px my-[-0.2rem] rounded px-px py-[0.2rem] transition-colors duration-100 ease-in-out">✅ Captivating and long‑lasting (6–8 hrs)</span><br><span class="relative -mx-px my-[-0.2rem] rounded px-px py-[0.2rem] transition-colors duration-100 ease-in-out">✅ Rich, sensual amber‑woody gourmand</span><br><span class="relative -mx-px my-[-0.2rem] rounded px-px py-[0.2rem] transition-colors duration-100 ease-in-out">✅ Universally flattering – a signature that commands attention</span>\xA0<span class=""><span class="ms-1 inline-flex max-w-full items-center relative top-[-0.094rem] animate-[show_150ms_ease-in]"><a class="flex h-4.5 overflow-hidden rounded-xl px-2 text-[9px] font-medium text-token-text-secondary! bg-[#F4F4F4]! dark:bg-[#303030]! transition-colors duration-150 ease-in-out" alt="https://www.thesun.co.uk/shopping/26829943/calvin-klein-perfume-amazon-spring-sale/?utm_source=chatgpt.com" rel="noopener" href="https://www.thesun.co.uk/shopping/26829943/calvin-klein-perfume-amazon-spring-sale/?utm_source=chatgpt.com" target="_blank"><span class="relative start-0 bottom-0 flex h-full w-full items-center"><span class="flex h-4 w-full items-center justify-between overflow-hidden"><span class="max-w-full grow truncate overflow-hidden text-center"></span></span></span></a></span></span></p>
+<blockquote>
+<p><span class="relative -mx-px my-[-0.2rem] rounded px-px py-[0.2rem] transition-colors duration-100 ease-in-out">“A bold, woody fragrance with a spicy base… the touch of pomegranate adds just the right amount of fruitiness…”</span><span class=""><span class="ms-1 inline-flex max-w-full items-center relative top-[-0.094rem] animate-[show_150ms_ease-in]"></span></span></p>
+</blockquote>
+<p><em>Women’s Eau de Parfum | Oriental Floral | Luxurious Evening Scent</em></p>`,desc:`MIDNIGHT – Inspired by Euphoria (Women) Seductive. Bold. Addictive. MIDNIGHT captures the essence of Calvin Klein Euphoria—a luxurious Oriental‑floral parfum designed to enchant. It opens with juicy pomegranate, persimmon, and fresh green accord, transitions into exotic black orchid, lotus, and champaca florals, and settles into a warm, sensual base of mahogany, amber, black violet, and whipped cream 🔹 Top Notes: Pomegranate, Persimmon, Green Accord 🔹 Heart Notes: Black Orchid, Lotus, Champaca 🔹 Base Notes: Mahogany, Amber, Black Violet, Whipped Cream Perfect For: Romantic evenings, date nights, special events ✅ Captivating and long‑lasting (6–8 hrs) ✅ Rich, sensual amber‑woody gourmand ✅ Universally flattering – a signature that commands attention “A bold, woody fragrance with a spicy base… the touch of pomegranate adds just the right amount of fruitiness…” Women’s Eau de Parfum | Oriental Floral | Luxurious Evening Scent`},"active-pulse-mens-fragrance-inspired-by-lacoste-white":{html:`<p><strong>ACTIVE PULSE – Inspired by Lacoste White (Men)</strong><br><strong>Fresh. Sporty. Confident.</strong></p>
+<p>ACTIVE PULSE is a vibrant men’s fragrance inspired by the iconic Lacoste White scent—designed for those who value clean, effortless style. It opens with crisp grapefruit and aromatic rosemary, blends into soft florals, and finishes with warm cedarwood, suede, and vetiver.</p>
+<p>🔹 <strong>Top Notes:</strong> Grapefruit, Cardamom, Rosemary<br>🔹 <strong>Heart Notes:</strong> Tuberose, Ylang-Ylang<br>🔹 <strong>Base Notes:</strong> Cedarwood, Suede, Vetiver, Leather</p>
+<p><strong>Perfect for:</strong> Daily wear, gym, office, casual outings</p>
+<p>✅ Fresh, clean, masculine scent<br>✅ Long-lasting performance<br>✅ Ideal for all seasons and age groups</p>
+<p><strong>Smell clean. Feel confident. Make your move.</strong></p>
+<p><em>Men’s Eau de Parfum | Inspired by Lacoste White | Citrus Woody Cologne</em></p>`,desc:`ACTIVE PULSE – Inspired by Lacoste White (Men) Fresh. Sporty. Confident. ACTIVE PULSE is a vibrant men’s fragrance inspired by the iconic Lacoste White scent—designed for those who value clean, effortless style. It opens with crisp grapefruit and aromatic rosemary, blends into soft florals, and finishes with warm cedarwood, suede, and vetiver. 🔹 Top Notes: Grapefruit, Cardamom, Rosemary 🔹 Heart Notes: Tuberose, Ylang-Ylang 🔹 Base Notes: Cedarwood, Suede, Vetiver, Leather Perfect for: Daily wear, gym, office, casual outings ✅ Fresh, clean, masculine scent ✅ Long-lasting performance ✅ Ideal for all seasons and age groups Smell clean. Feel confident. Make your move. Men’s Eau de Parfum | Inspired by Lacoste White | Citrus Woody Cologne`},"oud-al-sultan-inspired-by-white-oud-unisex-copy":{html:`<div style="text-align: start;">
+<h3 data-end="113" data-start="42"><strong data-end="113" data-start="46">HONEY MOON – Inspired by Fahrenheit Dior (Unisex Eau de Parfum)</strong></h3>
+<p data-end="152" data-start="115"><span class="relative -mx-px my-[-0.2rem] rounded px-px py-[0.2rem] transition-colors duration-100 ease-in-out">Embrace a daring twist on a classic with <strong data-end="55" data-start="41">Honey Moon</strong>, our unisex tribute to Dior’s legendary <em data-end="108" data-start="96">Fahrenheit</em>. This fragrance blends fresh, spicy, and leathery accords into a warm, heartfelt scent that stands out yet feels comforting.</span></p>
+<hr data-end="157" data-start="154">
+<h4 data-end="188" data-start="159">🌿 <strong data-end="188" data-start="167">Fragrance Profile</strong>
+</h4>
+<ul data-end="429" data-start="190">
+<li data-end="269" data-start="190">
+<p data-end="269" data-start="192"><span class="relative -mx-px my-[-0.2rem] rounded px-px py-[0.2rem] transition-colors duration-100 ease-in-out"><strong data-is-only-node="" data-end="14" data-start="0">Top Notes:</strong> Zesty Sicilian mandarin with hints of lavender and aromatic nutmeg for a bright, intriguing</span><span data-state="closed" class=""></span></p>
+</li>
+<li data-end="349" data-start="270">
+<p data-end="349" data-start="272"><span class="relative -mx-px my-[-0.2rem] rounded px-px py-[0.2rem] transition-colors duration-100 ease-in-out"><strong data-is-only-node="" data-end="16" data-start="0">Heart Notes:</strong> Iconic violet leaf intertwined with clean leather — creating that distinctive “petrol-meets-floral”</span><span data-state="closed" class=""></span></p>
+</li>
+<li data-end="429" data-start="350">
+<p data-end="429" data-start="352"><span class="relative -mx-px my-[-0.2rem] rounded px-px py-[0.2rem] transition-colors duration-100 ease-in-out"><strong data-is-only-node="" data-end="15" data-start="0">Base Notes:</strong> Rich cedar, vetiver, and warm musk deliver an enduring, masculine-feminine trail</span><span data-state="closed" class=""></span></p>
+</li>
+</ul>
+<hr data-end="434" data-start="431">
+<h4 data-end="466" data-start="436">🔥 <strong data-end="466" data-start="444">Why You’ll Love It</strong>
+</h4>
+<ul data-end="715" data-start="468">
+<li data-end="547" data-start="468">
+<p data-end="547" data-start="470"><span class="relative -mx-px my-[-0.2rem] rounded px-px py-[0.2rem] transition-colors duration-100 ease-in-out"><strong data-is-only-node="" data-end="23" data-start="0">Bold &amp; Contrasting:</strong> A unique blend of freshness, floral, and leather that leaves a memorable signature</span><span data-state="closed" class=""></span></p>
+</li>
+<li data-end="631" data-start="548">
+<p data-end="631" data-start="550"><span class="relative -mx-px my-[-0.2rem] rounded px-px py-[0.2rem] transition-colors duration-100 ease-in-out"><strong data-is-only-node="" data-end="26" data-start="0">Versatile Unisex Wear:</strong> Boasts universal appeal—suited for both men and women across all seasons</span></p>
+</li>
+<li data-end="715" data-start="632">
+<p data-end="715" data-start="634"><span class="relative -mx-px my-[-0.2rem] rounded px-px py-[0.2rem] transition-colors duration-100 ease-in-out"><strong data-is-only-node="" data-end="33" data-start="0">Timeless &amp; Compliment-Worthy:</strong> A modern take on an ’80s icon—remarkable longevity and sillage that gets noticed</span><span data-state="closed" class=""></span></p>
+</li>
+</ul>
+<hr data-end="720" data-start="717">
+<h4 data-end="746" data-start="722">🧴 <strong data-end="746" data-start="730">How to Apply</strong>
+</h4>
+<ol data-end="983" data-start="748">
+<li data-end="820" data-start="748">
+<p data-end="820" data-start="751"><strong data-end="771" data-start="751">Spritz 2–3 times</strong> on pulse points—neck, wrists, and behind ears.</p>
+</li>
+<li data-end="890" data-start="821">
+<p data-end="890" data-start="824"><strong data-end="853" data-start="824">Apply to moisturized skin</strong> for best longevity and projection.</p>
+</li>
+<li data-end="983" data-start="891">
+<p data-end="983" data-start="894"><strong data-end="912" data-start="894">Let it air-dry</strong> naturally—avoid rubbing to preserve the delicate leather‑violet combo.</p>
+</li>
+</ol>
+<hr data-end="988" data-start="985">
+<p data-end="1040" data-start="990"><strong data-end="1015" data-start="990">Eau de Parfum | 50 ml</strong><br data-end="1018" data-start="1015">Unisex. Bold. Eternal.</p>
+<p data-end="1127" data-start="1042">Give your fragrance collection a romantic heat—add <strong data-end="1107" data-start="1093">Honey Moon</strong> to your cart today.</p>
+<p data-end="1127" data-start="1042">\xA0</p>
+<p data-end="1127" data-start="1042"><img alt="" src="https://cdn.shopify.com/s/files/1/0571/8907/2940/files/Dior_Fahrenheit_Men_EDT_100ML.webp?v=1750687660"></p>
+</div>
+<!---->`,desc:`HONEY MOON – Inspired by Fahrenheit Dior (Unisex Eau de Parfum) Embrace a daring twist on a classic with Honey Moon , our unisex tribute to Dior’s legendary Fahrenheit . This fragrance blends fresh, spicy, and leathery accords into a warm, heartfelt scent that stands out yet feels comforting. 🌿 Fragrance Profile Top Notes: Zesty Sicilian mandarin with hints of lavender and aromatic nutmeg for a bright, intriguing Heart Notes: Iconic violet leaf intertwined with clean leather — creating that distinctive “petrol-meets-floral” Base Notes: Rich cedar, vetiver, and warm musk deliver an enduring, masculine-feminine trail 🔥 Why You’ll Love It Bold & Contrasting: A unique blend of freshness, floral, and leather that leaves a memorable signature Versatile Unisex Wear: Boasts universal appeal—suited for both men and women across all seasons Timeless & Compliment-Worthy: A modern take on an ’80s icon—remarkable longevity and sillage that gets noticed 🧴 How to Apply Spritz 2–3 times on pulse points—neck, wrists, and behind ears. Apply to moisturized skin for best longevity and projection. Let it air-dry naturally—avoid rubbing to preserve the delicate leather‑violet combo. Eau de Parfum | 50 ml Unisex. Bold. Eternal. Give your fragrance collection a romantic heat—add Honey Moon to your cart today.`},"royal-leather-inspired-by-ombre-leather-unisex-copy":{html:`<div style="text-align: start;">
+<h3 data-start="42" data-end="110"><strong data-start="46" data-end="110">OUD AL SULTAN – Inspired by White Oud (Unisex Eau de Parfum)</strong></h3>
+<p data-start="112" data-end="149"><span class="relative -mx-px my-[-0.2rem] rounded px-px py-[0.2rem] transition-colors duration-100 ease-in-out">Regal, radiant, and elegantly balanced — <strong data-start="41" data-end="58">Oud Al Sultan</strong> is our unisex tribute to the refined <em data-start="96" data-end="107">White Oud</em> style. A modern interpretation that harmoniously blends light florals, precious woods, and creamy amber to evoke timeless sophistication.</span></p>
+<hr data-start="151" data-end="154">
+<h4 data-start="156" data-end="185">🌿 <strong data-start="164" data-end="185">Fragrance Profile</strong>
+</h4>
+<ul data-start="187" data-end="426">
+<li data-start="187" data-end="266">
+<p data-start="189" data-end="266"><span class="relative -mx-px my-[-0.2rem] rounded px-px py-[0.2rem] transition-colors duration-100 ease-in-out"><strong data-start="0" data-end="14" data-is-only-node="">Top Notes:</strong> Bright citrus &amp; aromatic spice – think bergamot, grapefruit, saffron, and nutmeg for a fresh, luminous opening</span><span class="" data-state="closed"></span></p>
+</li>
+<li data-start="267" data-end="346">
+<p data-start="269" data-end="346"><span class="relative -mx-px my-[-0.2rem] rounded px-px py-[0.2rem] transition-colors duration-100 ease-in-out"><strong data-start="0" data-end="16" data-is-only-node="">Heart Notes:</strong> Floral warmth with jasmine and rose — softened by earthy patchouli and cedarwood for a subtle yet rich core</span></p>
+</li>
+<li data-start="347" data-end="426">
+<p data-start="349" data-end="426"><span class="relative -mx-px my-[-0.2rem] rounded px-px py-[0.2rem] transition-colors duration-100 ease-in-out"><strong data-start="0" data-end="15" data-is-only-node="">Base Notes:</strong> Creamy agarwood (oud), smooth amber, musk, and resinous Cambodian oud create a clean, lasting, enveloping dry-down</span><span class="" data-state="closed"></span></p>
+</li>
+</ul>
+<hr data-start="428" data-end="431">
+<h4 data-start="433" data-end="463">✨ <strong data-start="440" data-end="463">Why You’ll Adore It</strong>
+</h4>
+<ul data-start="465" data-end="712">
+<li data-start="465" data-end="544">
+<p data-start="467" data-end="544"><span class="relative -mx-px my-[-0.2rem] rounded px-px py-[0.2rem] transition-colors duration-100 ease-in-out"><strong data-start="0" data-end="26" data-is-only-node="">Modern Oud Brilliance:</strong> Captures the depth of classic oud while feeling fresh and wearable — ideal for both oud novices and aficionados</span><span class="" data-state="closed"></span></p>
+</li>
+<li data-start="545" data-end="628">
+<p data-start="547" data-end="628"><span class="relative -mx-px my-[-0.2rem] rounded px-px py-[0.2rem] transition-colors duration-100 ease-in-out"><strong data-start="0" data-end="26" data-is-only-node="">Unisex Sophistication:</strong> Balanced florals and woods make it equally appealing to all genders</span><span class="" data-state="closed"></span></p>
+</li>
+<li data-start="629" data-end="712">
+<p data-start="631" data-end="712"><span class="relative -mx-px my-[-0.2rem] rounded px-px py-[0.2rem] transition-colors duration-100 ease-in-out"><strong data-start="0" data-end="22" data-is-only-node="">Evolving Elegance:</strong> A bubbly, spicy-floral start gives way to a warm, woody-amber finish — perfect for day-to-night wear</span><span class="" data-state="closed"></span></p>
+</li>
+</ul>
+<hr data-start="714" data-end="717">
+<h3 data-start="719" data-end="739"><strong data-start="723" data-end="739">How to Apply</strong></h3>
+<ol data-start="741" data-end="928">
+<li data-start="741" data-end="804">
+<p data-start="744" data-end="804">Spritz 2–3 times on pulse points—neck, wrists, behind ears</p>
+</li>
+<li data-start="805" data-end="860">
+<p data-start="808" data-end="860">Apply on moisturized skin to lock in the fragrance</p>
+</li>
+<li data-start="861" data-end="928">
+<p data-start="864" data-end="928">Avoid rubbing—let the scent develop its full journey naturally</p>
+</li>
+</ol>
+<hr data-start="930" data-end="933">
+<p data-start="935" data-end="986"><strong data-start="935" data-end="960">Eau de Parfum | 50 ml</strong><br data-start="960" data-end="963">Unisex. Radiant. Noble.</p>
+<p data-start="988" data-end="1076">✨ Embrace a new standard of oud elegance — claim your bottle of <strong data-start="1052" data-end="1069">Oud Al Sultan</strong> today.</p>
+<p data-start="988" data-end="1076">\xA0</p>
+<p data-start="988" data-end="1076"><img src="https://cdn.shopify.com/s/files/1/0571/8907/2940/files/Screenshot_2025-06-23_at_7.00.22_PM.png?v=1750687239" alt=""></p>
+</div>
+<!---->`,desc:`OUD AL SULTAN – Inspired by White Oud (Unisex Eau de Parfum) Regal, radiant, and elegantly balanced — Oud Al Sultan is our unisex tribute to the refined White Oud style. A modern interpretation that harmoniously blends light florals, precious woods, and creamy amber to evoke timeless sophistication. 🌿 Fragrance Profile Top Notes: Bright citrus & aromatic spice – think bergamot, grapefruit, saffron, and nutmeg for a fresh, luminous opening Heart Notes: Floral warmth with jasmine and rose — softened by earthy patchouli and cedarwood for a subtle yet rich core Base Notes: Creamy agarwood (oud), smooth amber, musk, and resinous Cambodian oud create a clean, lasting, enveloping dry-down ✨ Why You’ll Adore It Modern Oud Brilliance: Captures the depth of classic oud while feeling fresh and wearable — ideal for both oud novices and aficionados Unisex Sophistication: Balanced florals and woods make it equally appealing to all genders Evolving Elegance: A bubbly, spicy-floral start gives way to a warm, woody-amber finish — perfect for day-to-night wear How to Apply Spritz 2–3 times on pulse points—neck, wrists, behind ears Apply on moisturized skin to lock in the fragrance Avoid rubbing—let the scent develop its full journey naturally Eau de Parfum | 50 ml Unisex. Radiant. Noble. ✨ Embrace a new standard of oud elegance — claim your bottle of Oud Al Sultan today.`},"burj-khalifa-inspired-by-wisaal-unisex-copy-2":{html:`<div style="text-align: start;">
+<h3 data-start="86" data-end="154"><strong data-start="90" data-end="154">ROYAL MUSK – Inspired by Musk Al Hind (Unisex Eau de Parfum)</strong></h3>
+<p data-start="156" data-end="193"><span class="relative -mx-px my-[-0.2rem] rounded px-px py-[0.2rem] transition-colors duration-100 ease-in-out">Immerse yourself in the rich heritage of Eastern perfumery with <strong data-start="64" data-end="78">Royal Musk</strong>, our refined tribute to the legendary Musk Al Hind. A unisex fragrance that combines warm, sensual musk with spicy-woody depth.</span></p>
+<p data-start="195" data-end="222"><strong data-start="195" data-end="220">Fragrance Highlights:</strong></p>
+<ul data-start="223" data-end="382">
+<li data-start="223" data-end="302">
+<p data-start="225" data-end="302"><span class="relative -mx-px my-[-0.2rem] rounded px-px py-[0.2rem] transition-colors duration-100 ease-in-out"><strong data-start="0" data-end="16" data-is-only-node="">Heart Notes:</strong> Dominant, deep musk warmed with amber and vanilla for a creamy, inviting essence</span><span class="" data-state="closed"></span></p>
+</li>
+<li data-start="303" data-end="382">
+<p data-start="305" data-end="382"><span class="relative -mx-px my-[-0.2rem] rounded px-px py-[0.2rem] transition-colors duration-100 ease-in-out"><strong data-start="0" data-end="12" data-is-only-node="">Accents:</strong> A subtle embrace of oriental spices and sandalwood adds luxurious warmth and complexity</span><span class="" data-state="closed"><span class="ms-1 inline-flex max-w-full items-center relative top-[-0.094rem] animate-[show_150ms_ease-in]"></span></span></p>
+</li>
+</ul>
+<p data-start="384" data-end="455">This scent is bold yet intimate—exotic, rich, and effortlessly elegant.</p>
+<hr data-start="457" data-end="460">
+<h3 data-start="462" data-end="482"><strong data-start="466" data-end="482">How to Apply</strong></h3>
+<ul data-start="484" data-end="654">
+<li data-start="484" data-end="547">
+<p data-start="486" data-end="547">Spray 2–3 times on pulse points (neck, wrists, behind ears)</p>
+</li>
+<li data-start="548" data-end="598">
+<p data-start="550" data-end="598">For best projection, apply on moisturized skin</p>
+</li>
+<li data-start="599" data-end="654">
+<p data-start="601" data-end="654">Allow the fragrance to unfold naturally—avoid rubbing</p>
+</li>
+</ul>
+<hr data-start="656" data-end="659">
+<p data-start="661" data-end="716"><strong data-start="661" data-end="686">Eau de Parfum | 50 ml</strong><br data-start="686" data-end="689">Unisex. Luxurious. Lasting.</p>
+<p data-start="718" data-end="803">✨ Experience the timeless allure of musk—add <strong data-start="763" data-end="777">Royal Musk</strong> to your collection today.<br><br><br></p>
+<p data-start="718" data-end="803"><img src="https://cdn.shopify.com/s/files/1/0571/8907/2940/files/Screenshot_2025-06-23_at_6.17.15_PM.png?v=1750684803" alt=""></p>
+</div>
+<!---->`,desc:`ROYAL MUSK – Inspired by Musk Al Hind (Unisex Eau de Parfum) Immerse yourself in the rich heritage of Eastern perfumery with Royal Musk , our refined tribute to the legendary Musk Al Hind. A unisex fragrance that combines warm, sensual musk with spicy-woody depth. Fragrance Highlights: Heart Notes: Dominant, deep musk warmed with amber and vanilla for a creamy, inviting essence Accents: A subtle embrace of oriental spices and sandalwood adds luxurious warmth and complexity This scent is bold yet intimate—exotic, rich, and effortlessly elegant. How to Apply Spray 2–3 times on pulse points (neck, wrists, behind ears) For best projection, apply on moisturized skin Allow the fragrance to unfold naturally—avoid rubbing Eau de Parfum | 50 ml Unisex. Luxurious. Lasting. ✨ Experience the timeless allure of musk—add Royal Musk to your collection today.`},"burj-khalifa-inspired-by-wisaal-unisex-copy-1":{html:`<div style="text-align: start;">
+<h3 data-end="114" data-start="42"><strong data-end="114" data-start="46">ROYAL LEATHER – Inspired by Ombre Leather (Unisex Eau de Parfum)</strong></h3>
+<p data-end="153" data-start="116"><span class="relative -mx-px my-[-0.2rem] rounded px-px py-[0.2rem] transition-colors duration-100 ease-in-out">Crafted for those who seek bold elegance, <strong data-end="59" data-start="42">Royal Leather</strong> pays homage to Tom Ford’s iconic <em data-end="108" data-start="93">Ombre Leather</em>. This unisex masterpiece fuses rugged leather with rich florals and warm spice—fit for both day and night.</span></p>
+<h4 data-end="179" data-start="155"><strong data-end="179" data-start="160">Fragrance Notes</strong></h4>
+<ul data-end="419" data-start="180">
+<li data-end="259" data-start="180">
+<p data-end="259" data-start="182"><span class="relative -mx-px my-[-0.2rem] rounded px-px py-[0.2rem] transition-colors duration-100 ease-in-out"><strong data-is-only-node="" data-end="8" data-start="0">Top:</strong> Fiery cardamom with a hint of ginger spice</span></p>
+</li>
+<li data-end="339" data-start="260">
+<p data-end="339" data-start="262"><span class="relative -mx-px my-[-0.2rem] rounded px-px py-[0.2rem] transition-colors duration-100 ease-in-out"><strong data-is-only-node="" data-end="10" data-start="0">Heart:</strong> Luxurious black leather mellowed by jasmine sambac floral</span><span data-state="closed" class=""></span></p>
+</li>
+<li data-end="419" data-start="340">
+<p data-end="419" data-start="342"><span class="relative -mx-px my-[-0.2rem] rounded px-px py-[0.2rem] transition-colors duration-100 ease-in-out"><strong data-is-only-node="" data-end="9" data-start="0">Base:</strong> Earthy patchouli, warm amber, and soft moss bring depth and longevity</span><span data-state="closed" class=""></span></p>
+</li>
+</ul>
+<h4 data-end="448" data-start="421"><strong data-end="448" data-start="426">Why You'll Love It</strong></h4>
+<ul data-end="696" data-start="449">
+<li data-end="528" data-start="449">
+<p data-end="528" data-start="451"><span class="relative -mx-px my-[-0.2rem] rounded px-px py-[0.2rem] transition-colors duration-100 ease-in-out">🧥 <strong data-end="25" data-start="3">Textural &amp; Sensual</strong> – A tactile leather fragrance that blends floral softness and spice</span><span data-state="closed" class=""></span></p>
+</li>
+<li data-end="612" data-start="529">
+<p data-end="612" data-start="531"><span class="relative -mx-px my-[-0.2rem] rounded px-px py-[0.2rem] transition-colors duration-100 ease-in-out">🌿 <strong data-end="29" data-start="3">Sophisticated &amp; Unisex</strong> – Balances bold and tender, appealing to every gender</span><span data-state="closed" class=""><span class="ms-1 inline-flex max-w-full items-center relative top-[-0.094rem] animate-[show_150ms_ease-in]"></span></span></p>
+</li>
+<li data-end="696" data-start="613">
+<p data-end="696" data-start="615"><span class="relative -mx-px my-[-0.2rem] rounded px-px py-[0.2rem] transition-colors duration-100 ease-in-out">⏳ <strong data-end="30" data-start="2">Long-Lasting &amp; Memorable</strong> – Skin-scent longevity up to 6+ hours with elegant projection</span></p>
+</li>
+</ul>
+<hr data-end="701" data-start="698">
+<h3 data-end="723" data-start="703"><strong data-end="723" data-start="707">How to Apply</strong></h3>
+<ol data-end="953" data-start="724">
+<li data-end="811" data-start="724">
+<p data-end="811" data-start="727"><strong data-end="737" data-start="727">Spritz</strong> 2–3 times on clean, moisturized pulse points—neck, wrists, behind ears.</p>
+</li>
+<li data-end="877" data-start="812">
+<p data-end="877" data-start="815"><strong data-end="832" data-start="815">Avoid rubbing</strong> to preserve the fragrance’s full spectrum.</p>
+</li>
+<li data-end="953" data-start="878">
+<p data-end="953" data-start="881"><strong data-end="899" data-start="881">Let it develop</strong> naturally for a luxurious, evolving scent experience.</p>
+</li>
+</ol>
+<hr data-end="958" data-start="955">
+<p data-end="1011" data-start="960"><strong data-end="985" data-start="960">Eau de Parfum | 50 ml</strong><br data-end="988" data-start="985">Unisex. Bold. Timeless.</p>
+<p data-end="1109" data-start="1013">Step into an aura of regal leather—bring <strong data-end="1071" data-start="1054">Royal Leather</strong> into your fragrance collection today.</p>
+<p data-end="1109" data-start="1013">\xA0</p>
+<p data-end="1109" data-start="1013"><img alt="" src="https://cdn.shopify.com/s/files/1/0571/8907/2940/files/Screenshot_2025-06-23_at_6.11.57_PM.png?v=1750684338"></p>
+</div>
+<!---->`,desc:`ROYAL LEATHER – Inspired by Ombre Leather (Unisex Eau de Parfum) Crafted for those who seek bold elegance, Royal Leather pays homage to Tom Ford’s iconic Ombre Leather . This unisex masterpiece fuses rugged leather with rich florals and warm spice—fit for both day and night. Fragrance Notes Top: Fiery cardamom with a hint of ginger spice Heart: Luxurious black leather mellowed by jasmine sambac floral Base: Earthy patchouli, warm amber, and soft moss bring depth and longevity Why You'll Love It 🧥 Textural & Sensual – A tactile leather fragrance that blends floral softness and spice 🌿 Sophisticated & Unisex – Balances bold and tender, appealing to every gender ⏳ Long-Lasting & Memorable – Skin-scent longevity up to 6+ hours with elegant projection How to Apply Spritz 2–3 times on clean, moisturized pulse points—neck, wrists, behind ears. Avoid rubbing to preserve the fragrance’s full spectrum. Let it develop naturally for a luxurious, evolving scent experience. Eau de Parfum | 50 ml Unisex. Bold. Timeless. Step into an aura of regal leather—bring Royal Leather into your fragrance collection today.`},"burj-khalifa-inspired-by-wisaal-unisex-copy":{html:`<div style="text-align: start;">
+<h3 data-start="44" data-end="103"><strong data-start="48" data-end="103">PARISIAN – Inspired by Aseel (Unisex Eau de Parfum)</strong></h3>
+<p data-start="105" data-end="142"><span class="relative -mx-px my-[-0.2rem] rounded px-px py-[0.2rem] transition-colors duration-100 ease-in-out">Sophisticated and warm, <strong data-start="24" data-end="36">PARISIAN</strong> channels the luxurious essence of Ajmal Aseel in a unisex scent that captivates both mind and senses.</span></p>
+<p data-start="144" data-end="375"><span class="relative -mx-px my-[-0.2rem] rounded px-px py-[0.2rem] transition-colors duration-100 ease-in-out">🌟 <strong data-start="3" data-end="17">Top Notes:</strong> Saffron &amp; red rose – a bold, romantic opening with a hint of spice.</span><span class="" data-state="closed"><span class="ms-1 inline-flex max-w-full items-center relative top-[-0.094rem] animate-[show_150ms_ease-in]"><a href="https://in.ajmal.com/?srsltid=AfmBOor31XyCVgGOfZUIKg4ITCOIsa8FKGQi6YANZSMPKU5iXn9NnSnX&amp;utm_source=chatgpt.com" rel="noopener" alt="https://in.ajmal.com/?srsltid=AfmBOor31XyCVgGOfZUIKg4ITCOIsa8FKGQi6YANZSMPKU5iXn9NnSnX&amp;utm_source=chatgpt.com" class="flex h-4.5 overflow-hidden rounded-xl px-2 text-[0.5625em] font-medium text-token-text-secondary! bg-[#F4F4F4]! dark:bg-[#303030]! transition-colors duration-150 ease-in-out" target="_blank"><span class="relative start-0 bottom-0 flex h-full w-full items-center"><span class="flex h-4 w-full items-center justify-between absolute"><span class="max-w-full grow truncate overflow-hidden text-center"></span></span></span></a></span></span><br data-start="219" data-end="222"><span class="relative -mx-px my-[-0.2rem] rounded px-px py-[0.2rem] transition-colors duration-100 ease-in-out">🍯 <strong data-start="3" data-end="19">Heart Notes:</strong> Vanilla, caramel &amp; sandalwood – a smooth, gourmand embrace with subtle sweetness</span><br data-start="297" data-end="300"><span class="relative -mx-px my-[-0.2rem] rounded px-px py-[0.2rem] transition-colors duration-100 ease-in-out">🌲 <strong data-start="3" data-end="18">Base Notes:</strong> Oud, musk, patchouli &amp; amber – a deep, enduring masculine-feminine fusion.</span><span class="" data-state="closed"></span></p>
+<p data-start="377" data-end="522">Day to night ready: <strong data-start="397" data-end="409">PARISIAN</strong> opens with elegance, softens into cozy gourmandism, and finishes on a long-lasting, enchanting woody-musk trail.</p>
+<hr data-start="524" data-end="527">
+<h3 data-start="529" data-end="549"><strong data-start="533" data-end="549">How to Apply</strong></h3>
+<ul data-start="551" data-end="719">
+<li data-start="551" data-end="621">
+<p data-start="553" data-end="621">Spritz 2–3 times on pulse points—neck, wrists, and behind the ears</p>
+</li>
+<li data-start="622" data-end="671">
+<p data-start="624" data-end="671">For best longevity, apply on moisturized skin</p>
+</li>
+<li data-start="672" data-end="719">
+<p data-start="674" data-end="719">Let the scent develop naturally—avoid rubbing</p>
+</li>
+</ul>
+<hr data-start="721" data-end="724">
+<p data-start="726" data-end="781"><strong data-start="726" data-end="751">Eau de Parfum | 50 ml</strong><br data-start="751" data-end="754">Unisex. Elegant. Evocative.</p>
+<p data-start="783" data-end="893">Elevate your everyday moments—tap into the rich, modern allure of <strong data-start="849" data-end="861">PARISIAN</strong>, inspired by the classic Aseel.<br><br><img src="https://cdn.shopify.com/s/files/1/0571/8907/2940/files/Screenshot_2025-06-23_at_4.44.19_PM.png?v=1750679220" alt="" width="578" height="302"><br></p>
+</div>
+<!---->`,desc:`PARISIAN – Inspired by Aseel (Unisex Eau de Parfum) Sophisticated and warm, PARISIAN channels the luxurious essence of Ajmal Aseel in a unisex scent that captivates both mind and senses. 🌟 Top Notes: Saffron & red rose – a bold, romantic opening with a hint of spice. 🍯 Heart Notes: Vanilla, caramel & sandalwood – a smooth, gourmand embrace with subtle sweetness 🌲 Base Notes: Oud, musk, patchouli & amber – a deep, enduring masculine-feminine fusion. Day to night ready: PARISIAN opens with elegance, softens into cozy gourmandism, and finishes on a long-lasting, enchanting woody-musk trail. How to Apply Spritz 2–3 times on pulse points—neck, wrists, and behind the ears For best longevity, apply on moisturized skin Let the scent develop naturally—avoid rubbing Eau de Parfum | 50 ml Unisex. Elegant. Evocative. Elevate your everyday moments—tap into the rich, modern allure of PARISIAN , inspired by the classic Aseel.`},"burj-khalifa-inspired-by-wisaal-unisex":{html:`<div style="text-align: start;">
+<h3 data-start="95" data-end="158"><strong data-start="99" data-end="158">BURJ KHALIFA ROLL ON – Inspired by Wisaal (Unisex Eau de Parfum)</strong></h3>
+<p data-start="160" data-end="304">Bold, elegant, and timeless — <strong data-start="190" data-end="206">Burj Khalifa</strong> is our tribute to Ajmal Wisal, crafted for both men and women who command attention effortlessly.</p>
+<p data-start="306" data-end="438">🌸 <strong data-start="309" data-end="323">Top Notes:</strong> Fresh florals &amp; soft citrus<br data-start="351" data-end="354">🔥 <strong data-start="357" data-end="373">Heart Notes:</strong> Spicy rose &amp; warm accents<br data-start="399" data-end="402">🌲 <strong data-start="405" data-end="420">Base Notes:</strong> Musk &amp; sandalwood</p>
+<p data-start="440" data-end="577">A scent that blends modern freshness with deep, musky warmth — perfect for day-to-night wear. Long-lasting, versatile, and unforgettable.</p>
+<hr data-start="579" data-end="582">
+<h3 data-start="584" data-end="605"><strong data-start="588" data-end="605">How to Apply:</strong></h3>
+<ul data-start="607" data-end="756">
+<li data-start="607" data-end="663">
+<p data-start="609" data-end="663">Spray on pulse points: neck, wrists, and behind ears</p>
+</li>
+<li data-start="664" data-end="711">
+<p data-start="666" data-end="711">For best results, apply to moisturized skin</p>
+</li>
+<li data-start="712" data-end="756">
+<p data-start="714" data-end="756">Don’t rub — let the scent unfold naturally</p>
+</li>
+</ul>
+<hr data-start="758" data-end="761">
+<p data-start="763" data-end="815"><strong data-start="763" data-end="787">Eau de Parfum | 50ml</strong><br data-start="787" data-end="790">Unisex. Iconic. Inspired.</p>
+<p data-start="763" data-end="815"><img src="https://cdn.shopify.com/s/files/1/0571/8907/2940/files/Screenshot_2025-06-23_at_4.27.29_PM.png?v=1750678075" alt=""><img><img></p>
+</div>
+<!---->`,desc:`BURJ KHALIFA ROLL ON – Inspired by Wisaal (Unisex Eau de Parfum) Bold, elegant, and timeless — Burj Khalifa is our tribute to Ajmal Wisal, crafted for both men and women who command attention effortlessly. 🌸 Top Notes: Fresh florals & soft citrus 🔥 Heart Notes: Spicy rose & warm accents 🌲 Base Notes: Musk & sandalwood A scent that blends modern freshness with deep, musky warmth — perfect for day-to-night wear. Long-lasting, versatile, and unforgettable. How to Apply: Spray on pulse points: neck, wrists, and behind ears For best results, apply to moisturized skin Don’t rub — let the scent unfold naturally Eau de Parfum | 50ml Unisex. Iconic. Inspired.`},"sun-kissed-inspired-by-baccarat-rouge":{html:`<div>
+<h3>Introducing Sun Kissed - Inspired by Baracatt Rouge (Unisex)</h3>
+<p>Embrace the spontaneity of life with <strong>Sun Kissed - Inspired by Baracatt Rouge (Unisex)</strong>, a captivating fragrance crafted by A.R Fragrances. This unisex scent embodies the essence of adventure and intrigue, perfect for those who live life to the fullest. Whether it's a spontaneous getaway or an unexpected rendezvous, Unplanned Plans is your go-to fragrance, adding a touch of excitement to every moment.</p>
+<p>At A.R Fragrances, we offer Sun Kissed at an exceptional price, ensuring you experience luxury without compromise. Treat yourself or gift this enticing fragrance to someone special, and let its irresistible charm set the stage for unforgettable experiences.</p>
+<h3>Fragrance Profile</h3>
+<p><strong>Fragrance Family:</strong> Oriental, spicy</p>
+<p><strong>Scent Type:</strong> Sensual, mysterious</p>
+<h3>Notes:</h3>
+</div>
+<div>
+<p><strong>Top Notes:</strong> A mesmerizing blend of saffron, ginger, and cardamom that opens with warmth and spice, setting the stage for adventure.</p>
+<p><strong>Middle Notes:</strong> The heart reveals a rich and sensual fusion of rose, leather, and tobacco, adding depth and intrigue.</p>
+<p><strong>Base Notes:</strong> A seductive base of amber, patchouli, and vanilla provides a lingering finish, leaving a trail of allure and mystery.</p>
+</div>
+<div></div>
+<!---->`,desc:`Introducing Sun Kissed - Inspired by Baracatt Rouge (Unisex) Embrace the spontaneity of life with Sun Kissed - Inspired by Baracatt Rouge (Unisex) , a captivating fragrance crafted by A.R Fragrances. This unisex scent embodies the essence of adventure and intrigue, perfect for those who live life to the fullest. Whether it's a spontaneous getaway or an unexpected rendezvous, Unplanned Plans is your go-to fragrance, adding a touch of excitement to every moment. At A.R Fragrances, we offer Sun Kissed at an exceptional price, ensuring you experience luxury without compromise. Treat yourself or gift this enticing fragrance to someone special, and let its irresistible charm set the stage for unforgettable experiences. Fragrance Profile Fragrance Family: Oriental, spicy Scent Type: Sensual, mysterious Notes: Top Notes: A mesmerizing blend of saffron, ginger, and cardamom that opens with warmth and spice, setting the stage for adventure. Middle Notes: The heart reveals a rich and sensual fusion of rose, leather, and tobacco, adding depth and intrigue. Base Notes: A seductive base of amber, patchouli, and vanilla provides a lingering finish, leaving a trail of allure and mystery.`},"buy-2-get-1-free-50ml":{html:`<h4><strong>Choose your favorite ones!</strong></h4>
+<br>You can select from our entire selection according to your mood, desire &amp;\xA0 taste.`,desc:`Choose your favorite ones! You can select from our entire selection according to your mood, desire & taste.`},"ar-ocean-shades-inspired-by-cool-water":{html:`<h2><strong>OCEAN SHADES MARINE - Inspired by Cool Water (Men)</strong></h2><p>Experience the refreshing and invigorating aroma of <strong>Ocean Shades - Inspired by Cool Water (Men)</strong>, a captivating fragrance crafted by A.R Fragrances. This scent captures the essence of the ocean breeze, bringing a sense of coolness and vitality to your day. Whether you're heading to the office or exploring the great outdoors, Ocean Shades is your perfect companion, exuding confidence and vitality.<br>At A.R Fragrances, we offer Ocean Shades at an exceptional value, ensuring you experience luxury without compromise. Treat yourself or gift this refreshing fragrance to someone special, and let its irresistible charm transport you to sun-kissed shores.<br></p><h3><strong>Fragrance Profile</strong></h3><p><strong>Fragrance Family:</strong> Aquatic, aromatic<br><strong>Scent Type:</strong> Fresh, invigorating</p><h3><strong>Notes:</strong></h3><p>• \xA0 \xA0<strong>Top Notes:</strong> A refreshing blend of lavender, green notes, and mint that opens with a burst of freshness, reminiscent of a cool ocean breeze.<br>• \xA0 \xA0<strong>Middle Notes:</strong> The heart reveals a captivating fusion of jasmine, geranium, and neroli, adding depth and complexity.<br>• \xA0 \xA0<strong>Base Notes:</strong> A warm and comforting base of sandalwood, cedarwood, and musk provides a lasting finish, leaving a trail of sophistication.<br></p><h3>Suggested Use</h3><p>For a fragrance that lasts throughout the day, apply Ocean Shades to your pulse points—behind the ears, at the base of the neck, and on your wrists. Additionally, applying to warmer areas such as behind the knees and inside the elbows will help intensify the scent with your body heat.</p><h3>
+<br>Why Choose Ocean Shades?</h3><p><strong>Ocean Shades</strong> is more than just a fragrance; it's an invitation to embrace the vitality of the ocean. Crafted with passion and precision, this scent offers a refreshing and invigorating aroma that uplifts the senses. At A.R Fragrances, we ensure you receive top-tier quality at an affordable price, allowing you to embark on every adventure with confidence and style.</p><p><br>Elevate your fragrance collection with <strong>Ocean Shades - Inspired by Cool Water (Men)</strong>, and immerse yourself in the cool embrace of the ocean with A.R Fragrances.<br></p>`,desc:`OCEAN SHADES MARINE - Inspired by Cool Water (Men) Experience the refreshing and invigorating aroma of Ocean Shades - Inspired by Cool Water (Men) , a captivating fragrance crafted by A.R Fragrances. This scent captures the essence of the ocean breeze, bringing a sense of coolness and vitality to your day. Whether you're heading to the office or exploring the great outdoors, Ocean Shades is your perfect companion, exuding confidence and vitality. At A.R Fragrances, we offer Ocean Shades at an exceptional value, ensuring you experience luxury without compromise. Treat yourself or gift this refreshing fragrance to someone special, and let its irresistible charm transport you to sun-kissed shores. Fragrance Profile Fragrance Family: Aquatic, aromatic Scent Type: Fresh, invigorating Notes: • Top Notes: A refreshing blend of lavender, green notes, and mint that opens with a burst of freshness, reminiscent of a cool ocean breeze. • Middle Notes: The heart reveals a captivating fusion of jasmine, geranium, and neroli, adding depth and complexity. • Base Notes: A warm and comforting base of sandalwood, cedarwood, and musk provides a lasting finish, leaving a trail of sophistication. Suggested Use For a fragrance that lasts throughout the day, apply Ocean Shades to your pulse points—behind the ears, at the base of the neck, and on your wrists. Additionally, applying to warmer areas such as behind the knees and inside the elbows will help intensify the scent with your body heat. Why Choose Ocean Shades? Ocean Shades is more than just a fragrance; it's an invitation to embrace the vitality of the ocean. Crafted with passion and precision, this scent offers a refreshing and invigorating aroma that uplifts the senses. At A.R Fragrances, we ensure you receive top-tier quality at an affordable price, allowing you to embark on every adventure with confidence and style. Elevate your fragrance collection with Ocean Shades - Inspired by Cool Water (Men) , and immerse yourself in the cool embrace of the ocean with A.R Fragrances.`},"silver-crown-inspired-by-silver-mountain-creed-unisex":{html:`<p></p>`,desc:``},"sea-breeze-inspired-by-aqua-di-gio-men":{html:`<h2 dir="ltr">
+<strong>SEA BREEZE - INSPIRED BY AQUA DI GIO (MEN)</strong><b></b>
+</h2>
+<p dir="ltr"><span>The </span><span>Sea Breeze - Inspired by Aqua Di Gio</span><span> by A-Fragrances is a fresh and energetic scent designed for men who love the outdoors. It starts with crisp marine notes combined with the zesty freshness of bergamot, giving you a refreshing and uplifting feeling.</span></p>
+<p dir="ltr"><span>As the fragrance develops, the heart reveals the herbal and slightly spicy notes of rosemary, clary sage, and geranium, creating a balanced and confident vibe.</span></p>
+<p dir="ltr"><span>The base notes of olibanum and patchouli add a rich and earthy depth, leaving a lasting impression that’s warm and grounded.</span></p>
+<p dir="ltr"><span>Sea Breeze captures the essence of ocean waves and breezy adventures, making it perfect for any time of the day. Whether you're heading to work or out for a casual evening, this scent keeps you feeling fresh and stylish. It’s a timeless fragrance that speaks to those who appreciate nature’s simplicity and charm.</span></p>
+<p>\xA0</p>`,desc:`SEA BREEZE - INSPIRED BY AQUA DI GIO (MEN) The Sea Breeze - Inspired by Aqua Di Gio by A-Fragrances is a fresh and energetic scent designed for men who love the outdoors. It starts with crisp marine notes combined with the zesty freshness of bergamot, giving you a refreshing and uplifting feeling. As the fragrance develops, the heart reveals the herbal and slightly spicy notes of rosemary, clary sage, and geranium, creating a balanced and confident vibe. The base notes of olibanum and patchouli add a rich and earthy depth, leaving a lasting impression that’s warm and grounded. Sea Breeze captures the essence of ocean waves and breezy adventures, making it perfect for any time of the day. Whether you're heading to work or out for a casual evening, this scent keeps you feeling fresh and stylish. It’s a timeless fragrance that speaks to those who appreciate nature’s simplicity and charm.`},"rush-hours-womens-fragrance-inspired-by-gucci-rush":{html:`<h2 data-start="44" data-end="96"><strong data-start="47" data-end="94">RUSH HOURS – Inspired by Gucci Rush (Women)</strong></h2>
+<p data-start="97" data-end="125"><strong data-start="97" data-end="125">Bold. Sultry. Nostalgic.</strong></p>
+<p data-start="127" data-end="203"><span class="relative -mx-px my-[-0.2rem] rounded px-px py-[0.2rem] transition-colors duration-100 ease-in-out">RUSH HOURS channels the iconic Y2K energy of Gucci Rush—an irresistible chypre-fruity blend crafted for confident, assertive women. It opens with vibrant peach, gardenia, and freesia petals, moves into rich jasmine, rose, and coriander heart accords, and dries down to sensual vanilla, patchouli, vetiver, and musk</span></p>
+<p data-start="205" data-end="324"><span class="relative -mx-px my-[-0.2rem] rounded px-px py-[0.2rem] transition-colors duration-100 ease-in-out">🔹 <strong data-start="3" data-end="17">Top Notes:</strong> Peach, Californian Gardenia, African Freesia</span><br data-start="242" data-end="245"><span class="relative -mx-px my-[-0.2rem] rounded px-px py-[0.2rem] transition-colors duration-100 ease-in-out">🔹 <strong data-start="3" data-end="19">Heart Notes:</strong> Coriander, Damask Rose, Jasmine</span><br data-start="282" data-end="285"><span class="relative -mx-px my-[-0.2rem] rounded px-px py-[0.2rem] transition-colors duration-100 ease-in-out">🔹 <strong data-start="3" data-end="18">Base Notes:</strong> Patchouli, Natural Vanilla, Vetiver, Musk</span></p>
+<p data-start="326" data-end="351"><strong data-start="326" data-end="351">Why shoppers love it:</strong></p>
+<ul data-start="352" data-end="679">
+<li data-start="352" data-end="431">
+<p data-start="354" data-end="431"><span class="relative -mx-px my-[-0.2rem] rounded px-px py-[0.2rem] transition-colors duration-100 ease-in-out">A nostalgic Y2K staple—bold, loud, and unapologetically feminine</span><span class="" data-state="closed"><span class="ms-1 inline-flex max-w-full items-center relative top-[-0.094rem] animate-[show_150ms_ease-in]"></span></span></p>
+</li>
+<li data-start="432" data-end="511">
+<p data-start="434" data-end="511"><span class="relative -mx-px my-[-0.2rem] rounded px-px py-[0.2rem] transition-colors duration-100 ease-in-out">Uplifting blend: “vinyl peaches and cream” with delicate florals and creamy vanilla-patchouli</span><span class="" data-state="closed"><span class="ms-1 inline-flex max-w-full items-center relative top-[-0.094rem] animate-[show_150ms_ease-in]"></span></span></p>
+</li>
+<li data-start="512" data-end="595">
+<p data-start="514" data-end="595"><span class="relative -mx-px my-[-0.2rem] rounded px-px py-[0.2rem] transition-colors duration-100 ease-in-out">Long-lasting with striking sillage—wear it with confidence at evening events</span></p>
+</li>
+<li data-start="596" data-end="679">
+<p data-start="598" data-end="679"><span class="relative -mx-px my-[-0.2rem] rounded px-px py-[0.2rem] transition-colors duration-100 ease-in-out">Celebrated since winning FiFi Awards (Women’s Fragrance of the Year 2000)</span><span class="" data-state="closed"><span class="ms-1 inline-flex max-w-full items-center relative top-[-0.094rem] animate-[show_150ms_ease-in]"></span></span></p>
+</li>
+</ul>
+<p data-start="681" data-end="741"><em data-start="681" data-end="741">Women’s Eau de Parfum | Chypre Fruity | Vintage Y2K Vibe</em></p>`,desc:`RUSH HOURS – Inspired by Gucci Rush (Women) Bold. Sultry. Nostalgic. RUSH HOURS channels the iconic Y2K energy of Gucci Rush—an irresistible chypre-fruity blend crafted for confident, assertive women. It opens with vibrant peach, gardenia, and freesia petals, moves into rich jasmine, rose, and coriander heart accords, and dries down to sensual vanilla, patchouli, vetiver, and musk 🔹 Top Notes: Peach, Californian Gardenia, African Freesia 🔹 Heart Notes: Coriander, Damask Rose, Jasmine 🔹 Base Notes: Patchouli, Natural Vanilla, Vetiver, Musk Why shoppers love it: A nostalgic Y2K staple—bold, loud, and unapologetically feminine Uplifting blend: “vinyl peaches and cream” with delicate florals and creamy vanilla-patchouli Long-lasting with striking sillage—wear it with confidence at evening events Celebrated since winning FiFi Awards (Women’s Fragrance of the Year 2000) Women’s Eau de Parfum | Chypre Fruity | Vintage Y2K Vibe`},"endless-mens-cologne-inspired-by-invictus-parfum":{html:`<h3><strong>ENDLESS – Inspired by Invictus (Men)</strong></h3>
+<p><strong>Fresh. Bold. Victorious.</strong></p>
+<p><span class="relative -mx-px my-[-0.2rem] rounded px-px py-[0.2rem] transition-colors duration-100 ease-in-out">ENDLESS mirrors the powerful aquatic‑woody profile of Invictus Parfum—crafted for confident, active men. It opens with crisp marine accords, lavender, and spicy pink pepper; evolves through clean soap, violet leaf, and myrtle; then dries down to warm cashmeran, musk, and sandalwood</span></p>
+<p><span class="relative -mx-px my-[-0.2rem] rounded px-px py-[0.2rem] transition-colors duration-100 ease-in-out">🔹 <strong>Top Notes:</strong> Marine, Lavender, Pink Pepper</span><br><span class="relative -mx-px my-[-0.2rem] rounded px-px py-[0.2rem] transition-colors duration-100 ease-in-out">🔹 <strong>Heart Notes:</strong> Black Soap, Violet Leaf, Myrtle</span><br><span class="relative -mx-px my-[-0.2rem] rounded px-px py-[0.2rem] transition-colors duration-100 ease-in-out">🔹 <strong>Base Notes:</strong> Cashmeran, Musk, Sandalwood</span></p>
+<p><strong>Why you'll love it:</strong></p>
+<ul>
+<li>
+<p><span class="relative -mx-px my-[-0.2rem] rounded px-px py-[0.2rem] transition-colors duration-100 ease-in-out">Soapy‑fresh yet masculine—“only photo‑realistic portrayal of soap” in a fragrance</span><span class=""><span class="ms-1 inline-flex max-w-full items-center relative top-[-0.094rem] animate-[show_150ms_ease-in]"><a href="https://www.fragrantica.com/news/Paco-Rabanne-Invictus-Parfum-19885.html?utm_source=chatgpt.com" rel="noopener" alt="https://www.fragrantica.com/news/Paco-Rabanne-Invictus-Parfum-19885.html?utm_source=chatgpt.com" class="flex h-4.5 overflow-hidden rounded-xl px-2 text-[9px] font-medium text-token-text-secondary! bg-[#F4F4F4]! dark:bg-[#303030]! transition-colors duration-150 ease-in-out" target="_blank"><span class="relative start-0 bottom-0 flex h-full w-full items-center"><span class="flex h-4 w-full items-center justify-between"><span class="max-w-full grow truncate overflow-hidden text-center"></span></span></span></a></span></span><span class="relative -mx-px my-[-0.2rem] rounded px-px py-[0.2rem] transition-colors duration-100 ease-in-out">Clean and long‑lasting, perfect for daily wear or summers</span><span class=""><span class="ms-1 inline-flex max-w-full items-center relative top-[-0.094rem] animate-[show_150ms_ease-in]"></span></span></p>
+</li>
+<li>
+<p><span class="relative -mx-px my-[-0.2rem] rounded px-px py-[0.2rem] transition-colors duration-100 ease-in-out">Sophisticated aquatic scent with a smooth woodsy finish</span></p>
+</li>
+</ul>
+<blockquote>
+<p><span class="relative -mx-px my-[-0.2rem] rounded px-px py-[0.2rem] transition-colors duration-100 ease-in-out">“Clean, fresh, lasts a long time, perfect for every day use.”</span></p>
+</blockquote>
+<p><em>Men’s Eau de Parfum | Aquatic Woody | Long-lasting Fresh Scent</em></p>`,desc:`ENDLESS – Inspired by Invictus (Men) Fresh. Bold. Victorious. ENDLESS mirrors the powerful aquatic‑woody profile of Invictus Parfum—crafted for confident, active men. It opens with crisp marine accords, lavender, and spicy pink pepper; evolves through clean soap, violet leaf, and myrtle; then dries down to warm cashmeran, musk, and sandalwood 🔹 Top Notes: Marine, Lavender, Pink Pepper 🔹 Heart Notes: Black Soap, Violet Leaf, Myrtle 🔹 Base Notes: Cashmeran, Musk, Sandalwood Why you'll love it: Soapy‑fresh yet masculine—“only photo‑realistic portrayal of soap” in a fragrance Clean and long‑lasting, perfect for daily wear or summers Sophisticated aquatic scent with a smooth woodsy finish “Clean, fresh, lasts a long time, perfect for every day use.” Men’s Eau de Parfum | Aquatic Woody | Long-lasting Fresh Scent`},"swaggy-inspired-by-ysl-y-men":{html:`<p>\xA0</p>
+<div class="flex-1 overflow-hidden">
+<div class="react-scroll-to-bottom--css-lzsvc-79elbk h-full">
+<div class="react-scroll-to-bottom--css-lzsvc-1n7m0yu">
+<div class="flex flex-col pb-9 text-sm">
+<div data-testid="conversation-turn-119" class="w-full text-token-text-primary">
+<div class="px-4 py-2 justify-center text-base md:gap-6 m-auto">
+<div class="flex flex-1 text-base mx-auto gap-3 md:px-5 lg:px-1 xl:px-5 md:max-w-3xl lg:max-w-[40rem] xl:max-w-[48rem] group final-completion">
+<div class="relative flex w-full flex-col agent-turn">
+<div class="flex-col gap-1 md:gap-3">
+<div class="flex flex-grow flex-col max-w-full">
+<div class="min-h-[20px] text-message flex flex-col items-start gap-3 whitespace-pre-wrap break-words [.text-message+&amp;]:mt-5 overflow-x-auto" data-message-id="426f2d49-167c-47dd-a943-8235948d7e9a" data-message-author-role="assistant">
+<div class="markdown prose w-full break-words dark:prose-invert dark">
+<p>Introducing 'Swaggy - Inspired by YSL Y (Men)' – a bold fragrance impression meticulously crafted by Arfragrance. Drawing inspiration from the iconic YSL Y, 'Swaggy' embodies the essence of confidence and charisma, perfect for men who seek a scent that makes a statement.</p>
+<p><strong>Key Features:</strong></p>
+<ol>
+<li>
+<p><strong>Confident Aura:</strong> Immerse yourself in the confident aura of 'Swaggy,' designed to elevate your presence and leave a lasting impression.</p>
+</li>
+<li>
+<p><strong>Dynamic Blend:</strong> Experience the dynamic blend of bergamot, sage, and cedarwood, creating a fragrance that is both bold and sophisticated.</p>
+</li>
+<li>
+<p><strong>Affordable Luxury:</strong> Indulge in luxury without compromise. Arfragrance offers high-quality impressions at an accessible price point, ensuring you can enjoy the essence of YSL Y without breaking the bank.</p>
+</li>
+<li>
+<p><strong>Masculine Appeal:</strong> Designed for the modern man, 'Swaggy' celebrates masculinity and charm, making it the perfect choice for those who desire a scent that exudes confidence and allure.</p>
+</li>
+</ol>
+<p>Make a statement with 'Swaggy - Inspired by YSL Y (Men).' Experience the essence of charisma and confidence – exclusively from Arfragrance.</p>
+</div>
+</div>
+</div>
+<div class="mt-1 flex justify-start gap-3 empty:hidden">
+<div class="text-gray-400 flex self-end lg:self-center justify-center lg:justify-start mt-0 -ml-1 visible">
+<span data-state="closed" class=""><button class="flex items-center gap-1.5 rounded-md p-1 text-xs text-token-text-tertiary hover:text-token-text-primary md:invisible md:group-hover:visible md:group-[.final-completion]:visible"><svg class="icon-md" xmlns="http://www.w3.org/2000/svg" fill="none" viewbox="0 0 24 24" height="24" width="24"><path fill="currentColor" d="M12 4C10.8954 4 10 4.89543 10 6H14C14 4.89543 13.1046 4 12 4ZM8.53513 4C9.22675 2.8044 10.5194 2 12 2C13.4806 2 14.7733 2.8044 15.4649 4H17C18.6569 4 20 5.34315 20 7V19C20 20.6569 18.6569 22 17 22H7C5.34315 22 4 20.6569 4 19V7C4 5.34315 5.34315 4 7 4H8.53513ZM8 6H7C6.44772 6 6 6.44772 6 7V19C6 19.5523 6.44772 20 7 20H17C17.5523 20 18 19.5523 18 19V7C18 6.44772 17.5523 6 17 6H16C16 7.10457 15.1046 8 14 8H10C8.89543 8 8 7.10457 8 6Z" clip-rule="evenodd" fill-rule="evenodd"></path></svg></button></span>
+<div class="flex items-center gap-1.5 text-xs">
+<svg class="icon-md" xmlns="http://www.w3.org/2000/svg" fill="none" viewbox="0 0 24 24" height="24" width="24"><path fill="currentColor" d="M4.5 2.5C5.05228 2.5 5.5 2.94772 5.5 3.5V5.07196C7.19872 3.47759 9.48483 2.5 12 2.5C17.2467 2.5 21.5 6.75329 21.5 12C21.5 17.2467 17.2467 21.5 12 21.5C7.1307 21.5 3.11828 17.8375 2.565 13.1164C2.50071 12.5679 2.89327 12.0711 3.4418 12.0068C3.99033 11.9425 4.48712 12.3351 4.5514 12.8836C4.98798 16.6089 8.15708 19.5 12 19.5C16.1421 19.5 19.5 16.1421 19.5 12C19.5 7.85786 16.1421 4.5 12 4.5C9.7796 4.5 7.7836 5.46469 6.40954 7H9C9.55228 7 10 7.44772 10 8C10 8.55228 9.55228 9 9 9H4.5C3.96064 9 3.52101 8.57299 3.50073 8.03859C3.49983 8.01771 3.49958 7.99677 3.5 7.9758V3.5C3.5 2.94772 3.94771 2.5 4.5 2.5Z" clip-rule="evenodd" fill-rule="evenodd"></path></svg><br>
+</div>
+<div class="flex"><br></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="w-full pt-2 md:pt-0 dark:border-white/20 md:border-transparent md:dark:border-transparent md:w-[calc(100%-.5rem)]"><form class="stretch mx-2 flex flex-row gap-3 last:mb-2 md:mx-4 md:last:mb-6 lg:mx-auto lg:max-w-2xl xl:max-w-3xl">
+<div class="relative flex h-full flex-1 items-stretch md:flex-col">
+<div class="flex w-full items-center">
+<div class="overflow-hidden [&amp;:has(textarea:focus)]:border-token-border-xheavy [&amp;:has(textarea:focus)]:shadow-[0_2px_6px_rgba(0,0,0,.05)] flex flex-col w-full dark:border-token-border-heavy flex-grow relative border border-token-border-heavy dark:text-white rounded-2xl bg-token-main-surface-primary">
+<div data-grammarly-part="button">
+<div>
+<div>
+<div class="amkYk">
+<div>
+<div class="ptGJG"><br></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</form></div>`,desc:`Introducing 'Swaggy - Inspired by YSL Y (Men)' – a bold fragrance impression meticulously crafted by Arfragrance. Drawing inspiration from the iconic YSL Y, 'Swaggy' embodies the essence of confidence and charisma, perfect for men who seek a scent that makes a statement. Key Features: Confident Aura: Immerse yourself in the confident aura of 'Swaggy,' designed to elevate your presence and leave a lasting impression. Dynamic Blend: Experience the dynamic blend of bergamot, sage, and cedarwood, creating a fragrance that is both bold and sophisticated. Affordable Luxury: Indulge in luxury without compromise. Arfragrance offers high-quality impressions at an accessible price point, ensuring you can enjoy the essence of YSL Y without breaking the bank. Masculine Appeal: Designed for the modern man, 'Swaggy' celebrates masculinity and charm, making it the perfect choice for those who desire a scent that exudes confidence and allure. Make a statement with 'Swaggy - Inspired by YSL Y (Men).' Experience the essence of charisma and confidence – exclusively from Arfragrance.`},"miss-world-inspired-by-chanel-chance-women":{html:`<h2 dir="ltr">
+<strong>MISS WORLD - INSPIRED BY CHANEL CHANCE (WOMEN)</strong><b></b>
+</h2>
+<p dir="ltr"><span>If you’re searching for a fragrance that makes you feel elegant and confident, </span><span>Miss World</span><span> is the perfect choice. Inspired by Chanel Chance, this perfume is designed for women who embrace their charm and beauty with grace.</span></p>
+<h3 dir="ltr"><strong>A Bold and Refreshing Start</strong></h3>
+<p dir="ltr"><span>The scent begins with the vibrant and spicy touch of </span><span>pink pepper</span><span>, giving it an energetic and lively opening. This sparkling note adds a bold yet refreshing feel to the fragrance, making it perfect for women who love to stand out.</span></p>
+<h3 dir="ltr"><strong>A Soft Floral Heart and Warm Finish</strong></h3>
+<p dir="ltr"><span>As the perfume settles, the heart reveals a beautiful blend of </span><span>jasmine</span><span> and </span><span>iris</span><span>. These floral notes add a soft and feminine touch, creating a sense of sophistication and elegance.</span></p>
+<p dir="ltr"><span>The base notes of </span><span>patchouli</span><span>, </span><span>musk</span><span>, and </span><span>vanilla</span><span> bring warmth and depth to the fragrance. The earthy richness of patchouli combines with the creamy sweetness of vanilla and the smoothness of musk, leaving a lasting impression that feels both cozy and luxurious.</span></p>
+<p dir="ltr"><span>Miss World - Inspired by Chanel Chance</span><span> is ideal for any occasion, whether it’s a casual outing or a special event. It’s a fragrance that celebrates your confidence and beauty every day.</span></p>
+<p dir="ltr"><span>Try </span><span>Miss World</span><span> today and let its enchanting scent bring out the best in you.</span></p>
+<p>\xA0</p>`,desc:`MISS WORLD - INSPIRED BY CHANEL CHANCE (WOMEN) If you’re searching for a fragrance that makes you feel elegant and confident, Miss World is the perfect choice. Inspired by Chanel Chance, this perfume is designed for women who embrace their charm and beauty with grace. A Bold and Refreshing Start The scent begins with the vibrant and spicy touch of pink pepper , giving it an energetic and lively opening. This sparkling note adds a bold yet refreshing feel to the fragrance, making it perfect for women who love to stand out. A Soft Floral Heart and Warm Finish As the perfume settles, the heart reveals a beautiful blend of jasmine and iris . These floral notes add a soft and feminine touch, creating a sense of sophistication and elegance. The base notes of patchouli , musk , and vanilla bring warmth and depth to the fragrance. The earthy richness of patchouli combines with the creamy sweetness of vanilla and the smoothness of musk, leaving a lasting impression that feels both cozy and luxurious. Miss World - Inspired by Chanel Chance is ideal for any occasion, whether it’s a casual outing or a special event. It’s a fragrance that celebrates your confidence and beauty every day. Try Miss World today and let its enchanting scent bring out the best in you.`},"romeo-juliet-inspired-by-flamenco-unisex":{html:`<h2 dir="ltr">
+<strong>ROMEO &amp; JULIET - INSPIRED BY FLAMENCO (UNISEX)</strong><b></b>
+</h2>
+<p dir="ltr"><span>If you love a fragrance that’s both elegant and versatile, </span><span>Romeo &amp; Juliet</span><span> is the perfect choice. This unisex perfume, inspired by Flamenco, brings together passion, charm, and sophistication. It’s a scent that suits everyone, making it ideal for both men and women who appreciate a unique fragrance.</span></p>
+<h3 dir="ltr"><strong>A Fresh and Fruity Beginning</strong></h3>
+<p dir="ltr"><span>The perfume opens with a delightful mix of </span><span>raspberry</span><span>, </span><span>apple</span><span>, and </span><span>violet</span><span>, creating a sweet and fresh aroma. The hint of </span><span>orange blossom</span><span> adds a touch of brightness, making the first spritz feel lively and energizing. This blend is perfect for those who enjoy fruity scents with a subtle floral twist.</span></p>
+<h3 dir="ltr"><strong>A Floral Heart and Woody Base</strong></h3>
+<p dir="ltr"><span>As the fragrance settles, the middle notes of </span><span>rose</span><span>, </span><span>iris</span><span>, and </span><span>jasmine</span><span> shine through. This floral combination is soft, romantic, and elegant, making the scent feel balanced and refined.</span></p>
+<p dir="ltr"><span>The base notes bring a warm and earthy finish. The rich blend of </span><span>cedar</span><span>, </span><span>cypress</span><span>, </span><span>pine tree</span><span>, and </span><span>amber</span><span> adds depth and character to the perfume. These woody and slightly resinous notes make the scent long-lasting and memorable.</span></p>
+<p dir="ltr"><span>Romeo &amp; Juliet Perfume- Inspired by Flamenco</span><span> is perfect for any occasion, whether it’s a casual day out or a special evening. This unisex perfume celebrates individuality and style, making it a must-have for your collection.</span></p>
+<p dir="ltr"><span>Try </span><span>Romeo &amp; Juliet</span><span> today and let its enchanting scent captivate your senses.</span></p>
+<p>\xA0</p>`,desc:`ROMEO & JULIET - INSPIRED BY FLAMENCO (UNISEX) If you love a fragrance that’s both elegant and versatile, Romeo & Juliet is the perfect choice. This unisex perfume, inspired by Flamenco, brings together passion, charm, and sophistication. It’s a scent that suits everyone, making it ideal for both men and women who appreciate a unique fragrance. A Fresh and Fruity Beginning The perfume opens with a delightful mix of raspberry , apple , and violet , creating a sweet and fresh aroma. The hint of orange blossom adds a touch of brightness, making the first spritz feel lively and energizing. This blend is perfect for those who enjoy fruity scents with a subtle floral twist. A Floral Heart and Woody Base As the fragrance settles, the middle notes of rose , iris , and jasmine shine through. This floral combination is soft, romantic, and elegant, making the scent feel balanced and refined. The base notes bring a warm and earthy finish. The rich blend of cedar , cypress , pine tree , and amber adds depth and character to the perfume. These woody and slightly resinous notes make the scent long-lasting and memorable. Romeo & Juliet Perfume- Inspired by Flamenco is perfect for any occasion, whether it’s a casual day out or a special evening. This unisex perfume celebrates individuality and style, making it a must-have for your collection. Try Romeo & Juliet today and let its enchanting scent captivate your senses.`},"a-legacy-inspired-by-god-father-men":{html:`<h2 dir="ltr">
+<strong>A. LEGACY - INSPIRED BY GODFATHER (MEN)</strong><b></b>
+</h2>
+<p dir="ltr"><span>If you’re looking for a bold and timeless fragrance, </span><span>A. Legacy</span><span> is the perfect choice. Inspired by the strength and charisma of God Father, this perfume is made for men who want to leave a lasting impression. Its rich and unique scent reflects confidence, style, and power.</span></p>
+<h3 dir="ltr"><strong>A Strong Start with Fresh and Spicy Notes</strong></h3>
+<p dir="ltr"><span>The journey begins with vibrant </span><span>rose</span><span>, spicy </span><span>pink pepper</span><span>, and smoky </span><span>incense</span><span>, balanced by the fresh zest of </span><span>bergamot</span><span>. This bold combination creates an unforgettable first impression that feels both classy and powerful.</span></p>
+<h3 dir="ltr"><strong>A Warm Heart and Deep Base</strong></h3>
+<p dir="ltr"><span>As the scent unfolds, the middle notes reveal a warm and spicy character. The mix of </span><span>elemi</span><span>, earthy </span><span>nutmeg</span><span>, and a touch of </span><span>jasmine</span><span> adds depth and intrigue. These notes bring a balance of richness and elegance to the fragrance.</span></p>
+<p dir="ltr"><span>In the base, </span><span>amber</span><span>, </span><span>musk</span><span>, </span><span>tobacco</span><span>, and </span><span>patchouli</span><span> come together to create a long-lasting, masculine finish. The warmth of amber and musk blends beautifully with the smoky sweetness of tobacco and the earthiness of patchouli, leaving a scent that is hard to forget.</span></p>
+<p dir="ltr"><span>A. Legacy Perfume- Inspired by God Father</span><span> is perfect for any occasion, whether it’s a formal event or a casual day out. It’s a versatile perfume that complements every man’s personality.</span></p>
+<p dir="ltr"><span>Try </span><span>A. Legacy</span><span> today and experience the power of a truly remarkable fragrance. It’s time to wear a scent that defines who you are—bold, confident, and unforgettable.</span></p>
+<p>\xA0</p>`,desc:`A. LEGACY - INSPIRED BY GODFATHER (MEN) If you’re looking for a bold and timeless fragrance, A. Legacy is the perfect choice. Inspired by the strength and charisma of God Father, this perfume is made for men who want to leave a lasting impression. Its rich and unique scent reflects confidence, style, and power. A Strong Start with Fresh and Spicy Notes The journey begins with vibrant rose , spicy pink pepper , and smoky incense , balanced by the fresh zest of bergamot . This bold combination creates an unforgettable first impression that feels both classy and powerful. A Warm Heart and Deep Base As the scent unfolds, the middle notes reveal a warm and spicy character. The mix of elemi , earthy nutmeg , and a touch of jasmine adds depth and intrigue. These notes bring a balance of richness and elegance to the fragrance. In the base, amber , musk , tobacco , and patchouli come together to create a long-lasting, masculine finish. The warmth of amber and musk blends beautifully with the smoky sweetness of tobacco and the earthiness of patchouli, leaving a scent that is hard to forget. A. Legacy Perfume- Inspired by God Father is perfect for any occasion, whether it’s a formal event or a casual day out. It’s a versatile perfume that complements every man’s personality. Try A. Legacy today and experience the power of a truly remarkable fragrance. It’s time to wear a scent that defines who you are—bold, confident, and unforgettable.`},"glamour-inspired-by-jennifer-lopez-women":{html:`<h2 dir="ltr">
+<strong>GLAMOUR - INSPIRED BY JENNIFER LOPEZ (WOMEN)</strong><b></b>
+</h2>
+<p dir="ltr"><span>If you’re looking for a fragrance that combines elegance, charm, and confidence, </span><span>Glamour</span><span> is the perfect choice. Inspired by Jennifer Lopez’s iconic style, this perfume is made for women who love to shine. It’s more than just a scent; it’s a statement of grace and sophistication.</span></p>
+<p dir="ltr"><span>From the very first spritz, you’ll be greeted by a burst of fresh and fruity top notes. The delightful mix of </span><span>Earl Grey tea</span><span>, </span><span>mandarin orange</span><span>, </span><span>apple</span><span>, and a hint of </span><span>white pepper</span><span> creates a refreshing yet unique opening. There’s even a touch of </span><span>rice</span><span>, adding a soft and unexpected twist.</span></p>
+<p dir="ltr"><span>As the fragrance settles, the heart notes come alive. A bouquet of delicate </span><span>jasmine</span><span>, </span><span>lily-of-the-valley</span><span>, </span><span>freesia</span><span>, and sweet </span><span>honeysuckle</span><span> takes center stage. These floral scents blend beautifully, giving the perfume a gentle, feminine touch.</span></p>
+<p dir="ltr"><span>Finally, the base notes add warmth and depth. The smooth combination of </span><span>musk</span><span>, </span><span>sandalwood</span><span>, and </span><span>amber</span><span> pairs perfectly with the earthy richness of </span><span>iris</span><span> and a hint of </span><span>pepper</span><span>. These lasting notes ensure you leave a memorable impression wherever you go.</span></p>
+<p dir="ltr"><span>Glamour</span><span> is ideal for all occasions, whether it’s a casual day out or a glamorous evening event. This perfume reflects confidence and charm, making it a must-have in your collection.</span></p>
+<p>\xA0</p>`,desc:`GLAMOUR - INSPIRED BY JENNIFER LOPEZ (WOMEN) If you’re looking for a fragrance that combines elegance, charm, and confidence, Glamour is the perfect choice. Inspired by Jennifer Lopez’s iconic style, this perfume is made for women who love to shine. It’s more than just a scent; it’s a statement of grace and sophistication. From the very first spritz, you’ll be greeted by a burst of fresh and fruity top notes. The delightful mix of Earl Grey tea , mandarin orange , apple , and a hint of white pepper creates a refreshing yet unique opening. There’s even a touch of rice , adding a soft and unexpected twist. As the fragrance settles, the heart notes come alive. A bouquet of delicate jasmine , lily-of-the-valley , freesia , and sweet honeysuckle takes center stage. These floral scents blend beautifully, giving the perfume a gentle, feminine touch. Finally, the base notes add warmth and depth. The smooth combination of musk , sandalwood , and amber pairs perfectly with the earthy richness of iris and a hint of pepper . These lasting notes ensure you leave a memorable impression wherever you go. Glamour is ideal for all occasions, whether it’s a casual day out or a glamorous evening event. This perfume reflects confidence and charm, making it a must-have in your collection.`},"my-urban-charm-inspired-by-my-burberry-men":{html:`<h2 dir="ltr">
+<strong>MY URBAN CHARM - INSPIRED BY MY BURBERRY (WOMEN)</strong><b></b>
+</h2>
+<p dir="ltr"><span>If you’re looking for a fragrance that feels elegant and modern, </span><span>My Urban Charm</span><span> is the perfect match. Inspired by My Burberry, this scent is designed for women who love sophistication and grace in every step they take.</span></p>
+<h3 dir="ltr"><strong>A Fresh and Lively Start</strong></h3>
+<p dir="ltr"><span>The fragrance begins with a bright and cheerful blend of </span><span>sweet pea</span><span>, </span><span>bergamot</span><span>, </span><span>mandarin orange</span><span>, </span><span>grapefruit</span><span>, and </span><span>lemon</span><span>. These top notes create a fresh and citrusy opening that feels energetic and uplifting. It’s like stepping into a sunny garden filled with vibrant scents.</span></p>
+<h3 dir="ltr"><strong>A Floral Heart and Elegant Base</strong></h3>
+<p dir="ltr"><span>As the scent unfolds, the middle notes bring a beautiful bouquet of </span><span>quince</span><span>, </span><span>freesia</span><span>, </span><span>geranium</span><span>, </span><span>peach</span><span>, and </span><span>gardenia</span><span>, with hints of </span><span>green notes</span><span> and </span><span>passionfruit</span><span>. This combination adds a soft and fruity charm that feels warm and welcoming, making it perfect for every occasion.</span></p>
+<p dir="ltr"><span>The base notes of </span><span>Damask rose</span><span>, </span><span>patchouli</span><span>, </span><span>musk</span><span>, </span><span>leather</span><span>, and </span><span>violet</span><span> provide a rich and lasting finish. The roses add a classic floral touch, while patchouli and musk bring depth and elegance. The subtle hint of leather and violet gives it a unique, sophisticated edge.</span></p>
+<p dir="ltr"><span>My Urban Charm - Inspired by My Burberry</span><span> is a perfect fragrance for women who want to leave a lasting impression. Whether it’s a casual outing or a special event, this perfume celebrates your inner charm and style. Try it today and embrace its enchanting scent!</span></p>
+<p>\xA0</p>`,desc:`MY URBAN CHARM - INSPIRED BY MY BURBERRY (WOMEN) If you’re looking for a fragrance that feels elegant and modern, My Urban Charm is the perfect match. Inspired by My Burberry, this scent is designed for women who love sophistication and grace in every step they take. A Fresh and Lively Start The fragrance begins with a bright and cheerful blend of sweet pea , bergamot , mandarin orange , grapefruit , and lemon . These top notes create a fresh and citrusy opening that feels energetic and uplifting. It’s like stepping into a sunny garden filled with vibrant scents. A Floral Heart and Elegant Base As the scent unfolds, the middle notes bring a beautiful bouquet of quince , freesia , geranium , peach , and gardenia , with hints of green notes and passionfruit . This combination adds a soft and fruity charm that feels warm and welcoming, making it perfect for every occasion. The base notes of Damask rose , patchouli , musk , leather , and violet provide a rich and lasting finish. The roses add a classic floral touch, while patchouli and musk bring depth and elegance. The subtle hint of leather and violet gives it a unique, sophisticated edge. My Urban Charm - Inspired by My Burberry is a perfect fragrance for women who want to leave a lasting impression. Whether it’s a casual outing or a special event, this perfume celebrates your inner charm and style. Try it today and embrace its enchanting scent!`},"boss-blend-inspired-by-boss-bottle-unisex-copy":{html:`<h2 dir="ltr">
+<strong>BOSS BLEND - INSPIRED BY BOSS BOTTLE (MEN)</strong><b></b>
+</h2>
+<p dir="ltr"><span>If you want a fragrance that is both powerful and refined, </span><span>Boss Blend</span><span> is a perfect choice. Inspired by Boss Bottle, this perfume is made for men who exude confidence and style. Its rich and balanced scent is ideal for every occasion, making it a great addition to your collection.</span></p>
+<h3 dir="ltr"><strong>A Fresh and Vibrant Start</strong></h3>
+<p dir="ltr"><span>The journey begins with the refreshing and lively top notes of </span><span>olibanum</span><span> and </span><span>mandarin orange</span><span>. The citrusy burst of mandarin orange adds a fresh and energetic vibe, while the subtle spiciness of olibanum gives it a sophisticated touch. This unique combination ensures a striking first impression.</span></p>
+<h3 dir="ltr"><strong>A Warm Heart and Bold Finish</strong></h3>
+<p dir="ltr"><span>In the heart of the fragrance, you’ll discover the gentle sweetness of </span><span>fig tree</span><span> blended with the soft elegance of </span><span>orris</span><span>. These middle notes create a smooth, warm, and slightly woody aroma that feels comforting and classy.</span></p>
+<p dir="ltr"><span>As the scent settles, the base notes of </span><span>cedar</span><span> and </span><span>leather</span><span> take over. The woody richness of cedar pairs perfectly with the deep, rugged character of leather, creating a bold and masculine finish. These lasting notes make sure the fragrance stays with you throughout the day.</span></p>
+<p dir="ltr"><span>Boss Blend - Inspired by Boss Bottle</span><span> is ideal for men who want to stand out with a scent that’s both modern and timeless. Try it today and experience the perfect balance of freshness, warmth, and strength.</span></p>
+<p>\xA0</p>`,desc:`BOSS BLEND - INSPIRED BY BOSS BOTTLE (MEN) If you want a fragrance that is both powerful and refined, Boss Blend is a perfect choice. Inspired by Boss Bottle, this perfume is made for men who exude confidence and style. Its rich and balanced scent is ideal for every occasion, making it a great addition to your collection. A Fresh and Vibrant Start The journey begins with the refreshing and lively top notes of olibanum and mandarin orange . The citrusy burst of mandarin orange adds a fresh and energetic vibe, while the subtle spiciness of olibanum gives it a sophisticated touch. This unique combination ensures a striking first impression. A Warm Heart and Bold Finish In the heart of the fragrance, you’ll discover the gentle sweetness of fig tree blended with the soft elegance of orris . These middle notes create a smooth, warm, and slightly woody aroma that feels comforting and classy. As the scent settles, the base notes of cedar and leather take over. The woody richness of cedar pairs perfectly with the deep, rugged character of leather, creating a bold and masculine finish. These lasting notes make sure the fragrance stays with you throughout the day. Boss Blend - Inspired by Boss Bottle is ideal for men who want to stand out with a scent that’s both modern and timeless. Try it today and experience the perfect balance of freshness, warmth, and strength.`},"tuscan-noir-inspired-by-tuscan-leather-unisex":{html:`<h2 dir="ltr">
+<strong>TUSCAN NOIR - INSPIRED BY TUSCAN LEATHER TF (UNISEX)</strong><b></b>
+</h2>
+<p dir="ltr"><span>If you’re looking for a fragrance that blends elegance and boldness, </span><span>Tuscan Noir</span><span> is the perfect choice. Inspired by Tuscan Leather TF, this unisex scent offers a unique mix of richness and charm, making it ideal for both men and women who love to stand out.</span></p>
+<h3 dir="ltr"><strong>A Sweet and Spicy Beginning</strong></h3>
+<p dir="ltr"><span>The top notes of </span><span>raspberry</span><span>, </span><span>saffron</span><span>, and </span><span>thyme</span><span> create a striking and memorable start. Raspberry adds a fruity sweetness, while saffron and thyme bring a warm, spicy touch. Together, they make a bold opening that grabs attention without being overwhelming.</span></p>
+<h3 dir="ltr"><strong>A Warm Heart and Deep Base</strong></h3>
+<p dir="ltr"><span>As the fragrance settles, the heart notes of </span><span>olibanum</span><span> and </span><span>jasmine</span><span> emerge. Olibanum adds a soft, resinous warmth, while jasmine brings a delicate floral touch. This combination creates a smooth and comforting middle layer that feels luxurious and balanced.</span></p>
+<p dir="ltr"><span>The base notes of </span><span>leather</span><span>, </span><span>suede</span><span>, </span><span>woody notes</span><span>, and </span><span>amber</span><span> provide a rich and long-lasting finish. The leather and suede add a bold, refined feel, while the woody notes and amber give it depth and warmth. This powerful base makes sure the scent leaves a lasting impression.</span></p>
+<p dir="ltr"><span>Tuscan Noir - Inspired by Tuscan Leather TF</span><span> is perfect for any occasion, whether you’re dressing up for an event or enjoying a casual outing. Its unique blend of fruity, spicy, and woody notes makes it a versatile fragrance for anyone who loves sophistication. Try it and express your style today!</span></p>
+<p>\xA0</p>`,desc:`TUSCAN NOIR - INSPIRED BY TUSCAN LEATHER TF (UNISEX) If you’re looking for a fragrance that blends elegance and boldness, Tuscan Noir is the perfect choice. Inspired by Tuscan Leather TF, this unisex scent offers a unique mix of richness and charm, making it ideal for both men and women who love to stand out. A Sweet and Spicy Beginning The top notes of raspberry , saffron , and thyme create a striking and memorable start. Raspberry adds a fruity sweetness, while saffron and thyme bring a warm, spicy touch. Together, they make a bold opening that grabs attention without being overwhelming. A Warm Heart and Deep Base As the fragrance settles, the heart notes of olibanum and jasmine emerge. Olibanum adds a soft, resinous warmth, while jasmine brings a delicate floral touch. This combination creates a smooth and comforting middle layer that feels luxurious and balanced. The base notes of leather , suede , woody notes , and amber provide a rich and long-lasting finish. The leather and suede add a bold, refined feel, while the woody notes and amber give it depth and warmth. This powerful base makes sure the scent leaves a lasting impression. Tuscan Noir - Inspired by Tuscan Leather TF is perfect for any occasion, whether you’re dressing up for an event or enjoying a casual outing. Its unique blend of fruity, spicy, and woody notes makes it a versatile fragrance for anyone who loves sophistication. Try it and express your style today!`},"urban-azar-inspired-by-azzaro-chrome-men":{html:`<h2 dir="ltr">
+<strong>URBAN AZAR - INSPIRED BY AZZARO CHROME (MEN)</strong><b></b>
+</h2>
+<p dir="ltr"><span>For men who enjoy a fresh and confident fragrance, </span><span>Urban Azar</span><span> is the perfect pick. Inspired by Azzaro Chrome, this perfume brings together simplicity and style in one elegant bottle. It’s ideal for men who want to smell great every day without overdoing it.</span></p>
+<h3 dir="ltr"><strong>A Bright and Fresh Beginning</strong></h3>
+<p dir="ltr"><span>The fragrance opens with the crisp and zesty scent of </span><span>bergamot</span><span>. This top note adds a burst of freshness that feels energizing and clean. It’s like stepping outside on a sunny morning, making it a perfect choice for starting your day with confidence.</span></p>
+<h3 dir="ltr"><strong>A Herbaceous Heart and Bold Finish</strong></h3>
+<p dir="ltr"><span>As the scent develops, the middle note of </span><span>sage</span><span> takes center stage. Sage adds a smooth, herbal warmth that balances the brightness of bergamot. It’s earthy and calming, giving the fragrance a modern and sophisticated feel.</span></p>
+<p dir="ltr"><span>The base note of </span><span>fir resin</span><span> provides a strong and lasting finish. Its woody and slightly sweet aroma adds depth and character, making the scent masculine and bold. This combination ensures that </span><span>Urban Azar</span><span> stays with you all day, leaving a memorable impression.</span></p>
+<p dir="ltr"><span>Urban Azar - Inspired by Azzaro Chrome</span><span> is perfect for any occasion, whether it’s a casual outing or a formal meeting. Its fresh and woody blend makes it a versatile fragrance for the modern man. Try it today and experience a scent that matches your confidence and style!</span></p>
+<p>\xA0</p>`,desc:`URBAN AZAR - INSPIRED BY AZZARO CHROME (MEN) For men who enjoy a fresh and confident fragrance, Urban Azar is the perfect pick. Inspired by Azzaro Chrome, this perfume brings together simplicity and style in one elegant bottle. It’s ideal for men who want to smell great every day without overdoing it. A Bright and Fresh Beginning The fragrance opens with the crisp and zesty scent of bergamot . This top note adds a burst of freshness that feels energizing and clean. It’s like stepping outside on a sunny morning, making it a perfect choice for starting your day with confidence. A Herbaceous Heart and Bold Finish As the scent develops, the middle note of sage takes center stage. Sage adds a smooth, herbal warmth that balances the brightness of bergamot. It’s earthy and calming, giving the fragrance a modern and sophisticated feel. The base note of fir resin provides a strong and lasting finish. Its woody and slightly sweet aroma adds depth and character, making the scent masculine and bold. This combination ensures that Urban Azar stays with you all day, leaving a memorable impression. Urban Azar - Inspired by Azzaro Chrome is perfect for any occasion, whether it’s a casual outing or a formal meeting. Its fresh and woody blend makes it a versatile fragrance for the modern man. Try it today and experience a scent that matches your confidence and style!`},"ar-mr-blue-inspired-by-bleu-de":{html:`<h3>MR BLUE - Inspired by Bleu de Chanel (Our Own Version)</h3>
+<p><strong>Product Description</strong><br><strong></strong></p>
+<p><strong>Discover MR BLUE by A.R. Fragrance</strong><br>Introducing <strong>MR BLUE</strong>, our premium, Pakistani version of the world-famous Bleu de Chanel. At\xA0<strong>A.R.Fragrance</strong>, we crafted this scent to be both elegant and refreshing, perfect for the modern man who\xA0values style and confidence.</p>
+<p><br><strong>Key Features</strong><br>● <strong>High Quality:</strong> Made with top-grade ingredients for a rich and long-lasting fragrance.<br>● <strong>Affordable Luxury:</strong> Enjoy the essence of Bleu de Chanel without the hefty price tag.<br>● <strong>Made in Pakistan:</strong> Proudly crafted with love and care for our local market.<br></p>
+<p><strong>Fragrance Profile</strong><br>MR BLUE is a sophisticated blend of fresh and woody notes. It’s the perfect scent for any occasion,\xA0whether it's a day at the office or a night out with friends.<br>● <strong>Top Notes:</strong> Fresh Grapefruit and zesty Lemon add a bright and invigorating start.<br>● <strong>Middle Notes:</strong> Spicy Ginger and cooling Mint provide a heart of warmth and energy.<br>● <strong>Base Notes:</strong> Warm Cedarwood and smoky Incense give a strong, masculine finish.<br></p>
+<p><strong>Why Choose MR BLUE?</strong><br>● <strong>Long-Lasting:</strong> Our high oil concentration means the scent stays with you all day.<br>● <strong>Elegant Bottle:</strong> Designed to look stylish on your shelf or dresser.<br>● <strong>Affordable:</strong> Luxury doesn't have to be expensive. Get the quality you deserve at a price you can\xA0afford.<br></p>
+<p><strong>How to Use</strong><br>Spray MR BLUE on your pulse points – wrists, neck, and behind your ears – for the best effect. A little\xA0goes a long way, so start with a couple of sprays.<br></p>
+<p><strong>Ideal For</strong><br>● <strong>Daily Wear:</strong> Perfect for work, casual outings, or any everyday setting.<br>● <strong>Special Occasions:</strong> Make a memorable impression at parties, dinners, or formal events.<br>● <strong>Gifts:</strong> A wonderful present for friends, family, or that special someone.</p>
+<p><strong>Why A.R. Fragrance?</strong><br>At <strong>A.R. Fragrance</strong>, we are dedicated to providing <strong>luxurious and affordable</strong> perfumes for everyone in\xA0Pakistan. We combine quality, elegance, and affordability in every bottle.<br></p>
+<p><strong>Order Now</strong><br>Explore the charm of MR BLUE and elevate your fragrance game. Order now from <strong>A.R. Fragrance</strong> and\xA0experience the essence of luxury in a bottle.</p>
+<!---->`,desc:`MR BLUE - Inspired by Bleu de Chanel (Our Own Version) Product Description Discover MR BLUE by A.R. Fragrance Introducing MR BLUE , our premium, Pakistani version of the world-famous Bleu de Chanel. At A.R.Fragrance , we crafted this scent to be both elegant and refreshing, perfect for the modern man who values style and confidence. Key Features ● High Quality: Made with top-grade ingredients for a rich and long-lasting fragrance. ● Affordable Luxury: Enjoy the essence of Bleu de Chanel without the hefty price tag. ● Made in Pakistan: Proudly crafted with love and care for our local market. Fragrance Profile MR BLUE is a sophisticated blend of fresh and woody notes. It’s the perfect scent for any occasion, whether it's a day at the office or a night out with friends. ● Top Notes: Fresh Grapefruit and zesty Lemon add a bright and invigorating start. ● Middle Notes: Spicy Ginger and cooling Mint provide a heart of warmth and energy. ● Base Notes: Warm Cedarwood and smoky Incense give a strong, masculine finish. Why Choose MR BLUE? ● Long-Lasting: Our high oil concentration means the scent stays with you all day. ● Elegant Bottle: Designed to look stylish on your shelf or dresser. ● Affordable: Luxury doesn't have to be expensive. Get the quality you deserve at a price you can afford. How to Use Spray MR BLUE on your pulse points – wrists, neck, and behind your ears – for the best effect. A little goes a long way, so start with a couple of sprays. Ideal For ● Daily Wear: Perfect for work, casual outings, or any everyday setting. ● Special Occasions: Make a memorable impression at parties, dinners, or formal events. ● Gifts: A wonderful present for friends, family, or that special someone. Why A.R. Fragrance? At A.R. Fragrance , we are dedicated to providing luxurious and affordable perfumes for everyone in Pakistan. We combine quality, elegance, and affordability in every bottle. Order Now Explore the charm of MR BLUE and elevate your fragrance game. Order now from A.R. Fragrance and experience the essence of luxury in a bottle.`},"mr-king-inspired-by-edward-king-unisex":{html:`<p dir="ltr"><strong>MR KING - INSPIRED BY EDWARD KING (UNISEX)</strong></p>
+<p dir="ltr"><span>Looking for a fragrance that is both bold and smooth? </span><span>MR KING</span><span>, inspired by Edward King, is the perfect choice for anyone who wants to stand out. This unisex perfume has a blend of scents that is fresh, warm, and long-lasting, making it a great option for both men and women.\xA0</span></p>
+<h3 dir="ltr"><strong>Top Notes</strong></h3>
+<ul>
+<li dir="ltr">
+<p role="presentation" dir="ltr"><span>Rhubarb</span><span>: A tangy, fresh opening that grabs attention.</span></p>
+</li>
+<li dir="ltr">
+<p role="presentation" dir="ltr"><span>Coffee</span><span>: A rich, energizing scent that adds depth.</span></p>
+</li>
+<li dir="ltr">
+<p role="presentation" dir="ltr"><span>Cardamom</span><span>: A spicy, sweet aroma that gives the fragrance an exotic feel.</span></p>
+</li>
+<li dir="ltr">
+<p role="presentation" dir="ltr"><span>Mandarin Orange</span><span>: Sweet and citrusy, giving the perfume a refreshing start.</span></p>
+</li>
+</ul>
+<h3 dir="ltr"><strong>Middle Notes</strong></h3>
+<ul>
+<li dir="ltr">
+<p role="presentation" dir="ltr"><span>Mango</span><span>: A sweet, tropical fruitiness that adds a touch of fun.</span></p>
+</li>
+<li dir="ltr">
+<p role="presentation" dir="ltr"><span>Ginger</span><span>: A warm, spicy note that makes the scent lively and energetic.</span></p>
+</li>
+<li dir="ltr">
+<p role="presentation" dir="ltr"><span>Amber</span><span>: A warm and cozy fragrance that adds richness to the perfume.</span></p>
+</li>
+</ul>
+<h3 dir="ltr"><strong>Base Notes</strong></h3>
+<ul>
+<li dir="ltr">
+<p role="presentation" dir="ltr"><span>Peach</span><span>: Smooth and fruity, leaving a soft, sweet finish.</span></p>
+</li>
+<li dir="ltr">
+<p role="presentation" dir="ltr"><span>Vetiver</span><span>: Earthy and calming, giving the fragrance balance.</span></p>
+</li>
+<li dir="ltr">
+<p role="presentation" dir="ltr"><span>Ambergris</span><span>: A slightly salty, oceanic scent that adds mystery and depth.</span></p>
+</li>
+</ul>
+<p dir="ltr"><span>MR KING</span><span> is a fragrance that evolves as you wear it. It starts with a burst of fresh and spicy notes, then settles into a warm, sweet, and earthy scent. Whether you’re going out for a special occasion or just want something that lasts all day, this perfume will keep you smelling great. Its unique blend makes it a standout choice for anyone who loves a fragrance that is both fresh and bold.</span></p>
+<p dir="ltr"><span>Why You’ll Love It:</span></p>
+<ul>
+<li dir="ltr">
+<p role="presentation" dir="ltr"><span>A unique and refreshing blend of sweet, spicy, and warm notes.</span></p>
+</li>
+<li dir="ltr">
+<p role="presentation" dir="ltr"><span>Suitable for both men and women.</span></p>
+</li>
+<li dir="ltr">
+<p role="presentation" dir="ltr"><span>Long-lasting and perfect for any occasion.</span></p>
+</li>
+</ul>
+<p>\xA0</p>`,desc:`MR KING - INSPIRED BY EDWARD KING (UNISEX) Looking for a fragrance that is both bold and smooth? MR KING , inspired by Edward King, is the perfect choice for anyone who wants to stand out. This unisex perfume has a blend of scents that is fresh, warm, and long-lasting, making it a great option for both men and women. Top Notes Rhubarb : A tangy, fresh opening that grabs attention. Coffee : A rich, energizing scent that adds depth. Cardamom : A spicy, sweet aroma that gives the fragrance an exotic feel. Mandarin Orange : Sweet and citrusy, giving the perfume a refreshing start. Middle Notes Mango : A sweet, tropical fruitiness that adds a touch of fun. Ginger : A warm, spicy note that makes the scent lively and energetic. Amber : A warm and cozy fragrance that adds richness to the perfume. Base Notes Peach : Smooth and fruity, leaving a soft, sweet finish. Vetiver : Earthy and calming, giving the fragrance balance. Ambergris : A slightly salty, oceanic scent that adds mystery and depth. MR KING is a fragrance that evolves as you wear it. It starts with a burst of fresh and spicy notes, then settles into a warm, sweet, and earthy scent. Whether you’re going out for a special occasion or just want something that lasts all day, this perfume will keep you smelling great. Its unique blend makes it a standout choice for anyone who loves a fragrance that is both fresh and bold. Why You’ll Love It: A unique and refreshing blend of sweet, spicy, and warm notes. Suitable for both men and women. Long-lasting and perfect for any occasion.`},"the-boss-inspired-by-hugo-boss-men":{html:`<p dir="ltr"><strong>THE BOSS - INSPIRED BY HUGO BOSS (MEN)</strong></p>
+<p dir="ltr"><span>If you're looking for a fragrance that makes a strong impression, </span><span>THE BOSS</span><span> by A-fragrances is just what you need. Inspired by the iconic Hugo Boss scent, this perfume is all about power, confidence, and elegance. It’s perfect for the modern man who wants to feel in control and sophisticated.</span></p>
+<p dir="ltr"><span>When you first spray </span><span>THE BOSS</span><span>, you’ll notice fresh and fruity top notes. The crisp apple, juicy plum, and tangy lemon blend with the zesty bergamot to create a refreshing opening. The oakmoss and geranium add a touch of earthiness, giving it a unique balance.</span></p>
+<p dir="ltr"><span>As the scent settles, you’ll experience the warm and spicy middle notes. Cinnamon and mahogany come together to bring depth and richness, while the soft, floral hint of carnation adds a bit of sweetness.</span></p>
+<p dir="ltr"><span>The base notes are where </span><span>THE BOSS</span><span> truly shines. The creamy vanilla combines with the smooth sandalwood and cedar to create a woody, warm foundation. The vetiver adds a bit of smokiness, while the olive tree brings an earthy, natural feel.</span></p>
+<p dir="ltr"><span>This fragrance is perfect for everyday wear, but it’s strong enough for special occasions. Whether you're heading to a meeting or out for a night out, </span><span>THE BOSS</span><span> will make sure you leave a lasting impression. It’s a timeless scent that any man can feel proud to wear.</span></p>
+<p>\xA0</p>`,desc:`THE BOSS - INSPIRED BY HUGO BOSS (MEN) If you're looking for a fragrance that makes a strong impression, THE BOSS by A-fragrances is just what you need. Inspired by the iconic Hugo Boss scent, this perfume is all about power, confidence, and elegance. It’s perfect for the modern man who wants to feel in control and sophisticated. When you first spray THE BOSS , you’ll notice fresh and fruity top notes. The crisp apple, juicy plum, and tangy lemon blend with the zesty bergamot to create a refreshing opening. The oakmoss and geranium add a touch of earthiness, giving it a unique balance. As the scent settles, you’ll experience the warm and spicy middle notes. Cinnamon and mahogany come together to bring depth and richness, while the soft, floral hint of carnation adds a bit of sweetness. The base notes are where THE BOSS truly shines. The creamy vanilla combines with the smooth sandalwood and cedar to create a woody, warm foundation. The vetiver adds a bit of smokiness, while the olive tree brings an earthy, natural feel. This fragrance is perfect for everyday wear, but it’s strong enough for special occasions. Whether you're heading to a meeting or out for a night out, THE BOSS will make sure you leave a lasting impression. It’s a timeless scent that any man can feel proud to wear.`},"sixer-gold-inspired-by-avantus-gold-men":{html:`<p><strong>SIXER GOLD - INSPIRED BY AVANTUS GOLD (MEN)</strong></p>
+<p>Elevate your presence with <strong>SIXER GOLD perfume</strong>, an opulent reinterpretation of the legendary Aventus Creed. This sophisticated fragrance is designed for the modern man who commands attention and exudes confidence.</p>
+<p><strong>Top Notes:</strong> A vibrant burst of Italian bergamot and succulent blackcurrant introduces an energetic opening that immediately captivates the senses.</p>
+<p><strong>Heart Notes:</strong> As the fragrance develops, the heart reveals a refined blend of aromatic spices and lush, velvety roses, harmonized with a touch of smoky birch. This complex interplay offers a refined yet bold character, embodying strength and elegance.</p>
+<p><strong>Base Notes:</strong> The fragrance for man settles into a rich, enduring base of sensual musk, warm amber, and luxurious vanilla. These elements provide a lasting impression, leaving an aura of sophistication and magnetism.</p>
+<p><strong>SIXER GOLD</strong> is more than just a scent—it's a statement. Perfect for those who embrace their individuality and seek to leave an unforgettable mark. Embrace the golden allure of <strong>SIXER GOLD</strong> perfume in Pakistan with discounted price and step into a world where excellence and elegance converge.</p>
+<!---->`,desc:`SIXER GOLD - INSPIRED BY AVANTUS GOLD (MEN) Elevate your presence with SIXER GOLD perfume , an opulent reinterpretation of the legendary Aventus Creed. This sophisticated fragrance is designed for the modern man who commands attention and exudes confidence. Top Notes: A vibrant burst of Italian bergamot and succulent blackcurrant introduces an energetic opening that immediately captivates the senses. Heart Notes: As the fragrance develops, the heart reveals a refined blend of aromatic spices and lush, velvety roses, harmonized with a touch of smoky birch. This complex interplay offers a refined yet bold character, embodying strength and elegance. Base Notes: The fragrance for man settles into a rich, enduring base of sensual musk, warm amber, and luxurious vanilla. These elements provide a lasting impression, leaving an aura of sophistication and magnetism. SIXER GOLD is more than just a scent—it's a statement. Perfect for those who embrace their individuality and seek to leave an unforgettable mark. Embrace the golden allure of SIXER GOLD perfume in Pakistan with discounted price and step into a world where excellence and elegance converge.`},"timeless-inspired-by-ck-1-men":{html:`<h3>Timeless - Inspired by C.K 1 (Men)</h3>
+<p>Discover the essence of modern elegance with <strong>Timeless</strong> by A Fragrance, inspired by CK 1. This captivating scent blends fresh citrus notes with a hint of musk, creating a fragrance that is both invigorating and enduring. Perfect for the contemporary man, Timeless is your go-to choice for any occasion.</p>
+<p><strong>Key Features:</strong></p>
+<ul>
+<li>
+<strong>Top Notes:</strong> Bright citrus and fresh pineapple</li>
+<li>
+<strong>Heart Notes:</strong> Green tea and jasmine</li>
+<li>
+<strong>Base Notes:</strong> Musk and amber</li>
+<li>
+<strong>Long-Lasting:</strong> Enjoy a fragrance that stays with you throughout the day</li>
+<li>
+<strong>Versatile:</strong> Suitable for both day and night wear</li>
+</ul>
+<p>Embrace the sophistication and fresh allure of <strong>Timeless</strong>, and make every moment unforgettable.</p>
+<!---->`,desc:`Timeless - Inspired by C.K 1 (Men) Discover the essence of modern elegance with Timeless by A Fragrance, inspired by CK 1. This captivating scent blends fresh citrus notes with a hint of musk, creating a fragrance that is both invigorating and enduring. Perfect for the contemporary man, Timeless is your go-to choice for any occasion. Key Features: Top Notes: Bright citrus and fresh pineapple Heart Notes: Green tea and jasmine Base Notes: Musk and amber Long-Lasting: Enjoy a fragrance that stays with you throughout the day Versatile: Suitable for both day and night wear Embrace the sophistication and fresh allure of Timeless , and make every moment unforgettable.`},"eros-charm-inspired-by-versace-eros-men":{html:`<p>\xA0</p>
+<h3>Eros Charm - Inspired by Versce Eros (Men)</h3>
+<p>Unleash your inner charisma with <strong>Eros Charm</strong> by A Fragrance, inspired by Versace Eros. This magnetic scent combines vibrant mint leaves, Italian lemon zest, and green apple with warm notes of tonka beans, geranium, and vanilla, creating an irresistible allure that captivates the senses.</p>
+<p><strong>Key Features:</strong></p>
+<ul>
+<li>
+<strong>Top Notes:</strong> Fresh mint leaves, Italian lemon zest, and green apple</li>
+<li>
+<strong>Heart Notes:</strong> Tonka beans, ambroxan, and geranium flower</li>
+<li>
+<strong>Base Notes:</strong> Madagascar vanilla, vetiver, and oakmoss</li>
+<li>
+<strong>Long-Lasting:</strong> Experience a fragrance that endures throughout your day</li>
+<li>
+<strong>Alluring:</strong> Perfect for making a lasting impression, day or night</li>
+</ul>
+<p>Embrace the captivating power of <strong>Eros Charm</strong> and let your confidence shine through every moment.</p>
+<!---->`,desc:`Eros Charm - Inspired by Versce Eros (Men) Unleash your inner charisma with Eros Charm by A Fragrance, inspired by Versace Eros. This magnetic scent combines vibrant mint leaves, Italian lemon zest, and green apple with warm notes of tonka beans, geranium, and vanilla, creating an irresistible allure that captivates the senses. Key Features: Top Notes: Fresh mint leaves, Italian lemon zest, and green apple Heart Notes: Tonka beans, ambroxan, and geranium flower Base Notes: Madagascar vanilla, vetiver, and oakmoss Long-Lasting: Experience a fragrance that endures throughout your day Alluring: Perfect for making a lasting impression, day or night Embrace the captivating power of Eros Charm and let your confidence shine through every moment.`},"sensation-inspired-by-sensational-women":{html:`<p>\xA0</p>
+<h3>Sensation - Inspired by Sensational (Women)</h3>
+<p>Experience the essence of pure elegance with <strong>Sensation</strong> by A Fragrance, inspired by Sensational. This enchanting fragrance offers a blend of delicate floral and fruity sweetness, wrapped in a warm, creamy base. Perfect for the modern woman who exudes grace and charm, Sensation is your go-to scent for any occasion.</p>
+<p><strong>Key Features:</strong></p>
+<ul>
+<li>
+<strong>Long-Lasting:</strong> Enjoy a scent that stays with you all day long</li>
+<li>
+<strong>Versatile:</strong> Ideal for both casual and formal occasions</li>
+<li>
+<strong>Luxurious:</strong> Exudes a sense of sophistication and allure</li>
+</ul>
+<p>Indulge in the luxurious allure of <strong>Sensation</strong>, and let your inner beauty shine through with every spritz.</p>
+<!---->`,desc:`Sensation - Inspired by Sensational (Women) Experience the essence of pure elegance with Sensation by A Fragrance, inspired by Sensational. This enchanting fragrance offers a blend of delicate floral and fruity sweetness, wrapped in a warm, creamy base. Perfect for the modern woman who exudes grace and charm, Sensation is your go-to scent for any occasion. Key Features: Long-Lasting: Enjoy a scent that stays with you all day long Versatile: Ideal for both casual and formal occasions Luxurious: Exudes a sense of sophistication and allure Indulge in the luxurious allure of Sensation , and let your inner beauty shine through with every spritz.`},"elegance-gucci-guilt-men":{html:`<div class="flex flex-grow flex-col max-w-full">
+<div dir="auto" class="min-h-[20px] text-message flex w-full flex-col items-end gap-2 whitespace-pre-wrap break-words [.text-message+&amp;]:mt-5 overflow-x-auto">
+<div class="flex w-full flex-col gap-1 empty:hidden first:pt-[3px]">
+<div class="markdown prose w-full break-words dark:prose-invert dark">
+<h3>Elegance - Inspired by Guccci Guilt (Men)</h3>
+<p>Step into a world of refined sophistication with <strong>Elegance</strong> by A Fragrance, inspired by Guccci Guilt. This scent embodies the essence of modern masculinity, with a blend that exudes confidence and charm. Perfect for the discerning gentleman, Elegance is designed to make a lasting impression.</p>
+<p><strong>Key Features:</strong></p>
+<ul>
+<li>
+<strong>Long-Lasting:</strong> Experience a fragrance that endures throughout your day</li>
+<li>
+<strong>Versatile:</strong> Suitable for both everyday wear and special occasions</li>
+<li>
+<strong>Sophisticated:</strong> Evokes a sense of modern masculinity and charm</li>
+</ul>
+<p>Embrace the refined allure of <strong>Elegance</strong> and let your confidence shine through every moment.</p>
+</div>
+</div>
+</div>
+</div>
+<!---->`,desc:`Elegance - Inspired by Guccci Guilt (Men) Step into a world of refined sophistication with Elegance by A Fragrance, inspired by Guccci Guilt. This scent embodies the essence of modern masculinity, with a blend that exudes confidence and charm. Perfect for the discerning gentleman, Elegance is designed to make a lasting impression. Key Features: Long-Lasting: Experience a fragrance that endures throughout your day Versatile: Suitable for both everyday wear and special occasions Sophisticated: Evokes a sense of modern masculinity and charm Embrace the refined allure of Elegance and let your confidence shine through every moment.`},"prestige-dunhill-desire-men":{html:`<p>\xA0</p>
+<h3>Prestige - Inspired by Dunhil Desire (Men)</h3>
+<p>Discover the embodiment of sophistication with <strong>Prestige</strong> by A Fragrance, inspired by Dunhil Desire. This captivating scent is designed for the modern man who appreciates timeless elegance and a touch of luxury. Prestige is your perfect companion for making a bold statement.</p>
+<p><strong>Key Features:</strong></p>
+<ul>
+<li>
+<strong>Long-Lasting:</strong> Enjoy a fragrance that stays with you from dawn to dusk</li>
+<li>
+<strong>Versatile:</strong> Ideal for both everyday wear and special occasions</li>
+<li>
+<strong>Luxurious:</strong> Exudes a sense of refined sophistication and style</li>
+</ul>
+<p>Elevate your presence with <strong>Prestige</strong> and leave a lasting impression wherever you go.</p>
+<!---->`,desc:`Prestige - Inspired by Dunhil Desire (Men) Discover the embodiment of sophistication with Prestige by A Fragrance, inspired by Dunhil Desire. This captivating scent is designed for the modern man who appreciates timeless elegance and a touch of luxury. Prestige is your perfect companion for making a bold statement. Key Features: Long-Lasting: Enjoy a fragrance that stays with you from dawn to dusk Versatile: Ideal for both everyday wear and special occasions Luxurious: Exudes a sense of refined sophistication and style Elevate your presence with Prestige and leave a lasting impression wherever you go.`},"chase-inspired-by-azzaro-wanted-men":{html:`<p>\xA0</p>
+<h3>Chase - Inspired by Azzaru Wanted (Men)</h3>
+<p>Embrace the thrill of the hunt with <strong>Chase</strong> by A Fragrance, inspired by Azzaru Wanted. This bold and dynamic scent is crafted for the adventurous man who lives life on his own terms. Chase is your ultimate fragrance for making powerful and unforgettable impressions.\xA0</p>
+<p><strong>Key Features:</strong></p>
+<ul>
+<li>
+<strong>Long-Lasting:</strong> Enjoy a scent that keeps up with your active lifestyle</li>
+<li>
+<strong>Versatile:</strong> Perfect for both daytime adventures and nighttime escapades</li>
+<li>
+<strong>Dynamic:</strong> Embodies a sense of boldness and charisma</li>
+</ul>
+<p>Set your sights high with <strong>Chase</strong> and let your confidence and vigor shine through every spritz.</p>
+<!---->`,desc:`Chase - Inspired by Azzaru Wanted (Men) Embrace the thrill of the hunt with Chase by A Fragrance, inspired by Azzaru Wanted. This bold and dynamic scent is crafted for the adventurous man who lives life on his own terms. Chase is your ultimate fragrance for making powerful and unforgettable impressions. Key Features: Long-Lasting: Enjoy a scent that keeps up with your active lifestyle Versatile: Perfect for both daytime adventures and nighttime escapades Dynamic: Embodies a sense of boldness and charisma Set your sights high with Chase and let your confidence and vigor shine through every spritz.`},"romantic-chocolate-unisex-best-perfume":{html:`<p>Indulge in the decadence of <strong>Romantic Chocolate</strong> Perfume by A.Fragrance, a luxurious unisex scent that celebrates the richness of chocolate. This exquisite fragrance combines a blend of gourmand and sophisticated notes to create a captivating and irresistible experience.</p>
+<p><strong>Key Features:</strong></p>
+<ul>
+<li>
+<strong>Cacao:</strong> The central note, delivering the rich and decadent aroma of chocolate.</li>
+<li>
+<strong>Vanilla:</strong> Adds a sweet and creamy undertone, perfectly complementing the chocolate richness.</li>
+<li>
+<strong>Tonka Bean:</strong> Provides a sweet and slightly spicy aroma reminiscent of almond and cherry, enhancing the gourmand aspect.</li>
+<li>
+<strong>Bergamot:</strong> Introduces a citrusy freshness to balance the sweetness, offering a bright and uplifting opening.</li>
+<li>
+<strong>Sandalwood:</strong> Contributes a creamy and woody base note, adding depth and complexity.</li>
+<li>
+<strong>Musk:</strong> Softens and sensualizes the fragrance, enhancing longevity and creating a warm and inviting drydown.</li>
+<li>
+<strong>Coffee:</strong> Adds a roasted and slightly bitter facet, enhancing the depth and complexity of the chocolate accord.</li>
+<li>
+<strong>Caramel:</strong> Infuses a sweet and gooey richness, enhancing the gourmand quality of the fragrance.</li>
+</ul>
+<p><strong>Romantic Chocolate Perfume</strong> is the perfect blend of luxurious and indulgent scents, reminiscent of rich, creamy chocolate. This <strong>Chocolate </strong>perfume is ideal for those who love gourmand fragrances and have a penchant for sweet, sophisticated aromas. Indulge in <strong>Romantic Chocolate</strong> perfume with best prices in Pakistan and let its luscious scent envelop you in a world of sweet, sensory delight.</p>
+<!---->`,desc:`Indulge in the decadence of Romantic Chocolate Perfume by A.Fragrance, a luxurious unisex scent that celebrates the richness of chocolate. This exquisite fragrance combines a blend of gourmand and sophisticated notes to create a captivating and irresistible experience. Key Features: Cacao: The central note, delivering the rich and decadent aroma of chocolate. Vanilla: Adds a sweet and creamy undertone, perfectly complementing the chocolate richness. Tonka Bean: Provides a sweet and slightly spicy aroma reminiscent of almond and cherry, enhancing the gourmand aspect. Bergamot: Introduces a citrusy freshness to balance the sweetness, offering a bright and uplifting opening. Sandalwood: Contributes a creamy and woody base note, adding depth and complexity. Musk: Softens and sensualizes the fragrance, enhancing longevity and creating a warm and inviting drydown. Coffee: Adds a roasted and slightly bitter facet, enhancing the depth and complexity of the chocolate accord. Caramel: Infuses a sweet and gooey richness, enhancing the gourmand quality of the fragrance. Romantic Chocolate Perfume is the perfect blend of luxurious and indulgent scents, reminiscent of rich, creamy chocolate. This Chocolate perfume is ideal for those who love gourmand fragrances and have a penchant for sweet, sophisticated aromas. Indulge in Romantic Chocolate perfume with best prices in Pakistan and let its luscious scent envelop you in a world of sweet, sensory delight.`},"twisted-divine-inspired-by-twisted-savage-men":{html:`<p>\xA0</p>
+<p><strong>TWISTED DIVINE - INSPIRED BY TWISTED SAVAGE (MEN)</strong></p>
+<p>Unleash an aura of irresistible allure with TWISTED DIVINE, a masterful reinterpretation of the iconic Divine fragrance inspired by Di0r Savage. This invigorating scent captures the essence of untamed sophistication, blending rugged charm with a refined edge.</p>
+<p>From the very first spray, TWISTED DIVINE envelops you in a vibrant burst of zesty bergamot and spicy pepper, setting the stage for an exhilarating olfactory adventure. The heart reveals a harmonious blend of crisp lavender and aromatic geranium, creating a bold yet elegant contrast that lingers throughout the day. Finally, the fragrance settles into a warm and magnetic base of smoky amber, rich vetiver, and sensual patchouli, leaving a lasting impression of enigmatic depth.</p>
+<p>Perfect for the modern man who commands attention and exudes confidence, TWISTED DIVINE is not just a fragrance—it's an experience. Embrace the divine twist and let your presence be unforgettable.</p>
+<!---->`,desc:`TWISTED DIVINE - INSPIRED BY TWISTED SAVAGE (MEN) Unleash an aura of irresistible allure with TWISTED DIVINE, a masterful reinterpretation of the iconic Divine fragrance inspired by Di0r Savage. This invigorating scent captures the essence of untamed sophistication, blending rugged charm with a refined edge. From the very first spray, TWISTED DIVINE envelops you in a vibrant burst of zesty bergamot and spicy pepper, setting the stage for an exhilarating olfactory adventure. The heart reveals a harmonious blend of crisp lavender and aromatic geranium, creating a bold yet elegant contrast that lingers throughout the day. Finally, the fragrance settles into a warm and magnetic base of smoky amber, rich vetiver, and sensual patchouli, leaving a lasting impression of enigmatic depth. Perfect for the modern man who commands attention and exudes confidence, TWISTED DIVINE is not just a fragrance—it's an experience. Embrace the divine twist and let your presence be unforgettable.`},"success-inspired-by-office-for-men-men-1":{html:`<div>
+<h3>Success Perfume - Inspired by Office for Men (MEN) \xA0Our #1 Best Seller 🏆\xA0</h3>
+<p>Step into confidence and sophistication with <strong>Success - Office perfume for Men in Pakistan\xA0</strong>, a refined fragrance meticulously crafted by A.R Fragrances. This office scent is tailored for the modern man who exudes professionalism and charisma in every aspect of his life. Whether you're closing deals in the boardroom or making a lasting impression at a networking event, Success is your perfect accessory, leaving a trail of sophistication and success wherever you go.</p>
+<p>At A.R Fragrances, we offer scent of Success perfume at an exceptional value, ensuring you experience luxury without compromise. Elevate your fragrance collection with Success office perfume for man and embrace the essence of success with every spritz.</p>
+<h3>Fragrance Profile</h3>
+<p><strong>Fragrance Family:</strong> Woody, aromatic<br><strong>Scent Type:</strong> Confident, sophisticated</p>
+<h3>Notes:</h3>
+</div>
+<div>
+<p><strong>Top Notes:</strong> A refreshing blend of citrus, bergamot, and neroli that opens with brightness and energy, setting the stage for success.</p>
+<p><strong>Middle Notes:</strong> The heart reveals a harmonious fusion of lavender, violet leaves, and clary sage, adding depth and refinement.</p>
+<p><strong>Base Notes:</strong> A warm and masculine base of amber, vetiver, and cedarwood provides a lasting finish, leaving a memorable impression.</p>
+</div>
+<div>
+<h3>Suggested Use</h3>
+<p>For a fragrance experience that lasts throughout the day, apply Success fragrance to your pulse points—behind the ears, at the base of the neck, and on your wrists. Additionally, a light spritz on your clothing can enhance the longevity of the scent.</p>
+<h3>Why Choose Success?</h3>
+<p><strong>Success</strong> is more than just a fragrance; it's a symbol of ambition and achievement. Crafted with precision, this scent embodies the essence of success, empowering you to conquer every challenge with confidence. At A.R Fragrances, we ensure you receive top-tier quality at an affordable price, allowing you to exude success in every aspect of your life.</p>
+</div>
+<p>Elevate your fragrance game with <strong>Success - Inspired by Office for Men with discounted price in Pakistan</strong> and make every moment a testament to your triumphs with A.R Fragrances.</p>
+<!---->`,desc:`Success Perfume - Inspired by Office for Men (MEN) Our #1 Best Seller 🏆 Step into confidence and sophistication with Success - Office perfume for Men in Pakistan , a refined fragrance meticulously crafted by A.R Fragrances. This office scent is tailored for the modern man who exudes professionalism and charisma in every aspect of his life. Whether you're closing deals in the boardroom or making a lasting impression at a networking event, Success is your perfect accessory, leaving a trail of sophistication and success wherever you go. At A.R Fragrances, we offer scent of Success perfume at an exceptional value, ensuring you experience luxury without compromise. Elevate your fragrance collection with Success office perfume for man and embrace the essence of success with every spritz. Fragrance Profile Fragrance Family: Woody, aromatic Scent Type: Confident, sophisticated Notes: Top Notes: A refreshing blend of citrus, bergamot, and neroli that opens with brightness and energy, setting the stage for success. Middle Notes: The heart reveals a harmonious fusion of lavender, violet leaves, and clary sage, adding depth and refinement. Base Notes: A warm and masculine base of amber, vetiver, and cedarwood provides a lasting finish, leaving a memorable impression. Suggested Use For a fragrance experience that lasts throughout the day, apply Success fragrance to your pulse points—behind the ears, at the base of the neck, and on your wrists. Additionally, a light spritz on your clothing can enhance the longevity of the scent. Why Choose Success? Success is more than just a fragrance; it's a symbol of ambition and achievement. Crafted with precision, this scent embodies the essence of success, empowering you to conquer every challenge with confidence. At A.R Fragrances, we ensure you receive top-tier quality at an affordable price, allowing you to exude success in every aspect of your life. Elevate your fragrance game with Success - Inspired by Office for Men with discounted price in Pakistan and make every moment a testament to your triumphs with A.R Fragrances.`},"ar-addiction-inspired-by-aqva":{html:`<h2><strong>Addiction - Inspired by Aqva (Men)</strong></h2><p><strong>Addiction - Inspired by Aqva (Men)</strong> is a refreshing and invigorating fragrance designed for the modern man who thrives on adventure. Crafted by A.R Fragrances, this scent captures the essence of the ocean with its aquatic and aromatic notes, making it perfect for everyday wear and special occasions alike. Dive into the allure of Addiction and experience a scent that is as dynamic as you are.</p><p>At A.R Fragrances, we provide Addiction at an unbeatable price, ensuring you enjoy premium quality without the premium cost. Whether for yourself or as a gift, Addiction is sure to make a splash.</p><h3><strong>Fragrance Profile</strong></h3><p><strong>Fragrance Family: </strong>Aquatic, aromatic</p><p><strong>Scent Type: </strong>Fresh, marine</p><p>\xA0</p><h3><strong>Notes:</strong></h3><ul>
+<li><p><strong>Top Notes:</strong> An invigorating blend of mandarin, orange, and petitgrain that delivers a fresh and zesty start.</p></li>
+<li><p><strong>Middle Notes:</strong> The heart of the fragrance features marine notes, neroli, and seaweed, bringing a crisp and aquatic essence.</p></li>
+<li><p><strong>Base Notes:</strong> A warm and woody foundation of amber and Virginia cedar adds depth and longevity to the scent.</p></li>
+</ul><h3><strong>Suggested Use</strong></h3><p>For a long-lasting fragrance that carries throughout the day, apply <strong>Addiction</strong> to your pulse points—behind the ears, at the base of the neck, and on the wrists. Additionally, applying to warmer areas of the body, such as behind the knees and inside the elbows, will help intensify the scent with your body heat.</p><p>Immerse yourself in the refreshing allure of <strong>Addiction - Inspired by Aqva</strong>, and elevate your fragrance collection with A.R Fragrances.<br></p>`,desc:`Addiction - Inspired by Aqva (Men) Addiction - Inspired by Aqva (Men) is a refreshing and invigorating fragrance designed for the modern man who thrives on adventure. Crafted by A.R Fragrances, this scent captures the essence of the ocean with its aquatic and aromatic notes, making it perfect for everyday wear and special occasions alike. Dive into the allure of Addiction and experience a scent that is as dynamic as you are. At A.R Fragrances, we provide Addiction at an unbeatable price, ensuring you enjoy premium quality without the premium cost. Whether for yourself or as a gift, Addiction is sure to make a splash. Fragrance Profile Fragrance Family: Aquatic, aromatic Scent Type: Fresh, marine Notes: Top Notes: An invigorating blend of mandarin, orange, and petitgrain that delivers a fresh and zesty start. Middle Notes: The heart of the fragrance features marine notes, neroli, and seaweed, bringing a crisp and aquatic essence. Base Notes: A warm and woody foundation of amber and Virginia cedar adds depth and longevity to the scent. Suggested Use For a long-lasting fragrance that carries throughout the day, apply Addiction to your pulse points—behind the ears, at the base of the neck, and on the wrists. Additionally, applying to warmer areas of the body, such as behind the knees and inside the elbows, will help intensify the scent with your body heat. Immerse yourself in the refreshing allure of Addiction - Inspired by Aqva , and elevate your fragrance collection with A.R Fragrances.`},"success-inspired-by-office-for-men-men":{html:`<p>\xA0</p>
+<div class="flex-1 overflow-hidden">
+<div class="react-scroll-to-bottom--css-lzsvc-79elbk h-full">
+<div class="react-scroll-to-bottom--css-lzsvc-1n7m0yu">
+<div class="flex flex-col pb-9 text-sm">
+<div data-testid="conversation-turn-123" class="w-full text-token-text-primary">
+<div class="px-4 py-2 justify-center text-base md:gap-6 m-auto">
+<div class="flex flex-1 text-base mx-auto gap-3 md:px-5 lg:px-1 xl:px-5 md:max-w-3xl lg:max-w-[40rem] xl:max-w-[48rem] group final-completion">
+<div class="relative flex w-full flex-col agent-turn">
+<div class="flex-col gap-1 md:gap-3">
+<div class="flex flex-grow flex-col max-w-full">
+<div class="min-h-[20px] text-message flex flex-col items-start gap-3 whitespace-pre-wrap break-words [.text-message+&amp;]:mt-5 overflow-x-auto" data-message-id="3f67f4db-aa3f-41ff-8447-cb52959b7862" data-message-author-role="assistant">
+<div class="markdown prose w-full break-words dark:prose-invert dark">
+<p>Introducing 'Illusion - Inspired by LV Imagination (Men)' – a captivating fragrance impression meticulously crafted by Arfragrance. Drawing inspiration from the imaginative LV Imagination, 'Illusion' embodies the essence of creativity and sophistication, perfect for men who seek a scent that sparks inspiration and intrigue.</p>
+<p><strong>Key Features:</strong></p>
+<ol>
+<li>
+<p><strong>Innovative Aura:</strong> Immerse yourself in the innovative aura of 'Illusion,' designed to ignite your imagination and evoke a sense of creativity.</p>
+</li>
+<li>
+<p><strong>Distinctive Blend:</strong> Experience the distinctive blend of citrus, vetiver, and leather, creating a fragrance that is both modern and refined.</p>
+</li>
+<li>
+<p><strong>Affordable Luxury:</strong> Indulge in luxury without compromise. Arfragrance offers high-quality impressions at an accessible price point, ensuring you can enjoy the essence of LV Imagination without breaking the bank.</p>
+</li>
+<li>
+<p><strong>Sophisticated Appeal:</strong> Designed for the modern man, 'Illusion' celebrates sophistication and style, making it the perfect choice for those who desire a scent that is both distinctive and elegant.</p>
+</li>
+</ol>
+<p>Experience the allure of 'Illusion - Inspired by LV Imagination (Men).' Embrace the essence of creativity and sophistication – exclusively from Arfragrance.</p>
+</div>
+</div>
+</div>
+<div class="mt-1 flex justify-start gap-3 empty:hidden">
+<div class="text-gray-400 flex self-end lg:self-center justify-center lg:justify-start mt-0 -ml-1 visible">
+<span data-state="closed" class=""><button class="flex items-center gap-1.5 rounded-md p-1 text-xs text-token-text-tertiary hover:text-token-text-primary md:invisible md:group-hover:visible md:group-[.final-completion]:visible"><svg class="icon-md" xmlns="http://www.w3.org/2000/svg" fill="none" viewbox="0 0 24 24" height="24" width="24"><path fill="currentColor" d="M12 4C10.8954 4 10 4.89543 10 6H14C14 4.89543 13.1046 4 12 4ZM8.53513 4C9.22675 2.8044 10.5194 2 12 2C13.4806 2 14.7733 2.8044 15.4649 4H17C18.6569 4 20 5.34315 20 7V19C20 20.6569 18.6569 22 17 22H7C5.34315 22 4 20.6569 4 19V7C4 5.34315 5.34315 4 7 4H8.53513ZM8 6H7C6.44772 6 6 6.44772 6 7V19C6 19.5523 6.44772 20 7 20H17C17.5523 20 18 19.5523 18 19V7C18 6.44772 17.5523 6 17 6H16C16 7.10457 15.1046 8 14 8H10C8.89543 8 8 7.10457 8 6Z" clip-rule="evenodd" fill-rule="evenodd"></path></svg></button></span>
+<div class="flex items-center gap-1.5 text-xs">
+<svg class="icon-md" xmlns="http://www.w3.org/2000/svg" fill="none" viewbox="0 0 24 24" height="24" width="24"><path fill="currentColor" d="M4.5 2.5C5.05228 2.5 5.5 2.94772 5.5 3.5V5.07196C7.19872 3.47759 9.48483 2.5 12 2.5C17.2467 2.5 21.5 6.75329 21.5 12C21.5 17.2467 17.2467 21.5 12 21.5C7.1307 21.5 3.11828 17.8375 2.565 13.1164C2.50071 12.5679 2.89327 12.0711 3.4418 12.0068C3.99033 11.9425 4.48712 12.3351 4.5514 12.8836C4.98798 16.6089 8.15708 19.5 12 19.5C16.1421 19.5 19.5 16.1421 19.5 12C19.5 7.85786 16.1421 4.5 12 4.5C9.7796 4.5 7.7836 5.46469 6.40954 7H9C9.55228 7 10 7.44772 10 8C10 8.55228 9.55228 9 9 9H4.5C3.96064 9 3.52101 8.57299 3.50073 8.03859C3.49983 8.01771 3.49958 7.99677 3.5 7.9758V3.5C3.5 2.94772 3.94771 2.5 4.5 2.5Z" clip-rule="evenodd" fill-rule="evenodd"></path></svg><br>
+</div>
+<div class="flex">
+<span data-state="closed" class=""><button class="p-1 rounded-md text-token-text-tertiary hover:text-token-text-primary md:invisible md:group-hover:visible md:group-[.final-completion]:visible"><svg class="icon-md" xmlns="http://www.w3.org/2000/svg" fill="none" viewbox="0 0 24 24" height="24" width="24"><path fill="currentColor" d="M11.8727 21.4961C11.6725 21.8466 11.2811 22.0423 10.8805 21.9922L10.4267 21.9355C7.95958 21.6271 6.36855 19.1665 7.09975 16.7901L7.65054 15H6.93226C4.29476 15 2.37923 12.4921 3.0732 9.94753L4.43684 4.94753C4.91145 3.20728 6.49209 2 8.29589 2H18.0045C19.6614 2 21.0045 3.34315 21.0045 5V12C21.0045 13.6569 19.6614 15 18.0045 15H16.0045C15.745 15 15.5054 15.1391 15.3766 15.3644L11.8727 21.4961ZM14.0045 4H8.29589C7.39399 4 6.60367 4.60364 6.36637 5.47376L5.00273 10.4738C4.65574 11.746 5.61351 13 6.93226 13H9.00451C9.32185 13 9.62036 13.1506 9.8089 13.4059C9.99743 13.6612 10.0536 13.9908 9.96028 14.2941L9.01131 17.3782C8.6661 18.5002 9.35608 19.6596 10.4726 19.9153L13.6401 14.3721C13.9523 13.8258 14.4376 13.4141 15.0045 13.1902V5C15.0045 4.44772 14.5568 4 14.0045 4ZM17.0045 13V5C17.0045 4.64937 16.9444 4.31278 16.8338 4H18.0045C18.5568 4 19.0045 4.44772 19.0045 5V12C19.0045 12.5523 18.5568 13 18.0045 13H17.0045Z" clip-rule="evenodd" fill-rule="evenodd"></path></svg></button></span><br>
+</div>
+</div>
+</div>
+</div>
+<div class="absolute"><br></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="w-full pt-2 md:pt-0 dark:border-white/20 md:border-transparent md:dark:border-transparent md:w-[calc(100%-.5rem)]"><form class="stretch mx-2 flex flex-row gap-3 last:mb-2 md:mx-4 md:last:mb-6 lg:mx-auto lg:max-w-2xl xl:max-w-3xl">
+<div class="relative flex h-full flex-1 items-stretch md:flex-col">
+<div class="flex w-full items-center">
+<div class="overflow-hidden [&amp;:has(textarea:focus)]:border-token-border-xheavy [&amp;:has(textarea:focus)]:shadow-[0_2px_6px_rgba(0,0,0,.05)] flex flex-col w-full dark:border-token-border-heavy flex-grow relative border border-token-border-heavy dark:text-white rounded-2xl bg-token-main-surface-primary">
+<div data-grammarly-part="button">
+<div>
+<div>
+<div class="amkYk">
+<div>
+<div class="ptGJG"><br></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</form></div>`,desc:`Introducing 'Illusion - Inspired by LV Imagination (Men)' – a captivating fragrance impression meticulously crafted by Arfragrance. Drawing inspiration from the imaginative LV Imagination, 'Illusion' embodies the essence of creativity and sophistication, perfect for men who seek a scent that sparks inspiration and intrigue. Key Features: Innovative Aura: Immerse yourself in the innovative aura of 'Illusion,' designed to ignite your imagination and evoke a sense of creativity. Distinctive Blend: Experience the distinctive blend of citrus, vetiver, and leather, creating a fragrance that is both modern and refined. Affordable Luxury: Indulge in luxury without compromise. Arfragrance offers high-quality impressions at an accessible price point, ensuring you can enjoy the essence of LV Imagination without breaking the bank. Sophisticated Appeal: Designed for the modern man, 'Illusion' celebrates sophistication and style, making it the perfect choice for those who desire a scent that is both distinctive and elegant. Experience the allure of 'Illusion - Inspired by LV Imagination (Men).' Embrace the essence of creativity and sophistication – exclusively from Arfragrance.`},"samaa-inspired-by-oud-for-greatness-unisex":{html:`<p>\xA0</p>
+<div class="flex-1 overflow-hidden">
+<div class="react-scroll-to-bottom--css-lzsvc-79elbk h-full">
+<div class="react-scroll-to-bottom--css-lzsvc-1n7m0yu">
+<div class="flex flex-col pb-9 text-sm">
+<div data-testid="conversation-turn-115" class="w-full text-token-text-primary">
+<div class="px-4 py-2 justify-center text-base md:gap-6 m-auto">
+<div class="flex flex-1 text-base mx-auto gap-3 md:px-5 lg:px-1 xl:px-5 md:max-w-3xl lg:max-w-[40rem] xl:max-w-[48rem] group final-completion">
+<div class="relative flex w-full flex-col agent-turn">
+<div class="flex-col gap-1 md:gap-3">
+<div class="flex flex-grow flex-col max-w-full">
+<div class="min-h-[20px] text-message flex flex-col items-start gap-3 whitespace-pre-wrap break-words [.text-message+&amp;]:mt-5 overflow-x-auto" data-message-id="2a6d554f-9cb2-41da-9c94-1dafe9d01028" data-message-author-role="assistant">
+<div class="markdown prose w-full break-words dark:prose-invert dark">
+<p>Introducing 'Samaa - Inspired by Oud for Greatness (Unisex)' – an exquisite fragrance impression meticulously crafted by Arfragrance. Drawing inspiration from the majestic Oud for Greatness, 'Samaa' embodies the essence of opulence and grandeur, perfect for individuals who seek a scent that exudes timeless elegance.</p>
+<p><strong>Key Features:</strong></p>
+<ol>
+<li>
+<p><strong>Majestic Aura:</strong> Immerse yourself in the majestic aura of 'Samaa,' designed to elevate your senses and evoke a sense of grandeur.</p>
+</li>
+<li>
+<p><strong>Exotic Blend:</strong> Experience the exotic blend of oud, saffron, and amber, creating a fragrance that is both luxurious and captivating.</p>
+</li>
+<li>
+<p><strong>Affordable Luxury:</strong> Indulge in luxury without compromise. Arfragrance offers high-quality impressions at an accessible price point, ensuring you can enjoy the essence of Oud for Greatness without breaking the bank.</p>
+</li>
+<li>
+<p><strong>Unisex Appeal:</strong> Designed for individuals of all genders, 'Samaa' celebrates inclusivity and diversity, making it the perfect choice for anyone seeking a scent that reflects their inner elegance.</p>
+</li>
+</ol>
+<p>Experience the essence of opulence with 'Samaa - Inspired by Oud for Greatness (Unisex).' Embrace the grandeur – exclusively from Arfragrance.</p>
+</div>
+</div>
+</div>
+<div class="mt-1 flex justify-start gap-3 empty:hidden">
+<div class="text-gray-400 flex self-end lg:self-center justify-center lg:justify-start mt-0 -ml-1 visible">
+<span data-state="closed" class=""><button class="flex items-center gap-1.5 rounded-md p-1 text-xs text-token-text-tertiary hover:text-token-text-primary md:invisible md:group-hover:visible md:group-[.final-completion]:visible"><svg class="icon-md" xmlns="http://www.w3.org/2000/svg" fill="none" viewbox="0 0 24 24" height="24" width="24"><path fill="currentColor" d="M12 4C10.8954 4 10 4.89543 10 6H14C14 4.89543 13.1046 4 12 4ZM8.53513 4C9.22675 2.8044 10.5194 2 12 2C13.4806 2 14.7733 2.8044 15.4649 4H17C18.6569 4 20 5.34315 20 7V19C20 20.6569 18.6569 22 17 22H7C5.34315 22 4 20.6569 4 19V7C4 5.34315 5.34315 4 7 4H8.53513ZM8 6H7C6.44772 6 6 6.44772 6 7V19C6 19.5523 6.44772 20 7 20H17C17.5523 20 18 19.5523 18 19V7C18 6.44772 17.5523 6 17 6H16C16 7.10457 15.1046 8 14 8H10C8.89543 8 8 7.10457 8 6Z" clip-rule="evenodd" fill-rule="evenodd"></path></svg></button></span>
+<div class="flex items-center gap-1.5 text-xs">
+<svg class="icon-md" xmlns="http://www.w3.org/2000/svg" fill="none" viewbox="0 0 24 24" height="24" width="24"><path fill="currentColor" d="M4.5 2.5C5.05228 2.5 5.5 2.94772 5.5 3.5V5.07196C7.19872 3.47759 9.48483 2.5 12 2.5C17.2467 2.5 21.5 6.75329 21.5 12C21.5 17.2467 17.2467 21.5 12 21.5C7.1307 21.5 3.11828 17.8375 2.565 13.1164C2.50071 12.5679 2.89327 12.0711 3.4418 12.0068C3.99033 11.9425 4.48712 12.3351 4.5514 12.8836C4.98798 16.6089 8.15708 19.5 12 19.5C16.1421 19.5 19.5 16.1421 19.5 12C19.5 7.85786 16.1421 4.5 12 4.5C9.7796 4.5 7.7836 5.46469 6.40954 7H9C9.55228 7 10 7.44772 10 8C10 8.55228 9.55228 9 9 9H4.5C3.96064 9 3.52101 8.57299 3.50073 8.03859C3.49983 8.01771 3.49958 7.99677 3.5 7.9758V3.5C3.5 2.94772 3.94771 2.5 4.5 2.5Z" clip-rule="evenodd" fill-rule="evenodd"></path></svg><br>
+</div>
+<div class="flex"><br></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="w-full pt-2 md:pt-0 dark:border-white/20 md:border-transparent md:dark:border-transparent md:w-[calc(100%-.5rem)]"><form class="stretch mx-2 flex flex-row gap-3 last:mb-2 md:mx-4 md:last:mb-6 lg:mx-auto lg:max-w-2xl xl:max-w-3xl">
+<div class="relative flex h-full flex-1 items-stretch md:flex-col">
+<div class="flex w-full items-center">
+<div class="overflow-hidden [&amp;:has(textarea:focus)]:border-token-border-xheavy [&amp;:has(textarea:focus)]:shadow-[0_2px_6px_rgba(0,0,0,.05)] flex flex-col w-full dark:border-token-border-heavy flex-grow relative border border-token-border-heavy dark:text-white rounded-2xl bg-token-main-surface-primary">
+<div data-grammarly-part="button">
+<div>
+<div>
+<div class="amkYk">
+<div>
+<div class="ptGJG"><br></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</form></div>`,desc:`Introducing 'Samaa - Inspired by Oud for Greatness (Unisex)' – an exquisite fragrance impression meticulously crafted by Arfragrance. Drawing inspiration from the majestic Oud for Greatness, 'Samaa' embodies the essence of opulence and grandeur, perfect for individuals who seek a scent that exudes timeless elegance. Key Features: Majestic Aura: Immerse yourself in the majestic aura of 'Samaa,' designed to elevate your senses and evoke a sense of grandeur. Exotic Blend: Experience the exotic blend of oud, saffron, and amber, creating a fragrance that is both luxurious and captivating. Affordable Luxury: Indulge in luxury without compromise. Arfragrance offers high-quality impressions at an accessible price point, ensuring you can enjoy the essence of Oud for Greatness without breaking the bank. Unisex Appeal: Designed for individuals of all genders, 'Samaa' celebrates inclusivity and diversity, making it the perfect choice for anyone seeking a scent that reflects their inner elegance. Experience the essence of opulence with 'Samaa - Inspired by Oud for Greatness (Unisex).' Embrace the grandeur – exclusively from Arfragrance.`},"taqwa-inspired-by-oud-satin-mood-unisex":{html:`<meta charset="utf-8">
+<p data-mce-fragment="1">Introducing 'Taqwa - Inspired by Oud Satin Mood (Unisex)' – a luxurious fragrance impression meticulously crafted by Arfragrance. Drawing inspiration from the opulent Oud Satin Mood, 'Taqwa' embodies the essence of elegance and refinement, perfect for individuals who seek a scent that exudes sophistication and mystique.</p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Key Features:</strong></p>
+<ol data-mce-fragment="1">
+<li data-mce-fragment="1">
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Opulent Aura:</strong> Immerse yourself in the opulent aura of 'Taqwa,' designed to envelop you in a veil of luxury and allure.</p>
+</li>
+<li data-mce-fragment="1">
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Exotic Blend:</strong> Experience the exotic blend of oud, rose, and vanilla, creating a fragrance that is both sensual and captivating.</p>
+</li>
+<li data-mce-fragment="1">
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Affordable Luxury:</strong> Indulge in luxury without compromise. Arfragrance offers high-quality impressions at an accessible price point, ensuring you can enjoy the essence of Oud Satin Mood without breaking the bank.</p>
+</li>
+<li data-mce-fragment="1">
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Unisex Appeal:</strong> Designed for individuals of all genders, 'Taqwa' celebrates inclusivity and diversity, making it the perfect choice for anyone seeking a scent that resonates with their inner elegance.</p>
+</li>
+</ol>
+<p data-mce-fragment="1">Embrace the essence of refinement with 'Taqwa - Inspired by Oud Satin Mood (Unisex).' Experience the allure of luxury – exclusively from Arfragrance.</p>`,desc:`Introducing 'Taqwa - Inspired by Oud Satin Mood (Unisex)' – a luxurious fragrance impression meticulously crafted by Arfragrance. Drawing inspiration from the opulent Oud Satin Mood, 'Taqwa' embodies the essence of elegance and refinement, perfect for individuals who seek a scent that exudes sophistication and mystique. Key Features: Opulent Aura: Immerse yourself in the opulent aura of 'Taqwa,' designed to envelop you in a veil of luxury and allure. Exotic Blend: Experience the exotic blend of oud, rose, and vanilla, creating a fragrance that is both sensual and captivating. Affordable Luxury: Indulge in luxury without compromise. Arfragrance offers high-quality impressions at an accessible price point, ensuring you can enjoy the essence of Oud Satin Mood without breaking the bank. Unisex Appeal: Designed for individuals of all genders, 'Taqwa' celebrates inclusivity and diversity, making it the perfect choice for anyone seeking a scent that resonates with their inner elegance. Embrace the essence of refinement with 'Taqwa - Inspired by Oud Satin Mood (Unisex).' Experience the allure of luxury – exclusively from Arfragrance.`},"golden-era-inspired-by-ombre-nomade-unisex":{html:`<p>\xA0</p>
+<p data-mce-fragment="1">Introducing 'Golden Era - Inspired by Ombre Nomade (Unisex)' – a captivating fragrance impression meticulously crafted by Arfragrance. Drawing inspiration from the exquisite Ombre Nomade fragrance, 'Golden Era' embodies the essence of opulence and sophistication, perfect for individuals who desire a scent that evokes memories of golden moments.\xA0</p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Key Features:</strong></p>
+<ol data-mce-fragment="1">
+<li data-mce-fragment="1">
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Opulent Aura:</strong> Immerse yourself in the opulent aura of 'Golden Era,' designed to transport you to a realm of luxury and refinement.</p>
+</li>
+<li data-mce-fragment="1">
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Exquisite Blend:</strong> Experience the exquisite blend of oud, raspberry, and incense, creating a fragrance that is both rich and captivating.</p>
+</li>
+<li data-mce-fragment="1">
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Affordable Luxury:</strong> Indulge in luxury without compromise. Arfragrance offers high-quality impressions at an accessible price point, ensuring you can enjoy the essence of Ombre Nomade without breaking the bank.</p>
+</li>
+<li data-mce-fragment="1">
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Unisex Appeal:</strong> Designed for individuals of all genders, 'Golden Era' celebrates inclusivity and diversity, making it the perfect choice for anyone seeking a scent that resonates with their golden moments.</p>
+</li>
+</ol>
+<p data-mce-fragment="1">Elevate your scent game with 'Golden Era - Inspired by Ombre Nomade (Unisex).' Embrace the essence of opulence and sophistication – exclusively from Arfragrance.</p>`,desc:`Introducing 'Golden Era - Inspired by Ombre Nomade (Unisex)' – a captivating fragrance impression meticulously crafted by Arfragrance. Drawing inspiration from the exquisite Ombre Nomade fragrance, 'Golden Era' embodies the essence of opulence and sophistication, perfect for individuals who desire a scent that evokes memories of golden moments. Key Features: Opulent Aura: Immerse yourself in the opulent aura of 'Golden Era,' designed to transport you to a realm of luxury and refinement. Exquisite Blend: Experience the exquisite blend of oud, raspberry, and incense, creating a fragrance that is both rich and captivating. Affordable Luxury: Indulge in luxury without compromise. Arfragrance offers high-quality impressions at an accessible price point, ensuring you can enjoy the essence of Ombre Nomade without breaking the bank. Unisex Appeal: Designed for individuals of all genders, 'Golden Era' celebrates inclusivity and diversity, making it the perfect choice for anyone seeking a scent that resonates with their golden moments. Elevate your scent game with 'Golden Era - Inspired by Ombre Nomade (Unisex).' Embrace the essence of opulence and sophistication – exclusively from Arfragrance.`},"pack-of-5-of-your-choice":{html:`<h4><strong>Choose your favorite ones!</strong></h4>
+<br>You can select from our entire selection according to your mood, desire &amp;\xA0 taste.`,desc:`Choose your favorite ones! You can select from our entire selection according to your mood, desire & taste.`},"ar-crush-inspired-by-bombshell-perfume":{html:`<h2>
+<strong>CRUSH Perfume (WOMEN)</strong><br>
+</h2>
+<p><strong>Crush Perfume</strong>\xA0Inspired By\xA0<strong>Bombeshell </strong>is a Floral Fruity fragrance for women.\xA0The\xA0Top notes are Passionfruit, Grapefruit, Pineapple, Tangerine and Big Strawberry; middle notes are Peony, Vanilla orchid, Red Berries, Jasmine and Lily-of-the-Valley; base notes are Musk, Woody Notes and Oakmoss.</p>
+<p>Meet "Crush Inspired By Bombshell" – a fantastic perfume for women that's just as fabulous as the iconic Bombshell fragrance.</p>
+<p>Imagine feeling super charming with Crush, inspired by the famous Bombshell scent. It's like a magic potion that gives you confidence, glamor, and a touch of femininity – just like Bombshell.</p>
+<p>Wondering about the Bombshell perfume price in Pakistan? Well, good news! Crush gives you that same luxurious feel but at a really nice price. You can enjoy the magic without spending too much – it's all about quality and elegance without breaking the bank.</p>
+<p>Crush perfume is not just a nice smell; it's like an invitation to feel as fabulous as Bombshell. Its lovely notes stick around, leaving a great impression wherever you go. Whether you're going to a big event or just having a chill day out, Crush is the perfect fragrance.</p>
+<p>Treat yourself or surprise someone special with Crush Inspired By Bombshell specially designed for ladies and girls – because every day should feel as fabulous as you are! It's like carrying a bit of Bombshell magic with you, making every moment a little more glamorous.</p>
+<p>.</p>
+<p>Treat yourself or surprise someone special with Crush Inspired By Bombshell because every woman deserves to feel glamorous and confident. Elevate your fragrance game with Crush – where the spirit of Bombshell meets affordability and luxury</p>
+<p><img alt="" src="https://cdn.shopify.com/s/files/1/0571/8907/2940/files/1_51ce206f-e21b-499e-bdae-b6c503df9a87_480x480.png?v=1671807102" class="_resizableImage_c2z95_102"></p>`,desc:`CRUSH Perfume (WOMEN) Crush Perfume Inspired By Bombeshell is a Floral Fruity fragrance for women. The Top notes are Passionfruit, Grapefruit, Pineapple, Tangerine and Big Strawberry; middle notes are Peony, Vanilla orchid, Red Berries, Jasmine and Lily-of-the-Valley; base notes are Musk, Woody Notes and Oakmoss. Meet "Crush Inspired By Bombshell" – a fantastic perfume for women that's just as fabulous as the iconic Bombshell fragrance. Imagine feeling super charming with Crush, inspired by the famous Bombshell scent. It's like a magic potion that gives you confidence, glamor, and a touch of femininity – just like Bombshell. Wondering about the Bombshell perfume price in Pakistan? Well, good news! Crush gives you that same luxurious feel but at a really nice price. You can enjoy the magic without spending too much – it's all about quality and elegance without breaking the bank. Crush perfume is not just a nice smell; it's like an invitation to feel as fabulous as Bombshell. Its lovely notes stick around, leaving a great impression wherever you go. Whether you're going to a big event or just having a chill day out, Crush is the perfect fragrance. Treat yourself or surprise someone special with Crush Inspired By Bombshell specially designed for ladies and girls – because every day should feel as fabulous as you are! It's like carrying a bit of Bombshell magic with you, making every moment a little more glamorous. . Treat yourself or surprise someone special with Crush Inspired By Bombshell because every woman deserves to feel glamorous and confident. Elevate your fragrance game with Crush – where the spirit of Bombshell meets affordability and luxury`},"ar-divine-inspired-by-sauvage-divine-perfume-oriflame":{html:`<p><strong>Divine Perfume</strong> Inspired By <strong>Savage\xA0</strong>i<span>s a Aromatic Fougere fragrance for men.\xA0</span><span>Top notes are Calabrian bergamot and Pepper; middle notes are Sichuan Pepper, Lavender, Pink Pepper, Vetiver, Patchouli, Geranium and elemi; base notes are Ambroxan, Cedar and Labdanum.</span></p>
+<p><span style="font-weight: 400;">Get ready for the amazing "Divine Inspired By Savage" – a fantastic smell for guys that's all about being cool and strong.</span></p>
+<p><span style="font-weight: 400;">Divine Perfume for men, inspired by the famous Savage, is like a fancy experience with a mix of timeless style and manly charm. It's not just a smell; it's like a special vibe that's just as captivating as the Divine Idol Perfume, giving you a blend of awesome scents.</span></p>
+<p><span style="font-weight: 400;">Curious about Divine Perfume and Oriflame? Well, it's a super cool fragrance made for guys who like to keep things classy. Divine Perfume captures the same coolness that makes Savage a classic – a must-have in your collection of awesome smells.</span></p>
+<p><span style="font-weight: 400;">If you're wondering about Divine perfume Oriflame, it's a unique creation that brings a bit of luxury without losing its cool and quality.</span></p>
+<p><span style="font-weight: 400;">Whether you're getting ready for something big or just want to smell great every day, Divine Perfume is the perfect choice. Its cool notes make you feel confident and attractive, making it a super cool addition to any guy's routine.</span></p>
+<p><span style="font-weight: 400;">Treat yourself or surprise a cool guy in your life with best Divine perfume Inspired By Savage. Boost your smell game with this unique fragrance with discounted price in Pakistan, where the cool spirit of Savage comes to life in every awesome note of Divine.</span></p>
+<p>\xA0</p>
+<p style="text-align: center;">\xA0</p>
+<p style="text-align: center;"><strong><img alt="" src="https://cdn.shopify.com/s/files/1/0571/8907/2940/files/1_8082b94b-c046-4828-8ef3-b25260c2d469_480x480.png?v=1671808981"></strong></p>`,desc:`Divine Perfume Inspired By Savage i s a Aromatic Fougere fragrance for men. Top notes are Calabrian bergamot and Pepper; middle notes are Sichuan Pepper, Lavender, Pink Pepper, Vetiver, Patchouli, Geranium and elemi; base notes are Ambroxan, Cedar and Labdanum. Get ready for the amazing "Divine Inspired By Savage" – a fantastic smell for guys that's all about being cool and strong. Divine Perfume for men, inspired by the famous Savage, is like a fancy experience with a mix of timeless style and manly charm. It's not just a smell; it's like a special vibe that's just as captivating as the Divine Idol Perfume, giving you a blend of awesome scents. Curious about Divine Perfume and Oriflame? Well, it's a super cool fragrance made for guys who like to keep things classy. Divine Perfume captures the same coolness that makes Savage a classic – a must-have in your collection of awesome smells. If you're wondering about Divine perfume Oriflame, it's a unique creation that brings a bit of luxury without losing its cool and quality. Whether you're getting ready for something big or just want to smell great every day, Divine Perfume is the perfect choice. Its cool notes make you feel confident and attractive, making it a super cool addition to any guy's routine. Treat yourself or surprise a cool guy in your life with best Divine perfume Inspired By Savage. Boost your smell game with this unique fragrance with discounted price in Pakistan, where the cool spirit of Savage comes to life in every awesome note of Divine.`},"ar-glam-girl-inspired-by-flora":{html:`<p><strong>GLAM GIRL</strong> Inspired By <strong>FLORA</strong><br><br>Top notes are Peach, Californian Gardenia and African Freesia Petals<br>Middle notes are Coriander, Damask Rose and Jasmine<br>Base notes are Patchouli, Natural Vanilla and Vetiver.</p>
+<div style="text-align: center;"><br></div>
+<div style="text-align: center;"><br></div>
+<div style="text-align: center;"><img alt="" src="https://cdn.shopify.com/s/files/1/0571/8907/2940/files/notes_480x480.png?v=1649781341"></div>`,desc:`GLAM GIRL Inspired By FLORA Top notes are Peach, Californian Gardenia and African Freesia Petals Middle notes are Coriander, Damask Rose and Jasmine Base notes are Patchouli, Natural Vanilla and Vetiver.`},"ar-our-signature-chocolate":{html:`<h3>X Chocolate Perfume- AR Signature Perfume for men &amp; women</h3>
+<p>Dive into a world of indulgence with <strong>X Chocolate - Our Signature Perfume (Unisex)</strong>, a tantalizing fragrance crafted exclusively by A.R Fragrances. This signature scent celebrates the timeless allure of chocolate, enveloping you in a delectable and irresistible aroma that transcends boundaries. Whether you're a connoisseur of luxury or simply appreciate life's finer pleasures, X Chocolate Perfume is your ultimate indulgence.<br></p>
+<p>At A.R Fragrances, we take pride in offering X Chocolate Perfume for men at an exceptional value, ensuring you experience luxury without compromise. Treat yourself or gift this exquisite fragrance to someone special, and let its decadent charm elevate every moment.</p>
+<h3>Fragrance Profile</h3>
+<p><strong>Fragrance Family:</strong> Gourmand, oriental<br><strong>Scent Type:</strong> Decadent, intoxicating</p>
+<h3>Notes:</h3>
+<p>• \xA0 \xA0<strong>Top Notes:</strong> A mouth-watering blend of dark chocolate, cocoa, and orange zest that opens with warmth and sweetness, tempting the senses.<br>• \xA0 \xA0<strong>Middle Notes:</strong> The heart reveals a creamy and indulgent fusion of vanilla, caramel, and almond, adding depth and richness.<br>• \xA0 \xA0<strong>Base Notes:</strong> A seductive base of musk, sandalwood, and patchouli provides a lingering finish, leaving a trail of sensuality and allure.</p>
+<h3>Suggested Use</h3>
+<p>For a fragrance experience that lasts throughout the day, apply X Chocolate body spray to your pulse points—behind the ears, at the base of the neck, and on your wrists. Additionally, applying to warmer areas such as behind the knees and inside the elbows will help intensify the scent with your body heat.</p>
+<h3>Why Choose X Chocolate perfume?</h3>
+<p><strong>X Chocolate for male and female</strong>\xA0is more than just a fragrance; it's an invitation to indulge in life's most sumptuous pleasures. Crafted with passion and precision, this signature scent offers a luxurious and unforgettable aroma that captivates the senses. At A.R Fragrances, we ensure you receive top-tier quality at an affordable price, allowing you to savor every moment with sophistication and style.</p>
+<p>Elevate your fragrance collection with <strong>X Chocolate - Our Signature Perfume for ladies and gents</strong>, and experience the irresistible allure of luxury with A.R Fragrances.<br></p>
+<!---->`,desc:`X Chocolate Perfume- AR Signature Perfume for men & women Dive into a world of indulgence with X Chocolate - Our Signature Perfume (Unisex) , a tantalizing fragrance crafted exclusively by A.R Fragrances. This signature scent celebrates the timeless allure of chocolate, enveloping you in a delectable and irresistible aroma that transcends boundaries. Whether you're a connoisseur of luxury or simply appreciate life's finer pleasures, X Chocolate Perfume is your ultimate indulgence. At A.R Fragrances, we take pride in offering X Chocolate Perfume for men at an exceptional value, ensuring you experience luxury without compromise. Treat yourself or gift this exquisite fragrance to someone special, and let its decadent charm elevate every moment. Fragrance Profile Fragrance Family: Gourmand, oriental Scent Type: Decadent, intoxicating Notes: • Top Notes: A mouth-watering blend of dark chocolate, cocoa, and orange zest that opens with warmth and sweetness, tempting the senses. • Middle Notes: The heart reveals a creamy and indulgent fusion of vanilla, caramel, and almond, adding depth and richness. • Base Notes: A seductive base of musk, sandalwood, and patchouli provides a lingering finish, leaving a trail of sensuality and allure. Suggested Use For a fragrance experience that lasts throughout the day, apply X Chocolate body spray to your pulse points—behind the ears, at the base of the neck, and on your wrists. Additionally, applying to warmer areas such as behind the knees and inside the elbows will help intensify the scent with your body heat. Why Choose X Chocolate perfume? X Chocolate for male and female is more than just a fragrance; it's an invitation to indulge in life's most sumptuous pleasures. Crafted with passion and precision, this signature scent offers a luxurious and unforgettable aroma that captivates the senses. At A.R Fragrances, we ensure you receive top-tier quality at an affordable price, allowing you to savor every moment with sophistication and style. Elevate your fragrance collection with X Chocolate - Our Signature Perfume for ladies and gents , and experience the irresistible allure of luxury with A.R Fragrances.`},"ar-the-legend-inspired-by-legend":{html:`<div>
+<h3>Unveil The Legend - Inspired by Legend (Men)</h3>
+<p>Introducing <strong>The Legend - Inspired by Legend (Men)</strong>, a fragrance that embodies the essence of timeless masculinity and strength, crafted by A.R Fragrances. This captivating scent pays homage to the modern man who leaves an unforgettable impression wherever he goes. Whether it's a casual day out or a special evening, The Legend is your perfect companion, exuding confidence and charisma.</p>
+<p>At A.R Fragrances, we offer The Legend at an unbeatable price, ensuring you experience luxury without compromise. Treat yourself or gift this iconic fragrance to someone special, and let its undeniable charm make its mark.</p>
+<h3>Fragrance Profile</h3>
+<p><strong>Fragrance Family:</strong> Woody, aromatic</p>
+<p><strong>Scent Type:</strong> Classic, sophisticated</p>
+<h3>Notes:</h3>
+</div>
+<div>
+<p><strong>Top Notes:</strong> An invigorating blend of bergamot, lavender, and pineapple that opens with freshness and vitality.</p>
+<p><strong>Middle Notes:</strong> The heart reveals a masculine blend of coumarin, rosemary, and geranium, adding depth and complexity.</p>
+<p><strong>Base Notes:</strong> A warm and sensual base of tonka bean, oakmoss, and sandalwood provides a lasting impression, leaving a trail of sophistication.</p>
+</div>
+<div>
+<h3>Suggested Use</h3>
+<p>For a fragrance that lasts throughout the day, apply The Legend to your pulse points—behind the ears, at the base of the neck, and on your wrists. Additionally, applying to warmer areas such as behind the knees and inside the elbows will help intensify the scent with your body heat.</p>
+<h3>Why Choose The Legend?</h3>
+<p><strong>The Legend</strong> is more than just a fragrance; it's a symbol of power and allure. Crafted with precision and passion, this scent offers a timeless and refined aroma that resonates with the modern man. At A.R Fragrances, we ensure you receive top-tier quality at an affordable price, allowing you to embody the legend within.</p>
+</div>
+<p>Elevate your fragrance collection with <strong>The Legend - Inspired by Legend (Men)</strong>, and embark on a journey of timeless masculinity with A.R Fragrances.</p>
+<!---->`,desc:`Unveil The Legend - Inspired by Legend (Men) Introducing The Legend - Inspired by Legend (Men) , a fragrance that embodies the essence of timeless masculinity and strength, crafted by A.R Fragrances. This captivating scent pays homage to the modern man who leaves an unforgettable impression wherever he goes. Whether it's a casual day out or a special evening, The Legend is your perfect companion, exuding confidence and charisma. At A.R Fragrances, we offer The Legend at an unbeatable price, ensuring you experience luxury without compromise. Treat yourself or gift this iconic fragrance to someone special, and let its undeniable charm make its mark. Fragrance Profile Fragrance Family: Woody, aromatic Scent Type: Classic, sophisticated Notes: Top Notes: An invigorating blend of bergamot, lavender, and pineapple that opens with freshness and vitality. Middle Notes: The heart reveals a masculine blend of coumarin, rosemary, and geranium, adding depth and complexity. Base Notes: A warm and sensual base of tonka bean, oakmoss, and sandalwood provides a lasting impression, leaving a trail of sophistication. Suggested Use For a fragrance that lasts throughout the day, apply The Legend to your pulse points—behind the ears, at the base of the neck, and on your wrists. Additionally, applying to warmer areas such as behind the knees and inside the elbows will help intensify the scent with your body heat. Why Choose The Legend? The Legend is more than just a fragrance; it's a symbol of power and allure. Crafted with precision and passion, this scent offers a timeless and refined aroma that resonates with the modern man. At A.R Fragrances, we ensure you receive top-tier quality at an affordable price, allowing you to embody the legend within. Elevate your fragrance collection with The Legend - Inspired by Legend (Men) , and embark on a journey of timeless masculinity with A.R Fragrances.`},"ar-reflections-inspired-by-eternity":{html:`<h3>REFLECTIONS - Inspired by Eternity for Men (Improved Version)<br>
+</h3>
+<p><strong>Product Description</strong></p>
+<p><strong>Embrace REFLECTIONS by A.R. Fragrance</strong><br>Step into a world of timeless elegance with <strong>REFLECTIONS Perfume</strong>, our improved version inspired by Eternity for\xA0Men. Crafted by <strong>A.R. Fragrance</strong>, this scent is a tribute to the modern man who values tradition and\xA0sophistication.<br></p>
+<p><strong>Key Features of Perfume:</strong><br>● <strong>Premium Quality:</strong> Expertly blended with the finest ingredients for a lasting fragrance.<br>● <strong>Affordable Luxury:</strong> Experience the essence of Eternity for Men at a price that suits your budget.<br>● <strong>Made in Pakistan:</strong> Proudly designed and produced for our local market with the highest\xA0standards.<br></p>
+<p><strong>Fragrance Profile</strong><br>REFLECTIONS perfume is a perfect harmony of fresh, floral, and woody notes. It's a versatile scent that fits any occasion, embodying both strength and sensitivity.<br>● <strong>Top Notes:</strong> Crisp Green Mandarin and fresh Lavender set a refreshing and energetic tone.<br>● <strong>Middle Notes:</strong> Earthy Basil, aromatic Sage, and calming Geranium form a balanced and\xA0comforting heart.<br>● <strong>Base Notes:</strong> Warm Sandalwood and smooth Amber give a deep, lasting finish.<br></p>
+<p><strong>Why Choose REFLECTIONS?</strong><br>● <strong>Long-Lasting:</strong> Formulated to stay vibrant throughout the day and into the night.<br>● <strong>Stylish Bottle:</strong> Designed to reflect the elegance and simplicity of the scent inside.<br>● <strong>Value for Money:</strong> Enjoy a high-quality fragrance experience without breaking the bank.<br></p>
+<p><strong>How to Use</strong><br>Apply REFLECTIONS fragrance on your pulse points – wrists, neck, and behind the ears – for a scent that follows you all day. For an even longer-lasting effect, spray on your clothing as well.<br></p>
+<p><strong>Ideal For</strong><br>● <strong>Daily Wear:</strong> Perfect for work, casual outings, or any day-to-day activities.<br>● <strong>Special Occasions:</strong> Make a lasting impression at events, meetings, or dates.<br>● Gifting: A thoughtful and stylish gift for friends, family, or loved ones.<br></p>
+<p><strong>Why A.R. Fragrance?</strong><br>At <strong>A.R. Fragrance</strong>, our mission is to bring <strong>luxury and affordability</strong> together in every bottle. Our fragrances are crafted with care, ensuring you get the best quality and experience in Pakistan.</p>
+<p><br><strong>Order Now</strong><br>Discover the timeless charm of REFLECTIONS perfume and enhance your daily routine. Order from\xA0<strong>A.R. Fragrance</strong>\xA0today and enjoy the blend of sophistication and freshness that lasts.</p>
+<!---->`,desc:`REFLECTIONS - Inspired by Eternity for Men (Improved Version) Product Description Embrace REFLECTIONS by A.R. Fragrance Step into a world of timeless elegance with REFLECTIONS Perfume , our improved version inspired by Eternity for Men. Crafted by A.R. Fragrance , this scent is a tribute to the modern man who values tradition and sophistication. Key Features of Perfume: ● Premium Quality: Expertly blended with the finest ingredients for a lasting fragrance. ● Affordable Luxury: Experience the essence of Eternity for Men at a price that suits your budget. ● Made in Pakistan: Proudly designed and produced for our local market with the highest standards. Fragrance Profile REFLECTIONS perfume is a perfect harmony of fresh, floral, and woody notes. It's a versatile scent that fits any occasion, embodying both strength and sensitivity. ● Top Notes: Crisp Green Mandarin and fresh Lavender set a refreshing and energetic tone. ● Middle Notes: Earthy Basil, aromatic Sage, and calming Geranium form a balanced and comforting heart. ● Base Notes: Warm Sandalwood and smooth Amber give a deep, lasting finish. Why Choose REFLECTIONS? ● Long-Lasting: Formulated to stay vibrant throughout the day and into the night. ● Stylish Bottle: Designed to reflect the elegance and simplicity of the scent inside. ● Value for Money: Enjoy a high-quality fragrance experience without breaking the bank. How to Use Apply REFLECTIONS fragrance on your pulse points – wrists, neck, and behind the ears – for a scent that follows you all day. For an even longer-lasting effect, spray on your clothing as well. Ideal For ● Daily Wear: Perfect for work, casual outings, or any day-to-day activities. ● Special Occasions: Make a lasting impression at events, meetings, or dates. ● Gifting: A thoughtful and stylish gift for friends, family, or loved ones. Why A.R. Fragrance? At A.R. Fragrance , our mission is to bring luxury and affordability together in every bottle. Our fragrances are crafted with care, ensuring you get the best quality and experience in Pakistan. Order Now Discover the timeless charm of REFLECTIONS perfume and enhance your daily routine. Order from A.R. Fragrance today and enjoy the blend of sophistication and freshness that lasts.`},"ar-love-me-inspired-by-coco-mademoiselle":{html:`<p>Love Me Inspired By Coco Mademoiselle\xA0<span>is a Amber Floral fragrance for women.\xA0</span></p>
+<p><span>The Top notes are Orange, Mandarin Orange, Bergamot and Orange Blossom; middle notes are Turkish Rose, Jasmine, Mimosa and Ylang-Ylang; base notes are Patchouli, White Musk, Vanilla, Vetiver, Tonka Bean and Opoponax.\xA0</span></p>
+<p>\xA0</p>
+<p><img alt="" src="https://cdn.shopify.com/s/files/1/0571/8907/2940/files/1_77a72c01-0c3f-4336-acbe-cdaad0ff129e_480x480.png?v=1671830137" style="display: block; margin-left: auto; margin-right: auto;"></p>`,desc:`Love Me Inspired By Coco Mademoiselle is a Amber Floral fragrance for women. The Top notes are Orange, Mandarin Orange, Bergamot and Orange Blossom; middle notes are Turkish Rose, Jasmine, Mimosa and Ylang-Ylang; base notes are Patchouli, White Musk, Vanilla, Vetiver, Tonka Bean and Opoponax.`},"ar-love-drops-inspired-by-bloom":{html:`<p><b>Love Drops Perfume </b>Inspired By<b> Bloom\xA0</b><span>is a Floral fragrance for women. The</span><span>\xA0Top note is Jasmine; middle note is Tuberose; base note is Rangoon creeper.</span></p>
+<p><span style="font-weight: 400;">"Love Drops - Inspired by Gucci Bloom (Women)" in 50ml and 30ml sizes. Dive into a world of flowers with this lovely fragrance made for women who love a romantic perfume inspired by Gucci Bloom.</span></p>
+<p><span style="font-weight: 400;">Love Drops perfume is like a bouquet of blossoms, capturing the romantic and blooming feelings of Gucci Bloom. It's the perfect pick for women who want a fragrance that feels like a celebration of love and feminine beauty.</span></p>
+<p><span style="font-weight: 400;">Enjoy the sweet and romantic scent of Love Drops. Each spray takes you to a garden full of blooming flowers. It's not just a fragrance; it's like saying "I love you" with a beautiful scent, paying tribute to the timeless beauty of Gucci Bloom.</span></p>
+<p><span style="font-weight: 400;">Whether you go for the 50ml or 30ml, Love Drops lets you carry this romantic scent with you everywhere, leaving a delicate trail of love. Every spray is like a gentle whisper of affection, making Love Drops the go-to perfume for women who want to carry love in a bottle.</span></p>
+<p><span style="font-weight: 400;">Lift your spirits with Love Drops perfume- Inspired by Gucci Bloom (Women) with discounted prices in Pakistan. Feel the romance of this fragrance and let it become a special part of your daily routine. Embrace the love-infused notes, and let Love Drops be your signature scent, a symbol of everlasting love.</span></p>
+<p>\xA0</p>
+<p style="text-align: center;"><span><img alt="" src="https://cdn.shopify.com/s/files/1/0571/8907/2940/files/1_ad480c32-9eb5-44a3-b33f-7e7abb8c9686_480x480.png?v=1671829388"></span></p>`,desc:`Love Drops Perfume Inspired By Bloom is a Floral fragrance for women. The Top note is Jasmine; middle note is Tuberose; base note is Rangoon creeper. "Love Drops - Inspired by Gucci Bloom (Women)" in 50ml and 30ml sizes. Dive into a world of flowers with this lovely fragrance made for women who love a romantic perfume inspired by Gucci Bloom. Love Drops perfume is like a bouquet of blossoms, capturing the romantic and blooming feelings of Gucci Bloom. It's the perfect pick for women who want a fragrance that feels like a celebration of love and feminine beauty. Enjoy the sweet and romantic scent of Love Drops. Each spray takes you to a garden full of blooming flowers. It's not just a fragrance; it's like saying "I love you" with a beautiful scent, paying tribute to the timeless beauty of Gucci Bloom. Whether you go for the 50ml or 30ml, Love Drops lets you carry this romantic scent with you everywhere, leaving a delicate trail of love. Every spray is like a gentle whisper of affection, making Love Drops the go-to perfume for women who want to carry love in a bottle. Lift your spirits with Love Drops perfume- Inspired by Gucci Bloom (Women) with discounted prices in Pakistan. Feel the romance of this fragrance and let it become a special part of your daily routine. Embrace the love-infused notes, and let Love Drops be your signature scent, a symbol of everlasting love.`},"ar-elites-inspired-by-one-million-elites-perfume":{html:`<p><strong>ELITES</strong> Inspired By<strong>\xA0Million\xA0</strong>is a Woody Spicy fragrance for men.\xA0The\xA0Top notes are Blood Mandarin, Grapefruit and Mint; middle notes are Cinnamon, Spicy Notes and Rose; base notes are Amber, Leather, Woody Notes and Indian Patchouli.</p><p>Step into luxury with "Elites Inspired By Million" – a captivating fragrance for men that exudes opulence and charm.</p><p>Elites Perfume, inspired by the renowned Million, is a symphony of scents designed for the modern man who appreciates sophistication and style. This fragrance is not just a scent; it's an experience that elevates your senses, creating a captivating blend of notes that leave a lasting impression.</p><p>For those searching for the perfect fragrance for men, Elites stands out as a top choice. It embodies the spirit of Million, offering a touch of luxury without compromising on the essence of a powerful and confident scent.</p><p>Curious about the best winter fragrances for men? Elites Perfume is the ideal companion for the colder months, with its warm and inviting notes that create a cozy and comforting aura. It's the perfect addition to your winter fragrance collection.</p><p>When it comes to the best fragrance perfume for men, Elites Perfume takes center stage. Its harmonious blend of notes makes it suitable for any occasion, adding a touch of elegance and allure to your everyday routine.</p><p>Indulge yourself or surprise a special man in your life with Elites Inspired By Million. Elevate your fragrance game with this unique creation, where the opulent spirit of Million unfolds in every captivating note of Elites.</p><p>\xA0</p><p><img class="_resizableImage_c2z95_102" src="https://cdn.shopify.com/s/files/1/0571/8907/2940/files/1_65064c97-a304-4aed-9ab4-656fc50a6f85_480x480.png?v=1671809419" alt=""></p>`,desc:`ELITES Inspired By Million is a Woody Spicy fragrance for men. The Top notes are Blood Mandarin, Grapefruit and Mint; middle notes are Cinnamon, Spicy Notes and Rose; base notes are Amber, Leather, Woody Notes and Indian Patchouli. Step into luxury with "Elites Inspired By Million" – a captivating fragrance for men that exudes opulence and charm. Elites Perfume, inspired by the renowned Million, is a symphony of scents designed for the modern man who appreciates sophistication and style. This fragrance is not just a scent; it's an experience that elevates your senses, creating a captivating blend of notes that leave a lasting impression. For those searching for the perfect fragrance for men, Elites stands out as a top choice. It embodies the spirit of Million, offering a touch of luxury without compromising on the essence of a powerful and confident scent. Curious about the best winter fragrances for men? Elites Perfume is the ideal companion for the colder months, with its warm and inviting notes that create a cozy and comforting aura. It's the perfect addition to your winter fragrance collection. When it comes to the best fragrance perfume for men, Elites Perfume takes center stage. Its harmonious blend of notes makes it suitable for any occasion, adding a touch of elegance and allure to your everyday routine. Indulge yourself or surprise a special man in your life with Elites Inspired By Million. Elevate your fragrance game with this unique creation, where the opulent spirit of Million unfolds in every captivating note of Elites.`},"ar-destiny-inspired-by-oud-wood-destiny-perfume":{html:`<p><strong>OUD DESTINY</strong> Perfume Inspired By\xA0<strong>Oud Wood</strong>\xA0is an Amber Woody fragrance for women and men.\xA0</p><p>Experience a fragrant adventure with "Destiny Inspired By Oud Wood" – a perfume made for everyone, both men and women.</p><p>Destiny Perfume is like the star of the Destiny Collection, taking inspiration from the luxurious Oud Wood. It's not just a smell; it's an experience that anyone can enjoy, creating a captivating blend of scents that you won't forget.</p><p>Curious about Destiny Perfume for unisex and the Destiny Collection? Well, it's like stepping into a world of amazing fragrances inspired by Oud Wood – a scent known for its richness and sophistication. This collection is all about the timeless charm of Oud-infused perfumes at best prices in Pakistan.</p><p>If you're wondering about the best Destiny perfume price in Pakistan, here's the good news – it's luxury you can afford. You get to feel the magic of Oud Wood without spending too much, keeping the quality and elegance intact.</p><p>Whether you're off to a big event or just want a signature scent for everyday moments, Destiny Perfume is the perfect pick. Its lovely notes create an air of sophistication that fits any occasion, making it a must-have in your fragrance collection.</p><p>Treat yourself or surprise someone special with Destiny Inspired By Oud Wood. Elevate your scent game with this unique perfume that brings the spirit of Destiny to life in every delightful note. It's like a little bit of magic for your senses!</p><p>\xA0</p><p><img class="_resizableImage_c2z95_102" src="https://cdn.shopify.com/s/files/1/0571/8907/2940/files/Screenshot_1_480x480.png?v=1671808398" alt=""></p>`,desc:`OUD DESTINY Perfume Inspired By Oud Wood is an Amber Woody fragrance for women and men. Experience a fragrant adventure with "Destiny Inspired By Oud Wood" – a perfume made for everyone, both men and women. Destiny Perfume is like the star of the Destiny Collection, taking inspiration from the luxurious Oud Wood. It's not just a smell; it's an experience that anyone can enjoy, creating a captivating blend of scents that you won't forget. Curious about Destiny Perfume for unisex and the Destiny Collection? Well, it's like stepping into a world of amazing fragrances inspired by Oud Wood – a scent known for its richness and sophistication. This collection is all about the timeless charm of Oud-infused perfumes at best prices in Pakistan. If you're wondering about the best Destiny perfume price in Pakistan, here's the good news – it's luxury you can afford. You get to feel the magic of Oud Wood without spending too much, keeping the quality and elegance intact. Whether you're off to a big event or just want a signature scent for everyday moments, Destiny Perfume is the perfect pick. Its lovely notes create an air of sophistication that fits any occasion, making it a must-have in your fragrance collection. Treat yourself or surprise someone special with Destiny Inspired By Oud Wood. Elevate your scent game with this unique perfume that brings the spirit of Destiny to life in every delightful note. It's like a little bit of magic for your senses!`},"ar-crysto-inspired-by-bright-crystal-perfume-for-women":{html:`<p><strong>CRYSTO</strong> Inspired By <strong>Bryght Crystal\xA0</strong>is a Floral Fruity fragrance for women.<strong>\xA0</strong>The\xA0Top notes are Yuzu, Pomegranate and Ice; middle notes are Peony, Lotus and Magnolia; base notes are Musk, Mahogany and Amber.\xA0</p><p>Step into a world of delightful scents with "Crysto Inspired By Bryght Crystal" – a special perfume made just for women.</p><p>Crysto Perfume is like a celebration of all things beautiful. It captures the charm of Bryght Crystal, giving you a symphony of lovely scents that suit the modern woman perfectly. It's not just a perfume; it's a way to embrace your femininity, radiance, and timeless charm.</p><p>Curious about Crysto Perfume and Bryght Crystal? Well, it's like a journey into a world of elegance and sophistication. The fragrance captures the same spirit that makes Bryght Crystal a favorite that stands the test of time.</p><p>Whether you're getting ready for a fancy event or just having a laid-back day, Crysto Perfume is your go-to companion. Its beautiful notes stick around, creating a lovely aura that lasts all day, making you leave a wonderful impression wherever you go.</p><p>Treat yourself or surprise a special woman in your life with Crysto Inspired By Bryght Crystal. Because every day should be adorned with the exquisite fragrance that defines sophistication, beauty, and the essence of Bryght Crystal. It's like a little touch of magic in a bottle, just for you!</p><p>\xA0</p><p><img class="_resizableImage_c2z95_102" src="https://cdn.shopify.com/s/files/1/0571/8907/2940/files/1_4f5951a5-4410-48fa-907a-831324a38937_480x480.png?v=1671807686" alt=""></p><p>\xA0</p>`,desc:`CRYSTO Inspired By Bryght Crystal is a Floral Fruity fragrance for women. The Top notes are Yuzu, Pomegranate and Ice; middle notes are Peony, Lotus and Magnolia; base notes are Musk, Mahogany and Amber. Step into a world of delightful scents with "Crysto Inspired By Bryght Crystal" – a special perfume made just for women. Crysto Perfume is like a celebration of all things beautiful. It captures the charm of Bryght Crystal, giving you a symphony of lovely scents that suit the modern woman perfectly. It's not just a perfume; it's a way to embrace your femininity, radiance, and timeless charm. Curious about Crysto Perfume and Bryght Crystal? Well, it's like a journey into a world of elegance and sophistication. The fragrance captures the same spirit that makes Bryght Crystal a favorite that stands the test of time. Whether you're getting ready for a fancy event or just having a laid-back day, Crysto Perfume is your go-to companion. Its beautiful notes stick around, creating a lovely aura that lasts all day, making you leave a wonderful impression wherever you go. Treat yourself or surprise a special woman in your life with Crysto Inspired By Bryght Crystal. Because every day should be adorned with the exquisite fragrance that defines sophistication, beauty, and the essence of Bryght Crystal. It's like a little touch of magic in a bottle, just for you!`},"ar-blush-me-best-females-perfume":{html:`<h2>BLUSH ME UP - INSPIRED BY MY WAY (WOMEN)</h2>
+<p><strong>Blush Me Up Perfume</strong>\xA0inspired by <strong>MY WAY</strong>\xA0is a Floral fragrance for women.\xA0</p>
+<p>The Top notes are Orange Blossom and Bergamot; middle notes are Tuberose and Indian Jasmine; base notes are Madagascar Vanilla, White Musk and Virginian Cedar.</p>
+<p>Get ready to feel amazing with BLUSH ME UP perfume, the perfect fragrance for women. It's not just any scent; it's the best perfume for you. When you wear BLUSH ME UP fragrance, everyone will be amazed and say, 'You are smelling like a flower! Wow just looking like a Waw It's like a happy smell just for you. BLUSH ME UP is more than a scent, it's your best friend for feeling fantastic.\xA0</p>
+<p>Try it now and see how it makes you smell and feel beautiful. BLUSH ME UP – the best perfume with discounted price in Pakistan, just for you!</p>
+<p>\xA0</p>
+<p><img class="_resizableImage_c2z95_102" src="https://cdn.shopify.com/s/files/1/0571/8907/2940/files/1_b8a6a717-6be2-422b-95fc-285c656ea313_480x480.png?v=1671805825" alt=""></p>`,desc:`BLUSH ME UP - INSPIRED BY MY WAY (WOMEN) Blush Me Up Perfume inspired by MY WAY is a Floral fragrance for women. The Top notes are Orange Blossom and Bergamot; middle notes are Tuberose and Indian Jasmine; base notes are Madagascar Vanilla, White Musk and Virginian Cedar. Get ready to feel amazing with BLUSH ME UP perfume, the perfect fragrance for women. It's not just any scent; it's the best perfume for you. When you wear BLUSH ME UP fragrance, everyone will be amazed and say, 'You are smelling like a flower! Wow just looking like a Waw It's like a happy smell just for you. BLUSH ME UP is more than a scent, it's your best friend for feeling fantastic. Try it now and see how it makes you smell and feel beautiful. BLUSH ME UP – the best perfume with discounted price in Pakistan, just for you!`},"ar-sixer-inspired-by-avantus":{html:`<h2>Sixer Perfume for Men with More Citrus and Smoky notes</h2><p><strong>Sixer - Inspired by Avantus (Men)</strong> is a captivating blend that brings a luxurious and adventurous touch to your fragrance collection. Crafted by A.R Fragrances, this scent is perfect for men who appreciate a refined and sophisticated aroma. Whether for daily wear or special occasions, Sixer is designed to make a lasting impression every time.</p><p>At A.R Fragrances, we offer Sixer perfume at an unbeatable price, ensuring you get premium quality without breaking the bank. Treat yourself or surprise someone special with this exquisite fragrance.</p><p><strong>Fragrance Profile</strong></p><p><strong>Fragrance Family:</strong> Woody, fruity</p><p><strong>Scent Type:</strong> Spicy, leathery</p><p><strong>Notes:</strong></p><ul>
+<li><p><strong>Top Notes:</strong> A vibrant burst of apple, bergamot, black currant, lemon, and pineapple creates a refreshing and invigorating start.</p></li>
+<li><p><strong>Middle Notes:</strong> The heart of the fragrance features a romantic blend of birch, jasmine, and rose, adding a floral and elegant touch.</p></li>
+<li><p><strong>Base Notes:</strong> The foundation of ambergris, musk, patchouli, and vanilla provides a warm and lasting finish, exuding a sense of refined masculinity.</p></li>
+</ul><p><strong>Suggested Use</strong></p><p>For a long-lasting scent that lingers throughout the day, apply <strong>Sixer man perfume</strong> to your pulse points—behind the ears, at the base of the neck, and on the wrists. Additionally, use on warmer areas of the body, such as behind the knees and inside the elbows, to intensify the fragrance with your body heat.</p><p>Experience the allure of <strong>Sixer - Inspired by Avantus</strong>, and elevate your fragrance game with A.R Fragrances.</p>`,desc:`Sixer Perfume for Men with More Citrus and Smoky notes Sixer - Inspired by Avantus (Men) is a captivating blend that brings a luxurious and adventurous touch to your fragrance collection. Crafted by A.R Fragrances, this scent is perfect for men who appreciate a refined and sophisticated aroma. Whether for daily wear or special occasions, Sixer is designed to make a lasting impression every time. At A.R Fragrances, we offer Sixer perfume at an unbeatable price, ensuring you get premium quality without breaking the bank. Treat yourself or surprise someone special with this exquisite fragrance. Fragrance Profile Fragrance Family: Woody, fruity Scent Type: Spicy, leathery Notes: Top Notes: A vibrant burst of apple, bergamot, black currant, lemon, and pineapple creates a refreshing and invigorating start. Middle Notes: The heart of the fragrance features a romantic blend of birch, jasmine, and rose, adding a floral and elegant touch. Base Notes: The foundation of ambergris, musk, patchouli, and vanilla provides a warm and lasting finish, exuding a sense of refined masculinity. Suggested Use For a long-lasting scent that lingers throughout the day, apply Sixer man perfume to your pulse points—behind the ears, at the base of the neck, and on the wrists. Additionally, use on warmer areas of the body, such as behind the knees and inside the elbows, to intensify the fragrance with your body heat. Experience the allure of Sixer - Inspired by Avantus , and elevate your fragrance game with A.R Fragrances.`},"gift-bag":{html:`<h2>Gift Bag | Best Perfume Gift Bag From AR Fragrances at Reasonable Prices in 2025</h2><p>Discover the 2025 Best Perfume Gift Bag from AR Fragrances. Enjoy luxurious, elegant gifts at reasonable prices, perfect for any occasion.</p>`,desc:`Gift Bag | Best Perfume Gift Bag From AR Fragrances at Reasonable Prices in 2025 Discover the 2025 Best Perfume Gift Bag from AR Fragrances. Enjoy luxurious, elegant gifts at reasonable prices, perfect for any occasion.`}};export{e as default};
