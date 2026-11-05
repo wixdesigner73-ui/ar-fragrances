@@ -1,7 +1,7 @@
 import React,{useEffect} from 'react';
 import {Routes,Route,useLocation} from 'react-router-dom';
 import gsap from 'gsap';import {ScrollTrigger} from 'gsap/ScrollTrigger';import Lenis from 'lenis';
-import {Header,Footer,CartDrawer,Search,WaFab} from './components/ui.jsx';
+import {Footer,CartDrawer,Search,WaFab} from './components/ui.jsx';import Header from './components/Header.jsx';
 import {SvgDefs} from './components/art.jsx';import Home from './pages/Home.jsx';import {Collection,Product,Page,useTitle} from './pages/Shop.jsx';
 gsap.registerPlugin(ScrollTrigger);
 function Motion(){const {pathname}=useLocation();
