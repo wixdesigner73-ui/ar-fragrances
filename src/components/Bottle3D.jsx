@@ -140,7 +140,7 @@ export default function Bottle3D({src,alt='',className='',spray=false,anchorRef,
     if(t<.6)o=e3(t/.6);else if(t<2.9)o=1;else if(t<3.6)o=1-eio((t-2.9)/.7);else{o=0;st.seq=-1}
     [[.8,0],[1.75,1]].forEach(([tp,k])=>{if(t>=tp&&st.pumped<=k){st.pumped=k+1;dispatchEvent(new Event('ar-spray'))}if(t>=tp&&t<tp+.3)press=Math.sin((t-tp)/.3*Math.PI)});
     if(st.seq<0&&spray&&st.hover)st.nextSpray=performance.now()+900}
-   if(capG){capG.position.set(.82*o,bob+(-.5+Math.sin(st.t*2.4)*.04)*o,.5*o);capG.rotation.set(.25*o,0,-.5*o)}
+   if(capG){capG.position.set((innerWidth<500?.34:innerWidth<1100?.58:.82)*o,bob+(-.5+Math.sin(st.t*2.4)*.04)*o,.5*o);capG.rotation.set(.25*o,0,-.5*o)}
    if(reflCap&&capG){reflCap.position.set(capG.position.x,-capG.position.y,capG.position.z);reflCap.rotation.set(-capG.rotation.x,0,-capG.rotation.z)}
    if(nz){nz.position.y=nzY+bob;const a=nz.getObjectByName('act');a.position.y=.3-press*.05}
    bottle.position.x=Math.sin(st.t*70)*press*.004;
