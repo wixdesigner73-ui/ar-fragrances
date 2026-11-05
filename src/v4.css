@@ -1,0 +1,36 @@
+/* v4: opening screen (first frames of the reference video) */
+.op{background:#08090a;position:relative}
+.op-banner{position:relative;margin:0;height:max(62svh,470px);min-height:470px;overflow:hidden;isolation:isolate;background:#0a0807}
+.op-bg{position:absolute;inset:0;z-index:0;background:
+ radial-gradient(ellipse 36% 60% at 70% 62%,rgba(231,150,52,.55),rgba(120,60,15,.25) 45%,transparent 72%),
+ radial-gradient(ellipse 60% 80% at 76% 40%,rgba(90,70,50,.55),transparent 70%),
+ linear-gradient(90deg,#050505 0,#0b0908 35%,#14100c 70%,#0a0807 100%)}
+.op-glow{position:absolute;right:6%;top:12%;width:42%;height:70%;z-index:1;background:radial-gradient(ellipse,rgba(255,196,110,.28),transparent 65%);filter:blur(18px);animation:opg 5s ease-in-out infinite alternate}
+@keyframes opg{to{opacity:.55;transform:scale(1.06)}}
+.op .smoke{z-index:2!important}
+.op-txt{position:absolute;left:calc(var(--pad) + 40px);top:46%;transform:translateY(-50%);z-index:5;max-width:min(560px,50vw)}
+.op-txt .eyebrow{color:#d9d1c0;font-size:10px;letter-spacing:.24em;margin-bottom:16px}
+.op-txt h1 span{display:block;white-space:nowrap}.op-txt h1{font:400 clamp(28px,3.5vw,54px)/1.16 var(--serif);margin-bottom:20px;color:#fff}
+.op-txt p{color:#bdb5a6;font-size:13.5px;max-width:400px;margin-bottom:28px}
+.op-btn{display:inline-flex;align-items:center;gap:26px;border:1px solid rgba(255,255,255,.55);border-radius:999px;padding:12px 24px;font:500 12px var(--sans);letter-spacing:.06em;color:#fff;transition:all .35s}.op-btn:hover{background:rgba(255,255,255,.1);border-color:var(--gold2);color:var(--gold2)}
+.op-bot{position:absolute;left:0;right:0;bottom:13%;height:70%;display:flex;justify-content:center;padding-left:18%;z-index:3;pointer-events:none;animation:opf 6s ease-in-out infinite alternate}
+@keyframes opf{to{transform:translateY(-8px)}}
+.op-bot .b-refl{display:none}
+.op-bot .b-img{filter:drop-shadow(0 20px 30px rgba(0,0,0,.7)) drop-shadow(0 0 40px rgba(255,170,70,.25))}
+.op-scene{position:absolute;left:0;right:0;bottom:0;width:100%;height:36%;z-index:4;pointer-events:none}.op-scene .leaf{animation:leafs 7s ease-in-out infinite alternate;transform-origin:520px 200px}
+@keyframes leafs{to{transform:rotate(1.4deg)}}
+.op-banner:after{content:'';position:absolute;left:0;right:0;bottom:0;height:60px;background:linear-gradient(transparent,#08090a);z-index:6}
+.op-coll{padding:34px calc(var(--pad) + 40px) 70px;background:#08090a}
+.op-coll h2{font:400 clamp(20px,1.9vw,28px) var(--serif);color:#fff}.op-sub{color:#8f897c;font-size:12px;margin:6px 0 22px}
+.op-grid{display:grid;grid-template-columns:repeat(4,1fr);gap:clamp(14px,2vw,30px)}
+.op-tile{display:block;text-align:center}
+.op-img{position:relative;aspect-ratio:1.4;overflow:hidden;margin-bottom:14px;border-radius:2px;transition:transform .6s,box-shadow .6s}
+.op-tile:hover .op-img{transform:translateY(-4px);box-shadow:0 20px 40px rgba(0,0,0,.5)}
+.op-img img{position:absolute;z-index:2;left:0;right:0;bottom:6%;margin:0 auto;height:84%;width:auto;max-width:90%;object-fit:contain;filter:drop-shadow(0 12px 14px rgba(0,0,0,.6));transition:transform .7s}.op-tile:hover .op-img img{transform:scale(1.06)}
+.op-floor{position:absolute;left:0;right:0;bottom:0;height:24%;z-index:1;background:linear-gradient(rgba(255,255,255,.18),rgba(0,0,0,.4));border-top:1px solid rgba(255,255,255,.2)}
+.t0 .op-img{background:radial-gradient(ellipse 60% 70% at 50% 55%,#6f6a62,#2a2724 55%,#100f0e)}
+.t1 .op-img{background:radial-gradient(ellipse 60% 70% at 50% 55%,#d9892e,#6a3a10 55%,#1a0e05)}
+.t2 .op-img{background:radial-gradient(ellipse 60% 70% at 50% 55%,#4d4a46,#161514 60%,#050505)}
+.t3 .op-img{background:radial-gradient(ellipse 60% 70% at 50% 55%,#e9dcc0,#8a7c60 55%,#2a251c)}
+.op-tile h3{font:500 12.5px var(--sans);color:#e9e3d6;margin-bottom:3px}.op-tile .price{font-size:12px}
+@media(max-width:860px){.op-banner{height:auto;min-height:0;padding:100px 20px 0}.op-txt{position:relative;left:auto;top:auto;transform:none;max-width:none;text-align:center;order:2;padding-bottom:40px}.op-txt p{margin-inline:auto}.op-bot{position:relative;height:300px;bottom:auto;padding-left:0;margin-top:10px}.op-scene{height:100px}.op-coll{padding:30px 20px 60px}.op-grid{grid-template-columns:1fr 1fr}.op-banner{display:flex;flex-direction:column}.op-bot{order:1}.op-glow{width:80%;right:10%}}

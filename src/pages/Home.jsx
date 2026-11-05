@@ -1,7 +1,7 @@
 import React,{useCallback,useEffect,useLayoutEffect,useMemo,useRef,useState} from 'react';
 import {Link} from 'react-router-dom';
 import gsap from 'gsap';import {ScrollTrigger} from 'gsap/ScrollTrigger';
-import Smoke from '../components/Smoke.jsx';
+import Opening from '../components/Opening.jsx';import Bottle from '../components/Bottle.jsx';import Smoke from '../components/Smoke.jsx';
 import {Dust,GoldDrop,PourArt,Petals,Trail} from '../components/art.jsx';
 import {Price} from '../components/ui.jsx';
 import {products_,byHandle,shortTitle,firstSentence,onSale} from '../store.jsx';
@@ -29,11 +29,11 @@ export default function Home(){
  const ctaP=hero[4]||hero[1]||hero[0];const storyP=hero[1]||hero[0];
  const hp=hero[hi];
  const about=useMemo(()=>para(pages['about-us']),[]);
- const calc=useCallback(()=>{const i=bref.current,c=root.current?.querySelector('.hero .smoke');if(!i||!c)return;const a=i.getBoundingClientRect(),b=c.getBoundingClientRect();if(!a.width)return;setJsrc([(a.left+a.width*.52-b.left)/b.width,1-(a.top+a.height*.16-b.top)/b.height])},[]);
+ const calc=useCallback(()=>{const i=bref.current,c=root.current?.querySelector('.hero .smoke');if(!i||!c)return;const a=i.getBoundingClientRect(),b=c.getBoundingClientRect();if(!a.width)return;setJsrc([(a.left+a.width*.6-b.left)/b.width,1-(a.top+a.height*.2-b.top)/b.height])},[]);
  useEffect(()=>{addEventListener('resize',calc);return()=>removeEventListener('resize',calc)},[calc]);
  useLayoutEffect(()=>{if(!hp)return;const q=gsap.utils.selector(root);const rm=reduce();
   const tl=gsap.timeline({defaults:{ease:'power3.out'}});
-  tl.fromTo(q('.hbot'),{y:rm?0:70,scale:rm?1:.92,opacity:0,filter:'blur(8px)'},{y:0,scale:1,opacity:1,filter:'blur(0px)',duration:rm?.01:1.5},0)
+  tl.fromTo(q('.hero .bottle'),{y:rm?0:70,scale:rm?1:.92,opacity:0,filter:'blur(8px)'},{y:0,scale:1,opacity:1,filter:'blur(0px)',duration:rm?.01:1.5},0)
     .fromTo(q('.hero .ln > *'),{yPercent:rm?0:110,opacity:rm?1:0},{yPercent:0,opacity:1,duration:rm?.01:1.1,stagger:.12},.2)
     .fromTo(q('.hero .hfade'),{opacity:0,y:rm?0:22},{opacity:1,y:0,duration:rm?.01:.9,stagger:.1},.55);
   const t=setTimeout(calc,60);return()=>{tl.kill();clearTimeout(t)}},[hi,hp?.handle]);
@@ -64,6 +64,7 @@ export default function Home(){
  if(!hp)return null;
  const title=shortTitle(nP?nP.title:'').replace(/ - .*/,'');
  return <div ref={root}>
+ <Opening/>
  <section className="hero" aria-label="Featured perfume">
   <div className="rays"/><div className="floorbg"/><Dust/>
   <Smoke jet pulse burst={hi} src={jsrc} amt={.18}/>
@@ -74,7 +75,7 @@ export default function Home(){
     <p className="hfade"><b>{shortTitle(hp.title).replace(/ - .*/,'')}</b> — {lead(hp)}</p>
     <div className="hcta hfade"><Link className="btn" to={'/products/'+hp.handle}>Shop Now</Link><Link className="btn sq" to="/collections/all" aria-label="View all perfumes">→</Link><span className="hprice"><Price p={hp}/></span></div>
    </div>
-   <div className="hbot-wrap"><img key={hp.handle} ref={bref} onLoad={calc} className="hbot" src={hp.cut} alt={hp.title} fetchpriority="high"/></div>
+   <div className="hbot-wrap"><span className="spray-hit" onClick={()=>dispatchEvent(new Event("ar-spray"))} role="button" tabIndex={0} aria-label="Spray" onKeyDown={e=>e.key==="Enter"&&dispatchEvent(new Event("ar-spray"))}><Bottle key={hp.handle} imgRef={bref} onLoad={calc} src={hp.cut} alt={hp.title} eager/></span></div>
   </div>
   <button className="arr l" onClick={()=>go(-1)} aria-label="Previous">‹</button><button className="arr r" onClick={()=>go(1)} aria-label="Next">›</button>
   <div className="dots">{hero.map((h,i)=><button key={h.handle} className={i===hi?'on':''} onClick={()=>setHi(i)} aria-label={'Slide '+(i+1)}/>)}</div>
@@ -95,7 +96,7 @@ export default function Home(){
    <div className="n360l"><h2 className="mini">Fragrance Notes</h2>
     <div className="tabs">{TABS.map(([k,l],i)=><button key={k} className={'tab'+(i===tab?' on':'')} onClick={()=>setTab(i)}>{l}<span className="bar"><i key={tab+'-'+i} style={i===tab?{}:{animation:'none',width:0}}/></span></button>)}</div>
     <p className="tnotes">{notes[TABS[tab][0]].join(' · ')}</p></div>
-   <div className="n360c"><div className="stage"><div className="platform"/><div className="rot360" ref={drag}><img src={nP.cut} alt={nP.title} loading="lazy" draggable="false"/></div></div></div>
+   <div className="n360c"><div className="stage"><div className="platform"/><div className="rot360" ref={drag}><Bottle src={nP.cut} alt={nP.title}/></div></div></div>
    <div className="n360r"><span className="lbl">Fragrance Notes</span><svg className="lead" viewBox="0 0 120 40" aria-hidden="true"><path d="M2 38 L34 6 L118 6" stroke="rgba(255,255,255,.55)" fill="none"/></svg>
     <b>360°</b><span className="sub">{title}</span><p>{lead(nP)}</p><Link className="more" to={'/products/'+nP.handle}>Discover →</Link></div>
   </div>
@@ -127,7 +128,7 @@ export default function Home(){
    <div className="ctat"><span className="eyebrow rv">Exclusive Collection</span><h2 className="rv">Buy 1 Perfume,<br/>Get a Free Body Mist</h2>
     <p className="rv">Pair any signature perfume with a complimentary body mist. Explore the full offer, or save more with our bundles.</p>
     <div className="hcta rv"><Link className="btn" to="/collections/buy-1-perfume-get-free-body-mist">Shop The Offer</Link><Link className="btn sq" to="/collections/bundles" aria-label="View bundles">→</Link></div></div>
-   <div className="ctab"><div className="trailbox"><Trail/><img className="ctaP" src={ctaP.cut} alt={ctaP.title} loading="lazy"/></div></div>
+   <div className="ctab"><div className="trailbox"><Trail/><Bottle className="ctaP" src={ctaP.cut} alt={ctaP.title}/></div></div>
   </div>
  </section>
 

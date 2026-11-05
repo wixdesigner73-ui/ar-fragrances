@@ -1,0 +1,11 @@
+/* v3: robust reflections, spray hit-area */
+.bottle{position:relative;display:inline-block;height:100%;vertical-align:top}
+.b-img{display:block;height:100%;width:auto;max-width:none;position:relative;z-index:1}
+.b-refl{position:absolute;left:0;top:calc(100% - 4px);width:100%;height:100%;transform:scaleY(-1);opacity:.22;pointer-events:none;-webkit-mask-image:linear-gradient(to top,rgba(0,0,0,.95),transparent 38%);mask-image:linear-gradient(to top,rgba(0,0,0,.95),transparent 38%);filter:blur(1px)}
+.hbot,.rot360 img,.ctaP{-webkit-box-reflect:none!important}
+.hbot{height:100%;width:auto;filter:drop-shadow(0 30px 40px rgba(0,0,0,.7))}
+.b-refl.hbot{filter:none}
+.spray-hit{display:block;height:100%;pointer-events:auto;cursor:pointer}
+.hbot-wrap{pointer-events:none}
+.rot360{display:flex;justify-content:center}.rot360 .bottle{height:100%}.rot360 .b-img{filter:drop-shadow(0 30px 30px rgba(0,0,0,.65))}
+.ctaP.bottle{height:88%;width:auto;z-index:2;filter:none}.ctaP .b-img{filter:drop-shadow(0 40px 40px rgba(0,0,0,.7))}
