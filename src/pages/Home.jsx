@@ -1,7 +1,7 @@
 import React,{Suspense,lazy,useEffect,useLayoutEffect,useMemo,useRef,useState} from 'react';
 import {Link} from 'react-router-dom';
 import gsap from 'gsap';import {ScrollTrigger} from 'gsap/ScrollTrigger';
-import Bottle from '../components/Bottle.jsx';import Smoke from '../components/Smoke.jsx';
+import Bottle from '../components/Bottle.jsx';import NightWall from '../components/NightWall.jsx';import Smoke from '../components/Smoke.jsx';
 import {Dust,GoldDrop,PourArt,Petals} from '../components/art.jsx';
 import {Price} from '../components/ui.jsx';
 import {products_,byHandle,shortTitle,firstSentence,onSale} from '../store.jsx';
@@ -78,6 +78,8 @@ export default function Home(){
      <Link to={'/products/'+p.handle} className="pcard tilt" tabIndex={i===ci?0:-1}>{onSale(p)&&<em className="ptag">Sale</em>}<div className="pimg"><img src={p.cut} alt={p.title} loading="lazy"/></div><h3>{shortTitle(p.title).replace(/ - .*/,'')}</h3><Price p={p}/></Link></div>)}</div></div>
   <div className="dots light">{showcase.map((p,i)=><button key={p.handle} className={i===ci?'on':''} onClick={()=>setCi(i)} aria-label={'Product '+(i+1)}/>)}</div>
  </section>
+
+ <NightWall/>
 
  {notes&&<section className="n360" id="n360">
   <div className="vig"/><Smoke amt={1.5} tint={[.86,.7,.46]} wide={1.6} src={[.5,.2]} className="low"/>
