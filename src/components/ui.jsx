@@ -1,0 +1,48 @@
+import React,{useEffect,useRef,useState} from 'react';
+import {Link,NavLink,useLocation,useNavigate} from 'react-router-dom';
+import {U,useStore,money,shortTitle,onSale,products_,SHOP,WA} from '../store.jsx';
+const I={search:<path d="M11 4a7 7 0 105.2 11.7l4.4 4.4 1.4-1.4-4.4-4.4A7 7 0 0011 4zm0 2a5 5 0 110 10 5 5 0 010-10z"/>,user:<path d="M12 12a4.5 4.5 0 100-9 4.5 4.5 0 000 9zm0 2c-4.4 0-8 2.2-8 5v2h16v-2c0-2.8-3.6-5-8-5z"/>,bag:<path d="M6 8V7a6 6 0 1112 0v1h3l-1 14H4L3 8h3zm2 0h8V7a4 4 0 10-8 0v1z"/>,x:<path d="M5 5l14 14M19 5L5 19" stroke="currentColor" strokeWidth="2" fill="none"/>};
+export const Icon=({n,s=18})=><svg viewBox="0 0 24 24" width={s} height={s} fill="currentColor" aria-hidden="true">{I[n]}</svg>;
+const NAV=[['Home','/'],['Men','/collections/men'],['Women','/collections/women'],['Unisex','/collections/unisex'],['Body Mists','/collections/body-mists'],['Bundles','/collections/bundles'],['Outlets','/pages/our-outlets'],['Contact','/pages/contact']];
+export function Header(){const {count,setOpen,setSearch,menu,setMenu}=useStore();const [sc,setSc]=useState(false);const loc=useLocation();
+ useEffect(()=>{const f=()=>setSc(scrollY>40);f();addEventListener('scroll',f,{passive:true});return()=>removeEventListener('scroll',f)},[]);
+ useEffect(()=>setMenu(false),[loc.pathname]);
+ return <header className={'hdr'+(sc?' sc':'')}>
+  <Link to="/" className="logo" aria-label="AR Fragrances home"><img src={U("/logo-white.png")} alt="AR Fragrances" width="64" height="40"/></Link>
+  <nav className={'nav'+(menu?' open':'')} aria-label="Main">{NAV.map(([t,h])=><NavLink key={h} to={h} end={h==='/'}>{t}</NavLink>)}</nav>
+  <div className="hact">
+   <button aria-label="Search" onClick={()=>setSearch(true)}><Icon n="search"/></button>
+   <a aria-label="Account" href={SHOP+'/account/login'}><Icon n="user"/></a>
+   <button aria-label={`Cart, ${count} items`} onClick={()=>setOpen(true)} className="bag"><Icon n="bag"/>{count>0&&<b>{count}</b>}</button>
+   <button className="burger" aria-label="Menu" aria-expanded={menu} onClick={()=>setMenu(!menu)}><i/><i/></button>
+  </div></header>}
+export function Price({p,v}){const pr=v?v.price:p.price,c=v?v.compare:p.compare;return <span className="price">{c>pr&&<s>{money(c)}</s>}<b>{money(pr)}</b></span>}
+export function Card({p,big}){return <Link to={'/products/'+p.handle} className={'card'+(big?' big':'')}>
+ <div className="cimg">{onSale(p)&&<em>Sale</em>}{p.cut?<img src={p.cut} alt={p.title} loading="lazy" className="cut"/>:<img src={p.imgS} alt={p.title} loading="lazy" className="ph"/>}</div>
+ <h3>{shortTitle(p.title)}</h3><Price p={p}/></Link>}
+export function CartDrawer(){const {open,setOpen,lines,setQty,subtotal,code,setCode,checkoutUrl}=useStore();const [c,setC]=useState(code);
+ useEffect(()=>{document.body.classList.toggle('lock',open);const k=e=>e.key==='Escape'&&setOpen(false);addEventListener('keydown',k);return()=>removeEventListener('keydown',k)},[open]);
+ return <><div className={'veil'+(open?' on':'')} onClick={()=>setOpen(false)}/><aside className={'drawer'+(open?' on':'')} aria-hidden={!open} aria-label="Shopping cart">
+  <div className="dh"><h2>Your Cart</h2><button onClick={()=>setOpen(false)} aria-label="Close cart"><Icon n="x"/></button></div>
+  <div className="dl">{lines.length===0&&<p className="empty">Your cart is empty.<br/><Link to="/collections/all" onClick={()=>setOpen(false)} className="btn sm">Shop perfumes</Link></p>}
+   {lines.map(l=><div className="line" key={l.id}><Link to={'/products/'+l.handle} onClick={()=>setOpen(false)}><img src={l.img} alt="" width="64" height="64"/></Link>
+    <div><Link to={'/products/'+l.handle} onClick={()=>setOpen(false)}>{l.title}</Link>{l.variant&&<small>{l.variant}</small>}<span>{money(l.price)}</span>
+    <div className="qty"><button aria-label="Decrease" onClick={()=>setQty(l.id,l.qty-1)}>−</button><i>{l.qty}</i><button aria-label="Increase" onClick={()=>setQty(l.id,l.qty+1)}>+</button><button className="rm" onClick={()=>setQty(l.id,0)}>Remove</button></div></div></div>)}</div>
+  {lines.length>0&&<div className="df"><form className="disc" onSubmit={e=>{e.preventDefault();setCode(c.trim())}}><input value={c} onChange={e=>setC(e.target.value)} placeholder="Discount code" aria-label="Discount code"/><button>{code&&code===c.trim()?'Applied':'Apply'}</button></form>
+   <div className="sub"><span>Subtotal</span><b>{money(subtotal)}</b></div><small>Shipping &amp; discounts calculated at checkout.</small>
+   <a className="btn full" href={checkoutUrl}>Checkout</a></div>}</aside></>}
+export function Search(){const {searchOpen,setSearch}=useStore();const [q,setQ]=useState('');const nav=useNavigate();const r=useRef();
+ useEffect(()=>{if(searchOpen){setTimeout(()=>r.current?.focus(),50)}const k=e=>e.key==='Escape'&&setSearch(false);addEventListener('keydown',k);return()=>removeEventListener('keydown',k)},[searchOpen]);
+ const res=q.length>1?products_.filter(p=>p.title.toLowerCase().includes(q.toLowerCase())||p.tags.some(t=>t.toLowerCase()===q.toLowerCase())).slice(0,8):[];
+ return <div className={'search'+(searchOpen?' on':'')} role="dialog" aria-label="Search"><button className="sx" onClick={()=>setSearch(false)} aria-label="Close search"><Icon n="x" s={26}/></button>
+  <form onSubmit={e=>{e.preventDefault();setSearch(false);nav('/search?q='+encodeURIComponent(q))}}><input ref={r} value={q} onChange={e=>setQ(e.target.value)} placeholder="Search perfumes…" aria-label="Search perfumes"/></form>
+  <div className="sres">{res.map(p=><Link key={p.handle} to={'/products/'+p.handle} onClick={()=>setSearch(false)}><img src={p.imgS} alt="" width="56" height="56"/><span>{shortTitle(p.title)}</span><Price p={p}/></Link>)}
+  {q.length>1&&!res.length&&<p>No results for “{q}”.</p>}</div></div>}
+export function Footer(){return <footer className="foot"><div className="fgrid">
+ <div><img src={U("/logo-white.png")} alt="AR Fragrances" width="72" height="45"/><p>Luxury meets affordability. Designer-inspired fragrances with high oil concentration — made to last.</p></div>
+ <div><h4>About Us</h4><Link to="/pages/about-us">Our Story</Link><Link to="/pages/our-outlets">25+ Outlets</Link><a href={SHOP+'/pages/own-a-franchise'}>Own a Franchise</a><a href={SHOP+'/pages/get-fragrances-for-your-own-brand-private-label'}>Private Label</a></div>
+ <div><h4>Useful Links</h4><Link to="/collections/all">Shop All</Link><Link to="/pages/faqs">FAQs</Link><Link to="/pages/shipping-policy">Shipping Policy</Link><Link to="/pages/refund-policy">Refund Policy</Link><Link to="/pages/contact">Contact</Link></div>
+ <div><h4>Social</h4><a href="https://www.instagram.com/arfragrancespk" target="_blank" rel="noreferrer">Instagram</a><a href="https://www.facebook.com/arfragrancespk" target="_blank" rel="noreferrer">Facebook</a><a href={'https://wa.me/'+WA} target="_blank" rel="noreferrer">WhatsApp</a></div>
+ <div><h4>Contact</h4><a href="mailto:arfragrancespk@gmail.com">arfragrancespk@gmail.com</a><a href={'https://wa.me/'+WA}>+92 333 0499831</a><span>Lahore · Karachi · Islamabad &amp; more</span></div></div>
+ <div className="fbar">© {new Date().getFullYear()} AR Fragrances. All rights reserved.</div></footer>}
+export function WaFab(){return <a className="fab" href={'https://wa.me/'+WA} target="_blank" rel="noreferrer" aria-label="Chat on WhatsApp"><svg viewBox="0 0 24 24" width="24" height="24" fill="currentColor"><path d="M12 2a10 10 0 00-8.6 15L2 22l5.1-1.3A10 10 0 1012 2zm5.2 13.9c-.2.6-1.3 1.2-1.8 1.2-.5.1-1 .2-3.3-.7-2.8-1.1-4.5-4-4.7-4.2-.1-.2-1.1-1.5-1.1-2.9s.7-2 1-2.3c.2-.3.5-.3.7-.3h.5c.2 0 .4 0 .6.5l.9 2.100c.1.200.1.400 0 .5l-.4.600-.4.400c-.1.200-.3.300-.1.600.2.300.8 1.300 1.700 2.100 1.200 1 2.100 1.300 2.400 1.500.3.100.5.100.7-.1l1-1.200c.2-.3.4-.2.7-.1l2 1c.3.100.5.200.5.300.1.200.1.800-.1 1.400z"/></svg></a>}
