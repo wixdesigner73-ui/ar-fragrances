@@ -1,0 +1,20 @@
+/* v5: real 3D (three.js) + 3D motion */
+.b3d{position:relative;width:100%;height:100%}
+.b3d-canvas{display:block;width:100%;height:100%;touch-action:pan-y;cursor:grab;outline:0}
+.b3d.hot .b3d-canvas{cursor:pointer}.b3d.grab .b3d-canvas{cursor:grabbing}
+.b3d .bottle{height:100%}
+.b3d-hint{position:absolute;left:50%;bottom:6%;transform:translateX(-50%);display:flex;align-items:center;gap:10px;font:500 10.5px var(--sans);letter-spacing:.22em;text-transform:uppercase;color:#d9d1c0;white-space:nowrap;pointer-events:none;animation:hint 2.6s ease-in-out infinite;z-index:3}
+.b3d-hint i{width:22px;height:22px;border:1px solid rgba(255,255,255,.55);border-radius:50%;position:relative}.b3d-hint i:after{content:'';position:absolute;left:50%;top:50%;width:6px;height:6px;margin:-3px;border-radius:50%;background:#fff;animation:hdot 2.6s ease-in-out infinite}
+@keyframes hint{50%{opacity:.55}}@keyframes hdot{0%,100%{transform:translateX(-5px)}50%{transform:translateX(5px)}}
+.hero3d{position:absolute;top:0;bottom:0;left:24%;right:0;z-index:2}
+.hero .floorbg{height:30%}
+.hero .hstage{pointer-events:none}.hero .htxt{pointer-events:auto}
+.stage{perspective:none;cursor:default}.stage .b3d{height:100%}
+.ctab .cta3d{height:100%;width:100%}.ctab{width:100%}
+.n360c .stage{height:min(62vh,580px)}
+.tilt{transform-style:preserve-3d;will-change:transform}
+.tilting{transition:transform .12s ease-out!important}
+@media(max-width:860px){.hero3d{left:0;top:64px;bottom:34%}.hero .htxt{bottom:60px}.n360c .stage{height:48vh}.ctab{height:54vh}.b3d-hint{font-size:9px;bottom:2%}}
+
+.pcard,.card,.op-tile{transition:transform .6s cubic-bezier(.2,.8,.2,1),border-color .5s,box-shadow .5s}.tilting{transition:transform .08s linear!important}
+@media(max-width:860px){.hero3d{-webkit-mask-image:radial-gradient(ellipse 75% 70% at 50% 50%,#000 55%,transparent 100%);mask-image:radial-gradient(ellipse 75% 70% at 50% 50%,#000 55%,transparent 100%)}.b3d-hint{display:none}}
